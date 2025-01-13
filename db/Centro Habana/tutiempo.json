@@ -1,0 +1,212 @@
+{
+    "name": "Tu Tiempo",
+    "phone": "78737259",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "08:00",
+        "close": "20:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": null,
+    "delivery": [
+        "home",
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.6,
+    "reviews": null,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "combo 17",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "combo 18",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "combo 19",
+            "price": 2300,
+            "type": "mains"
+        },
+        {
+            "name": "combo 20",
+            "price": 2300,
+            "type": "mains"
+        },
+        {
+            "name": "combo 21",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "combo 22",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "combo 23",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "combo 24",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "combo 25",
+            "price": 2500,
+            "type": "mains"
+        },
+        {
+            "name": "combo 26 (tu tiempo)",
+            "price": 5000,
+            "type": "mains"
+        },
+        {
+            "name": "fricase de pollo",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "bistec de res",
+            "price": 3300,
+            "type": "mains"
+        },
+        {
+            "name": "arroz con pollo",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "combo 1",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "combo 2",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "combo 3",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "combo 4",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "combo 5",
+            "price": 2300,
+            "type": "mains"
+        },
+        {
+            "name": "combo 6",
+            "price": 2600,
+            "type": "mains"
+        },
+        {
+            "name": "combo 7",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "combo 8",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "combo 9",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "combo 10",
+            "price": 2100,
+            "type": "mains"
+        },
+        {
+            "name": "combo 11",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "combo 12",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "combo 13",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "combo 14",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "combo 15",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "combo 16",
+            "price": 2300,
+            "type": "mains"
+        },
+        {
+            "name": "arroz con leche",
+            "price": 300,
+            "type": "desserts"
+        },
+        {
+            "name": "coctel de frutas",
+            "price": 150,
+            "type": "desserts"
+        },
+        {
+            "name": "batido de helado",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.1401557660662,
+        "coords_y": -82.37586279184762
+    }
+}

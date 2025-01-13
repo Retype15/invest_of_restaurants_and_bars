@@ -1,0 +1,175 @@
+{
+    "name": "Casa Godo",
+    "phone": "76034192",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "12:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "phone",
+        "in-person"
+    ],
+    "delivery": [
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer",
+        "card"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": "@casa_godo._.oficial",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Croquetas de Pescado",
+            "price": 650,
+            "type": "appetizer"
+        },
+        {
+            "name": "Coctel de Camarón",
+            "price": 1000,
+            "type": "appetizer"
+        },
+        {
+            "name": "Entremes de Jamón, Queso y Aceitunas",
+            "price": 850,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostones rellenos con Cerdo",
+            "price": 650,
+            "type": "appetizer"
+        },
+        {
+            "name": "Garbanzo Frito",
+            "price": 700,
+            "type": "appetizer"
+        },
+        {
+            "name": "Churrasco de Cerdo",
+            "price": 3200,
+            "type": "mains"
+        },
+        {
+            "name": "Chilindrón de Cordero",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "Langosta grille o Enchilada",
+            "price": 3000,
+            "type": "seafood"
+        },
+        {
+            "name": "Masas de Cerdo",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de Cerdo",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "Lonjas de Cerdo",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "Loma Ahumado",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de Pescado",
+            "price": 2200,
+            "type": "seafood"
+        },
+        {
+            "name": "Filete de Pescado con Vegetales Salteados",
+            "price": 2300,
+            "type": "seafood"
+        },
+        {
+            "name": "Filete de Pescado con Camarones",
+            "price": 2900,
+            "type": "seafood"
+        },
+        {
+            "name": "Camaron Salteado o Enchilado",
+            "price": 2600,
+            "type": "seafood"
+        },
+        {
+            "name": "Pechuga de Pollo",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo Deshuesado",
+            "price": 950,
+            "type": "mains"
+        },
+        {
+            "name": "Pulpo Salteado al ajo",
+            "price": 3100,
+            "type": "seafood"
+        },
+        {
+            "name": "Arroz Frito sin camarón",
+            "price": 850,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz Frito con Camarón",
+            "price": 1200,
+            "type": "sides"
+        },
+        {
+            "name": "Ensalada de Vegetales",
+            "price": 250,
+            "type": "salads"
+        },
+        {
+            "name": "Ración de Moro",
+            "price": 200,
+            "type": "sides"
+        },
+        {
+            "name": "Torta",
+            "price": 550,
+            "type": "desserts"
+        }
+    ],
+    "location": {
+        "street": "Ave. Mayía Rodríguez # 358 e/ San Mariano y Vista Alegre",
+        "council": "El Mónaco",
+        "municipe": "Diez de Octubre",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

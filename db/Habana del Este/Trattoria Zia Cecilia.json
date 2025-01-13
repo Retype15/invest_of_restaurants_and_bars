@@ -1,0 +1,349 @@
+{
+    "name": "Trattoria Zia Cecilia",
+    "phone": "77964229 / 54600285",
+    "email": "tractoriaziacecilias@gmail.com",
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "italian",
+    "hours": {
+        "open": "12:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 30,
+    "reservations": [
+        "online",
+        "phone",
+        "in-person"
+    ],
+    "delivery": [
+        "home",
+        "takeaway",
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "transfer",
+        "cash"
+    ],
+    "promo": false,
+    "rating": 4.8,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": "Trattoriaziacecilias",
+    "ig": "@trattoriaziacecilias",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Focaccia",
+            "price": 800,
+            "type": "starters"
+        },
+        {
+            "name": "Croquetas",
+            "price": 480,
+            "type": "starters"
+        },
+        {
+            "name": "Brusquetas",
+            "price": 320,
+            "type": "starters"
+        },
+        {
+            "name": "Pizza Margarita",
+            "price": 1120,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Diavola",
+            "price": 1440,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de jamon",
+            "price": 1440,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de aceitunas",
+            "price": 1440,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de cebolla",
+            "price": 1440,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Hawaiana",
+            "price": 1760,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de salame",
+            "price": 1760,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de champignon",
+            "price": 1760,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Caprichosa",
+            "price": 2080,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de vegetales",
+            "price": 2400,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza 4 Estaciones",
+            "price": 2400,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Mixta",
+            "price": 2400,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Supreme",
+            "price": 2400,
+            "type": "pizza"
+        },
+        {
+            "name": "Pasta al olio aglio",
+            "price": 1120,
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta Napoletanos",
+            "price": 1120,
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta pomodoro e basilico",
+            "price": 1120,
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta amatriciana",
+            "price": 1440,
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta carbonara",
+            "price": 1440,
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta Alfredo",
+            "price": 1440,
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta di Prosciutto",
+            "price": 1440,
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta Pasticciata",
+            "price": 1440,
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta di atun",
+            "price": 1760,
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta Tonno",
+            "price": 1760,
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta Mixta",
+            "price": 2080,
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta Acciuga",
+            "price": 2400,
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta Raviolio",
+            "price": 1440,
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta Spinacas",
+            "price": 1440,
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta Noquis",
+            "price": 1760,
+            "type": "pasta"
+        },
+        {
+            "name": "Trago de ron blanco",
+            "price": 320,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Trago de ron 3 anos",
+            "price": 320,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Trago de ron Especial",
+            "price": 480,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Trago de ron Reserva",
+            "price": 640,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Trago de ron 7 anos",
+            "price": 800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Mojito",
+            "price": 544,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipirissima",
+            "price": 544,
+            "type": "cocktails"
+        },
+        {
+            "name": "Sangria",
+            "price": 672,
+            "type": "cocktails"
+        },
+        {
+            "name": "Tinto de Verano",
+            "price": 640,
+            "type": "cocktails"
+        },
+        {
+            "name": "Limonada Frappe",
+            "price": 640,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Chelada",
+            "price": 115,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cuba Libre",
+            "price": 384,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cubata",
+            "price": 384,
+            "type": "cocktails"
+        },
+        {
+            "name": "Copa de vino Entre Rios",
+            "price": 544,
+            "type": "wines"
+        },
+        {
+            "name": "Copa de vino 13% y 12.5%",
+            "price": 960,
+            "type": "wines"
+        },
+        {
+            "name": "Copa de vino 11.5%",
+            "price": 864,
+            "type": "wines"
+        },
+        {
+            "name": "Pepsi Cola",
+            "price": 320,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "7up",
+            "price": 320,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Mirnanda",
+            "price": 320,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Mate",
+            "price": 320,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Hiper Malta",
+            "price": 320,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta Bucanero",
+            "price": 480,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugos",
+            "price": 320,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Corona",
+            "price": 800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Cristal",
+            "price": 480,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Hollandia",
+            "price": 480,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Bucanero",
+            "price": 480,
+            "type": "alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "#503, Calle 482 entre 5ta Avenida y 5ta D, Guanabo",
+        "council": null,
+        "municipe": "Habana del Este",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": "5V",
+        "coords_y": "FF+39R"
+    }
+}

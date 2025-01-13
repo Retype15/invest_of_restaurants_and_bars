@@ -1,0 +1,406 @@
+{
+    "name": "Asia Cuba",
+    "phone": "50956929",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "07:30",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 40,
+    "reservations": [
+        "phone",
+        "in-person"
+    ],
+    "delivery": [
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 5.0,
+    "reviews": 75,
+    "amenities": [
+        "wifi",
+        "parking"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Caribe Zen Roll",
+            "price": 1840,
+            "type": "starters"
+        },
+        {
+            "name": "Tartar Sakura Tango Saigon",
+            "price": 2500,
+            "type": "starters"
+        },
+        {
+            "name": "Satay de Sumatra",
+            "price": 1550,
+            "type": "starters"
+        },
+        {
+            "name": "Croquetas Sonaderas de pollo/ropa vieja",
+            "price": 1800,
+            "type": "starters"
+        },
+        {
+            "name": "Mano del Dragón",
+            "price": 2080,
+            "type": "starters"
+        },
+        {
+            "name": "Rey Mono",
+            "price": 2080,
+            "type": "starters"
+        },
+        {
+            "name": "Dragón del mar",
+            "price": 2400,
+            "type": "starters"
+        },
+        {
+            "name": "Bonito Tai Red",
+            "price": 3840,
+            "type": "mains"
+        },
+        {
+            "name": "Maki Saiko Ebi Hana",
+            "price": 2080,
+            "type": "mains"
+        },
+        {
+            "name": "Brasa Patagonia",
+            "price": 6560,
+            "type": "mains"
+        },
+        {
+            "name": "Langosta Coco Verde",
+            "price": 5760,
+            "type": "mains"
+        },
+        {
+            "name": "Uramaki Umi no Haikiri",
+            "price": 1950,
+            "type": "mains"
+        },
+        {
+            "name": "Nigiri Ika no Yume",
+            "price": 2400,
+            "type": "mains"
+        },
+        {
+            "name": "Brocheta Dak Galbi",
+            "price": 3840,
+            "type": "mains"
+        },
+        {
+            "name": "Brocheta Gochu Vermounth Harmony",
+            "price": 4480,
+            "type": "mains"
+        },
+        {
+            "name": "Char Siu Delhi",
+            "price": 4160,
+            "type": "mains"
+        },
+        {
+            "name": "Ssamn Kimuchi Tropical",
+            "price": 3200,
+            "type": "mains"
+        },
+        {
+            "name": "Sensei borracho",
+            "price": 1920,
+            "type": "desserts"
+        },
+        {
+            "name": "Maestro Shifu",
+            "price": 2080,
+            "type": "desserts"
+        },
+        {
+            "name": "Mei Mei",
+            "price": 1800,
+            "type": "desserts"
+        },
+        {
+            "name": "Maestro Shinobi",
+            "price": 1760,
+            "type": "desserts"
+        },
+        {
+            "name": "Daiquirí",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "Daiquirí de fruta",
+            "price": 1100,
+            "type": "cocktails"
+        },
+        {
+            "name": "Gin Tonic Simple",
+            "price": 1400,
+            "type": "cocktails"
+        },
+        {
+            "name": "Margarita",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "Martini Dry",
+            "price": 1100,
+            "type": "cocktails"
+        },
+        {
+            "name": "Michelada",
+            "price": 1100,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mojito",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "Negroni",
+            "price": 1200,
+            "type": "cocktails"
+        },
+        {
+            "name": "Aperol Spritz",
+            "price": 1400,
+            "type": "cocktails"
+        },
+        {
+            "name": "Bloody Mary",
+            "price": 1100,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipirísima",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipiroska",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "Canchánchara",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "Coctel Danzon",
+            "price": 1200,
+            "type": "cocktails"
+        },
+        {
+            "name": "Coctel Mambo",
+            "price": 1200,
+            "type": "cocktails"
+        },
+        {
+            "name": "Coctel Son",
+            "price": 1500,
+            "type": "cocktails"
+        },
+        {
+            "name": "Coctel Tecno Sour",
+            "price": 1100,
+            "type": "cocktails"
+        },
+        {
+            "name": "Coctel Tango",
+            "price": 1200,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cuba Libre",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cubanito",
+            "price": 1200,
+            "type": "cocktails"
+        },
+        {
+            "name": "Sambuca San Faustino",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "Old Fashioned",
+            "price": 1500,
+            "type": "cocktails"
+        },
+        {
+            "name": "Piña Colada",
+            "price": 1200,
+            "type": "cocktails"
+        },
+        {
+            "name": "Pisco Sour",
+            "price": 1400,
+            "type": "cocktails"
+        },
+        {
+            "name": "Sangría",
+            "price": 1500,
+            "type": "cocktails"
+        },
+        {
+            "name": "Penicillin",
+            "price": 1400,
+            "type": "cocktails"
+        },
+        {
+            "name": "Lemon song",
+            "price": 1100,
+            "type": "cocktails"
+        },
+        {
+            "name": "Okinawa spritz",
+            "price": 1400,
+            "type": "cocktails"
+        },
+        {
+            "name": "Crema Bailys",
+            "price": 950,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Frangelico",
+            "price": 1000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Limoncello",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Sirope de kiwi",
+            "price": 600,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Sirope de Manzana",
+            "price": 125,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Campari",
+            "price": 850,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Licor de Café",
+            "price": 740,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Whiskeys Jack Daniels",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Whiskeys Jim Bean",
+            "price": 1200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Whiskeys Jhonny Walker Red Label",
+            "price": 1200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Whiskeys Jamenson",
+            "price": 850,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Whiskys Jhonny Walker Black Label",
+            "price": 2000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ron Havana Club Pacto Navío",
+            "price": 2000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ron Havana Club 3 anos",
+            "price": 480,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ron Havana Club 7 anos",
+            "price": 900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ron Santiago 8 anos",
+            "price": 950,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ron Santiago 11 anos",
+            "price": 1250,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ron Santiago 12 anos",
+            "price": 1650,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Eminente 3 anos",
+            "price": 3000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ron Black tears Roble Superior",
+            "price": 650,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ron selección de Maestros",
+            "price": 3300,
+            "type": "alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "Calle 6 ##562 entre 23 y 25",
+        "council": "Vedado",
+        "municipe": "Plaza de la Revolucion",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

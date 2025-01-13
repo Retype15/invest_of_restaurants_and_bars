@@ -1,0 +1,151 @@
+{
+    "name": "Luly Hamburguesas",
+    "phone": "52823877",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "09:00",
+        "close": "21:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Hamburguesa Sencilla Criolla",
+            "price": 480,
+            "type": "mains"
+        },
+        {
+            "name": "Hamburguesa Especial",
+            "price": 1000,
+            "type": "mains"
+        },
+        {
+            "name": "Hamburguesa Jamon y Queso",
+            "price": 680,
+            "type": "mains"
+        },
+        {
+            "name": "Sandwich Jamon y Queso",
+            "price": 610,
+            "type": "mains"
+        },
+        {
+            "name": "Media Noche Especial",
+            "price": 470,
+            "type": "mains"
+        },
+        {
+            "name": "Bocadito Especial",
+            "price": 220,
+            "type": "mains"
+        },
+        {
+            "name": "Jamon",
+            "price": 60,
+            "type": "sides"
+        },
+        {
+            "name": "Queso",
+            "price": 140,
+            "type": "sides"
+        },
+        {
+            "name": "Chorizo",
+            "price": 80,
+            "type": "sides"
+        },
+        {
+            "name": "Helado Gust0 (1Lt)",
+            "price": 900,
+            "type": "desserts"
+        },
+        {
+            "name": "Pepsi Cola",
+            "price": 270,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Rfresco Limon",
+            "price": 270,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco Naranja",
+            "price": 270,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza King",
+            "price": 220,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Kermato",
+            "price": 460,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugo Caja",
+            "price": 200,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua Natural",
+            "price": 190,
+            "type": "water"
+        },
+        {
+            "name": "Cerveza Cristal",
+            "price": 260,
+            "type": "alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "Calzada de Santa Catalina entre Calzada de Diez de Octubre y Parraga",
+        "council": "Víbora",
+        "municipe": "Diez de Octubre",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

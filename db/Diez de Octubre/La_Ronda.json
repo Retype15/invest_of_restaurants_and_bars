@@ -1,0 +1,349 @@
+{
+    "name": "La Ronda",
+    "phone": "76990583",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "12:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person",
+        "phone"
+    ],
+    "delivery": [
+        "home",
+        "takeaway",
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer",
+        "card"
+    ],
+    "promo": false,
+    "rating": 4.3,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": "https://m.facebook.com/restaurante.laronda/",
+    "ig": "@restaurante.laronda",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Vianda frita",
+            "price": 380,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostones Naturales",
+            "price": 370,
+            "type": "appetizer"
+        },
+        {
+            "name": "Fajita Cerdo Salteada",
+            "price": 980,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostones rellenos jamón y queso",
+            "price": 620,
+            "type": "appetizer"
+        },
+        {
+            "name": "Fajita de cerdo empanado",
+            "price": 1100,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tabla RONDA",
+            "price": 1200,
+            "type": "appetizer"
+        },
+        {
+            "name": "Alitas Empanadas",
+            "price": 1100,
+            "type": "appetizer"
+        },
+        {
+            "name": "Croquetas de la casa",
+            "price": 580,
+            "type": "appetizer"
+        },
+        {
+            "name": "Coctel de Pescado",
+            "price": 600,
+            "type": "appetizer"
+        },
+        {
+            "name": "Coctel de Camarones",
+            "price": 1500,
+            "type": "appetizer"
+        },
+        {
+            "name": "Entremes de Jamón, Queso",
+            "price": 1050,
+            "type": "appetizer"
+        },
+        {
+            "name": "Huevo y Aceituna",
+            "price": 1050,
+            "type": "appetizer"
+        },
+        {
+            "name": "Eperlán",
+            "price": 960,
+            "type": "appetizer"
+        },
+        {
+            "name": "Ensalada Fría",
+            "price": 500,
+            "type": "appetizer"
+        },
+        {
+            "name": "Masa de cerdo frita",
+            "price": 1890,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo a la Barbacoa",
+            "price": 1180,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de cerdo grille",
+            "price": 1820,
+            "type": "mains"
+        },
+        {
+            "name": "Fricasé de cerdo",
+            "price": 1950,
+            "type": "mains"
+        },
+        {
+            "name": "Cerdo salteado con vegetales",
+            "price": 1300,
+            "type": "mains"
+        },
+        {
+            "name": "Cerdo Agrdulce",
+            "price": 1440,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec Uruguayo de cerdo",
+            "price": 1450,
+            "type": "mains"
+        },
+        {
+            "name": "Lonjas de cerdo asado",
+            "price": 1650,
+            "type": "mains"
+        },
+        {
+            "name": "Brochetes de cerdo",
+            "price": 1350,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de Cerdo Empanado",
+            "price": 1250,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de cerdo Encebollado",
+            "price": 1160,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo de cerdo a la piña",
+            "price": 1220,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de Pescado Empanado",
+            "price": 2200,
+            "type": "seafood"
+        },
+        {
+            "name": "Pollo asado a la Criolla",
+            "price": 1030,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo Frito a la Criolla",
+            "price": 1030,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo a la Barbacoa",
+            "price": 1260,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz Frito sin Mariscos",
+            "price": 690,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz Frito con Camarones",
+            "price": 1450,
+            "type": "mains"
+        },
+        {
+            "name": "Monte Mar (para 2 pers)",
+            "price": 3500,
+            "type": "seafood"
+        },
+        {
+            "name": "Enchilado de Camarones",
+            "price": 1850,
+            "type": "seafood"
+        },
+        {
+            "name": "Camarones Empanados",
+            "price": 1500,
+            "type": "seafood"
+        },
+        {
+            "name": "Camarones al Ajillo",
+            "price": 2020,
+            "type": "seafood"
+        },
+        {
+            "name": "Grillada del Mar",
+            "price": 2800,
+            "type": "seafood"
+        },
+        {
+            "name": "Paella Marinera para dos",
+            "price": 2800,
+            "type": "seafood"
+        },
+        {
+            "name": "Filete de Pescado Grille",
+            "price": 1090,
+            "type": "seafood"
+        },
+        {
+            "name": "Bistec de Res Encebolla",
+            "price": 1060,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz Blanco",
+            "price": 180,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz Moro",
+            "price": 290,
+            "type": "sides"
+        },
+        {
+            "name": "Vegetales Salteados",
+            "price": 380,
+            "type": "sides"
+        },
+        {
+            "name": "Ensalada a la Estación",
+            "price": 370,
+            "type": "salads"
+        },
+        {
+            "name": "Helado sencillo",
+            "price": 170,
+            "type": "desserts"
+        },
+        {
+            "name": "Helado de Helado",
+            "price": 620,
+            "type": "desserts"
+        },
+        {
+            "name": "Jimagua",
+            "price": 390,
+            "type": "desserts"
+        },
+        {
+            "name": "Batido de Helado",
+            "price": 420,
+            "type": "desserts"
+        },
+        {
+            "name": "Tres Gracia",
+            "price": 390,
+            "type": "desserts"
+        },
+        {
+            "name": "Dulce de COCO con Queso",
+            "price": 240,
+            "type": "desserts"
+        },
+        {
+            "name": "Agua de Pomitos",
+            "price": 140,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza imp",
+            "price": 220,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Maltas imp",
+            "price": 260,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Ref. plano chico",
+            "price": 130,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Energizante",
+            "price": 230,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugo de caja chico",
+            "price": 200,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco Pomos Gde",
+            "price": 580,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Ref. lata",
+            "price": 260,
+            "type": "non_alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "Callé Guasabacoa esquina Calzada de Luyanó",
+        "council": null,
+        "municipe": "Diez de Octubre",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

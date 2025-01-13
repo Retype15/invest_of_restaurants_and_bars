@@ -1,0 +1,675 @@
+{
+    "name": "Bone'Ma 62",
+    "phone": "78602134",
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "09:00",
+        "close": "24:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "others"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 78,
+    "amenities": [
+        "parking"
+    ],
+    "fb": "Bone Ma 62",
+    "ig": "@bonema_62",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "waffles, nutella, queso crema, mermelada, miel y frutas",
+            "price": 1900,
+            "type": "breakfast"
+        },
+        {
+            "name": "huevos al gusto, pan, mantequilla, mermelada, frutas de temporada, jugo o café",
+            "price": 2100,
+            "type": "breakfast"
+        },
+        {
+            "name": "huevos al gusto, pan, jamón, queso, mantequilla, jugo o café",
+            "price": 2300,
+            "type": "breakfast"
+        },
+        {
+            "name": "papas fritas",
+            "price": 1050,
+            "type": "appetizer"
+        },
+        {
+            "name": "falafel",
+            "price": 1050,
+            "type": "appetizer"
+        },
+        {
+            "name": "sopa de lentejas",
+            "price": 1350,
+            "type": "appetizer"
+        },
+        {
+            "name": "ensalada mixta",
+            "price": 950,
+            "type": "appetizer"
+        },
+        {
+            "name": "coban salata",
+            "price": 1200,
+            "type": "appetizer"
+        },
+        {
+            "name": "caprese",
+            "price": 1450,
+            "type": "appetizer"
+        },
+        {
+            "name": "ensalada nizarda",
+            "price": 1800,
+            "type": "appetizer"
+        },
+        {
+            "name": "sándwich de vegetales",
+            "price": 1400,
+            "type": "mains"
+        },
+        {
+            "name": "sándwich de jamón y queso",
+            "price": 1650,
+            "type": "mains"
+        },
+        {
+            "name": "sándwich de res",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "sándwich de atún",
+            "price": 1700,
+            "type": "mains"
+        },
+        {
+            "name": "sándwich de jamón serrano",
+            "price": 2250,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa natural smash",
+            "price": 2150,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa de falafel",
+            "price": 1900,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa smash con aguacate",
+            "price": 2250,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa smash con bacon y huevo frito",
+            "price": 2500,
+            "type": "mains"
+        },
+        {
+            "name": "döner kebab (pan)",
+            "price": 1700,
+            "type": "mains"
+        },
+        {
+            "name": "dürüm kebab (tortilla)",
+            "price": 1750,
+            "type": "mains"
+        },
+        {
+            "name": "döner falafel",
+            "price": 1300,
+            "type": "mains"
+        },
+        {
+            "name": "dürüm köfte",
+            "price": 1750,
+            "type": "mains"
+        },
+        {
+            "name": "plato de döner kebab",
+            "price": 2300,
+            "type": "mains"
+        },
+        {
+            "name": "iskender kebab",
+            "price": 2400,
+            "type": "mains"
+        },
+        {
+            "name": "plato de köfte de res",
+            "price": 2500,
+            "type": "mains"
+        },
+        {
+            "name": "pizza margarita",
+            "price": 2000,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza friarielli y salchicha italiana",
+            "price": 3000,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza funghi",
+            "price": 2200,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza vegetariana",
+            "price": 2300,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza 4 quesos",
+            "price": 2600,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza hawaiana",
+            "price": 2600,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza pepperoni / diabola",
+            "price": 2700,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de salami",
+            "price": 2800,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de jamón serrano, rúcula y parmesano",
+            "price": 3200,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de atún y cebolla",
+            "price": 2600,
+            "type": "pizza"
+        },
+        {
+            "name": "pasta napolitana",
+            "price": 1900,
+            "type": "pasta"
+        },
+        {
+            "name": "pasta arrabiata",
+            "price": 2000,
+            "type": "pasta"
+        },
+        {
+            "name": "pasta pesto",
+            "price": 2200,
+            "type": "pasta"
+        },
+        {
+            "name": "pasta bolognesa",
+            "price": 2800,
+            "type": "pasta"
+        },
+        {
+            "name": "pasta carbonara",
+            "price": 2650,
+            "type": "pasta"
+        },
+        {
+            "name": "flan",
+            "price": 700,
+            "type": "desserts"
+        },
+        {
+            "name": "copa de helado",
+            "price": 900,
+            "type": "desserts"
+        },
+        {
+            "name": "copa lolita",
+            "price": 1050,
+            "type": "desserts"
+        },
+        {
+            "name": "cheesecake",
+            "price": 1150,
+            "type": "desserts"
+        },
+        {
+            "name": "agua natural",
+            "price": 450,
+            "type": "water"
+        },
+        {
+            "name": "agua gaseada",
+            "price": 950,
+            "type": "water"
+        },
+        {
+            "name": "agua tónica mg",
+            "price": 700,
+            "type": "water"
+        },
+        {
+            "name": "coca cola",
+            "price": 800,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "coca cola zero",
+            "price": 800,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "sprite",
+            "price": 800,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "energy drink",
+            "price": 850,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugo de fruta nat.",
+            "price": 600,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "limonada natural",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "limonada frappe",
+            "price": 550,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "ayran",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "suero de helado",
+            "price": 1500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "ginger ale",
+            "price": 700,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza cristal",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza heineken",
+            "price": 750,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza corona",
+            "price": 800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "chelada (servicio)",
+            "price": 250,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "michelada (servicio)",
+            "price": 300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cuba libre",
+            "price": 1500,
+            "type": "cocktails"
+        },
+        {
+            "name": "mojito",
+            "price": 1600,
+            "type": "cocktails"
+        },
+        {
+            "name": "gin basil smash",
+            "price": 1700,
+            "type": "cocktails"
+        },
+        {
+            "name": "caipirinha",
+            "price": 1400,
+            "type": "cocktails"
+        },
+        {
+            "name": "strawberry caipi",
+            "price": 1550,
+            "type": "cocktails"
+        },
+        {
+            "name": "daiquiri",
+            "price": 1500,
+            "type": "cocktails"
+        },
+        {
+            "name": "strawberry daiquiri",
+            "price": 1600,
+            "type": "cocktails"
+        },
+        {
+            "name": "piña colada",
+            "price": 1700,
+            "type": "cocktails"
+        },
+        {
+            "name": "strawberry colada",
+            "price": 1800,
+            "type": "cocktails"
+        },
+        {
+            "name": "margarita",
+            "price": 1600,
+            "type": "cocktails"
+        },
+        {
+            "name": "whisky sour",
+            "price": 1650,
+            "type": "cocktails"
+        },
+        {
+            "name": "espresso martini",
+            "price": 1650,
+            "type": "cocktails"
+        },
+        {
+            "name": "sangría",
+            "price": 1500,
+            "type": "cocktails"
+        },
+        {
+            "name": "yeni raki",
+            "price": 1300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "aperol spritz",
+            "price": 1700,
+            "type": "cocktails"
+        },
+        {
+            "name": "campari spritz",
+            "price": 1700,
+            "type": "cocktails"
+        },
+        {
+            "name": "campari soda",
+            "price": 1600,
+            "type": "cocktails"
+        },
+        {
+            "name": "vino tinto (copa)",
+            "price": 950,
+            "type": "wines"
+        },
+        {
+            "name": "vino blanco (copa)",
+            "price": 950,
+            "type": "wines"
+        },
+        {
+            "name": "beefeater gin tonic",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "gordons gin tonic",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tanqueray gin tonic",
+            "price": 1600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tanqueray 10 gin tonic",
+            "price": 1800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "gin mare gin tonic",
+            "price": 1950,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "malfy gin tonic",
+            "price": 2000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "botanist gin tonic",
+            "price": 2100,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "london no. 1 gin tonic",
+            "price": 1900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "jameson whisky",
+            "price": 1400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "ballantine's whisky",
+            "price": 1100,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "ballantine's 12 whisky",
+            "price": 1400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "jack daniels whisky",
+            "price": 1650,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "johnnie walker red label whisky",
+            "price": 1400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "johnnie walker black label whisky",
+            "price": 1600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "chivas regal 12 años whisky",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "glenlivet 15 whisky",
+            "price": 1800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "bruichladdich whisky",
+            "price": 1900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "highland park whisky",
+            "price": 2250,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "laphroaig whisky",
+            "price": 2450,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "woodford reserve whisky",
+            "price": 2250,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "havana club añejo 3 años ron",
+            "price": 800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "havana club añejo especial ron",
+            "price": 1050,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "havana club añejo reserva ron",
+            "price": 1100,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "havana club añejo 7 años ron",
+            "price": 900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "ron santiago añejo ron",
+            "price": 1200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "ron santiago 8 años ron",
+            "price": 1650,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "ron santiago 11 años ron",
+            "price": 2200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "selección de maestros ron",
+            "price": 1800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "olmeca blanco tequila",
+            "price": 750,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "olmeca reposado tequila",
+            "price": 850,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "don ramón punta plateau tequila",
+            "price": 1050,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "don ramón punta dorada tequila",
+            "price": 1150,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "don julio reposado tequila",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "baileys licores & cremas",
+            "price": 1100,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "jägermeister licores & cremas",
+            "price": 1800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "té",
+            "price": 400,
+            "type": "infusions"
+        },
+        {
+            "name": "café expreso",
+            "price": 380,
+            "type": "coffee"
+        },
+        {
+            "name": "espresso macchiato (cortado)",
+            "price": 400,
+            "type": "coffee"
+        },
+        {
+            "name": "americano",
+            "price": 420,
+            "type": "coffee"
+        },
+        {
+            "name": "cappuccino",
+            "price": 650,
+            "type": "coffee"
+        },
+        {
+            "name": "café con leche",
+            "price": 700,
+            "type": "coffee"
+        },
+        {
+            "name": "leche con chocolate",
+            "price": 700,
+            "type": "coffee"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.137430101331596,
+        "coords_y": -82.35973216484062
+    }
+}

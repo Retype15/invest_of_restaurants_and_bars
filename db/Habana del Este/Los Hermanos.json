@@ -1,0 +1,540 @@
+{
+    "name": "Los Hermanos",
+    "phone": "56367999",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "11:00",
+        "close": "02:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 40,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "others"
+    ],
+    "level": "medium",
+    "payment": [
+        "transfer",
+        "cash"
+    ],
+    "promo": false,
+    "rating": 5.0,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": "LosHermanos BarRestaurante",
+    "ig": "@loshermanos_barestaurante_gnbo",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Eperlan de pescado",
+            "price": 1200,
+            "type": "starters"
+        },
+        {
+            "name": "Ceviche de pescado",
+            "price": 1500,
+            "type": "starters"
+        },
+        {
+            "name": "Coctel de camaron",
+            "price": 2000,
+            "type": "starters"
+        },
+        {
+            "name": "Tabla de jamon Serrano",
+            "price": 2700,
+            "type": "starters"
+        },
+        {
+            "name": "Fajitas de pollo",
+            "price": 1100,
+            "type": "starters"
+        },
+        {
+            "name": "Pizza Napolitana",
+            "price": 1250,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza con jamon",
+            "price": 1500,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Hawaiana",
+            "price": 1600,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza con chorizo",
+            "price": 1750,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza con atun y cebolla",
+            "price": 1750,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza con langosta",
+            "price": 1800,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza con camaron",
+            "price": 1800,
+            "type": "pizza"
+        },
+        {
+            "name": "Spaghettis Napoles",
+            "price": 1250,
+            "type": "pasta"
+        },
+        {
+            "name": "Spaghettis con jamon",
+            "price": 1500,
+            "type": "pasta"
+        },
+        {
+            "name": "Spaghettis con atun",
+            "price": 1750,
+            "type": "pasta"
+        },
+        {
+            "name": "Spaghettis con camarones",
+            "price": 1900,
+            "type": "pasta"
+        },
+        {
+            "name": "Spaghettis con langosta",
+            "price": 2000,
+            "type": "pasta"
+        },
+        {
+            "name": "Sandwich de jamon y queso",
+            "price": 1200,
+            "type": "sandwich"
+        },
+        {
+            "name": "Pan con lechon",
+            "price": 900,
+            "type": "sandwich"
+        },
+        {
+            "name": "Costillas de cerdo a la brasa en aroma de carbon",
+            "price": 2500,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de cerdo encebollado",
+            "price": 1700,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo ahumado",
+            "price": 1700,
+            "type": "mains"
+        },
+        {
+            "name": "Filete Canciller",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de pescado grille",
+            "price": 1900,
+            "type": "seafood"
+        },
+        {
+            "name": "Camarones grille",
+            "price": 2000,
+            "type": "seafood"
+        },
+        {
+            "name": "Enchilado de camarones",
+            "price": 2300,
+            "type": "seafood"
+        },
+        {
+            "name": "Langosta grille",
+            "price": 2500,
+            "type": "seafood"
+        },
+        {
+            "name": "Enchilado de langosta",
+            "price": 2600,
+            "type": "seafood"
+        },
+        {
+            "name": "Langosta Varadero",
+            "price": 2800,
+            "type": "seafood"
+        },
+        {
+            "name": "Pescado frito entero",
+            "price": 2500,
+            "type": "seafood"
+        },
+        {
+            "name": "Pollo grille",
+            "price": 1600,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz frito",
+            "price": 1500,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz frito especial",
+            "price": 1900,
+            "type": "sides"
+        },
+        {
+            "name": "Grillada Los Hermanos",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "Mariscada Los Hermanos",
+            "price": 3500,
+            "type": "seafood"
+        },
+        {
+            "name": "Tacos de cerdo asado",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos de fajitas de cerdo",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos de fajitas de pollo",
+            "price": 1400,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos de langosta",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos de camaron",
+            "price": 1900,
+            "type": "mains"
+        },
+        {
+            "name": "Cebolla",
+            "price": 250,
+            "type": "others"
+        },
+        {
+            "name": "Queso",
+            "price": 600,
+            "type": "others"
+        },
+        {
+            "name": "Jamon cocido",
+            "price": 350,
+            "type": "others"
+        },
+        {
+            "name": "Jamon Serrano",
+            "price": 950,
+            "type": "others"
+        },
+        {
+            "name": "Chorizo",
+            "price": 600,
+            "type": "others"
+        },
+        {
+            "name": "Pina",
+            "price": 200,
+            "type": "others"
+        },
+        {
+            "name": "Camaron",
+            "price": 850,
+            "type": "others"
+        },
+        {
+            "name": "Viandas fritas",
+            "price": 900,
+            "type": "sides"
+        },
+        {
+            "name": "Agua mineral",
+            "price": 200,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugo natural de frutas",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cajas de jugos de fruta",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta importada",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta nacional",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Bebidas energizantes",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refrescos nacionales",
+            "price": null,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refrescos importados",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Cristal en lata",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Cristal en botella",
+            "price": 450,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Bucanero",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Colonia",
+            "price": 250,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Havana Club 3 anos",
+            "price": 370,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Havana Club Anejo Especial",
+            "price": 480,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Havana Club Anejo Reserva",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Havana Club 7 anos",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ballantine's",
+            "price": 800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "JW Red Label",
+            "price": 800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "JW Swing",
+            "price": 1000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Chivas Regal 12",
+            "price": 900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Tequila Blanco",
+            "price": 800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Tequila Reposado",
+            "price": 900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Jaggermeifter",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Crema Baileys",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Aguardiente",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Vodka Absolut",
+            "price": 700,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ginebra Ginmaster",
+            "price": 700,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Mojito",
+            "price": 800,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mojito de fruta",
+            "price": 1000,
+            "type": "cocktails"
+        },
+        {
+            "name": "Gin Tonic",
+            "price": 1500,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cuba Libre",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cubata",
+            "price": 1000,
+            "type": "cocktails"
+        },
+        {
+            "name": "Daiquiri",
+            "price": 850,
+            "type": "cocktails"
+        },
+        {
+            "name": "Pina Colada con ron",
+            "price": 950,
+            "type": "cocktails"
+        },
+        {
+            "name": "Sangria",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "Sangria Tinto Verano",
+            "price": 950,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipirinha / Caipiroska",
+            "price": 1000,
+            "type": "cocktails"
+        },
+        {
+            "name": "Canchanchara",
+            "price": 800,
+            "type": "cocktails"
+        },
+        {
+            "name": "Canchanchara 7 anos",
+            "price": 1000,
+            "type": "cocktails"
+        },
+        {
+            "name": "Margarita",
+            "price": 950,
+            "type": "cocktails"
+        },
+        {
+            "name": "Tequila Sunrise",
+            "price": 950,
+            "type": "cocktails"
+        },
+        {
+            "name": "Michelada",
+            "price": 350,
+            "type": "cocktails"
+        },
+        {
+            "name": "Chelada",
+            "price": 250,
+            "type": "cocktails"
+        },
+        {
+            "name": "Copa de vino tinto",
+            "price": 700,
+            "type": "wines"
+        },
+        {
+            "name": "Copa de vino blanco",
+            "price": 700,
+            "type": "wines"
+        },
+        {
+            "name": "Copa de helado",
+            "price": 600,
+            "type": "desserts"
+        },
+        {
+            "name": "Flan",
+            "price": 700,
+            "type": "desserts"
+        },
+        {
+            "name": "Copa Lolita",
+            "price": 800,
+            "type": "desserts"
+        },
+        {
+            "name": "Mermelada de mango con queso",
+            "price": 600,
+            "type": "desserts"
+        }
+    ],
+    "location": {
+        "street": "Calle 478 entre 5ta Avenida y 5ta D, Guanabo",
+        "council": null,
+        "municipe": "Habana del Este",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

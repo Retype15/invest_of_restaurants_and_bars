@@ -1,0 +1,561 @@
+{
+    "name": "La Juliana",
+    "phone": "78661823",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "10:00",
+        "close": "24:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "others"
+    ],
+    "delivery": [
+        "home",
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "pet_friendly"
+    ],
+    "fb": "https://www.facebook.com/La Juliana",
+    "ig": "https://www.instagram.com/@lajulianarestaurant",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "plátano maduro frito",
+            "price": 350,
+            "type": "appetizer"
+        },
+        {
+            "name": "tostones chatinos",
+            "price": 350,
+            "type": "appetizer"
+        },
+        {
+            "name": "ensalada de vegetales",
+            "price": 400,
+            "type": "appetizer"
+        },
+        {
+            "name": "maripositas chinas",
+            "price": 530,
+            "type": "appetizer"
+        },
+        {
+            "name": "caldosa criolla",
+            "price": 750,
+            "type": "appetizer"
+        },
+        {
+            "name": "papas fritas",
+            "price": 750,
+            "type": "appetizer"
+        },
+        {
+            "name": "ensalada fira",
+            "price": 800,
+            "type": "appetizer"
+        },
+        {
+            "name": "frituritas de malanga",
+            "price": 850,
+            "type": "appetizer"
+        },
+        {
+            "name": "coctel de camarones",
+            "price": 850,
+            "type": "appetizer"
+        },
+        {
+            "name": "tostones rellenos",
+            "price": 1150,
+            "type": "appetizer"
+        },
+        {
+            "name": "bolitas de queso",
+            "price": 1100,
+            "type": "appetizer"
+        },
+        {
+            "name": "croquetas de jamón",
+            "price": 1100,
+            "type": "appetizer"
+        },
+        {
+            "name": "tamal en casuela",
+            "price": 1150,
+            "type": "appetizer"
+        },
+        {
+            "name": "potaje de garbanzos fritos",
+            "price": 1300,
+            "type": "appetizer"
+        },
+        {
+            "name": "tacos de cerdo",
+            "price": 1200,
+            "type": "appetizer"
+        },
+        {
+            "name": "tacos de pollo",
+            "price": 1400,
+            "type": "appetizer"
+        },
+        {
+            "name": "tacos ropa vieja",
+            "price": 1700,
+            "type": "appetizer"
+        },
+        {
+            "name": "bastoncitos de pollo",
+            "price": 1700,
+            "type": "appetizer"
+        },
+        {
+            "name": "sandwich de jamón y queso",
+            "price": 1050,
+            "type": "appetizer"
+        },
+        {
+            "name": "sándwich campesino",
+            "price": 1450,
+            "type": "appetizer"
+        },
+        {
+            "name": "sándwich juliana",
+            "price": 1650,
+            "type": "appetizer"
+        },
+        {
+            "name": "hamburguesa",
+            "price": 1300,
+            "type": "appetizer"
+        },
+        {
+            "name": "hamburguesa doble",
+            "price": 2350,
+            "type": "appetizer"
+        },
+        {
+            "name": "club atún",
+            "price": 1300,
+            "type": "appetizer"
+        },
+        {
+            "name": "crema de queso",
+            "price": 780,
+            "type": "appetizer"
+        },
+        {
+            "name": "crema aurora",
+            "price": 800,
+            "type": "appetizer"
+        },
+        {
+            "name": "crema virginia",
+            "price": 960,
+            "type": "appetizer"
+        },
+        {
+            "name": "arroz imperial",
+            "price": 2100,
+            "type": "mains"
+        },
+        {
+            "name": "pollo frito/asado",
+            "price": 2500,
+            "type": "mains"
+        },
+        {
+            "name": "lomo ahumado",
+            "price": 2900,
+            "type": "mains"
+        },
+        {
+            "name": "arroz a la chorrera",
+            "price": 2450,
+            "type": "mains"
+        },
+        {
+            "name": "bistec de cerdo grille",
+            "price": 2470,
+            "type": "mains"
+        },
+        {
+            "name": "cordon blue",
+            "price": 3200,
+            "type": "mains"
+        },
+        {
+            "name": "pechuga de pollo grillé",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "escalope de cerdo",
+            "price": 2640,
+            "type": "mains"
+        },
+        {
+            "name": "pechuga apanada",
+            "price": 3100,
+            "type": "mains"
+        },
+        {
+            "name": "pechuga salt c/vegetales",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "bistec uruguayo",
+            "price": 2800,
+            "type": "mains"
+        },
+        {
+            "name": "arroz frito",
+            "price": 2750,
+            "type": "mains"
+        },
+        {
+            "name": "camarones grille",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "cerdo camagüeyano",
+            "price": 2800,
+            "type": "mains"
+        },
+        {
+            "name": "rollo de pechuga",
+            "price": 2800,
+            "type": "mains"
+        },
+        {
+            "name": "estofado de res",
+            "price": 3100,
+            "type": "mains"
+        },
+        {
+            "name": "bistec encebollado de res",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "camarones al ajillo",
+            "price": 3150,
+            "type": "mains"
+        },
+        {
+            "name": "pechuga a la crema",
+            "price": 3500,
+            "type": "mains"
+        },
+        {
+            "name": "rueda de pescado empanado",
+            "price": 3400,
+            "type": "mains"
+        },
+        {
+            "name": "entrecote de res",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "arroz marinero",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "camarones enchilado",
+            "price": 3600,
+            "type": "mains"
+        },
+        {
+            "name": "solomillo de cerdo",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "ropa vieja",
+            "price": 3300,
+            "type": "mains"
+        },
+        {
+            "name": "enchilado de pescado",
+            "price": 3050,
+            "type": "mains"
+        },
+        {
+            "name": "canciller",
+            "price": 3900,
+            "type": "mains"
+        },
+        {
+            "name": "camarón a la crema",
+            "price": 3800,
+            "type": "mains"
+        },
+        {
+            "name": "costillas de cerdo BBQ",
+            "price": 3900,
+            "type": "mains"
+        },
+        {
+            "name": "rueda de pescado a la crema con camarón",
+            "price": 3650,
+            "type": "mains"
+        },
+        {
+            "name": "pizza de queso",
+            "price": "1120",
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de oregano",
+            "price": "1300",
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de albahaca",
+            "price": "1270",
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de cebolla",
+            "price": "1385",
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de pimiento",
+            "price": "1430",
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de aceituna",
+            "price": "1550",
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de jamon",
+            "price": "1700",
+            "type": "pizza"
+        },
+        {
+            "name": "pizza doble de queso",
+            "price": "1800",
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de lomo",
+            "price": "1800",
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de champiñón",
+            "price": "1685",
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de bacón",
+            "price": "2050",
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de atún",
+            "price": "1835",
+            "type": "pizza"
+        },
+        {
+            "name": "pizza bolognesa",
+            "price": "1950",
+            "type": "pizza"
+        },
+        {
+            "name": "pizza campesina",
+            "price": "1820",
+            "type": "pizza"
+        },
+        {
+            "name": "pizza hawaiana",
+            "price": "1950",
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de chorizo",
+            "price": "1885",
+            "type": "pizza"
+        },
+        {
+            "name": "pizza habanera",
+            "price": "2200",
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de serrano",
+            "price": "2400",
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de camarón",
+            "price": "1985",
+            "type": "pizza"
+        },
+        {
+            "name": "pizza juliana",
+            "price": "2250",
+            "type": "pizza"
+        },
+        {
+            "name": "media lasagna",
+            "price": 1500,
+            "type": "pasta"
+        },
+        {
+            "name": "lasagna doble",
+            "price": 3000,
+            "type": "pasta"
+        },
+        {
+            "name": "media lasagna",
+            "price": 3100,
+            "type": "pasta"
+        },
+        {
+            "name": "canelon",
+            "price": 1150,
+            "type": "pasta"
+        },
+        {
+            "name": "espagetti de queso",
+            "price": 1100,
+            "type": "pasta"
+        },
+        {
+            "name": "espagetti de jamon",
+            "price": 1300,
+            "type": "pasta"
+        },
+        {
+            "name": "espagueti bolognesa",
+            "price": 1600,
+            "type": "pasta"
+        },
+        {
+            "name": "espagueti alfredo",
+            "price": 1800,
+            "type": "pasta"
+        },
+        {
+            "name": "espagueti juliana",
+            "price": 1780,
+            "type": "pasta"
+        },
+        {
+            "name": "espagueti carbonara",
+            "price": 1900,
+            "type": "pasta"
+        },
+        {
+            "name": "tres gracias",
+            "price": 400,
+            "type": "desserts"
+        },
+        {
+            "name": "flan al caramelo",
+            "price": 650,
+            "type": "desserts"
+        },
+        {
+            "name": "copa lolita",
+            "price": 950,
+            "type": "desserts"
+        },
+        {
+            "name": "cuña de chocolate",
+            "price": 800,
+            "type": "desserts"
+        },
+        {
+            "name": "cuña de chocolate con helado",
+            "price": 950,
+            "type": "desserts"
+        },
+        {
+            "name": "malteada",
+            "price": 850,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugos naturales",
+            "price": 270,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugo de mango",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugo de piña",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "coctel de frutas",
+            "price": 250,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "limonadas",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "batidos de frutas",
+            "price": 600,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "suero de helado",
+            "price": 730,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "batido de helado",
+            "price": 735,
+            "type": "non_alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.135543401312233,
+        "coords_y": -82.3644565648407
+    }
+}

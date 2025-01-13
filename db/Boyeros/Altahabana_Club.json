@@ -1,0 +1,694 @@
+{
+    "name": "Altahabana_Club",
+    "phone": "76441348",
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "14:00",
+        "close": "02:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": "https://www.facebook.com/profile.php?id=100064025082729",
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "FRITURAS DE MALANGA",
+            "price": 400,
+            "type": "appetizer"
+        },
+        {
+            "name": "PAPAS FRITAS",
+            "price": 550,
+            "type": "appetizer"
+        },
+        {
+            "name": "CROQUETAS DE POLLO",
+            "price": 550,
+            "type": "appetizer"
+        },
+        {
+            "name": "BOLITAS DE QUESO",
+            "price": 650,
+            "type": "appetizer"
+        },
+        {
+            "name": "ALITAS DE POLLO",
+            "price": 750,
+            "type": "appetizer"
+        },
+        {
+            "name": "ENTREMÉS DE (JAMÓN, QUESO, ACEITUNA Y CHORIZO)",
+            "price": 950,
+            "type": "appetizer"
+        },
+        {
+            "name": "FAJITAS DE POLLO",
+            "price": 950,
+            "type": "appetizer"
+        },
+        {
+            "name": "EPERLAN DE PESCADO",
+            "price": 1150,
+            "type": "appetizer"
+        },
+        {
+            "name": "CÓCTEL DE CAMARÓN",
+            "price": 1450,
+            "type": "appetizer"
+        },
+        {
+            "name": "TABLA CHORIZOS PARRILLERO",
+            "price": 1800,
+            "type": "appetizer"
+        },
+        {
+            "name": "PICADERA ALTAHABANA (JAMÓN VICKY Y SERRANO, QUESO, ACEITUNA, CHORIZO, CROQUETAS, BOLITAS DE QUESO, FRITURAS DE MALANGA)",
+            "price": 3500,
+            "type": "appetizer"
+        },
+        {
+            "name": "POLLO ASADO",
+            "price": 1300,
+            "type": "mains"
+        },
+        {
+            "name": "POLLO FRITO PÍO PÍO",
+            "price": 1350,
+            "type": "mains"
+        },
+        {
+            "name": "POLLO GRILLE",
+            "price": 1400,
+            "type": "mains"
+        },
+        {
+            "name": "POLLO A LA GORDON BLUE",
+            "price": 1750,
+            "type": "mains"
+        },
+        {
+            "name": "MASAS DE CERDO FRITA",
+            "price": 1350,
+            "type": "mains"
+        },
+        {
+            "name": "BISTEC DE CERDO",
+            "price": 1400,
+            "type": "mains"
+        },
+        {
+            "name": "BISTEC URUGUAYO",
+            "price": 1750,
+            "type": "mains"
+        },
+        {
+            "name": "VACA FRITA",
+            "price": 1300,
+            "type": "mains"
+        },
+        {
+            "name": "ROPA VIEJA",
+            "price": 1350,
+            "type": "mains"
+        },
+        {
+            "name": "BISTEC DE RES",
+            "price": 1600,
+            "type": "mains"
+        },
+        {
+            "name": "FILETE DE PESCADO GRILLET",
+            "price": 1550,
+            "type": "seafood"
+        },
+        {
+            "name": "FILETE DE PESCADO EMPANADO",
+            "price": 1600,
+            "type": "seafood"
+        },
+        {
+            "name": "FILETE CANCILLER",
+            "price": 1800,
+            "type": "seafood"
+        },
+        {
+            "name": "CAMARÓN ENCHILADO",
+            "price": 1650,
+            "type": "seafood"
+        },
+        {
+            "name": "CAMARÓN AJILLO",
+            "price": 1750,
+            "type": "seafood"
+        },
+        {
+            "name": "CAMARÓN EMPANADO",
+            "price": 1800,
+            "type": "seafood"
+        },
+        {
+            "name": "PIZZA NAPOLITANA",
+            "price": 950,
+            "type": "pizza"
+        },
+        {
+            "name": "PIZZA PIMIENTO",
+            "price": 1000,
+            "type": "pizza"
+        },
+        {
+            "name": "PIZZA CEBOLLA",
+            "price": 1000,
+            "type": "pizza"
+        },
+        {
+            "name": "PIZZA JAMÓN",
+            "price": 1150,
+            "type": "pizza"
+        },
+        {
+            "name": "PIZZA BACÓN",
+            "price": 1150,
+            "type": "pizza"
+        },
+        {
+            "name": "PIZZA CHORIZO",
+            "price": 1150,
+            "type": "pizza"
+        },
+        {
+            "name": "PIZZA HAWAIANA",
+            "price": 1250,
+            "type": "pizza"
+        },
+        {
+            "name": "PIZZA DE ATÚN",
+            "price": 1200,
+            "type": "pizza"
+        },
+        {
+            "name": "PIZZA CAMARÓN",
+            "price": 1300,
+            "type": "pizza"
+        },
+        {
+            "name": "PIZZA DE PEPPERONI",
+            "price": 1500,
+            "type": "pizza"
+        },
+        {
+            "name": "PIZZA ALTAHABANA (BACÓN, JAMÓN, CHORIZO, QUESO BLANCO, GOUDA, JAMÓN PIERNA)",
+            "price": 1500,
+            "type": "pizza"
+        },
+        {
+            "name": "MEDIA NOCHE",
+            "price": 700,
+            "type": "sandwich"
+        },
+        {
+            "name": "SANDWICH DE JAMÓN Y QUESO",
+            "price": 800,
+            "type": "sandwich"
+        },
+        {
+            "name": "SANDWICH ALTAHABANA (JAMÓN, QUESO BLANCO Y GOUDA,CHORIZO, JAMÓN PIERNA)",
+            "price": 1350,
+            "type": "sandwich"
+        },
+        {
+            "name": "HAMBURGUESA CLÁSICA",
+            "price": 900,
+            "type": "sandwich"
+        },
+        {
+            "name": "HAMBURGUESA C/ QUESO",
+            "price": 980,
+            "type": "sandwich"
+        },
+        {
+            "name": "HAMBURGUESA C/ JAMÓN",
+            "price": 1080,
+            "type": "sandwich"
+        },
+        {
+            "name": "HAMBURGUESA C/ BACÓN",
+            "price": 1080,
+            "type": "sandwich"
+        },
+        {
+            "name": "HAMBURGUESA ALTAHABANA (CHORIZO, JAMÓN VICKY, QUESO, JAMÓN PIERNA)",
+            "price": 1500,
+            "type": "sandwich"
+        },
+        {
+            "name": "ESPAGUETIS NAPOLITANO",
+            "price": 900,
+            "type": "pasta"
+        },
+        {
+            "name": "ESPAGUETIS JAMÓN",
+            "price": 950,
+            "type": "pasta"
+        },
+        {
+            "name": "ESPAGUETIS CHORIZO",
+            "price": 1150,
+            "type": "pasta"
+        },
+        {
+            "name": "ESPAGUETIS DE BACÓN",
+            "price": 1200,
+            "type": "pasta"
+        },
+        {
+            "name": "ESPAGUETIS BOLOÑESA",
+            "price": 1250,
+            "type": "pasta"
+        },
+        {
+            "name": "ARROZ BLANCO",
+            "price": 250,
+            "type": "sides"
+        },
+        {
+            "name": "ARROZ MORO",
+            "price": 350,
+            "type": "sides"
+        },
+        {
+            "name": "VIANDA FRITA",
+            "price": 400,
+            "type": "sides"
+        },
+        {
+            "name": "ENSALADA DE VEGETALES",
+            "price": 500,
+            "type": "salads"
+        },
+        {
+            "name": "COPA DE HELADO",
+            "price": 500,
+            "type": "desserts"
+        },
+        {
+            "name": "SUERO DE HELADO",
+            "price": 750,
+            "type": "desserts"
+        },
+        {
+            "name": "LIMONADA NATURAL",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "LIMONADA FRAPPÉ",
+            "price": 520,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "LIMONADA FRESCURA",
+            "price": 540,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "MOJITO",
+            "price": 550,
+            "type": "cocktails"
+        },
+        {
+            "name": "MOJITO FRAPPE",
+            "price": 580,
+            "type": "cocktails"
+        },
+        {
+            "name": "DAIQUIRI",
+            "price": 500,
+            "type": "cocktails"
+        },
+        {
+            "name": "DAIQUIRI SABORIZADO",
+            "price": 520,
+            "type": "cocktails"
+        },
+        {
+            "name": "CANCHÁNCHARA",
+            "price": 550,
+            "type": "cocktails"
+        },
+        {
+            "name": "PIÑA COLADA",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "CUBATA 7 AÑOS",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "SCREW DRIVER",
+            "price": 480,
+            "type": "cocktails"
+        },
+        {
+            "name": "BLUE LAGOON",
+            "price": 500,
+            "type": "cocktails"
+        },
+        {
+            "name": "CAIPIROSKA",
+            "price": 550,
+            "type": "cocktails"
+        },
+        {
+            "name": "CAIPIRIÑA",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "VODKA TONIC",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "TINTO DE VERANO",
+            "price": 460,
+            "type": "cocktails"
+        },
+        {
+            "name": "SANGRÍA",
+            "price": 500,
+            "type": "cocktails"
+        },
+        {
+            "name": "GIN TONIC",
+            "price": 550,
+            "type": "cocktails"
+        },
+        {
+            "name": "MARGARITA",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "CAFÉ AMERICANO",
+            "price": 150,
+            "type": "infusions"
+        },
+        {
+            "name": "CAFÉ EXPRESO",
+            "price": 250,
+            "type": "infusions"
+        },
+        {
+            "name": "CAFÉ CORTADO",
+            "price": 300,
+            "type": "infusions"
+        },
+        {
+            "name": "CAFÉ CAPUCCINO",
+            "price": 400,
+            "type": "infusions"
+        },
+        {
+            "name": "CAFÉ CON LECHE",
+            "price": 450,
+            "type": "infusions"
+        },
+        {
+            "name": "CAFÉ BOMBÓN",
+            "price": 550,
+            "type": "infusions"
+        },
+        {
+            "name": "CAFÉ FRAPPUCCINO",
+            "price": 600,
+            "type": "infusions"
+        },
+        {
+            "name": "AGUA NATURAL (500ML)",
+            "price": 200,
+            "type": "water"
+        },
+        {
+            "name": "AGUA TONICA",
+            "price": 250,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "JUGOS DE CAJA",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "MALTA",
+            "price": 380,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "MALTEADA",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "REFRESCOS NACIONALES",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "REFRESCOS IMPORTADOS",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "REFRESCO NACIONAL (1.5 LITROS)",
+            "price": 550,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "ENERGIZANTES",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "RED BULL",
+            "price": 550,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "CERVEZA NACIONAL (LATA)",
+            "price": 450,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "CERVEZA NACIONAL (BOTELLA)",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "CERVEZA IMPORTADA",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "CERVEZA CORONA",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "CERVEZA HEINEKEN",
+            "price": 550,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "SERVICIO DE CHELADA",
+            "price": 200,
+            "type": "others"
+        },
+        {
+            "name": "SERVICIO DE MICHELADA",
+            "price": 280,
+            "type": "others"
+        },
+        {
+            "name": "VODKA DE LA CASA",
+            "price": 250,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "VODKA ABSOLUT",
+            "price": 1000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "HAVANA CLUB AÑEJO 3 AÑOS",
+            "price": 420,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "HAVANA CLUB AÑEJO 7 AÑOS",
+            "price": 700,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "HAVANA CLUB AÑEJO ESPECIAL",
+            "price": 530,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "HAVANA CLUB RESERVA",
+            "price": 560,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "HAVANA CLUB RITUAL",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "SANTIAGO 8 AÑOS",
+            "price": 850,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "SANTIAGO 11 AÑOS",
+            "price": 1000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "SANTIAGO 12 AÑOS",
+            "price": 1200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "SELECCIÓN DE MAESTRO",
+            "price": 1300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "PACTO NAVÍO",
+            "price": 1300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "BAILEYS",
+            "price": 1300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "BUCHANAN'S 12",
+            "price": 1600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "WHISKY GLENLIVET",
+            "price": 1750,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "BALLANTINE",
+            "price": 850,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "BALLANTINE 12",
+            "price": 1050,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "JOHNNIE WALKER RED LABEL",
+            "price": 1000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "JOHNNIE WALKER BLACK LABEL",
+            "price": 1700,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "OLMECA BLANCO",
+            "price": 990,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "JOSÉ CUERVO ESPECIAL",
+            "price": 1200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "JOSÉ CUERVO REPOSADO",
+            "price": 1300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "JOSÉ CUERVO TRADICIONAL DRIVER",
+            "price": 1350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "TEQUILA PATRON DRIVER",
+            "price": 2000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "TEQUILA 1800",
+            "price": 2500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "DON JULIO 70",
+            "price": 4000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "LICOR 43",
+            "price": 650,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "VINO (TINTO, BLANCO O ROSADO)",
+            "price": 850,
+            "type": "wines"
+        }
+    ],
+    "location": {
+        "street": "Calle D, esq. a 10",
+        "council": "Altabana",
+        "municipe": "Boyeros",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

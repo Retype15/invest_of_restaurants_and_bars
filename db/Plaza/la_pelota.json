@@ -1,0 +1,123 @@
+{
+    "name": "La Pelota",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "09:45",
+        "close": "21:45",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": null,
+    "delivery": null,
+    "level": "medium",
+    "payment": [
+        "cash"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "chicharrón 58g",
+            "price": 120,
+            "type": "appetizer"
+        },
+        {
+            "name": "croqueta 36g",
+            "price": 15,
+            "type": "appetizer"
+        },
+        {
+            "name": "entrante de jamón",
+            "price": 300,
+            "type": "appetizer"
+        },
+        {
+            "name": "bistec de cerdo",
+            "price": 600,
+            "type": "mains"
+        },
+        {
+            "name": "masa de cerdo frita",
+            "price": 600,
+            "type": "mains"
+        },
+        {
+            "name": "costilla de credo frito",
+            "price": 600,
+            "type": "mains"
+        },
+        {
+            "name": "pollo grillé",
+            "price": 550,
+            "type": "mains"
+        },
+        {
+            "name": "pollo asado",
+            "price": 550,
+            "type": "mains"
+        },
+        {
+            "name": "picadillo",
+            "price": 250,
+            "type": "mains"
+        },
+        {
+            "name": "arroz moro",
+            "price": 100,
+            "type": "mains"
+        },
+        {
+            "name": "vianda hervida",
+            "price": 40,
+            "type": "mains"
+        },
+        {
+            "name": "energizante",
+            "price": 200,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "refresco de cola",
+            "price": 190,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugo de frutas",
+            "price": 180,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "cerveza importada",
+            "price": 200,
+            "type": "alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "Esquina 23 y 12, Vedado",
+        "council": null,
+        "municipe": "Plaza de la Revolucion",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.127810894630507,
+        "coords_y": -82.39959798623943
+    }
+}

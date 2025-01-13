@@ -1,0 +1,230 @@
+{
+    "name": "Casa del Maíz",
+    "phone": "52003758",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "10:00",
+        "close": "20:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "others"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": "https://m.facebook.com/lacasadelmaizcuba/",
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Fritura de Malte",
+            "price": 350,
+            "type": "appetizer"
+        },
+        {
+            "name": "Fritura de Malanga",
+            "price": 450,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostón Relleno",
+            "price": 450,
+            "type": "appetizer"
+        },
+        {
+            "name": "Chicharrón",
+            "price": 500,
+            "type": "appetizer"
+        },
+        {
+            "name": "Garbanzos",
+            "price": 550,
+            "type": "appetizer"
+        },
+        {
+            "name": "Cubito de Maíz",
+            "price": 1070,
+            "type": "appetizer"
+        },
+        {
+            "name": "Garbanzos Fritos",
+            "price": 450,
+            "type": "appetizer"
+        },
+        {
+            "name": "Fricasé de Cerdo",
+            "price": 1150,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de Cerdo",
+            "price": 1250,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo Ahumado",
+            "price": 1450,
+            "type": "mains"
+        },
+        {
+            "name": "Costilla Ahumada",
+            "price": 1450,
+            "type": "mains"
+        },
+        {
+            "name": "Fajitas de Cerdo",
+            "price": 1150,
+            "type": "mains"
+        },
+        {
+            "name": "Fajita de Pollo",
+            "price": 1150,
+            "type": "mains"
+        },
+        {
+            "name": "Alitas de Pollo",
+            "price": 1050,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo en Cazuela",
+            "price": 1050,
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga de Pollo",
+            "price": 1650,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de Pescado",
+            "price": 1480,
+            "type": "mains"
+        },
+        {
+            "name": "Espeñan",
+            "price": 1280,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa Vieja",
+            "price": 1420,
+            "type": "mains"
+        },
+        {
+            "name": "Chilindrón de Carnero",
+            "price": 1420,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz Salteado",
+            "price": 530,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz Moro",
+            "price": 250,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz Blanco",
+            "price": 180,
+            "type": "sides"
+        },
+        {
+            "name": "Tamal Especial",
+            "price": 90,
+            "type": "sides"
+        },
+        {
+            "name": "Tostón Criollo",
+            "price": 450,
+            "type": "sides"
+        },
+        {
+            "name": "Ensalada Mixta",
+            "price": 450,
+            "type": "sides"
+        },
+        {
+            "name": "Ají Relleno",
+            "price": 650,
+            "type": "sides"
+        },
+        {
+            "name": "Malanga Hervida",
+            "price": 425,
+            "type": "sides"
+        },
+        {
+            "name": "Puré de Boniato",
+            "price": 250,
+            "type": "sides"
+        },
+        {
+            "name": "Plátano Maduro Frito",
+            "price": 400,
+            "type": "sides"
+        },
+        {
+            "name": "Yuca con Mojo",
+            "price": 250,
+            "type": "sides"
+        },
+        {
+            "name": "Fufú de Plátano",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "Helado Pote de 1lt",
+            "price": 850,
+            "type": "desserts"
+        },
+        {
+            "name": "Helado Pote Pequeño",
+            "price": 490,
+            "type": "desserts"
+        },
+        {
+            "name": "Arroz con Leche",
+            "price": 200,
+            "type": "desserts"
+        }
+    ],
+    "location": {
+        "street": "Avenida 1er anillo % Calzada de Managua y San Agustin",
+        "council": null,
+        "municipe": "Arroyo Naranjo",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

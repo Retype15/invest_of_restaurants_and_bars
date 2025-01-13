@@ -1,0 +1,190 @@
+{
+    "name": "Tutti Frutti",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "08:00",
+        "close": "20:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [],
+    "delivery": [],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "card",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Desayuno completo",
+            "price": 1200,
+            "type": "breakfast"
+        },
+        {
+            "name": "Dulce de fruta",
+            "price": 600,
+            "type": "breakfast"
+        },
+        {
+            "name": "Sándwiche Cubano",
+            "price": 1200,
+            "type": "breakfast"
+        },
+        {
+            "name": "Sándwiches Aguacate",
+            "price": 1200,
+            "type": "breakfast"
+        },
+        {
+            "name": "Huevo",
+            "price": 250,
+            "type": "sides"
+        },
+        {
+            "name": "Atún",
+            "price": 800,
+            "type": "sides"
+        },
+        {
+            "name": "Jamón",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "Pollo",
+            "price": 500,
+            "type": "sides"
+        },
+        {
+            "name": "Cebolla",
+            "price": 200,
+            "type": "sides"
+        },
+        {
+            "name": "Copa de frutas",
+            "price": 400,
+            "type": "desserts"
+        },
+        {
+            "name": "Tutti Frutti",
+            "price": 500,
+            "type": "desserts"
+        },
+        {
+            "name": "Frutas dulces",
+            "price": 300,
+            "type": "desserts"
+        },
+        {
+            "name": "Jugo Natural",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Batidos",
+            "price": 600,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Champola",
+            "price": 600,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Smoothies",
+            "price": 800,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Leche",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Café",
+            "price": 900,
+            "type": "infusions"
+        },
+        {
+            "name": "Mojito",
+            "price": 700,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mojito Tutti Frutti",
+            "price": 800,
+            "type": "cocktails"
+        },
+        {
+            "name": "Daiquirí",
+            "price": 700,
+            "type": "cocktails"
+        },
+        {
+            "name": "Daiquirí Tutti Frutti",
+            "price": 800,
+            "type": "cocktails"
+        },
+        {
+            "name": "Santiago",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cuba Libre",
+            "price": 700,
+            "type": "cocktails"
+        },
+        {
+            "name": "Piña Colada",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "Canchánchara",
+            "price": 800,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caribbean",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "Emma",
+            "price": 900,
+            "type": "cocktails"
+        }
+    ],
+    "location": {
+        "street": "San Lazaro entre San Fransico y Espada",
+        "council": null,
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

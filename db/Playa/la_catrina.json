@@ -1,0 +1,311 @@
+{
+    "name": "La Catrina",
+    "phone": "72022803",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "mexican",
+    "hours": {
+        "open": "12:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "home",
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": "La Catrina Havana",
+    "ig": "@lacatrina_havana",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "quesadillas con tortillas de trigo con queso",
+            "price": 1700,
+            "type": "appetizer"
+        },
+        {
+            "name": "quesadillas con queso y champinones",
+            "price": 2300,
+            "type": "appetizer"
+        },
+        {
+            "name": "quesadillas con queso y chorizo iberico",
+            "price": 2300,
+            "type": "appetizer"
+        },
+        {
+            "name": "tacos envenenados",
+            "price": 1900,
+            "type": "appetizer"
+        },
+        {
+            "name": "tacos dorados",
+            "price": 1900,
+            "type": "appetizer"
+        },
+        {
+            "name": "frijoles refritos",
+            "price": 1350,
+            "type": "appetizer"
+        },
+        {
+            "name": "ceviche acapulqueño",
+            "price": 2700,
+            "type": "appetizer"
+        },
+        {
+            "name": "ceviche de atun rojo",
+            "price": 3950,
+            "type": "appetizer"
+        },
+        {
+            "name": "carpaccio de res",
+            "price": 4200,
+            "type": "appetizer"
+        },
+        {
+            "name": "carpaccio de pulpo",
+            "price": 3800,
+            "type": "appetizer"
+        },
+        {
+            "name": "tostada de atun",
+            "price": 2700,
+            "type": "appetizer"
+        },
+        {
+            "name": "aguachile de camaron",
+            "price": 2900,
+            "type": "appetizer"
+        },
+        {
+            "name": "trio de ceviches",
+            "price": 3800,
+            "type": "appetizer"
+        },
+        {
+            "name": "salmorejo la catrina pequena",
+            "price": 1550,
+            "type": "appetizer"
+        },
+        {
+            "name": "salmorejo la catrina grande",
+            "price": 2100,
+            "type": "appetizer"
+        },
+        {
+            "name": "guacamole",
+            "price": 1750,
+            "type": "appetizer"
+        },
+        {
+            "name": "pollo en mole",
+            "price": 3200,
+            "type": "mains"
+        },
+        {
+            "name": "albondigas de la abuela",
+            "price": 2700,
+            "type": "mains"
+        },
+        {
+            "name": "quesadillas de huitlacoche",
+            "price": 1700,
+            "type": "mains"
+        },
+        {
+            "name": "chilaquiles",
+            "price": 2700,
+            "type": "mains"
+        },
+        {
+            "name": "pescado del dia",
+            "price": 3250,
+            "type": "mains"
+        },
+        {
+            "name": "langosta grille",
+            "price": 4600,
+            "type": "mains"
+        },
+        {
+            "name": "calamares al ajillo",
+            "price": 3800,
+            "type": "mains"
+        },
+        {
+            "name": "carnitas michoacanas",
+            "price": 2700,
+            "type": "mains"
+        },
+        {
+            "name": "tacos al pastor",
+            "price": 2700,
+            "type": "mains"
+        },
+        {
+            "name": "cochinita pibil",
+            "price": 2700,
+            "type": "mains"
+        },
+        {
+            "name": "tacos de res",
+            "price": 3100,
+            "type": "mains"
+        },
+        {
+            "name": "fajitas de pollo",
+            "price": 2700,
+            "type": "mains"
+        },
+        {
+            "name": "fajitas de res",
+            "price": 3050,
+            "type": "mains"
+        },
+        {
+            "name": "festival de tacos 6",
+            "price": 4600,
+            "type": "mains"
+        },
+        {
+            "name": "festival de tacos 12",
+            "price": 8900,
+            "type": "mains"
+        },
+        {
+            "name": "ensenada de pescado",
+            "price": 2900,
+            "type": "mains"
+        },
+        {
+            "name": "ensenada de camaron",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "gobernador",
+            "price": 3350,
+            "type": "mains"
+        },
+        {
+            "name": "langosta estilo baja california",
+            "price": 3050,
+            "type": "mains"
+        },
+        {
+            "name": "festival de tacos del mar",
+            "price": 8800,
+            "type": "mains"
+        },
+        {
+            "name": "solomillo de res",
+            "price": 6900,
+            "type": "mains"
+        },
+        {
+            "name": "entrecot",
+            "price": 10900,
+            "type": "mains"
+        },
+        {
+            "name": "chuleton",
+            "price": 24700,
+            "type": "mains"
+        },
+        {
+            "name": "tomahawk",
+            "price": 21000,
+            "type": "mains"
+        },
+        {
+            "name": "quesadilla tacos de fajitas de pollo",
+            "price": 2450,
+            "type": "mains"
+        },
+        {
+            "name": "quesadilla tacos de carne de cerdo",
+            "price": 2300,
+            "type": "mains"
+        },
+        {
+            "name": "eperlan de pollo y papas fritas",
+            "price": 2450,
+            "type": "mains"
+        },
+        {
+            "name": "eperlan de pescado y papas fritas",
+            "price": 2450,
+            "type": "mains"
+        },
+        {
+            "name": "bistec de res y papas fritas",
+            "price": 2900,
+            "type": "mains"
+        },
+        {
+            "name": "tartas del dia",
+            "price": 1400,
+            "type": "desserts"
+        },
+        {
+            "name": "pie de limon",
+            "price": 1400,
+            "type": "desserts"
+        },
+        {
+            "name": "tiramisu",
+            "price": 1400,
+            "type": "desserts"
+        },
+        {
+            "name": "cheesecake",
+            "price": 1400,
+            "type": "desserts"
+        },
+        {
+            "name": "gelato italiano artesanal",
+            "price": 1200,
+            "type": "desserts"
+        },
+        {
+            "name": "flan casero",
+            "price": 1400,
+            "type": "desserts"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Playa",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.105644168847277,
+        "coords_y": -82.44212999530603
+    }
+}

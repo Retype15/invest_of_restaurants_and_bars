@@ -1,0 +1,626 @@
+{
+    "name": "Ernest's Place",
+    "phone": "77664603",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "08:00",
+        "close": "00:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 15,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "others"
+    ],
+    "level": "medium",
+    "payment": [
+        "card",
+        "cash",
+        "others"
+    ],
+    "promo": false,
+    "rating": 3.9,
+    "reviews": 75,
+    "amenities": [
+        "pet_friendly"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Chicharritas",
+            "price": 100,
+            "type": "starters"
+        },
+        {
+            "name": "Mani natural",
+            "price": 120,
+            "type": "starters"
+        },
+        {
+            "name": "Mani picante",
+            "price": 150,
+            "type": "starters"
+        },
+        {
+            "name": "Tamales",
+            "price": 250,
+            "type": "starters"
+        },
+        {
+            "name": "Tostones naturales",
+            "price": 170,
+            "type": "starters"
+        },
+        {
+            "name": "Tostones de ajo",
+            "price": 190,
+            "type": "starters"
+        },
+        {
+            "name": "Croquetas de pollo",
+            "price": 320,
+            "type": "starters"
+        },
+        {
+            "name": "Croquetas de pescado",
+            "price": 350,
+            "type": "starters"
+        },
+        {
+            "name": "Fritura de malanga",
+            "price": 320,
+            "type": "starters"
+        },
+        {
+            "name": "Papas fritas",
+            "price": 450,
+            "type": "starters"
+        },
+        {
+            "name": "Tostones rellenos de jamon y queso",
+            "price": 550,
+            "type": "starters"
+        },
+        {
+            "name": "Tostones gratinados",
+            "price": 480,
+            "type": "starters"
+        },
+        {
+            "name": "Fajitas de pollo",
+            "price": 1000,
+            "type": "starters"
+        },
+        {
+            "name": "Pica-Pica",
+            "price": 800,
+            "type": "starters"
+        },
+        {
+            "name": "Rollito de jamon y queso",
+            "price": 920,
+            "type": "starters"
+        },
+        {
+            "name": "Ceviche",
+            "price": 1300,
+            "type": "starters"
+        },
+        {
+            "name": "Eperlan",
+            "price": 1530,
+            "type": "starters"
+        },
+        {
+            "name": "Fajitas de cerdo",
+            "price": 1280,
+            "type": "starters"
+        },
+        {
+            "name": "Fajitas de pechuga",
+            "price": 1250,
+            "type": "starters"
+        },
+        {
+            "name": "Taco de vegetales",
+            "price": 620,
+            "type": "starters"
+        },
+        {
+            "name": "Quesadillas",
+            "price": 750,
+            "type": "starters"
+        },
+        {
+            "name": "Taco de jamon y queso",
+            "price": 700,
+            "type": "starters"
+        },
+        {
+            "name": "Taco de pollo salteado",
+            "price": 1050,
+            "type": "starters"
+        },
+        {
+            "name": "Taco de cerdo salteado",
+            "price": 1190,
+            "type": "starters"
+        },
+        {
+            "name": "Taco de pechuga salteado",
+            "price": 1170,
+            "type": "starters"
+        },
+        {
+            "name": "Taco hawaiano de pollo",
+            "price": 1170,
+            "type": "starters"
+        },
+        {
+            "name": "Taco hawaiano de pechuga",
+            "price": 1680,
+            "type": "starters"
+        },
+        {
+            "name": "Taco hawaiano de cerdo",
+            "price": 1700,
+            "type": "starters"
+        },
+        {
+            "name": "Taco hawaiano de pescado",
+            "price": 2000,
+            "type": "starters"
+        },
+        {
+            "name": "Taco imperial de cerdo",
+            "price": 1720,
+            "type": "starters"
+        },
+        {
+            "name": "Taco imperial de pechuga",
+            "price": 1700,
+            "type": "starters"
+        },
+        {
+            "name": "Taco imperial de pescado",
+            "price": 2000,
+            "type": "starters"
+        },
+        {
+            "name": "Taco Ernest Place",
+            "price": 2300,
+            "type": "starters"
+        },
+        {
+            "name": "Higado italiano",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "Cordero",
+            "price": 2200,
+            "type": "mains"
+        },
+        {
+            "name": "Lonjas de cerdo ahumada",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "Lonjas de cerdo a la avilena",
+            "price": 2100,
+            "type": "mains"
+        },
+        {
+            "name": "Lonjas de cerdo asado",
+            "price": 2100,
+            "type": "mains"
+        },
+        {
+            "name": "Masa frita",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "Chuleton de cerdo ahumado",
+            "price": 2800,
+            "type": "mains"
+        },
+        {
+            "name": "Polllo grille",
+            "price": 1200,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo salteado",
+            "price": 1300,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo en fajitas",
+            "price": 1300,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo empanado",
+            "price": 1300,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo encebollado",
+            "price": 1330,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo al ajillo",
+            "price": 1300,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo frito",
+            "price": 1280,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo gratinado",
+            "price": 1380,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo a la milanesa",
+            "price": 1450,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo en suprema gratinada",
+            "price": 1450,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo montado de jamon y queso",
+            "price": 1480,
+            "type": "mains"
+        },
+        {
+            "name": "Gordon Blue de pollo",
+            "price": 1530,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec grille de cerdo",
+            "price": 1380,
+            "type": "mains"
+        },
+        {
+            "name": "Fajitas de cerdo",
+            "price": 1480,
+            "type": "mains"
+        },
+        {
+            "name": "Empanado de cerdo",
+            "price": 1480,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de cerdo al ajo",
+            "price": 1580,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de cerdo encebollado",
+            "price": 1680,
+            "type": "mains"
+        },
+        {
+            "name": "Cerdo salteado",
+            "price": 1460,
+            "type": "mains"
+        },
+        {
+            "name": "Cerdo gratinado",
+            "price": 1600,
+            "type": "mains"
+        },
+        {
+            "name": "Supremo gratinado de cerdo",
+            "price": 1750,
+            "type": "mains"
+        },
+        {
+            "name": "Cerdo montado de jamon y queso",
+            "price": 1720,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec uruguayo de cerdo",
+            "price": 1900,
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga grille",
+            "price": 1340,
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga salteada",
+            "price": 1370,
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga en fajitas",
+            "price": 1450,
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga empanada",
+            "price": 1450,
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga encebollada",
+            "price": 1620,
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga al ajillo",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga gratinada",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga a la milanesa",
+            "price": 1700,
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga suprema gratinada",
+            "price": 1700,
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga en montado de jamon y queso",
+            "price": 1650,
+            "type": "mains"
+        },
+        {
+            "name": "Gordon Blue de pechuga",
+            "price": 1820,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado a la plancha",
+            "price": 1620,
+            "type": "mains"
+        },
+        {
+            "name": "Eperlan de pescado",
+            "price": 1730,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado empanado",
+            "price": 1730,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado encebollado",
+            "price": 1925,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado al ajo",
+            "price": 1850,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado montetoro",
+            "price": 1980,
+            "type": "mains"
+        },
+        {
+            "name": "Gratinado de pescado",
+            "price": 1750,
+            "type": "mains"
+        },
+        {
+            "name": "Montado de pescado de jamon y queso",
+            "price": 1930,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado Canciller",
+            "price": 2150,
+            "type": "mains"
+        },
+        {
+            "name": "Spaghettis napolitanos",
+            "price": 1100,
+            "type": "mains"
+        },
+        {
+            "name": "Spaghettis de jamon y queso",
+            "price": 1300,
+            "type": "mains"
+        },
+        {
+            "name": "Spaghettis a la carbonara",
+            "price": 1320,
+            "type": "mains"
+        },
+        {
+            "name": "Cebolla",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "Ajo",
+            "price": 150,
+            "type": "sides"
+        },
+        {
+            "name": "Pimiento",
+            "price": 350,
+            "type": "sides"
+        },
+        {
+            "name": "Ensalada mixta",
+            "price": 250,
+            "type": "sides"
+        },
+        {
+            "name": "Jamon",
+            "price": 270,
+            "type": "sides"
+        },
+        {
+            "name": "Chorizo",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "Queso",
+            "price": 350,
+            "type": "sides"
+        },
+        {
+            "name": "Queso especial",
+            "price": 450,
+            "type": "sides"
+        },
+        {
+            "name": "Pina",
+            "price": 200,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz blanco",
+            "price": 200,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz moro",
+            "price": 250,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz frito",
+            "price": 1100,
+            "type": "sides"
+        },
+        {
+            "name": "Caipirissima",
+            "price": 460,
+            "type": "cocktails"
+        },
+        {
+            "name": "Habana Special",
+            "price": 380,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mary pickford",
+            "price": 380,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cuba Libre",
+            "price": 360,
+            "type": "cocktails"
+        },
+        {
+            "name": "Ron Collins",
+            "price": 480,
+            "type": "cocktails"
+        },
+        {
+            "name": "Daiquiri",
+            "price": 500,
+            "type": "cocktails"
+        },
+        {
+            "name": "Presidente",
+            "price": 420,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cubanito",
+            "price": 450,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cubata",
+            "price": 550,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mojito",
+            "price": 500,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mojito Mafia",
+            "price": 520,
+            "type": "cocktails"
+        },
+        {
+            "name": "Dark sea",
+            "price": 550,
+            "type": "cocktails"
+        },
+        {
+            "name": "Limonada",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Pina colada de fresa virgen",
+            "price": 800,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Pina colada de fresa",
+            "price": 850,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Pina colada virgen",
+            "price": 750,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Pina colada",
+            "price": 800,
+            "type": "non_alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "Calle Los Pinos, esquina F y Foxa, Cojimar",
+        "council": null,
+        "municipe": "Habana del Este",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

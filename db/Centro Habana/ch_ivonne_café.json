@@ -1,0 +1,183 @@
+{
+    "name": "Ivonne Café",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "09:00",
+        "close": "22:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [],
+    "delivery": [],
+    "level": "medium",
+    "payment": [
+        "cash"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Pizza  queso blanco",
+            "price": 350,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Grande queso blanco",
+            "price": 500,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Pequeña Gouda",
+            "price": 600,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Grande Gouda",
+            "price": 850,
+            "type": "pizza"
+        },
+        {
+            "name": "Espagueti Blanco",
+            "price": 700,
+            "type": "pasta"
+        },
+        {
+            "name": "Espagueti Gouda",
+            "price": 850,
+            "type": "pasta"
+        },
+        {
+            "name": "Tartaleta",
+            "price": 350,
+            "type": "desserts"
+        },
+        {
+            "name": "Donut",
+            "price": 170,
+            "type": "desserts"
+        },
+        {
+            "name": "Coffee cake",
+            "price": 160,
+            "type": "desserts"
+        },
+        {
+            "name": "Empanada",
+            "price": 250,
+            "type": "desserts"
+        },
+        {
+            "name": "Cangrejitos",
+            "price": 250,
+            "type": "desserts"
+        },
+        {
+            "name": "Rollitos",
+            "price": 200,
+            "type": "desserts"
+        },
+        {
+            "name": "Pasteles",
+            "price": 100,
+            "type": "desserts"
+        },
+        {
+            "name": "Cakes",
+            "price": 4500,
+            "type": "desserts"
+        },
+        {
+            "name": "Expreso",
+            "price": 100,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cortado",
+            "price": 150,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Con leche",
+            "price": 100,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Americano",
+            "price": 100,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Capuchino",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Bombon",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Frapuccino",
+            "price": 750,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Aguas",
+            "price": 250,
+            "type": "water"
+        },
+        {
+            "name": "Refrescos",
+            "price": 250,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cervezas",
+            "price": 300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Limonada Frappe",
+            "price": 850,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Batido Helado",
+            "price": 850,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Batido Fruta",
+            "price": 550,
+            "type": "non_alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "San Lazaro entre Espada y Hospital",
+        "council": null,
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

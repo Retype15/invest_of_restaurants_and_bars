@@ -1,0 +1,296 @@
+{
+    "name": "Pizzas Vip",
+    "phone": "52844312",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "italian",
+    "hours": {
+        "open": "10:00",
+        "close": "22:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": null,
+    "delivery": [
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "transfer",
+        "cash"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": null,
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Croquetas de la Casa",
+            "price": 400.0,
+            "type": "starters"
+        },
+        {
+            "name": "Fritura de Malanga",
+            "price": 300.0,
+            "type": "starters"
+        },
+        {
+            "name": "Bolita de Queso",
+            "price": 650.0,
+            "type": "starters"
+        },
+        {
+            "name": "Fajita de Pechuga",
+            "price": 1100.0,
+            "type": "starters"
+        },
+        {
+            "name": "Ensalada Fr\u00eda",
+            "price": 370.0,
+            "type": "starters"
+        },
+        {
+            "name": "Papa Frita",
+            "price": 580.0,
+            "type": "sides"
+        },
+        {
+            "name": "Fajita de Cerdo",
+            "price": 1200.0,
+            "type": "starters"
+        },
+        {
+            "name": "Crema de Queso",
+            "price": 500.0,
+            "type": "soups"
+        },
+        {
+            "name": "Crema Virginia",
+            "price": 550.0,
+            "type": "soups"
+        },
+        {
+            "name": "Crema Aurora",
+            "price": 520.0,
+            "type": "soups"
+        },
+        {
+            "name": "Crema Mixta",
+            "price": 600.0,
+            "type": "soups"
+        },
+        {
+            "name": "Tacos de Jam\u00f3n",
+            "price": 1030.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tacos de Res",
+            "price": 1350.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tacos de Cangrejo",
+            "price": 1380.0,
+            "type": "starters"
+        },
+        {
+            "name": "Pizza de Queso",
+            "price": 800.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Cebolla",
+            "price": 1000.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Pimiento",
+            "price": 1000.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Jam\u00f3n",
+            "price": 1100.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Chorizo",
+            "price": 1050.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Hawaiana",
+            "price": 1260.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Bac\u00f3n",
+            "price": 1240.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Doble Queso",
+            "price": 1250.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Camar\u00f3n",
+            "price": 1700.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Res",
+            "price": 1300.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de At\u00fan con Cebolla",
+            "price": 1450.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Jam\u00f3n Serrano",
+            "price": 1570.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Aceituna",
+            "price": 1200.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Espaguetis Napolitano",
+            "price": 720.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis Bolo\u00f1esa",
+            "price": 1350.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis Carbonara",
+            "price": 1350.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis Alfredo",
+            "price": 1150.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis de At\u00fan",
+            "price": 1270.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis Pollo",
+            "price": 1120.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis de Camarones",
+            "price": 1400.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis Chorizo",
+            "price": 1150.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis Negro Di Mare",
+            "price": 1500.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Henike",
+            "price": 360.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Importada",
+            "price": 250.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza de Lata Cristal",
+            "price": 300.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza de Botella",
+            "price": 300.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Pomitos de Agua",
+            "price": 150.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco de Pomito",
+            "price": 180.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco de Lata",
+            "price": 220.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta",
+            "price": 300.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugos de Lata",
+            "price": 280.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugos de Cajita",
+            "price": 180.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Tig\u00f3n",
+            "price": 300.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco Importado",
+            "price": 280.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta Importada",
+            "price": 270.0,
+            "type": "non_alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Guanabacoa",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

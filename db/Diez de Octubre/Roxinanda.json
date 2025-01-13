@@ -1,0 +1,116 @@
+{
+    "name": "Roxinanda",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": null,
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "00:00",
+        "close": "24:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [],
+    "delivery": [],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer",
+        "card",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Hamburguesa cerdo",
+            "price": 640.0,
+            "type": "mains"
+        },
+        {
+            "name": "Hamburguesa pollo",
+            "price": 650.0,
+            "type": "mains"
+        },
+        {
+            "name": "Hamburguesa res",
+            "price": 690.0,
+            "type": "mains"
+        },
+        {
+            "name": "Sandwich",
+            "price": 350.0,
+            "type": "mains"
+        },
+        {
+            "name": "Sandwich especial",
+            "price": 450.0,
+            "type": "mains"
+        },
+        {
+            "name": "Refresco",
+            "price": 270.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Pepsi",
+            "price": 320.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugo lata",
+            "price": 280.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Kermato",
+            "price": 480.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Tigon",
+            "price": null,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cristal",
+            "price": 3000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Hollandia",
+            "price": 300.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Stella",
+            "price": 400.0,
+            "type": "alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "esquina de Santa Catalina y calzada de 10 de Octubre",
+        "council": null,
+        "municipe": "Diez de Octubre",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

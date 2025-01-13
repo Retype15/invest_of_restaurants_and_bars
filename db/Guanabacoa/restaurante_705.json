@@ -1,0 +1,145 @@
+{
+    "name": "El Mexicano",
+    "phone": "72635413",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "10:00",
+        "close": "22:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [],
+    "delivery": [
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash"
+    ],
+    "promo": false,
+    "rating": 4.7,
+    "reviews": 30,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Sandwich de Jam\u00f3n y Queso",
+            "price": 350.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Sandwich de Queso Jam\u00f3n Especial",
+            "price": 600.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Pizza Queso Gouda",
+            "price": 450.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Spaguetti Queso Gouda",
+            "price": 770.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Cerveza",
+            "price": 200.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Holandia",
+            "price": 200.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cristal Lata",
+            "price": 250.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cristal Botella",
+            "price": 200.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Shaka",
+            "price": 350.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Tigon",
+            "price": 300.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta 1 Hyper",
+            "price": 270.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Pepsi",
+            "price": 270.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Mirinda",
+            "price": 280.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Perla negra",
+            "price": 270.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Ironbeer",
+            "price": 240.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Orange",
+            "price": 220.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cola Polo",
+            "price": 220.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limon",
+            "price": 220.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Coca Cola",
+            "price": 280.0,
+            "type": "non_alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "Avenida Quinta",
+        "council": null,
+        "municipe": "Guanabacoa",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

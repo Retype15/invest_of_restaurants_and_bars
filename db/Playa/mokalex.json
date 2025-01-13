@@ -1,0 +1,248 @@
+{
+    "name": "Mokalex",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "09:00",
+        "close": "18:00",
+        "days": [
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [],
+    "delivery": [
+        "home",
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 3.3,
+    "reviews": null,
+    "amenities": [
+        "parking"
+    ],
+    "fb": "Mokaléx",
+    "ig": "@mokalex_cuba",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "sandwich cubano",
+            "price": 1500,
+            "type": "appetizer"
+        },
+        {
+            "name": "sandwich de jamón y queso",
+            "price": 1300,
+            "type": "appetizer"
+        },
+        {
+            "name": "empanada gallega",
+            "price": 800,
+            "type": "appetizer"
+        },
+        {
+            "name": "tabla de embutidos y quesos",
+            "price": 2300,
+            "type": "appetizer"
+        },
+        {
+            "name": "aceitunas",
+            "price": 700,
+            "type": "appetizer"
+        },
+        {
+            "name": "croissant con nutella",
+            "price": 1300,
+            "type": "appetizer"
+        },
+        {
+            "name": "croissant con jamon y queso",
+            "price": 1800,
+            "type": "appetizer"
+        },
+        {
+            "name": "ensalada fria",
+            "price": 800,
+            "type": "appetizer"
+        },
+        {
+            "name": "lasagna bolognesa",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "spaghetti con jamón",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "arroz frito",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "ensalada de humus con pechuga de pollo y vegetales",
+            "price": 1400,
+            "type": "mains"
+        },
+        {
+            "name": "pastelería",
+            "price": 350,
+            "type": "desserts"
+        },
+        {
+            "name": "torta de la casa",
+            "price": 700,
+            "type": "desserts"
+        },
+        {
+            "name": "h2o natural",
+            "price": 300,
+            "type": "water"
+        },
+        {
+            "name": "h2o gaseada",
+            "price": 400,
+            "type": "water"
+        },
+        {
+            "name": "h2o gaseada importada",
+            "price": 600,
+            "type": "water"
+        },
+        {
+            "name": "refresco",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "malta",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "energizante",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugos naturales",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugo óxido rojo",
+            "price": 600,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "cerveza",
+            "price": 450,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "michelada",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "copa de vino tinto",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "copa de vino blanco",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "crema catalana",
+            "price": 800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "havana club especial",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "havana club 7 años",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "whisky j&b",
+            "price": 800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "café exconvicto",
+            "price": 400,
+            "type": "infusions"
+        },
+        {
+            "name": "café yuma",
+            "price": 400,
+            "type": "infusions"
+        },
+        {
+            "name": "café suturado",
+            "price": 500,
+            "type": "infusions"
+        },
+        {
+            "name": "café conde",
+            "price": 600,
+            "type": "infusions"
+        },
+        {
+            "name": "café mulata",
+            "price": 550,
+            "type": "infusions"
+        },
+        {
+            "name": "frapuchino",
+            "price": 800,
+            "type": "infusions"
+        },
+        {
+            "name": "frapuhelado",
+            "price": 900,
+            "type": "infusions"
+        },
+        {
+            "name": "capuchino",
+            "price": 800,
+            "type": "infusions"
+        },
+        {
+            "name": "infusiones",
+            "price": 300,
+            "type": "infusions"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Playa",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.11213749973173,
+        "coords_y": -82.41048087665507
+    }
+}

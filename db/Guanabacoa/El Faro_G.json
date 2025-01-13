@@ -1,0 +1,153 @@
+{
+    "name": "El Faro",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "09:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "others"
+    ],
+    "delivery": [
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 3.7,
+    "reviews": null,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "ENCHILADO DE CANGREJO",
+            "price": 750.0,
+            "type": "starters"
+        },
+        {
+            "name": "CROQUETA DE LA CASA",
+            "price": 180.0,
+            "type": "starters"
+        },
+        {
+            "name": "ENSALADA FR\u00cdA DE JAM\u00d3N",
+            "price": 700.0,
+            "type": "starters"
+        },
+        {
+            "name": "ENSALADA FR\u00cdA DE AT\u00daN",
+            "price": 1200.0,
+            "type": "starters"
+        },
+        {
+            "name": "Picadera Tropical",
+            "price": 850.0,
+            "type": "starters"
+        },
+        {
+            "name": "Plato a lo Cubano",
+            "price": 800.0,
+            "type": "starters"
+        },
+        {
+            "name": "PAN CON HAMBURGUESA",
+            "price": 500.0,
+            "type": "mains"
+        },
+        {
+            "name": "HAMBURGUESA FARO",
+            "price": 900.0,
+            "type": "mains"
+        },
+        {
+            "name": "Costillas de Cerdo",
+            "price": 1200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Ruedas de pescado Grille",
+            "price": 1400.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo Grille",
+            "price": 950.0,
+            "type": "mains"
+        },
+        {
+            "name": "PIZZA EL FARO",
+            "price": 900.0,
+            "type": "pizza"
+        },
+        {
+            "name": "PIZZA COMBINADA",
+            "price": 900.0,
+            "type": "pizza"
+        },
+        {
+            "name": "PIZZA HAWAIANA",
+            "price": 900.0,
+            "type": "pizza"
+        },
+        {
+            "name": "PIZZA DE CEBOLLA",
+            "price": 900.0,
+            "type": "pizza"
+        },
+        {
+            "name": "PIZZA DE PIMIENTO",
+            "price": 900.0,
+            "type": "pizza"
+        },
+        {
+            "name": "PIZZA GUSTAZO (Doble Queso)",
+            "price": 900.0,
+            "type": "pizza"
+        },
+        {
+            "name": "PIZZA JAM\u00d3N",
+            "price": 900.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Spaguetti Napolitano",
+            "price": 750.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Spaguetti de Jam\u00f3n",
+            "price": 850.0,
+            "type": "pasta"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Guanabacoa",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

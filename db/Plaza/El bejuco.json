@@ -1,0 +1,331 @@
+{
+    "name": "El bejuco",
+    "phone": "50671673",
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "09:00",
+        "close": "04:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 20,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.8,
+    "reviews": 75,
+    "amenities": [
+        "wifi",
+        "parking"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Combo Dulce",
+            "price": 950,
+            "type": "starters"
+        },
+        {
+            "name": "Combo salado",
+            "price": 950,
+            "type": "starters"
+        },
+        {
+            "name": "Tostadas con Dulce",
+            "price": 250,
+            "type": "starters"
+        },
+        {
+            "name": "Tostadas con salsa",
+            "price": 250,
+            "type": "starters"
+        },
+        {
+            "name": "Fruta de Temporada",
+            "price": 250,
+            "type": "starters"
+        },
+        {
+            "name": "Picadera simple",
+            "price": 600,
+            "type": "starters"
+        },
+        {
+            "name": "Picadera guajira",
+            "price": 1200,
+            "type": "starters"
+        },
+        {
+            "name": "Chicharritas",
+            "price": 300,
+            "type": "starters"
+        },
+        {
+            "name": "Tamal con cerdo",
+            "price": 900,
+            "type": "starters"
+        },
+        {
+            "name": "Tamal",
+            "price": 200,
+            "type": "starters"
+        },
+        {
+            "name": "Tostones naturales",
+            "price": 400,
+            "type": "starters"
+        },
+        {
+            "name": "Tostones rellenos",
+            "price": 800,
+            "type": "starters"
+        },
+        {
+            "name": "Brusquetas",
+            "price": 500,
+            "type": "starters"
+        },
+        {
+            "name": "Queso",
+            "price": 150,
+            "type": "sides"
+        },
+        {
+            "name": "Jamon",
+            "price": 200,
+            "type": "sides"
+        },
+        {
+            "name": "Jamon y queso",
+            "price": 800,
+            "type": "sandwich"
+        },
+        {
+            "name": "Queso",
+            "price": 750,
+            "type": "sandwich"
+        },
+        {
+            "name": "Jamon",
+            "price": 750,
+            "type": "sandwich"
+        },
+        {
+            "name": "Pan con lechon",
+            "price": 1000,
+            "type": "sandwich"
+        },
+        {
+            "name": "Mojito",
+            "price": 500,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cuba libre",
+            "price": 450,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipirina",
+            "price": 400,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipiroska",
+            "price": 400,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipirisima",
+            "price": 400,
+            "type": "cocktails"
+        },
+        {
+            "name": "Canchanchara",
+            "price": 450,
+            "type": "cocktails"
+        },
+        {
+            "name": "Melonada",
+            "price": 700,
+            "type": "cocktails"
+        },
+        {
+            "name": "Verano en un vaso",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "Tinto de verano",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "Pina colada",
+            "price": 700,
+            "type": "cocktails"
+        },
+        {
+            "name": "Bejuco colorao",
+            "price": 700,
+            "type": "cocktails"
+        },
+        {
+            "name": "Bejuco Gin",
+            "price": 700,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cubata en reserva",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cubata con 7 años",
+            "price": 800,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cerveza Cristal(botella)",
+            "price": 350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Michelada",
+            "price": 750,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Agua",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugos Naturales",
+            "price": 250,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Batidos",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Línea Black Tears",
+            "price": 350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Línea 7 años",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Línea Smoky",
+            "price": 700,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Línea Santiago",
+            "price": 900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Línea Reserva",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Tequila Blanco",
+            "price": 350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Copa de vino",
+            "price": 500,
+            "type": "wines"
+        },
+        {
+            "name": "Tequila reposado",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cafe expreso",
+            "price": 150,
+            "type": "infusions"
+        },
+        {
+            "name": "Cortado",
+            "price": 250,
+            "type": "infusions"
+        },
+        {
+            "name": "Capuccino",
+            "price": 300,
+            "type": "infusions"
+        },
+        {
+            "name": "Frappuccino",
+            "price": 350,
+            "type": "infusions"
+        },
+        {
+            "name": "Macchiato",
+            "price": 250,
+            "type": "infusions"
+        },
+        {
+            "name": "Iced Latte",
+            "price": 350,
+            "type": "infusions"
+        },
+        {
+            "name": "Americano",
+            "price": 350,
+            "type": "infusions"
+        }
+    ],
+    "location": {
+        "street": "Calle Línea 1206 e/ 18 y 20",
+        "council": "Vedado",
+        "municipe": "Plaza de la Revolucion",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

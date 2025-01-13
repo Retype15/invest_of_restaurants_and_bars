@@ -1,0 +1,587 @@
+{
+    "name": "Dominica Like",
+    "phone": "53324796",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "italian",
+    "hours": {
+        "open": "12:00",
+        "close": "24:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person",
+        "phone"
+    ],
+    "delivery": [
+        "home",
+        "takeaway",
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "card",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.4,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "COCTEL DE CAMARONES",
+            "price": 1100,
+            "type": "appetizer"
+        },
+        {
+            "name": "PAPAS FRITAS",
+            "price": 450,
+            "type": "appetizer"
+        },
+        {
+            "name": "TOSTONES RELLENOS (JAMÓN Y QUESO)",
+            "price": 550,
+            "type": "appetizer"
+        },
+        {
+            "name": "CROQUETAS DE LA CASA (POLLO O PESCADO)",
+            "price": 500,
+            "type": "appetizer"
+        },
+        {
+            "name": "FRITURAS DE MALANGA",
+            "price": 450,
+            "type": "appetizer"
+        },
+        {
+            "name": "ENSALADA FRIA",
+            "price": 650,
+            "type": "appetizer"
+        },
+        {
+            "name": "CREMA DE QUESO",
+            "price": 600,
+            "type": "soups"
+        },
+        {
+            "name": "CREMA VIRGINIA",
+            "price": 600,
+            "type": "soups"
+        },
+        {
+            "name": "CREMA AURORA",
+            "price": 500,
+            "type": "soups"
+        },
+        {
+            "name": "CREMA REINA (POLLO)",
+            "price": 500,
+            "type": "soups"
+        },
+        {
+            "name": "ENTREMES DE JAMÓN, QUESO Y ACEITUNAS",
+            "price": 800,
+            "type": "appetizer"
+        },
+        {
+            "name": "TERNERA AL VINO",
+            "price": 1900,
+            "type": "mains"
+        },
+        {
+            "name": "BASTONES DE PECHUGA DE POLLO EMPANADOS",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "LOMO AHUMADO CON SALSA DE FRUTAS",
+            "price": 1200,
+            "type": "mains"
+        },
+        {
+            "name": "ENCHILADO DE CANGREJO",
+            "price": 1200,
+            "type": "seafood"
+        },
+        {
+            "name": "BISTEC DE CERDO GRILLE ENCEBOLLADO",
+            "price": 1400,
+            "type": "mains"
+        },
+        {
+            "name": "BISTEC URUGUAYO",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "FILETE DE PESCADO GRILLE",
+            "price": 1600,
+            "type": "seafood"
+        },
+        {
+            "name": "FILETE DE PESCADO CANCILLER",
+            "price": 1800,
+            "type": "seafood"
+        },
+        {
+            "name": "ROPA VIEJA",
+            "price": 1600,
+            "type": "mains"
+        },
+        {
+            "name": "VACA FRITA",
+            "price": 1600,
+            "type": "mains"
+        },
+        {
+            "name": "CORDON BLUE DE PECHUGA DE POLLO",
+            "price": 1700,
+            "type": "mains"
+        },
+        {
+            "name": "PECHUGA A LA PIÑA",
+            "price": 1400,
+            "type": "mains"
+        },
+        {
+            "name": "BISTEC DE PECHUGA GRILLE",
+            "price": 1400,
+            "type": "mains"
+        },
+        {
+            "name": "PIZZA NAPOLITANA",
+            "price": 1000,
+            "type": "pizza"
+        },
+        {
+            "name": "PIZZA HAWAIANA",
+            "price": 1300,
+            "type": "pizza"
+        },
+        {
+            "name": "PIZZA DOMINICA",
+            "price": 1650,
+            "type": "pizza"
+        },
+        {
+            "name": "LASAÑA",
+            "price": 1100,
+            "type": "pasta"
+        },
+        {
+            "name": "ESPAGUETIS NAPOLITANA",
+            "price": 950,
+            "type": "pasta"
+        },
+        {
+            "name": "ESPAGUETIS A LA CREMA CON BACON",
+            "price": 1100,
+            "type": "pasta"
+        },
+        {
+            "name": "ARROZ MORO",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "ARROZ BLANCO",
+            "price": 200,
+            "type": "sides"
+        },
+        {
+            "name": "ENSALADA DE VEGETALES MIXTO DE LA ESTACIÓN",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "PLATANITO MADURO FRITO",
+            "price": 250,
+            "type": "sides"
+        },
+        {
+            "name": "TOSTONES AL AJILLO",
+            "price": 250,
+            "type": "sides"
+        },
+        {
+            "name": "COPA DE HELADO",
+            "price": 400,
+            "type": "desserts"
+        },
+        {
+            "name": "TARTA DE CHOCOLATE CON HELADO",
+            "price": 400,
+            "type": "desserts"
+        },
+        {
+            "name": "JUGOS NATURALES DE FRUTAS",
+            "price": 180,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "LIMONADA NATURAL",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "LIMONADA FRAPE",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "LIMONADA FRESCURA",
+            "price": 450,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "BATIDOS DE HELADO",
+            "price": 600,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "SERVICIO DE MALTEADA",
+            "price": 200,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "REFRESCO COLA",
+            "price": 250,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "REFRESCO NARANJA",
+            "price": 250,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "REFRESCO LIMON",
+            "price": 250,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "REFRESCO 7 UP",
+            "price": 280,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "MALTA BUCAÑERO",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "ENERGIZANTE",
+            "price": 280,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "AGUA NATURAL IMPORTADA",
+            "price": 200,
+            "type": "water"
+        },
+        {
+            "name": "AGUA GASEADA CARCI CRESPQ",
+            "price": 300,
+            "type": "water"
+        },
+        {
+            "name": "CERVEZA HEINEKEN",
+            "price": 450,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "CERVEZA NACIONAL",
+            "price": 350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "CERVEZA IMPORTADA",
+            "price": 280,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "SERVICIO DE MICHELADA",
+            "price": 300,
+            "type": "cocktails"
+        },
+        {
+            "name": "SERVICIO DE CHELADA",
+            "price": 200,
+            "type": "cocktails"
+        },
+        {
+            "name": "MOJITO",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "CUBANITO",
+            "price": 800,
+            "type": "cocktails"
+        },
+        {
+            "name": "CUBA LIBRE",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "DAIQUIRI",
+            "price": 700,
+            "type": "cocktails"
+        },
+        {
+            "name": "DAIQUIRI DE FRUTAS",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "MARGARITA",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "MARGARITA BLUE",
+            "price": 950,
+            "type": "cocktails"
+        },
+        {
+            "name": "PIÑA COLADA",
+            "price": 850,
+            "type": "cocktails"
+        },
+        {
+            "name": "BLOODY MARY",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "BELLO MONTE",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "CAIPIRIÑA",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "CAIPIRISIMA",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "CAIPIROSKA",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "CANCHANCHARA",
+            "price": 850,
+            "type": "cocktails"
+        },
+        {
+            "name": "MANHATAN",
+            "price": 700,
+            "type": "cocktails"
+        },
+        {
+            "name": "CUBATA",
+            "price": 700,
+            "type": "cocktails"
+        },
+        {
+            "name": "SHOT MEDUSA",
+            "price": 850,
+            "type": "cocktails"
+        },
+        {
+            "name": "SCREW DRIVER",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "SANGRIA",
+            "price": 950,
+            "type": "cocktails"
+        },
+        {
+            "name": "TINTO VERANO",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "COCTEL BARBIE",
+            "price": 850,
+            "type": "cocktails"
+        },
+        {
+            "name": "BLUE LAGOON",
+            "price": 700,
+            "type": "cocktails"
+        },
+        {
+            "name": "EXPRESSO MARTINI",
+            "price": 800,
+            "type": "cocktails"
+        },
+        {
+            "name": "BLOW JOB",
+            "price": 850,
+            "type": "cocktails"
+        },
+        {
+            "name": "HABANA CLUB PROFUNDO",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "HABANA CLUB CUBAN SPICED",
+            "price": 450,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "HABANA CLUB SMOKY",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "HABANA CLUB 7 AÑOS",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "HABANA CLUB SELECCION DE MAESTROS",
+            "price": 950,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "SANTIAGO DE CUBA 8 AÑOS",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "SANTIAGO DE CUBA 11 AÑOS",
+            "price": 700,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "SANTIAGO DE CUBA 12 AÑOS",
+            "price": 800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "DON JULIO REPOSADO",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "JACK DANIELS",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "TEQUILA MONTE LA ROSA DORADO",
+            "price": 700,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "TEQUILA REINA DEL SUR FLOR SALVAJE",
+            "price": 750,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "TEQUILA OLMECA REPOSADO",
+            "price": 800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "TEQUILA OLMECA SILVER",
+            "price": 850,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "TEQUILA ROSE",
+            "price": 1000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "VODKA GREY GOOSE",
+            "price": 800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "BAILEYS",
+            "price": 900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "BEEFEATER",
+            "price": 900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "TANQUERAY",
+            "price": 900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "COPA DE VINO TINTO",
+            "price": 500,
+            "type": "wines"
+        },
+        {
+            "name": "COPA DE VINO BLANCO",
+            "price": 500,
+            "type": "wines"
+        },
+        {
+            "name": "CAFÉ Expreso",
+            "price": 120,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Cortado",
+            "price": 150,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Capuchino",
+            "price": 200,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Frapuchino",
+            "price": 450,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Bombón",
+            "price": 400,
+            "type": "infusions"
+        }
+    ],
+    "location": {
+        "street": "Calle 11. e/ 6 y 8",
+        "council": null,
+        "municipe": "Boyeros",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

@@ -1,0 +1,338 @@
+{
+    "name": "Spot Bar",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "24:00",
+        "close": "24:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.4,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": "https://www.instagram.com/sportbar_23y12/",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "waffles",
+            "price": 600,
+            "type": "breakfast"
+        },
+        {
+            "name": "americano",
+            "price": 1000,
+            "type": "breakfast"
+        },
+        {
+            "name": "brusquetas",
+            "price": 500,
+            "type": "appetizer"
+        },
+        {
+            "name": "croquetas del día",
+            "price": 550,
+            "type": "appetizer"
+        },
+        {
+            "name": "fritura de malanga",
+            "price": 450,
+            "type": "appetizer"
+        },
+        {
+            "name": "papas fritas",
+            "price": 550,
+            "type": "appetizer"
+        },
+        {
+            "name": "picadera 23 y 12",
+            "price": 2500,
+            "type": "appetizer"
+        },
+        {
+            "name": "emparedado de atún",
+            "price": 1400,
+            "type": "sandwich"
+        },
+        {
+            "name": "emparedado de pollo",
+            "price": 1400,
+            "type": "sandwich"
+        },
+        {
+            "name": "emparedado de lechón",
+            "price": 1600,
+            "type": "sandwich"
+        },
+        {
+            "name": "emparedado de jamón y queso",
+            "price": 1000,
+            "type": "sandwich"
+        },
+        {
+            "name": "emparedado de 23 y 12",
+            "price": 2000,
+            "type": "sandwich"
+        },
+        {
+            "name": "hamburguesa clásica de cerdo",
+            "price": 1450,
+            "type": "mains"
+        },
+        {
+            "name": "tacos de pollo, 3 unidades",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "tacos de pollo, 8 unidades",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "tacos de cerdo, 3 unidades",
+            "price": 2500,
+            "type": "mains"
+        },
+        {
+            "name": "tacos de camarón, 3 unidades",
+            "price": 2500,
+            "type": "mains"
+        },
+        {
+            "name": "pizza napoles",
+            "price": 1250,
+            "type": "pizza"
+        },
+        {
+            "name": "pasta boloñesa",
+            "price": 1800,
+            "type": "pasta"
+        },
+        {
+            "name": "pasta pesto",
+            "price": 950,
+            "type": "pasta"
+        },
+        {
+            "name": "pasta napoles",
+            "price": 1200,
+            "type": "pasta"
+        },
+        {
+            "name": "pasta aljillo",
+            "price": 1000,
+            "type": "pasta"
+        },
+        {
+            "name": "cerveza cristal",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza cristal extra",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza bucanero",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza bucanero max",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza dispensada",
+            "price": 350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "agua nacional",
+            "price": 250,
+            "type": "water"
+        },
+        {
+            "name": "agua importada",
+            "price": 450,
+            "type": "water"
+        },
+        {
+            "name": "refresco nacional",
+            "price": 280,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "refresco importado",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "malta",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "energizante",
+            "price": 600,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "limonada natural",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "limonada c/ hierba buena",
+            "price": 425,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugo natural",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugo natural",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "café américano",
+            "price": 250,
+            "type": "infusions"
+        },
+        {
+            "name": "café espresso",
+            "price": 250,
+            "type": "infusions"
+        },
+        {
+            "name": "café espresso c/ coffemate",
+            "price": 300,
+            "type": "infusions"
+        },
+        {
+            "name": "café cortadito",
+            "price": 300,
+            "type": "infusions"
+        },
+        {
+            "name": "café bombom",
+            "price": 400,
+            "type": "infusions"
+        },
+        {
+            "name": "café cappuccino",
+            "price": 500,
+            "type": "infusions"
+        },
+        {
+            "name": "café affocato",
+            "price": 500,
+            "type": "infusions"
+        },
+        {
+            "name": "café frapuccino",
+            "price": 550,
+            "type": "infusions"
+        },
+        {
+            "name": "café frapuccino 23 y 12",
+            "price": 650,
+            "type": "infusions"
+        },
+        {
+            "name": "batido de frutas",
+            "price": 500,
+            "type": "desserts"
+        },
+        {
+            "name": "suero de helado",
+            "price": 650,
+            "type": "desserts"
+        },
+        {
+            "name": "malteada",
+            "price": 600,
+            "type": "desserts"
+        },
+        {
+            "name": "CR7",
+            "price": 700,
+            "type": "cocktails"
+        },
+        {
+            "name": "messi",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "lakers",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "habana mule",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "canchancara habana",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "michelada 23 y 12",
+            "price": 500,
+            "type": "cocktails"
+        },
+        {
+            "name": "zombie",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "vampiro",
+            "price": 700,
+            "type": "cocktails"
+        }
+    ],
+    "location": {
+        "street": "23 y 12, Vedado, Plaza",
+        "council": null,
+        "municipe": "Plaza de la Revolucion",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": "23.12739793607911",
+        "coords_y": "-82.3996550067848"
+    }
+}

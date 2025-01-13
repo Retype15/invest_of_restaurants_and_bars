@@ -1,0 +1,331 @@
+{
+    "name": "La Catedral",
+    "phone": "078300793",
+    "email": "catedralrestaurantecuba@gmail.com",
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "08:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "card",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": "https://www.facebook.com/mirestaurantencuba",
+    "ig": "https://www.instagram.com/lacatedralcuba",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "bombones de queso y pescado",
+            "price": 499,
+            "type": "appetizer"
+        },
+        {
+            "name": "mariquitas de yuca",
+            "price": 350,
+            "type": "appetizer"
+        },
+        {
+            "name": "brusquetas",
+            "price": 350,
+            "type": "appetizer"
+        },
+        {
+            "name": "garbanzos fritos",
+            "price": 700,
+            "type": "appetizer"
+        },
+        {
+            "name": "entremeses surtido",
+            "price": 799,
+            "type": "appetizer"
+        },
+        {
+            "name": "picadera obispo",
+            "price": 1350,
+            "type": "appetizer"
+        },
+        {
+            "name": "fuente de eperlan",
+            "price": 1400,
+            "type": "appetizer"
+        },
+        {
+            "name": "tabla de embutidos",
+            "price": 1500,
+            "type": "appetizer"
+        },
+        {
+            "name": "tacos de cerdo y pollo",
+            "price": 1500,
+            "type": "appetizer"
+        },
+        {
+            "name": "fajitas de pollo frito",
+            "price": 1500,
+            "type": "appetizer"
+        },
+        {
+            "name": "tabla de jamón serrano, chorizo y queso",
+            "price": 1900,
+            "type": "appetizer"
+        },
+        {
+            "name": "lasaña de res",
+            "price": 1600,
+            "type": "mains"
+        },
+        {
+            "name": "ropa vieja",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "bistec de cerdo al mojo criollo",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "fajita de cerdo al grill",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "lonjas de pierna ahumado salsa agridulce",
+            "price": 1700,
+            "type": "mains"
+        },
+        {
+            "name": "lonjas de pierna ahumado con queso y piña",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "milanesa de cerdo con espaguettis",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "arroz frito",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "arroz frito especial con camarones",
+            "price": 1700,
+            "type": "mains"
+        },
+        {
+            "name": "pollo deshuesado a la plancha",
+            "price": 1400,
+            "type": "mains"
+        },
+        {
+            "name": "fajitas de pollo salteadas",
+            "price": 1400,
+            "type": "mains"
+        },
+        {
+            "name": "milanesa de pollo con espaguettis",
+            "price": 1400,
+            "type": "mains"
+        },
+        {
+            "name": "arroz con pollo a la chorrera",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "filete de pescado maitre de hotel",
+            "price": 1700,
+            "type": "mains"
+        },
+        {
+            "name": "filete de pescado frito",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "refrescos",
+            "price": 199,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "limonada de fresas",
+            "price": 250,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugos de frutas",
+            "price": 199,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "agua natural",
+            "price": 199,
+            "type": "water"
+        },
+        {
+            "name": "malta perla negra",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "cristal (barril) 500ml",
+            "price": 350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cristal (botella)",
+            "price": 350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "bucanero (barril) 500ml",
+            "price": 350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "bucanero (botella)",
+            "price": 350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cubetazo 4+1",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "michelada clásica",
+            "price": 425,
+            "type": "cocktails"
+        },
+        {
+            "name": "michelada al mojito",
+            "price": 425,
+            "type": "cocktails"
+        },
+        {
+            "name": "michelada vampira",
+            "price": 425,
+            "type": "cocktails"
+        },
+        {
+            "name": "michelada salsanera",
+            "price": 425,
+            "type": "cocktails"
+        },
+        {
+            "name": "mojito",
+            "price": 340,
+            "type": "cocktails"
+        },
+        {
+            "name": "daiquirí",
+            "price": 340,
+            "type": "cocktails"
+        },
+        {
+            "name": "daiquirí de fresas",
+            "price": 499,
+            "type": "cocktails"
+        },
+        {
+            "name": "cubalibre",
+            "price": 340,
+            "type": "cocktails"
+        },
+        {
+            "name": "cubanito",
+            "price": 399,
+            "type": "cocktails"
+        },
+        {
+            "name": "blody mary",
+            "price": 499,
+            "type": "cocktails"
+        },
+        {
+            "name": "sangria",
+            "price": 499,
+            "type": "cocktails"
+        },
+        {
+            "name": "screw driver",
+            "price": 599,
+            "type": "cocktails"
+        },
+        {
+            "name": "caipiriña",
+            "price": 599,
+            "type": "cocktails"
+        },
+        {
+            "name": "piña colada",
+            "price": 599,
+            "type": "cocktails"
+        },
+        {
+            "name": "martini",
+            "price": 599,
+            "type": "cocktails"
+        },
+        {
+            "name": "old fashioned",
+            "price": 599,
+            "type": "cocktails"
+        },
+        {
+            "name": "whiskey sour",
+            "price": 599,
+            "type": "cocktails"
+        },
+        {
+            "name": "manhatan",
+            "price": 599,
+            "type": "cocktails"
+        },
+        {
+            "name": "negroni",
+            "price": 599,
+            "type": "cocktails"
+        }
+    ],
+    "location": {
+        "street": "Calle 8 e/ Calzada 5ta, Vedado",
+        "council": null,
+        "municipe": "Plaza de la Revolucion",
+        "province": "La Habana",
+        "zip": "10400",
+        "country": "Cuba",
+        "coords_x": "23.135892638151837",
+        "coords_y": "-82.40453312083959"
+    }
+}

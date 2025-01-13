@@ -1,0 +1,441 @@
+{
+    "name": "La Lola",
+    "phone": "+53 53654726",
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "14:00",
+        "close": "02:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "home"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "card",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Brusquetas",
+            "price": 700,
+            "type": "appetizer"
+        },
+        {
+            "name": "Croquetas de jamón",
+            "price": 600,
+            "type": "appetizer"
+        },
+        {
+            "name": "Papas fritas",
+            "price": 550,
+            "type": "appetizer"
+        },
+        {
+            "name": "Papas gratinadas",
+            "price": 800,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostón relleno de atún",
+            "price": 1100,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostón relleno de jamón y queso",
+            "price": 800,
+            "type": "appetizer"
+        },
+        {
+            "name": "Bolitas de queso",
+            "price": 730,
+            "type": "appetizer"
+        },
+        {
+            "name": "Frituras de malanga",
+            "price": 500,
+            "type": "appetizer"
+        },
+        {
+            "name": "Picadera Lalola",
+            "price": 4000,
+            "type": "appetizer"
+        },
+        {
+            "name": "Picadera sencilla",
+            "price": 1500,
+            "type": "appetizer"
+        },
+        {
+            "name": "Bocadillo de jamón y queso",
+            "price": 500,
+            "type": "sandwich"
+        },
+        {
+            "name": "Sándwich de jamón y queso/papas",
+            "price": 1200,
+            "type": "sandwich"
+        },
+        {
+            "name": "Sándwich cubano",
+            "price": 1100,
+            "type": "sandwich"
+        },
+        {
+            "name": "Sándwich de jamón y queso",
+            "price": 900,
+            "type": "sandwich"
+        },
+        {
+            "name": "Canelones",
+            "price": 1350,
+            "type": "mains"
+        },
+        {
+            "name": "Penne napolitano",
+            "price": 1100,
+            "type": "pasta"
+        },
+        {
+            "name": "Pizza napolitana",
+            "price": 1200,
+            "type": "pizza"
+        },
+        {
+            "name": "Espagueti napolitano",
+            "price": 1100,
+            "type": "pasta"
+        },
+        {
+            "name": "Espagueti a la carbonara",
+            "price": 1970,
+            "type": "pasta"
+        },
+        {
+            "name": "Tacos de carne",
+            "price": 900,
+            "type": "mains"
+        },
+        {
+            "name": "Hamburguesa",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "Lonjas de cerdo",
+            "price": 3500,
+            "type": "mains"
+        },
+        {
+            "name": "Nuggets de pollo",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "Masas de cerdo",
+            "price": 1750,
+            "type": "mains"
+        },
+        {
+            "name": "Piña Colada",
+            "price": 700,
+            "type": "cocktails"
+        },
+        {
+            "name": "Ron Collins",
+            "price": 450,
+            "type": "cocktails"
+        },
+        {
+            "name": "Sangría",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "Screw Driver",
+            "price": 475,
+            "type": "cocktails"
+        },
+        {
+            "name": "Daiquiri",
+            "price": 350,
+            "type": "cocktails"
+        },
+        {
+            "name": "Gintonic",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "John Collins",
+            "price": 450,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mojito",
+            "price": 350,
+            "type": "cocktails"
+        },
+        {
+            "name": "Margarita",
+            "price": 950,
+            "type": "cocktails"
+        },
+        {
+            "name": "Blue Hawai",
+            "price": 550,
+            "type": "cocktails"
+        },
+        {
+            "name": "Blue Lagoon",
+            "price": 550,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipirinha",
+            "price": 350,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipirisima",
+            "price": 350,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipiroska",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cuba Libre",
+            "price": 350,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cubanito",
+            "price": 450,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cubata",
+            "price": 400,
+            "type": "cocktails"
+        },
+        {
+            "name": "Chelada",
+            "price": 150,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Michelada",
+            "price": 350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Agua natural Cool Heaven",
+            "price": 350,
+            "type": "water"
+        },
+        {
+            "name": "Energizante",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Energizante Tigon Drink",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Bucanero lata",
+            "price": 350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Heineken botella",
+            "price": 574,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Cristal lata",
+            "price": 350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Cristal botella",
+            "price": 420,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Super Bock botella",
+            "price": 370,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Sol",
+            "price": 480,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Limonada Frape",
+            "price": 450,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Kermato",
+            "price": 580,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta Optimal",
+            "price": 370,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco naranja",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco de limón",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco cola",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco Pepsi",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Café Bombom",
+            "price": 350,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Cortadito",
+            "price": 300,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Express",
+            "price": 200,
+            "type": "infusions"
+        },
+        {
+            "name": "Helado",
+            "price": 900,
+            "type": "desserts"
+        },
+        {
+            "name": "Copa Lolita Ración",
+            "price": 2000,
+            "type": "desserts"
+        },
+        {
+            "name": "Jugo La Estancia",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malteada",
+            "price": 200,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cubetazo La Lola",
+            "price": 4200,
+            "type": "others"
+        },
+        {
+            "name": "Cubetazo Picadera",
+            "price": 3300,
+            "type": "others"
+        },
+        {
+            "name": "Botella de whisky Ballantines",
+            "price": 10000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Botella de whisky Johnnie Walker Red Label",
+            "price": 13000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Botella de whisky Johnnie Walker Red Label 1LT",
+            "price": 15000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Botella de whisky Jamerson",
+            "price": 10000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Botella de whisky Chivas Regal",
+            "price": 15000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Botella Ron Havana Club Smokey",
+            "price": 5000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Botella Ron Havana Club Reserva",
+            "price": 5000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Whisky Chivas Regal 12 años (4.5L)",
+            "price": 125440,
+            "type": "alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "Calle Ayestarán entre San Pablo y Pedro Pérez",
+        "council": null,
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

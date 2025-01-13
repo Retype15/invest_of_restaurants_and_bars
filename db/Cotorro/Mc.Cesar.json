@@ -1,0 +1,296 @@
+{
+    "name": "Mc.Cesar",
+    "phone": "+5359770018",
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "09:30",
+        "close": "23:00",
+        "days": [
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 100,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "takeaway",
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer",
+        "card"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Dados jamo-queso",
+            "price": 1000.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Eperlan",
+            "price": 1300.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Ensalada fria",
+            "price": 300.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostones rellenos",
+            "price": 600.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostones Criollos",
+            "price": 350.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Croquetas de la casa",
+            "price": 500.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Picadera Mc.Cesar",
+            "price": 2500.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Hamburguesa de Cerdo",
+            "price": 500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pan de Atun",
+            "price": 600.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pan de jamon-queso",
+            "price": 500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pan con pechuga",
+            "price": 500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pan con bistec",
+            "price": 500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pizza",
+            "price": 500.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Espaguetis",
+            "price": 500.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Garbanzos fritos",
+            "price": 1000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Higado de cerdo a la italiana",
+            "price": 1000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Salteado de Vegetales",
+            "price": 1500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Uruguayo",
+            "price": 1500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Brocha Cerdo-Pollo",
+            "price": 1700.0,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec Grille",
+            "price": 1300.0,
+            "type": "mains"
+        },
+        {
+            "name": "Faja de Cerdo",
+            "price": 1400.0,
+            "type": "mains"
+        },
+        {
+            "name": "Escalope",
+            "price": 1400.0,
+            "type": "mains"
+        },
+        {
+            "name": "Solomillo",
+            "price": 2000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo ahumado deshuesado",
+            "price": 1300.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga Grille",
+            "price": 1300.0,
+            "type": "mains"
+        },
+        {
+            "name": "Salteado de Pollo",
+            "price": 1400.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo deshuesado",
+            "price": 900.0,
+            "type": "mains"
+        },
+        {
+            "name": "Goldon Blue",
+            "price": 1500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Suprema Princesa",
+            "price": 1500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa Vieja",
+            "price": 1800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Vaca Frita",
+            "price": 1800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de Res",
+            "price": 2000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado Grille",
+            "price": 1500.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Pescado Mc.Cesar",
+            "price": 2500.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Canciller",
+            "price": 1800.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Pescado Empanado",
+            "price": 1600.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Pescado con salsa de limon",
+            "price": 1700.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Camaron Grille",
+            "price": 1900.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Camaron al ajillo",
+            "price": 1900.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Camaron Enchilado",
+            "price": 2000.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Arroz a la campesina",
+            "price": 1500.0,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz Moro",
+            "price": 300.0,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz Blanco",
+            "price": 200.0,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz Frito",
+            "price": 500.0,
+            "type": "sides"
+        },
+        {
+            "name": "Torrejas",
+            "price": 500.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Ensalada Helado",
+            "price": 500.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Bola de Helado",
+            "price": 100.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Batido de Helado",
+            "price": 500.0,
+            "type": "desserts"
+        }
+    ],
+    "location": {
+        "street": "calle primer entre 220 y 221",
+        "council": null,
+        "municipe": "Cotorro",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

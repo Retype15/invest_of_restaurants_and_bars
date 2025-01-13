@@ -1,0 +1,241 @@
+{
+    "name": "Food Master",
+    "phone": null,
+    "email": null,
+    "web": "https://linktr.ee/foodmaster.havana",
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "10:30",
+        "close": "21:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "home",
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.0,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": "Food Master La Habana",
+    "ig": "@foodmaster.havana",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "picadera food master",
+            "price": 2700,
+            "type": "appetizer"
+        },
+        {
+            "name": "salchichas al grill",
+            "price": 1600,
+            "type": "appetizer"
+        },
+        {
+            "name": "quesadilla",
+            "price": 990,
+            "type": "appetizer"
+        },
+        {
+            "name": "tacos",
+            "price": 990,
+            "type": "appetizer"
+        },
+        {
+            "name": "croquetas",
+            "price": 700,
+            "type": "appetizer"
+        },
+        {
+            "name": "empanadas",
+            "price": 750,
+            "type": "appetizer"
+        },
+        {
+            "name": "papas fritas",
+            "price": 690,
+            "type": "appetizer"
+        },
+        {
+            "name": "big master burger",
+            "price": 3500,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa suiza",
+            "price": 2950,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa max",
+            "price": 2700,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa la granja",
+            "price": 2550,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa italiana",
+            "price": 2450,
+            "type": "mains"
+        },
+        {
+            "name": "pizza margarita",
+            "price": 1900,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza margarita con jamon",
+            "price": 2400,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza diavola",
+            "price": 2600,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de jamon serrano",
+            "price": 3200,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de atun",
+            "price": 3100,
+            "type": "pizza"
+        },
+        {
+            "name": "la prohibida en italia",
+            "price": 3200,
+            "type": "pizza"
+        },
+        {
+            "name": "empanadas de piña y queso",
+            "price": 750,
+            "type": "desserts"
+        },
+        {
+            "name": "muffin",
+            "price": 550,
+            "type": "desserts"
+        },
+        {
+            "name": "helado",
+            "price": 750,
+            "type": "desserts"
+        },
+        {
+            "name": "jugo natural",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugo cajita",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "fresh de pepino",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "smoothie de frutas",
+            "price": 600,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "batido de helado",
+            "price": 750,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "batido de helado y frutas",
+            "price": 750,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "vino por copa",
+            "price": 900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "gin & tonic",
+            "price": 1200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "chelada",
+            "price": 900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "michelada",
+            "price": 1000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "sangria",
+            "price": 1100,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "sangria blanca",
+            "price": 1100,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tinto de verano",
+            "price": 900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "spirit coctel",
+            "price": 800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza gama alta",
+            "price": 800,
+            "type": "alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Playa",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.10836341952027,
+        "coords_y": -82.43424715134823
+    }
+}

@@ -1,0 +1,602 @@
+{
+    "name": "KMPARY",
+    "phone": "52766526",
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "22:00",
+        "close": "05:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "others"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": "https://www.facebook.com/profile.php?id=100039889495120",
+    "ig": "@kmpary_bar_restaurant",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Croquetas",
+            "price": 700,
+            "type": "appetizer"
+        },
+        {
+            "name": "Frituras d´Malanga",
+            "price": 500,
+            "type": "appetizer"
+        },
+        {
+            "name": "Fajitas d´Pollo",
+            "price": 1020,
+            "type": "appetizer"
+        },
+        {
+            "name": "Fajitas d´Cerdo",
+            "price": 1400,
+            "type": "appetizer"
+        },
+        {
+            "name": "Eperlan d´Pescado",
+            "price": 1150,
+            "type": "appetizer"
+        },
+        {
+            "name": "Brusquetas",
+            "price": 450,
+            "type": "appetizer"
+        },
+        {
+            "name": "Brusquetas d´Atún",
+            "price": 800,
+            "type": "appetizer"
+        },
+        {
+            "name": "Ensalada Fria d´Jamón",
+            "price": 690,
+            "type": "appetizer"
+        },
+        {
+            "name": "Ensalada Fria d´Atún",
+            "price": 780,
+            "type": "appetizer"
+        },
+        {
+            "name": "Aros de Cebolla Rebosado",
+            "price": 550,
+            "type": "appetizer"
+        },
+        {
+            "name": "Coctel de Camarones",
+            "price": 1600,
+            "type": "appetizer"
+        },
+        {
+            "name": "Camarón Rebosado",
+            "price": 2050,
+            "type": "appetizer"
+        },
+        {
+            "name": "Papas Fritas",
+            "price": 700,
+            "type": "appetizer"
+        },
+        {
+            "name": "Picadera KM",
+            "price": 2800,
+            "type": "appetizer"
+        },
+        {
+            "name": "Bolitas d´Queso",
+            "price": 850,
+            "type": "appetizer"
+        },
+        {
+            "name": "Entremes Surtido",
+            "price": 1150,
+            "type": "appetizer"
+        },
+        {
+            "name": "Maripositas Chinas",
+            "price": 470,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostones Natural",
+            "price": 550,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostones R/ Jamón",
+            "price": 670,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostones R/ Res",
+            "price": 780,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostones R/ Atún",
+            "price": 920,
+            "type": "appetizer"
+        },
+        {
+            "name": "Ceviche de Peruano",
+            "price": 1200,
+            "type": "appetizer"
+        },
+        {
+            "name": "Ceviche KM (Camarón y Pescado)",
+            "price": 1700,
+            "type": "appetizer"
+        },
+        {
+            "name": "Finos cortes de Jamón Serrano",
+            "price": 1700,
+            "type": "appetizer"
+        },
+        {
+            "name": "Carpacio de Pulpo",
+            "price": 3000,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tamal De Res KM",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "Bruschetta de Cerdo",
+            "price": 2500,
+            "type": "mains"
+        },
+        {
+            "name": "Cazuela de Marisco",
+            "price": 4000,
+            "type": "mains"
+        },
+        {
+            "name": "Mar y Tierra",
+            "price": 5700,
+            "type": "mains"
+        },
+        {
+            "name": "Solomillo de Cerdo",
+            "price": 2300,
+            "type": "mains"
+        },
+        {
+            "name": "Lonjas de Cerdo Asada",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "Corte Wagyu con Queso azul",
+            "price": 3050,
+            "type": "mains"
+        },
+        {
+            "name": "Corte Wagyu a la Pimienta",
+            "price": 2800,
+            "type": "mains"
+        },
+        {
+            "name": "Corte Wagyu al Grill",
+            "price": 2800,
+            "type": "mains"
+        },
+        {
+            "name": "Corte Wagyu al Vino",
+            "price": 2800,
+            "type": "mains"
+        },
+        {
+            "name": "Entrecot",
+            "price": 3900,
+            "type": "mains"
+        },
+        {
+            "name": "Churrasco de Res",
+            "price": 3850,
+            "type": "mains"
+        },
+        {
+            "name": "ChatteuBriano",
+            "price": 3500,
+            "type": "mains"
+        },
+        {
+            "name": "Sirloin",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "Garbanzo Frito",
+            "price": 1550,
+            "type": "mains"
+        },
+        {
+            "name": "Tamal en Casuela",
+            "price": 1150,
+            "type": "mains"
+        },
+        {
+            "name": "Tamal con Carne",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos de Cerdo",
+            "price": 1300,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos de Res",
+            "price": 1400,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos de Camarones",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz Frito",
+            "price": 1300,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz Frito Especial",
+            "price": 2050,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de Cerdo Encebollado",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "Camarón Enchilado",
+            "price": 2300,
+            "type": "mains"
+        },
+        {
+            "name": "Camarón al Ajillo",
+            "price": 2300,
+            "type": "mains"
+        },
+        {
+            "name": "Gordon Blue",
+            "price": 2200,
+            "type": "mains"
+        },
+        {
+            "name": "Filete d´ Pescado Canciller",
+            "price": 2200,
+            "type": "mains"
+        },
+        {
+            "name": "Uruguayo",
+            "price": 2300,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de Filete de Cerdo",
+            "price": 2300,
+            "type": "mains"
+        },
+        {
+            "name": "Solomillo de Cerdo",
+            "price": 2300,
+            "type": "mains"
+        },
+        {
+            "name": "Fricasé de Cerdo",
+            "price": 1850,
+            "type": "mains"
+        },
+        {
+            "name": "Chuleta de Cerdo",
+            "price": 2500,
+            "type": "mains"
+        },
+        {
+            "name": "Papilot de Pescado",
+            "price": 1820,
+            "type": "mains"
+        },
+        {
+            "name": "Rollo de Filete de cerdo relleno",
+            "price": 2800,
+            "type": "mains"
+        },
+        {
+            "name": "Vaca Frita de Res",
+            "price": 1950,
+            "type": "mains"
+        },
+        {
+            "name": "Masa de Cerdo Frita",
+            "price": 1980,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa Vieja de Res",
+            "price": 1700,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de Pescado Grille",
+            "price": 1390,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de Riñonada Encebollado",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga Grille Encebollada",
+            "price": 1400,
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga al Curri",
+            "price": 1260,
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga a la Crema c/ Chocolate",
+            "price": 1280,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de Cerdo Salteado",
+            "price": 1600,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de Cerdo a la Doch",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "Rollo de Pechuga rellena",
+            "price": 1850,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de Pescado",
+            "price": 1390,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de Pescado Napado",
+            "price": 1700,
+            "type": "mains"
+        },
+        {
+            "name": "Grillada Mixta",
+            "price": 5700,
+            "type": "mains"
+        },
+        {
+            "name": "Filete Jonville",
+            "price": 2300,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo de Cerdo Ahumado",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "Rueda Pescado - Plancha",
+            "price": 1760,
+            "type": "mains"
+        },
+        {
+            "name": "Rueda Pescado - Ajillo",
+            "price": 1870,
+            "type": "mains"
+        },
+        {
+            "name": "Rueda Pescado - en salsa Criolla",
+            "price": 1870,
+            "type": "mains"
+        },
+        {
+            "name": "Langosta Batabano",
+            "price": 2800,
+            "type": "mains"
+        },
+        {
+            "name": "Langosta Grille",
+            "price": 2300,
+            "type": "mains"
+        },
+        {
+            "name": "Langosta Termidor",
+            "price": 2800,
+            "type": "mains"
+        },
+        {
+            "name": "Langosta Jonville",
+            "price": 3400,
+            "type": "mains"
+        },
+        {
+            "name": "Langosta Enchilada",
+            "price": 2400,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz Blanco",
+            "price": 170,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz Moro",
+            "price": 340,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz Pilaf",
+            "price": 380,
+            "type": "sides"
+        },
+        null,
+        {
+            "name": "Cerveza Cristal",
+            "price": 420,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Blue",
+            "price": 300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Sol",
+            "price": 700,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Corona",
+            "price": 700,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Refresco Nacional",
+            "price": 305,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco Importado",
+            "price": 370,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Red Bull",
+            "price": 700,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua Natural",
+            "price": 250,
+            "type": "water"
+        },
+        {
+            "name": "Agua Tonica",
+            "price": 230,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta Bucanero",
+            "price": 370,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta Importada",
+            "price": 370,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malteada",
+            "price": 280,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Kermato",
+            "price": 560,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada",
+            "price": 560,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugo de frutas",
+            "price": 155,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Batido de Helado",
+            "price": 830,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugo de caja",
+            "price": 280,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Leche Condensada Malteada",
+            "price": 255,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Pote de Helado 400 ml",
+            "price": 560,
+            "type": "desserts"
+        },
+        {
+            "name": "Pote de Helado 1L",
+            "price": 930,
+            "type": "desserts"
+        },
+        {
+            "name": "Café Expreso",
+            "price": 100,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Cortado",
+            "price": 130,
+            "type": "infusions"
+        },
+        {
+            "name": "Café con Leche",
+            "price": 280,
+            "type": "infusions"
+        }
+    ],
+    "location": {
+        "street": "Calle 184, #28511, e/ 285 A y 289",
+        "council": "Baluarte",
+        "municipe": "Boyeros",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

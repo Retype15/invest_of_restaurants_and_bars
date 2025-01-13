@@ -1,0 +1,391 @@
+{
+    "name": "Wapa",
+    "phone": "+5378314553",
+    "email": "info@wapacafeteria.com",
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "09:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "home",
+        "takeaway",
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": "https://www.facebook.com/Wapa537/?locale=es_LA",
+    "ig": "https://www.instagram.com/wapa537/?hl=es",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "combo 1",
+            "price": 1500,
+            "type": "breakfast"
+        },
+        {
+            "name": "combo 2",
+            "price": 1900,
+            "type": "breakfast"
+        },
+        {
+            "name": "combo 3 infantil",
+            "price": 1100,
+            "type": "breakfast"
+        },
+        {
+            "name": "omelette jardinera",
+            "price": 1200,
+            "type": "breakfast"
+        },
+        {
+            "name": "omelette tentación",
+            "price": 1200,
+            "type": "breakfast"
+        },
+        {
+            "name": "omelette del campo",
+            "price": 1100,
+            "type": "breakfast"
+        },
+        {
+            "name": "omelette",
+            "price": 600,
+            "type": "breakfast"
+        },
+        {
+            "name": "croquetas de la abuela",
+            "price": 700,
+            "type": "appetizer"
+        },
+        {
+            "name": "croquetas de jamón serrano",
+            "price": 1000,
+            "type": "appetizer"
+        },
+        {
+            "name": "bolitas de queso",
+            "price": 1000,
+            "type": "appetizer"
+        },
+        {
+            "name": "crema de queso",
+            "price": 600,
+            "type": "appetizer"
+        },
+        {
+            "name": "ceviche de pescado",
+            "price": 2000,
+            "type": "appetizer"
+        },
+        {
+            "name": "ceviche mixto tropical",
+            "price": 2600,
+            "type": "appetizer"
+        },
+        {
+            "name": "ceviche de camarón",
+            "price": 2900,
+            "type": "appetizer"
+        },
+        {
+            "name": "cóctel de camarón",
+            "price": 2000,
+            "type": "appetizer"
+        },
+        {
+            "name": "bastón de pollo",
+            "price": 1900,
+            "type": "appetizer"
+        },
+        {
+            "name": "daditos de pescado",
+            "price": 2100,
+            "type": "appetizer"
+        },
+        {
+            "name": "fritura de malanga",
+            "price": 500,
+            "type": "appetizer"
+        },
+        {
+            "name": "brusquetas",
+            "price": 900,
+            "type": "appetizer"
+        },
+        {
+            "name": "tartaleta de jamón y queso",
+            "price": 900,
+            "type": "appetizer"
+        },
+        {
+            "name": "tartaleta de pollo",
+            "price": 1350,
+            "type": "appetizer"
+        },
+        {
+            "name": "tartaleta de atún",
+            "price": 1100,
+            "type": "appetizer"
+        },
+        {
+            "name": "pizza",
+            "price": 1200,
+            "type": "mains"
+        },
+        {
+            "name": "lasaña",
+            "price": 1300,
+            "type": "mains"
+        },
+        {
+            "name": "canelón de jamón",
+            "price": 1200,
+            "type": "mains"
+        },
+        {
+            "name": "canelón boloñesa",
+            "price": 1750,
+            "type": "mains"
+        },
+        {
+            "name": "agua natural",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "refresco importado",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "malta",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "malteada",
+            "price": 800,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "cerveza importada",
+            "price": 450,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza nacional",
+            "price": 550,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "michelada",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "sangria",
+            "price": 1000,
+            "type": "cocktails"
+        },
+        {
+            "name": "copa de vino",
+            "price": 800,
+            "type": "wines"
+        },
+        {
+            "name": "cuba libre",
+            "price": 800,
+            "type": "cocktails"
+        },
+        {
+            "name": "cubata",
+            "price": 850,
+            "type": "cocktails"
+        },
+        {
+            "name": "mojito",
+            "price": 800,
+            "type": "cocktails"
+        },
+        {
+            "name": "caipiriña",
+            "price": 500,
+            "type": "cocktails"
+        },
+        {
+            "name": "caipiroska",
+            "price": 500,
+            "type": "cocktails"
+        },
+        {
+            "name": "caipirisima",
+            "price": 550,
+            "type": "cocktails"
+        },
+        {
+            "name": "ron collins",
+            "price": 850,
+            "type": "cocktails"
+        },
+        {
+            "name": "piña colada",
+            "price": 850,
+            "type": "cocktails"
+        },
+        {
+            "name": "barbie",
+            "price": 700,
+            "type": "cocktails"
+        },
+        {
+            "name": "canchánchara",
+            "price": 550,
+            "type": "cocktails"
+        },
+        {
+            "name": "daiquirí",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "expresso",
+            "price": 220,
+            "type": "infusions"
+        },
+        {
+            "name": "americano",
+            "price": 360,
+            "type": "infusions"
+        },
+        {
+            "name": "cortadito",
+            "price": 250,
+            "type": "infusions"
+        },
+        {
+            "name": "cappuccino",
+            "price": 550,
+            "type": "infusions"
+        },
+        {
+            "name": "cappuccino wapa",
+            "price": 600,
+            "type": "infusions"
+        },
+        {
+            "name": "bombon",
+            "price": 600,
+            "type": "infusions"
+        },
+        {
+            "name": "mocaccino",
+            "price": 550,
+            "type": "infusions"
+        },
+        {
+            "name": "frappuccino",
+            "price": 950,
+            "type": "infusions"
+        },
+        {
+            "name": "Q locura",
+            "price": 850,
+            "type": "infusions"
+        },
+        {
+            "name": "café con leche",
+            "price": 550,
+            "type": "infusions"
+        },
+        {
+            "name": "chocolate caliente",
+            "price": 350,
+            "type": "infusions"
+        },
+        {
+            "name": "té",
+            "price": 100,
+            "type": "infusions"
+        },
+        {
+            "name": "wapetón",
+            "price": 2000,
+            "type": "desserts"
+        },
+        {
+            "name": "wapetón dinamita",
+            "price": 2000,
+            "type": "desserts"
+        },
+        {
+            "name": "wapetón volcán",
+            "price": 2000,
+            "type": "desserts"
+        },
+        {
+            "name": "wapito",
+            "price": 1200,
+            "type": "desserts"
+        },
+        {
+            "name": "batidos de frutas naturales",
+            "price": 700,
+            "type": "desserts"
+        },
+        {
+            "name": "batidos de helados",
+            "price": 1200,
+            "type": "desserts"
+        },
+        {
+            "name": "copa de helado",
+            "price": 1000,
+            "type": "desserts"
+        },
+        {
+            "name": "tartaleta",
+            "price": 1000,
+            "type": "desserts"
+        },
+        {
+            "name": "bola de helado",
+            "price": 300,
+            "type": "desserts"
+        }
+    ],
+    "location": {
+        "street": "Calle 4 entre 15 y 17, Vedado",
+        "council": null,
+        "municipe": "Plaza de la Revolucion",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": "23.133054069126786",
+        "coords_y": "-82.39869353392423"
+    }
+}

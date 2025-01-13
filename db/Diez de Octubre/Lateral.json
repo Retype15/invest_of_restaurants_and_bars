@@ -1,0 +1,1196 @@
+{
+    "name": "Lateral",
+    "phone": "59525677",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "10:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person",
+        "phone",
+        "others"
+    ],
+    "delivery": [
+        "home",
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.4,
+    "reviews": 75,
+    "amenities": [],
+    "fb": "https://www.facebook.com/307308194105213",
+    "ig": "@lateral.at",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "croquetas de la casa",
+            "price": 600,
+            "type": "appetizer"
+        },
+        {
+            "name": "bolitas de carne",
+            "price": 600,
+            "type": "appetizer"
+        },
+        {
+            "name": "croquetas de queso y arroz",
+            "price": 600,
+            "type": "appetizer"
+        },
+        {
+            "name": "empanadas sandwich cubano",
+            "price": 650,
+            "type": "appetizer"
+        },
+        {
+            "name": "empanadas de la casa",
+            "price": 600,
+            "type": "appetizer"
+        },
+        {
+            "name": "bolitas de queso gouda",
+            "price": 1100,
+            "type": "appetizer"
+        },
+        {
+            "name": "fajitas de pechuga de pollo",
+            "price": 2200,
+            "type": "appetizer"
+        },
+        {
+            "name": "fajitas de cerdo",
+            "price": 2200,
+            "type": "appetizer"
+        },
+        {
+            "name": "eperlan de pescado",
+            "price": 2200,
+            "type": "appetizer"
+        },
+        {
+            "name": "ceviche de pescado",
+            "price": 1700,
+            "type": "appetizer"
+        },
+        {
+            "name": "dados de pescado al curry",
+            "price": 2400,
+            "type": "appetizer"
+        },
+        {
+            "name": "surtido de mariscos",
+            "price": 2600,
+            "type": "appetizer"
+        },
+        {
+            "name": "pica pica lateral",
+            "price": 2000,
+            "type": "appetizer"
+        },
+        {
+            "name": "picada mixta",
+            "price": 5300,
+            "type": "appetizer"
+        },
+        {
+            "name": "tabla de salmon",
+            "price": 3000,
+            "type": "appetizer"
+        },
+        {
+            "name": "tabla de jamon serrano",
+            "price": 2700,
+            "type": "appetizer"
+        },
+        {
+            "name": "choriqueso",
+            "price": 1050,
+            "type": "appetizer"
+        },
+        {
+            "name": "pulpo en salsa verde",
+            "price": 1400,
+            "type": "appetizer"
+        },
+        {
+            "name": "coctel de langosta",
+            "price": 2000,
+            "type": "appetizer"
+        },
+        {
+            "name": "coctel de camarones",
+            "price": 2150,
+            "type": "appetizer"
+        },
+        {
+            "name": "tabla mixta lateral",
+            "price": 3700,
+            "type": "appetizer"
+        },
+        {
+            "name": "tartar de atun",
+            "price": 5200,
+            "type": "appetizer"
+        },
+        {
+            "name": "sandwich cubano",
+            "price": 1200,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa lateral de res king size",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "sandwich lateral",
+            "price": 850,
+            "type": "mains"
+        },
+        {
+            "name": "sandwich de pollo",
+            "price": 1000,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa de cerdo",
+            "price": 1000,
+            "type": "mains"
+        },
+        {
+            "name": "paella marinera",
+            "price": 5000,
+            "type": "mains"
+        },
+        {
+            "name": "oferta mariscos sobre paella",
+            "price": 7500,
+            "type": "mains"
+        },
+        {
+            "name": "arroz campesino",
+            "price": 3200,
+            "type": "mains"
+        },
+        {
+            "name": "paella mixta 2pax",
+            "price": 4500,
+            "type": "mains"
+        },
+        {
+            "name": "arroz con pollo",
+            "price": 2500,
+            "type": "mains"
+        },
+        {
+            "name": "arroz frito",
+            "price": 1900,
+            "type": "mains"
+        },
+        {
+            "name": "pechuga de pollo grille",
+            "price": 2500,
+            "type": "mains"
+        },
+        {
+            "name": "pechuga de pollo rellena",
+            "price": 2750,
+            "type": "mains"
+        },
+        {
+            "name": "chop suey",
+            "price": 2500,
+            "type": "mains"
+        },
+        {
+            "name": "masas de cerdo",
+            "price": 2450,
+            "type": "mains"
+        },
+        {
+            "name": "lonjas de cerdo",
+            "price": 2450,
+            "type": "mains"
+        },
+        {
+            "name": "bistec de cerdo encebollado",
+            "price": 2200,
+            "type": "mains"
+        },
+        {
+            "name": "carne de cerdo estofada",
+            "price": 2450,
+            "type": "mains"
+        },
+        {
+            "name": "uruguayo",
+            "price": 2500,
+            "type": "mains"
+        },
+        {
+            "name": "solomillo 460gr",
+            "price": 3900,
+            "type": "mains"
+        },
+        {
+            "name": "lomo de cerdo 350gr",
+            "price": 3500,
+            "type": "mains"
+        },
+        {
+            "name": "ropa vieja de res",
+            "price": 2100,
+            "type": "mains"
+        },
+        {
+            "name": "vaca frita",
+            "price": 2100,
+            "type": "mains"
+        },
+        {
+            "name": "bistec de res",
+            "price": 2300,
+            "type": "mains"
+        },
+        {
+            "name": "lonjas de res",
+            "price": 2700,
+            "type": "mains"
+        },
+        {
+            "name": "picadillo a lo cubano",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "corte de res rib eye",
+            "price": 7000,
+            "type": "mains"
+        },
+        {
+            "name": "tomahawk",
+            "price": 16500,
+            "type": "mains"
+        },
+        {
+            "name": "filete de pescado grille",
+            "price": 2450,
+            "type": "mains"
+        },
+        {
+            "name": "pescado con camarones",
+            "price": 3300,
+            "type": "mains"
+        },
+        {
+            "name": "pescado con langosta",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "lomo de pescado",
+            "price": 2400,
+            "type": "mains"
+        },
+        {
+            "name": "canciller",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "lomo de salmon",
+            "price": 5800,
+            "type": "mains"
+        },
+        {
+            "name": "fricase de cordero",
+            "price": 4800,
+            "type": "mains"
+        },
+        {
+            "name": "camarones al gusto",
+            "price": 2800,
+            "type": "mains"
+        },
+        {
+            "name": "cola de langosta al gusto",
+            "price": 2700,
+            "type": "mains"
+        },
+        {
+            "name": "caldereta de mariscos",
+            "price": 4000,
+            "type": "mains"
+        },
+        {
+            "name": "cena campesina",
+            "price": 5400,
+            "type": "mains"
+        },
+        {
+            "name": "filete mignon",
+            "price": 7000,
+            "type": "mains"
+        },
+        {
+            "name": "arroz moro",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "tostones",
+            "price": 400,
+            "type": "sides"
+        },
+        {
+            "name": "ensalada de aguacate",
+            "price": 300,
+            "type": "salads"
+        },
+        {
+            "name": "boniato frito",
+            "price": 400,
+            "type": "sides"
+        },
+        {
+            "name": "crema de boniato",
+            "price": 650,
+            "type": "soups"
+        },
+        {
+            "name": "alubias blancas",
+            "price": 750,
+            "type": "sides"
+        },
+        {
+            "name": "tamal cubano",
+            "price": 500,
+            "type": "sides"
+        },
+        {
+            "name": "yuca con mojo",
+            "price": 400,
+            "type": "sides"
+        },
+        {
+            "name": "pasta boloñesa",
+            "price": 1510,
+            "type": "pasta"
+        },
+        {
+            "name": "lasaña de carne mixta",
+            "price": 1100,
+            "type": "pasta"
+        },
+        {
+            "name": "pasta carbonara",
+            "price": 2500,
+            "type": "pasta"
+        },
+        {
+            "name": "pasta marinera",
+            "price": 1750,
+            "type": "pasta"
+        },
+        {
+            "name": "pasta napolitana",
+            "price": 1120,
+            "type": "pasta"
+        },
+        {
+            "name": "pasta jamon",
+            "price": 1370,
+            "type": "pasta"
+        },
+        {
+            "name": "pasta boloñesa con queso",
+            "price": 1690,
+            "type": "pasta"
+        },
+        {
+            "name": "pasta jamon con queso",
+            "price": 1550,
+            "type": "pasta"
+        },
+        {
+            "name": "pasta napolitana con queso",
+            "price": 1300,
+            "type": "pasta"
+        },
+        {
+            "name": "pasta camarón con salsa blanca",
+            "price": 2650,
+            "type": "pasta"
+        },
+        {
+            "name": "pizza lateral",
+            "price": 2340,
+            "type": "pizza"
+        },
+        {
+            "name": "pan con lechon italiano",
+            "price": 1500,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza carne cerdo",
+            "price": 1900,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza carbonara",
+            "price": 2340,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza pimiento bacon cebolla",
+            "price": 2200,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza mixta",
+            "price": 1700,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza hawaiana",
+            "price": 1700,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza napolitana",
+            "price": 1150,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza jamon",
+            "price": 1400,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza atun",
+            "price": 1820,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza margarita",
+            "price": 1400,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza camarón",
+            "price": 2450,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza vegetales",
+            "price": 1580,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza cebolla",
+            "price": 1400,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza bacon cebolla",
+            "price": 2000,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza cuatro quesos",
+            "price": 2200,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza atun cebolla aceitunas",
+            "price": 2420,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza aceitunas",
+            "price": 1920,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza jamon serrano",
+            "price": 2680,
+            "type": "pizza"
+        },
+        {
+            "name": "focaccia con romero o albahaca",
+            "price": 700,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza amatriciana",
+            "price": 1745,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza carne res",
+            "price": 2160,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de pimiento",
+            "price": 1400,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza chorizo",
+            "price": 1460,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de lomo ahumado",
+            "price": 1860,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza chorizo cebolla",
+            "price": 1550,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza champinones",
+            "price": 2250,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza langosta",
+            "price": 1480,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza chorizo bacon ceb jamon",
+            "price": 1750,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza champinones ceb aceit",
+            "price": 2365,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza aceitunas con queso edam o gouda",
+            "price": 2300,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza amatriciana con queso edam o gouda",
+            "price": 2135,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza atun con queso edam o gouda",
+            "price": 2340,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza atun cebolla aceitunas con queso edam o gouda",
+            "price": 2940,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza bacon y cebolla con queso edam o gouda",
+            "price": 2245,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza camarón con queso edam o gouda",
+            "price": 2970,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza carbonara con queso edam o gouda",
+            "price": 2785,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza carne de cerdo con queso edam o gouda",
+            "price": 2380,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza langosta con gouda",
+            "price": 2400,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza carne res con queso edam o gouda",
+            "price": 2360,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza cebolla con queso edam o gouda",
+            "price": 1795,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza champinones con queso edam o gouda",
+            "price": 2650,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza champ ceb aceit con queso edam o gouda",
+            "price": 3025,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza chorizo con queso edam o gouda",
+            "price": 1945,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza chorizo y cebolla con queso edam o gouda",
+            "price": 2100,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza chorizo bacon cebolla jamon con queso edam o gouda",
+            "price": 2270,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de lomo ahumado con queso edam o gouda",
+            "price": 2300,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de pimiento con queso edam o gouda",
+            "price": 1795,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza hawaiana con queso edam o gouda",
+            "price": 2245,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza lateral con queso edam o gouda",
+            "price": 2730,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza margarita con queso edam o gouda",
+            "price": 1795,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza mixta con queso edam o gouda",
+            "price": 2100,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza napolitana con queso edam o gouda",
+            "price": 1500,
+            "type": "pizza"
+        },
+        {
+            "name": "agrego aceitunas",
+            "price": 400,
+            "type": "others"
+        },
+        {
+            "name": "agrego carne cerdo",
+            "price": 500,
+            "type": "others"
+        },
+        {
+            "name": "agrego carne res",
+            "price": 600,
+            "type": "others"
+        },
+        {
+            "name": "agrego atun",
+            "price": 560,
+            "type": "others"
+        },
+        {
+            "name": "agrego camaron",
+            "price": 650,
+            "type": "others"
+        },
+        {
+            "name": "agrego queso",
+            "price": 375,
+            "type": "others"
+        },
+        {
+            "name": "agrego jamon",
+            "price": 350,
+            "type": "others"
+        },
+        {
+            "name": "agrego chorizo",
+            "price": 350,
+            "type": "others"
+        },
+        {
+            "name": "agrego bacon",
+            "price": 485,
+            "type": "others"
+        },
+        {
+            "name": "agrego champinon",
+            "price": 570,
+            "type": "others"
+        },
+        {
+            "name": "agrego cebolla",
+            "price": 200,
+            "type": "others"
+        },
+        {
+            "name": "agrego pimiento",
+            "price": 200,
+            "type": "others"
+        },
+        {
+            "name": "agrego salsa hawaiana",
+            "price": 250,
+            "type": "others"
+        },
+        {
+            "name": "agrego tomate",
+            "price": 200,
+            "type": "others"
+        },
+        {
+            "name": "agrego jamon serrano",
+            "price": 1500,
+            "type": "others"
+        },
+        {
+            "name": "crepes",
+            "price": 400,
+            "type": "desserts"
+        },
+        {
+            "name": "tres leches",
+            "price": 750,
+            "type": "desserts"
+        },
+        {
+            "name": "caja cake",
+            "price": 150,
+            "type": "desserts"
+        },
+        {
+            "name": "semifrio",
+            "price": 650,
+            "type": "desserts"
+        },
+        {
+            "name": "cheesecake",
+            "price": 750,
+            "type": "desserts"
+        },
+        {
+            "name": "pote semifrio",
+            "price": 800,
+            "type": "desserts"
+        },
+        {
+            "name": "agua gaseada",
+            "price": 660,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "limonada frappe",
+            "price": 650,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugos",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "agua natural importada pequeña",
+            "price": 300,
+            "type": "water"
+        },
+        {
+            "name": "limonada frutas",
+            "price": 800,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "refresco pepsi",
+            "price": 450,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "refresco importado",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "smoothie",
+            "price": 1200,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "batido de helado",
+            "price": 1500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "limonada frappe con hierba buena",
+            "price": 900,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "limonada blue",
+            "price": 900,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "limonada rebelde",
+            "price": 700,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "san francisco lateral",
+            "price": 750,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "limonada natural",
+            "price": 950,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "cafe",
+            "price": 400,
+            "type": "infusions"
+        },
+        {
+            "name": "cafe americano",
+            "price": 380,
+            "type": "infusions"
+        },
+        {
+            "name": "cafe con coffee mate",
+            "price": 500,
+            "type": "infusions"
+        },
+        {
+            "name": "carajillo",
+            "price": 1000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cafe bombon",
+            "price": 850,
+            "type": "infusions"
+        },
+        {
+            "name": "tonel cerveza dispensada 2lts",
+            "price": 1900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tonel cerveza dispensada 3lts",
+            "price": 2900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza cristal",
+            "price": 550,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "michelada presidente",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "vaso dispensada",
+            "price": 250,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "jarra dispensada",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "negroni",
+            "price": 1500,
+            "type": "cocktails"
+        },
+        {
+            "name": "moscow mule",
+            "price": 1500,
+            "type": "cocktails"
+        },
+        {
+            "name": "mojito",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "cuba libre",
+            "price": 850,
+            "type": "cocktails"
+        },
+        {
+            "name": "daiquiri",
+            "price": 850,
+            "type": "cocktails"
+        },
+        {
+            "name": "cubanito",
+            "price": 950,
+            "type": "cocktails"
+        },
+        {
+            "name": "vodka tonic",
+            "price": 1200,
+            "type": "cocktails"
+        },
+        {
+            "name": "caipirinha",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "daiquiri frappe",
+            "price": 700,
+            "type": "cocktails"
+        },
+        {
+            "name": "caipirisima",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "michelada mule",
+            "price": 1300,
+            "type": "cocktails"
+        },
+        {
+            "name": "ron collins",
+            "price": 800,
+            "type": "cocktails"
+        },
+        {
+            "name": "cubata",
+            "price": 1050,
+            "type": "cocktails"
+        },
+        {
+            "name": "mojito frutas",
+            "price": 1100,
+            "type": "cocktails"
+        },
+        {
+            "name": "sangria",
+            "price": 1500,
+            "type": "cocktails"
+        },
+        {
+            "name": "daiquiri frutas",
+            "price": 1000,
+            "type": "cocktails"
+        },
+        {
+            "name": "mojito frappe",
+            "price": 950,
+            "type": "cocktails"
+        },
+        {
+            "name": "gin tonic importado",
+            "price": 1900,
+            "type": "cocktails"
+        },
+        {
+            "name": "calimocho",
+            "price": 800,
+            "type": "cocktails"
+        },
+        {
+            "name": "tinto de verano",
+            "price": 1150,
+            "type": "cocktails"
+        },
+        {
+            "name": "gin fizz",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "coctel lateral",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "mojito hc especial",
+            "price": 1200,
+            "type": "cocktails"
+        },
+        {
+            "name": "caipiriachi",
+            "price": 1500,
+            "type": "cocktails"
+        },
+        {
+            "name": "martini saborizado",
+            "price": 850,
+            "type": "cocktails"
+        },
+        {
+            "name": "daiquiri saborizado",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "caipiroska frutas",
+            "price": 1200,
+            "type": "cocktails"
+        },
+        {
+            "name": "old fashionet",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "canchanchara",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "michelada con cristal",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "long island ice tea",
+            "price": 1800,
+            "type": "cocktails"
+        },
+        {
+            "name": "blue star",
+            "price": 850,
+            "type": "cocktails"
+        },
+        {
+            "name": "cuban smoky",
+            "price": 800,
+            "type": "cocktails"
+        },
+        {
+            "name": "servicio de micheladas",
+            "price": 450,
+            "type": "others"
+        },
+        {
+            "name": "moscow mule gray goose",
+            "price": 1700,
+            "type": "cocktails"
+        },
+        {
+            "name": "bloody mary gray goose",
+            "price": 1700,
+            "type": "cocktails"
+        },
+        {
+            "name": "caipiroska gray goose",
+            "price": 1900,
+            "type": "cocktails"
+        },
+        {
+            "name": "screw drivers gray goose",
+            "price": 1900,
+            "type": "cocktails"
+        },
+        {
+            "name": "caipiroska stolishnaya",
+            "price": 1200,
+            "type": "cocktails"
+        },
+        {
+            "name": "caipiroska ciroc",
+            "price": 1900,
+            "type": "cocktails"
+        },
+        {
+            "name": "red label",
+            "price": 1000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "black label",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "doble black",
+            "price": 1900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "ballentine",
+            "price": 900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "margarita reposada",
+            "price": 1200,
+            "type": "cocktails"
+        },
+        {
+            "name": "ruavieja",
+            "price": 850,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "jameson",
+            "price": 900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "ginebra",
+            "price": 1000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza presidente",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "Ave. Acosta #467, esq. Goicuría, Víbora.",
+        "council": null,
+        "municipe": "Diez de Octubre",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

@@ -1,0 +1,180 @@
+{
+    "name": "El Sauce",
+    "phone": "76833543",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "pizza",
+    "hours": {
+        "open": null,
+        "close": null,
+        "days": []
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "home",
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Hamburguesa Simple",
+            "price": 400,
+            "type": "starters"
+        },
+        {
+            "name": "Hamburguesa con Jamon",
+            "price": 500,
+            "type": "starters"
+        },
+        {
+            "name": "Hamburguesa con Queso",
+            "price": 550,
+            "type": "starters"
+        },
+        {
+            "name": "Hamburguesa con Bacon",
+            "price": 550,
+            "type": "starters"
+        },
+        {
+            "name": "Hamburguesa con Jamon y Queso",
+            "price": 600,
+            "type": "starters"
+        },
+        {
+            "name": "Hamburguesa Sauce",
+            "price": 850,
+            "type": "starters"
+        },
+        {
+            "name": "Bocadito de Jamon",
+            "price": 200,
+            "type": "starters"
+        },
+        {
+            "name": "Bocadito de Queso",
+            "price": 250,
+            "type": "starters"
+        },
+        {
+            "name": "Bocadito de Jamon y Queso",
+            "price": 300,
+            "type": "starters"
+        },
+        {
+            "name": "Pizza Napole",
+            "price": 500,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Jamon",
+            "price": 700,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Chorizo",
+            "price": 700,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Cebolla",
+            "price": 600,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Pimiento",
+            "price": 600,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Hawaiana",
+            "price": 750,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Bacon",
+            "price": 750,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Atun",
+            "price": 800,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Aceitunas",
+            "price": 700,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Sauce",
+            "price": 900,
+            "type": "pizza"
+        },
+        {
+            "name": "Lasagna de Jamon",
+            "price": 900,
+            "type": "pasta"
+        },
+        {
+            "name": "Canelon",
+            "price": 700,
+            "type": "pasta"
+        },
+        {
+            "name": "Refresco",
+            "price": 220,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta",
+            "price": 250,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza",
+            "price": 280,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Suero de Helado",
+            "price": 550,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Café Expreso",
+            "price": 100,
+            "type": "infusions"
+        },
+        {
+            "name": "Cortadito",
+            "price": 150,
+            "type": "infusions"
+        }
+    ],
+    "location": {
+        "street": "Calle 403 % 180 & 184",
+        "council": "Santiago de las Vegas",
+        "municipe": "Boyeros",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": "22.972472",
+        "coords_y": "-82.382986"
+    }
+}

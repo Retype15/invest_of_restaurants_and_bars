@@ -1,0 +1,301 @@
+{
+    "name": "Qbanas 60",
+    "phone": null,
+    "email": null,
+    "web": "https://qbanas60.com",
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "00:00",
+        "close": "24:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [],
+    "delivery": [],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.3,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": null,
+    "ig": "@qbanas.60",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "desayuno americano",
+            "price": 1500,
+            "type": "breakfast"
+        },
+        {
+            "name": "bolitas de queso",
+            "price": 800,
+            "type": "appetizer"
+        },
+        {
+            "name": "croquetas de pollo",
+            "price": 650,
+            "type": "appetizer"
+        },
+        {
+            "name": "frituras de malanga",
+            "price": 500,
+            "type": "appetizer"
+        },
+        {
+            "name": "papas fritas",
+            "price": 500,
+            "type": "appetizer"
+        },
+        {
+            "name": "papas fritas con bacon y queso",
+            "price": 950,
+            "type": "appetizer"
+        },
+        {
+            "name": "hamburguesa de cerdo",
+            "price": 1400,
+            "type": "mains"
+        },
+        {
+            "name": "pizza cubana",
+            "price": 400,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza trufada con tomate asado",
+            "price": 1500,
+            "type": "pizza"
+        },
+        {
+            "name": "pollo chiflado",
+            "price": 1200,
+            "type": "mains"
+        },
+        {
+            "name": "sandwich de queso",
+            "price": 600,
+            "type": "sandwich"
+        },
+        {
+            "name": "huevos rotos",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa americana",
+            "price": 1700,
+            "type": "mains"
+        },
+        {
+            "name": "cheddar",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "bacon",
+            "price": 500,
+            "type": "sides"
+        },
+        {
+            "name": "huevo",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "gouda",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "cebolla",
+            "price": 250,
+            "type": "sides"
+        },
+        {
+            "name": "daiquiri",
+            "price": 900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "old fashion",
+            "price": 1800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "sangria",
+            "price": 1000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "servicio de michelada",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "servicio de chelada",
+            "price": 350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "pina colada",
+            "price": 1000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cervezas nacionales",
+            "price": 250,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza tagu",
+            "price": 250,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cervezas importadas",
+            "price": 220,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cervezas importadas",
+            "price": 22000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "margarita",
+            "price": 900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "aperol spritz",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "7años",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "especial",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "red label",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tequila olmeca",
+            "price": 700,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tequila don julio",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "heineken",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "daiquiri de arandano o fresa",
+            "price": 1200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "mojito",
+            "price": 700,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "gin tonic",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "caipis",
+            "price": 800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cubata",
+            "price": 700,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "expresso",
+            "price": 200,
+            "type": "coffee"
+        },
+        {
+            "name": "cortadito",
+            "price": 300,
+            "type": "coffee"
+        },
+        {
+            "name": "capuchino",
+            "price": 350,
+            "type": "coffee"
+        },
+        {
+            "name": "bombon",
+            "price": 500,
+            "type": "coffee"
+        },
+        {
+            "name": "frapuccino",
+            "price": 1200,
+            "type": "coffee"
+        },
+        {
+            "name": "habanos esplendido",
+            "price": 2000,
+            "type": "others"
+        },
+        {
+            "name": "habanos trinidad",
+            "price": 3100,
+            "type": "others"
+        },
+        {
+            "name": "ron premium y habanos",
+            "price": 4000,
+            "type": "others"
+        },
+        {
+            "name": "6 heineken",
+            "price": 2100,
+            "type": "others"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Playa",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.077784762125038,
+        "coords_y": -82.46936259237634
+    }
+}

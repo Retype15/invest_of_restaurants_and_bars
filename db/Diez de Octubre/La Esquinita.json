@@ -1,0 +1,303 @@
+{
+    "name": "La Esquinita",
+    "phone": "76404105 / 59104644 / 56941945",
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "09:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 12,
+    "reservations": [],
+    "delivery": [
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "card",
+        "cash"
+    ],
+    "promo": false,
+    "rating": 5.0,
+    "reviews": 30,
+    "amenities": [
+        "parking"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Picadera La Esquinita",
+            "price": 1000,
+            "type": "starters"
+        },
+        {
+            "name": "Tostones",
+            "price": 400,
+            "type": "starters"
+        },
+        {
+            "name": "Arroz frito",
+            "price": 500,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz frito con mariscos",
+            "price": 950,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec Gordon Blue",
+            "price": 1300,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo Chiflado",
+            "price": 650,
+            "type": "mains"
+        },
+        {
+            "name": "Espaghettis blancos",
+            "price": 300,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaghettis de queso Gouda",
+            "price": 450,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaghettis blancos de jamon",
+            "price": 400,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaghettis de queso Gouda con jamon",
+            "price": 550,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaghettis blancos con chorizo",
+            "price": 400,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaghettis de queso Gouda con chorizo",
+            "price": 550,
+            "type": "pasta"
+        },
+        {
+            "name": "Hamburguesa sencilla",
+            "price": 500,
+            "type": "sandwich"
+        },
+        {
+            "name": "Hamburguesa de jamon",
+            "price": 500,
+            "type": "sandwich"
+        },
+        {
+            "name": "Hamburguesa de queso Gouda",
+            "price": 550,
+            "type": "sandwich"
+        },
+        {
+            "name": "Hamburguesa de chorizo",
+            "price": 500,
+            "type": "sandwich"
+        },
+        {
+            "name": "Hamburguesa de jamon y Gouda",
+            "price": 650,
+            "type": "sandwich"
+        },
+        {
+            "name": "Hamburguesa La Esquinita",
+            "price": 750,
+            "type": "sandwich"
+        },
+        {
+            "name": "Pizza de queso blanco",
+            "price": 200,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de queso Gouda",
+            "price": 300,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de queso blanco y jamon",
+            "price": 300,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de queso Gouda y jamon",
+            "price": 400,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de queso blanco y chorizo",
+            "price": 300,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de queso Gouda y chorizo",
+            "price": 400,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de queso blanco y atun",
+            "price": 500,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de queso Gouda y atun",
+            "price": 600,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de queso blanco y cebolla",
+            "price": 300,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de queso Gouda y cebolla",
+            "price": 400,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de queso blanco y pimiento",
+            "price": 300,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de queso Gouda y pimiento",
+            "price": 400,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de queso blanco Hawaiana",
+            "price": 400,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de queso Gouda Hawaiana",
+            "price": 500,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Especial La Esquinita",
+            "price": 600,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de queso blanco",
+            "price": 400,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza grande de queso Gouda",
+            "price": 650,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza grande de queso blanco y jamon",
+            "price": 500,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza grande de queso Gouda y jamon",
+            "price": 750,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza grande de queso blanco y chorizo",
+            "price": 500,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza grande de queso Gouda y chorizo",
+            "price": 750,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza grande de queso blanco y atun",
+            "price": 700,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza grande de queso Gouda y atun",
+            "price": 950,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza grande de queso blanco y cebolla",
+            "price": 500,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza grande de queso Gouda y cebolla",
+            "price": 750,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza grande de queso blanco y pimiento",
+            "price": 500,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza grande de queso Gouda y pimiento",
+            "price": 750,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza grande de queso blanco Hawaiana",
+            "price": 550,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza grande de queso Gouda Hawaiana",
+            "price": 800,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza grande Especial La Esquinita",
+            "price": 1200,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza grande Familiar La Esquinita",
+            "price": 3000,
+            "type": "pizza"
+        },
+        {
+            "name": "Papas fritas",
+            "price": 100,
+            "type": "sides"
+        }
+    ],
+    "location": {
+        "street": "Calle Juan Lefont entre Libertad y Johnson",
+        "council": null,
+        "municipe": "Diez de Octubre",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

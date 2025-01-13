@@ -1,0 +1,240 @@
+{
+    "name": "San Rafael 1051",
+    "phone": null,
+    "email": null,
+    "web": "https://sanrafael1051.carrta.app",
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "12:00",
+        "close": "24:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "invalid_accessible"
+    ],
+    "fb": "https://www.facebook.com/san_rafael1051",
+    "ig": "https://www.instagram.com/san_rafael1051",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "croquetas de la casa",
+            "price": 850,
+            "type": "appetizer"
+        },
+        {
+            "name": "tabla de serrano y queso",
+            "price": 1450,
+            "type": "appetizer"
+        },
+        {
+            "name": "nuggets de pollo",
+            "price": 950,
+            "type": "appetizer"
+        },
+        {
+            "name": "tacos",
+            "price": 1150,
+            "type": "appetizer"
+        },
+        {
+            "name": "brusquetas mixtas",
+            "price": 850,
+            "type": "appetizer"
+        },
+        {
+            "name": "ensalada de atun",
+            "price": 1100,
+            "type": "appetizer"
+        },
+        {
+            "name": "ensalada de pollo",
+            "price": 1100,
+            "type": "appetizer"
+        },
+        {
+            "name": "ensalada del mar",
+            "price": 1300,
+            "type": "appetizer"
+        },
+        {
+            "name": "entrepan clasico",
+            "price": 1300,
+            "type": "mains"
+        },
+        {
+            "name": "entrepan cubano",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "entrepan marinero",
+            "price": 1300,
+            "type": "mains"
+        },
+        {
+            "name": "entrepan iberico",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "entrepan vaquero",
+            "price": 1300,
+            "type": "mains"
+        },
+        {
+            "name": "entrepan de crispy chicken",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa black panther",
+            "price": 2400,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa megaburger",
+            "price": 2750,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa hawaiana",
+            "price": 1650,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa 1051",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa parrillera",
+            "price": 1920,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa sweet burger",
+            "price": 1100,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa deluxe",
+            "price": 1550,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa cheese burger",
+            "price": 1790,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa cubana",
+            "price": 2140,
+            "type": "mains"
+        },
+        {
+            "name": "agua natural",
+            "price": 300,
+            "type": "water"
+        },
+        {
+            "name": "refresco importado",
+            "price": 380,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugo natural",
+            "price": 390,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "batido de fruta",
+            "price": 530,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "caipiriña",
+            "price": 580,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "caipiroska",
+            "price": 580,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "gin tonic",
+            "price": 650,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "sangria",
+            "price": 650,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "mojito",
+            "price": 580,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cuba libre",
+            "price": 580,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "vodka tonic",
+            "price": 650,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza",
+            "price": 450,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza cristal, heineken, corona",
+            "price": 650,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "servicio michelada",
+            "price": 250,
+            "type": "alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.11380465355718,
+        "coords_y": -82.36663315102301
+    }
+}

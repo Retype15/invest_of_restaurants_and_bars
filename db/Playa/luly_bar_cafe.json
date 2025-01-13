@@ -1,0 +1,696 @@
+{
+    "name": "Luly Bar Café",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "08:00",
+        "close": "22:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [],
+    "delivery": [],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 5.0,
+    "reviews": 30,
+    "amenities": [
+        "parking"
+    ],
+    "fb": null,
+    "ig": "https://www.instagram.com/@lulybarcafe_",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "desayuno standard",
+            "price": 1800,
+            "type": "breakfast"
+        },
+        {
+            "name": "desayuno xl",
+            "price": 2300,
+            "type": "breakfast"
+        },
+        {
+            "name": "super bowl",
+            "price": 850,
+            "type": "breakfast"
+        },
+        {
+            "name": "ensalada de frutas",
+            "price": 700,
+            "type": "breakfast"
+        },
+        {
+            "name": "croquetas de pollo",
+            "price": 1100,
+            "type": "appetizer"
+        },
+        {
+            "name": "croquetones de serrano",
+            "price": 1500,
+            "type": "appetizer"
+        },
+        {
+            "name": "croquetones de pescado",
+            "price": 1300,
+            "type": "appetizer"
+        },
+        {
+            "name": "empanaditas de cerdo",
+            "price": 1000,
+            "type": "appetizer"
+        },
+        {
+            "name": "pañuelo de carbonara",
+            "price": 900,
+            "type": "appetizer"
+        },
+        {
+            "name": "montaditos",
+            "price": 500,
+            "type": "appetizer"
+        },
+        {
+            "name": "provolone y serrano",
+            "price": 1400,
+            "type": "appetizer"
+        },
+        {
+            "name": "tamal en cazuela",
+            "price": 1000,
+            "type": "appetizer"
+        },
+        {
+            "name": "pimientos piquillo rellenos de atún",
+            "price": 1600,
+            "type": "appetizer"
+        },
+        {
+            "name": "tapas de tumaca",
+            "price": 700,
+            "type": "appetizer"
+        },
+        {
+            "name": "tapas de serrano",
+            "price": 1500,
+            "type": "appetizer"
+        },
+        {
+            "name": "tapas de jamón de pavo",
+            "price": 1100,
+            "type": "appetizer"
+        },
+        {
+            "name": "tapas de jamón st dalmai",
+            "price": 1000,
+            "type": "appetizer"
+        },
+        {
+            "name": "tapas de salmón",
+            "price": 1900,
+            "type": "appetizer"
+        },
+        {
+            "name": "tapas de salchichón ibérico",
+            "price": 1300,
+            "type": "appetizer"
+        },
+        {
+            "name": "tapas de chorizo ibérico",
+            "price": 1300,
+            "type": "appetizer"
+        },
+        {
+            "name": "tapas de chorizo cular",
+            "price": 1100,
+            "type": "appetizer"
+        },
+        {
+            "name": "tapas de queso azul",
+            "price": 900,
+            "type": "appetizer"
+        },
+        {
+            "name": "croissant",
+            "price": 350,
+            "type": "appetizer"
+        },
+        {
+            "name": "donuts",
+            "price": 450,
+            "type": "appetizer"
+        },
+        {
+            "name": "cesta de pan",
+            "price": 600,
+            "type": "appetizer"
+        },
+        {
+            "name": "feria de quesos",
+            "price": 2200,
+            "type": "appetizer"
+        },
+        {
+            "name": "feria de embutidos",
+            "price": 3000,
+            "type": "appetizer"
+        },
+        {
+            "name": "el verdadero remix",
+            "price": 2250,
+            "type": "appetizer"
+        },
+        {
+            "name": "lecho fresco de vegetales",
+            "price": 850,
+            "type": "appetizer"
+        },
+        {
+            "name": "baguette jamón st dalmai",
+            "price": 1300,
+            "type": "mains"
+        },
+        {
+            "name": "baguette queso gouda",
+            "price": 1200,
+            "type": "mains"
+        },
+        {
+            "name": "baguette jamón st dalmai y queso gouda",
+            "price": 1400,
+            "type": "mains"
+        },
+        {
+            "name": "baguette serrano",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "baguette jamón de pavo",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "baguette salmón",
+            "price": 2200,
+            "type": "mains"
+        },
+        {
+            "name": "bocadito jamón st dalmai",
+            "price": 600,
+            "type": "mains"
+        },
+        {
+            "name": "bocadito queso gouda",
+            "price": 600,
+            "type": "mains"
+        },
+        {
+            "name": "bocadito jamón st dalmai y queso gouda",
+            "price": 800,
+            "type": "mains"
+        },
+        {
+            "name": "emparedado de huevo",
+            "price": 1100,
+            "type": "mains"
+        },
+        {
+            "name": "emparedado de atún",
+            "price": 1200,
+            "type": "mains"
+        },
+        {
+            "name": "pan con lechón",
+            "price": 1600,
+            "type": "mains"
+        },
+        {
+            "name": "nutella",
+            "price": 250,
+            "type": "sides"
+        },
+        {
+            "name": "almendras",
+            "price": 160,
+            "type": "sides"
+        },
+        {
+            "name": "chia",
+            "price": 50,
+            "type": "sides"
+        },
+        {
+            "name": "mantequilla",
+            "price": 100,
+            "type": "sides"
+        },
+        {
+            "name": "serrano",
+            "price": 675,
+            "type": "sides"
+        },
+        {
+            "name": "jamón de pavo",
+            "price": 450,
+            "type": "sides"
+        },
+        {
+            "name": "jamón st dalmai",
+            "price": 400,
+            "type": "sides"
+        },
+        {
+            "name": "salmón",
+            "price": 700,
+            "type": "sides"
+        },
+        {
+            "name": "salchichón ibérico",
+            "price": 610,
+            "type": "sides"
+        },
+        {
+            "name": "chorizo ibérico",
+            "price": 500,
+            "type": "sides"
+        },
+        {
+            "name": "chorizo cular",
+            "price": 500,
+            "type": "sides"
+        },
+        {
+            "name": "queso manchego",
+            "price": 500,
+            "type": "sides"
+        },
+        {
+            "name": "queso azul",
+            "price": 500,
+            "type": "sides"
+        },
+        {
+            "name": "queso provolone",
+            "price": 450,
+            "type": "sides"
+        },
+        {
+            "name": "queso feta",
+            "price": 500,
+            "type": "sides"
+        },
+        {
+            "name": "queso edam",
+            "price": 375,
+            "type": "sides"
+        },
+        {
+            "name": "queso gouda",
+            "price": 350,
+            "type": "sides"
+        },
+        {
+            "name": "huevo",
+            "price": 160,
+            "type": "sides"
+        },
+        {
+            "name": "aceitunas",
+            "price": 800,
+            "type": "sides"
+        },
+        {
+            "name": "lechón asado",
+            "price": 1000,
+            "type": "sides"
+        },
+        {
+            "name": "casquitos de guayaba con queso",
+            "price": 500,
+            "type": "desserts"
+        },
+        {
+            "name": "pudin",
+            "price": 250,
+            "type": "desserts"
+        },
+        {
+            "name": "mermelada con queso",
+            "price": 300,
+            "type": "desserts"
+        },
+        {
+            "name": "mini muffin",
+            "price": 300,
+            "type": "desserts"
+        },
+        {
+            "name": "muffin fusión",
+            "price": 500,
+            "type": "desserts"
+        },
+        {
+            "name": "waffle",
+            "price": 600,
+            "type": "desserts"
+        },
+        {
+            "name": "pop waffle",
+            "price": 900,
+            "type": "desserts"
+        },
+        {
+            "name": "agua cm",
+            "price": 250,
+            "type": "water"
+        },
+        {
+            "name": "agua san benedetto natural",
+            "price": 1000,
+            "type": "water"
+        },
+        {
+            "name": "agua san benedetto gaseada",
+            "price": 1100,
+            "type": "water"
+        },
+        {
+            "name": "tónica shweppes",
+            "price": 1000,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "tukola",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "pepsi",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "malta",
+            "price": 280,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "granizado",
+            "price": 60,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugo cajita",
+            "price": 250,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugo natural",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugo verde",
+            "price": 600,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "limonada",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "batido de frutas naturales",
+            "price": 700,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "smoothie",
+            "price": 700,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "batido de chocolate",
+            "price": 800,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "batido de proteína",
+            "price": 1000,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "cristal",
+            "price": 450,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "bucanero",
+            "price": 450,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "corona",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cruzcampo",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "michelada",
+            "price": 450,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "copa de campoviejo tempranillo tinto",
+            "price": 1000,
+            "type": "wines"
+        },
+        {
+            "name": "botella de campoviejo tempranillo tinto",
+            "price": 4700,
+            "type": "wines"
+        },
+        {
+            "name": "copa campoviejo tempranillo blanco",
+            "price": 900,
+            "type": "wines"
+        },
+        {
+            "name": "botella campoviejo tempranillo blanco",
+            "price": 4200,
+            "type": "wines"
+        },
+        {
+            "name": "havana club 7 años",
+            "price": 850,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "havana club 3 años",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "havana club profundo",
+            "price": 250,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "santiago añejo 8 años",
+            "price": 1000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "clan campbell",
+            "price": 850,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "ballantines",
+            "price": 900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "jameson",
+            "price": 950,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "johnnie walker rl",
+            "price": 1000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tequila silver/reposado",
+            "price": 1200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "mojito",
+            "price": 1200,
+            "type": "cocktails"
+        },
+        {
+            "name": "cuba libre",
+            "price": 1000,
+            "type": "cocktails"
+        },
+        {
+            "name": "cubata",
+            "price": 1300,
+            "type": "cocktails"
+        },
+        {
+            "name": "gin especial",
+            "price": 2000,
+            "type": "cocktails"
+        },
+        {
+            "name": "gin tonic",
+            "price": 1600,
+            "type": "cocktails"
+        },
+        {
+            "name": "vodka tonic",
+            "price": 1400,
+            "type": "cocktails"
+        },
+        {
+            "name": "caipirinha",
+            "price": 1000,
+            "type": "cocktails"
+        },
+        {
+            "name": "caipiroska",
+            "price": 1100,
+            "type": "cocktails"
+        },
+        {
+            "name": "tinto de verano",
+            "price": 1300,
+            "type": "cocktails"
+        },
+        {
+            "name": "cubanito",
+            "price": 1200,
+            "type": "cocktails"
+        },
+        {
+            "name": "daiquiri",
+            "price": 1025,
+            "type": "cocktails"
+        },
+        {
+            "name": "screwdriver",
+            "price": 1500,
+            "type": "cocktails"
+        },
+        {
+            "name": "expresso",
+            "price": 200,
+            "type": "infusions"
+        },
+        {
+            "name": "cortadito",
+            "price": 300,
+            "type": "infusions"
+        },
+        {
+            "name": "americano",
+            "price": 300,
+            "type": "infusions"
+        },
+        {
+            "name": "bombón",
+            "price": 500,
+            "type": "infusions"
+        },
+        {
+            "name": "capuchino",
+            "price": 400,
+            "type": "infusions"
+        },
+        {
+            "name": "frapuchino",
+            "price": 800,
+            "type": "infusions"
+        },
+        {
+            "name": "café con leche",
+            "price": 600,
+            "type": "infusions"
+        },
+        {
+            "name": "té",
+            "price": 200,
+            "type": "infusions"
+        },
+        {
+            "name": "té helado",
+            "price": 300,
+            "type": "infusions"
+        },
+        {
+            "name": "rothman azul",
+            "price": 500,
+            "type": "others"
+        },
+        {
+            "name": "rothman rojo",
+            "price": 350,
+            "type": "others"
+        },
+        {
+            "name": "the king",
+            "price": 400,
+            "type": "others"
+        },
+        {
+            "name": "mondeo",
+            "price": 600,
+            "type": "others"
+        },
+        {
+            "name": "h. hupman con filtro",
+            "price": 300,
+            "type": "others"
+        },
+        {
+            "name": "h. hupman sin filtro",
+            "price": 250,
+            "type": "others"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Playa",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.121788587624902,
+        "coords_y": -82.4257877361619
+    }
+}

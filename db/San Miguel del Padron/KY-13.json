@@ -1,0 +1,405 @@
+{
+    "name": "KY-13",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "10:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 24,
+    "reservations": [
+        "online"
+    ],
+    "delivery": [
+        "home",
+        "takeaway",
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "transfer",
+        "cash"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "croquetas de queso",
+            "price": 600,
+            "type": "appetizer"
+        },
+        {
+            "name": "frituras de malanga",
+            "price": 600,
+            "type": "appetizer"
+        },
+        {
+            "name": "tostones rellenos",
+            "price": 700,
+            "type": "appetizer"
+        },
+        {
+            "name": "eperlan",
+            "price": 1300,
+            "type": "appetizer"
+        },
+        {
+            "name": "dedos de pollo",
+            "price": 1000,
+            "type": "appetizer"
+        },
+        {
+            "name": "coctel de camaron",
+            "price": 1300,
+            "type": "appetizer"
+        },
+        {
+            "name": "camaron rebozado",
+            "price": 1200,
+            "type": "appetizer"
+        },
+        {
+            "name": "crema de queso",
+            "price": 850,
+            "type": "appetizer"
+        },
+        {
+            "name": "crema aurora",
+            "price": 550,
+            "type": "appetizer"
+        },
+        {
+            "name": "crema virginia",
+            "price": 800,
+            "type": "appetizer"
+        },
+        {
+            "name": "crema de camaron",
+            "price": 900,
+            "type": "appetizer"
+        },
+        {
+            "name": "surtido KY13",
+            "price": 4000,
+            "type": "appetizer"
+        },
+        {
+            "name": "arroz blanco",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "arroz moro",
+            "price": 480,
+            "type": "sides"
+        },
+        {
+            "name": "vianda frita",
+            "price": 700,
+            "type": "sides"
+        },
+        {
+            "name": "ensalada mixta",
+            "price": 700,
+            "type": "salads"
+        },
+        {
+            "name": "hamburguesa sencilla",
+            "price": 1400,
+            "type": "sandwich"
+        },
+        {
+            "name": "hamburguesa KY13",
+            "price": 2950,
+            "type": "sandwich"
+        },
+        {
+            "name": "sandwich sencillo",
+            "price": 1250,
+            "type": "sandwich"
+        },
+        {
+            "name": "sandwich lomo ahumado",
+            "price": 1250,
+            "type": "sandwich"
+        },
+        {
+            "name": "sandwich especial",
+            "price": 2100,
+            "type": "sandwich"
+        },
+        {
+            "name": "sandwich de atún",
+            "price": 1150,
+            "type": "sandwich"
+        },
+        {
+            "name": "bistec de cerdo grille",
+            "price": 2350,
+            "type": "mains"
+        },
+        {
+            "name": "bistec de cerdo empanado",
+            "price": 2700,
+            "type": "mains"
+        },
+        {
+            "name": "uruguayo de cerdo",
+            "price": 3500,
+            "type": "mains"
+        },
+        {
+            "name": "pechuga de pollo grille",
+            "price": 2400,
+            "type": "mains"
+        },
+        {
+            "name": "pechuga de pollo gratinada",
+            "price": 2800,
+            "type": "mains"
+        },
+        {
+            "name": "pollo gordon blue",
+            "price": 3650,
+            "type": "mains"
+        },
+        {
+            "name": "pollo frito o asado",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "ropa vieja de res",
+            "price": 2800,
+            "type": "mains"
+        },
+        {
+            "name": "picadillo a la habanera",
+            "price": 2700,
+            "type": "mains"
+        },
+        {
+            "name": "chuleta de cerdo",
+            "price": 2600,
+            "type": "mains"
+        },
+        {
+            "name": "lomo ahumado",
+            "price": 2500,
+            "type": "mains"
+        },
+        {
+            "name": "costilla de cerdo frita",
+            "price": 2300,
+            "type": "mains"
+        },
+        {
+            "name": "masa de cerdo frita",
+            "price": 3800,
+            "type": "mains"
+        },
+        {
+            "name": "bistec de pollo",
+            "price": 2200,
+            "type": "mains"
+        },
+        {
+            "name": "arroz frito",
+            "price": 2800,
+            "type": "mains"
+        },
+        {
+            "name": "filete de pescado grille",
+            "price": 3000,
+            "type": "seafood"
+        },
+        {
+            "name": "filete de pescado empanado",
+            "price": 3300,
+            "type": "seafood"
+        },
+        {
+            "name": "filete de pescado gratinado",
+            "price": 3500,
+            "type": "seafood"
+        },
+        {
+            "name": "pescado montetoro",
+            "price": 3800,
+            "type": "seafood"
+        },
+        {
+            "name": "pescado canciller",
+            "price": 4250,
+            "type": "seafood"
+        },
+        {
+            "name": "camaron grille",
+            "price": 2600,
+            "type": "seafood"
+        },
+        {
+            "name": "enchilado de camaron",
+            "price": 2800,
+            "type": "seafood"
+        },
+        {
+            "name": "camaron al ajillo",
+            "price": 2700,
+            "type": "seafood"
+        },
+        {
+            "name": "langosta grille",
+            "price": 2700,
+            "type": "seafood"
+        },
+        {
+            "name": "langosta enchilada",
+            "price": 2800,
+            "type": "seafood"
+        },
+        {
+            "name": "espaguetti de queso",
+            "price": 1300,
+            "type": "pasta"
+        },
+        {
+            "name": "lasaña de jamón",
+            "price": 1800,
+            "type": "pasta"
+        },
+        {
+            "name": "espaguetti a la carbonara",
+            "price": 2000,
+            "type": "pasta"
+        },
+        {
+            "name": "pizza de queso",
+            "price": 1200,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza familiar de queso",
+            "price": 3350,
+            "type": "pizza"
+        },
+        {
+            "name": "queso gouda sencilla",
+            "price": 560,
+            "type": "others"
+        },
+        {
+            "name": "queso goud familiar",
+            "price": 1400,
+            "type": "others"
+        },
+        {
+            "name": "jamón sencilla",
+            "price": 620,
+            "type": "others"
+        },
+        {
+            "name": "jamón familiar",
+            "price": 1550,
+            "type": "others"
+        },
+        {
+            "name": "vegetales sencilla",
+            "price": 500,
+            "type": "others"
+        },
+        {
+            "name": "vegetales familiar",
+            "price": 1250,
+            "type": "others"
+        },
+        {
+            "name": "chorizo sencilla",
+            "price": 450,
+            "type": "others"
+        },
+        {
+            "name": "chorizo familiar",
+            "price": 825,
+            "type": "others"
+        },
+        {
+            "name": "aceituna sencilla",
+            "price": 600,
+            "type": "others"
+        },
+        {
+            "name": "aceituna familiar",
+            "price": 1500,
+            "type": "others"
+        },
+        {
+            "name": "piña sencilla",
+            "price": 300,
+            "type": "others"
+        },
+        {
+            "name": "piña familiar",
+            "price": 750,
+            "type": "others"
+        },
+        {
+            "name": "jamón pierna sencilla",
+            "price": 700,
+            "type": "others"
+        },
+        {
+            "name": "jamón pierna familiar",
+            "price": 1750,
+            "type": "others"
+        },
+        {
+            "name": "camaron sencilla",
+            "price": 800,
+            "type": "others"
+        },
+        {
+            "name": "camaron familiar",
+            "price": 2000,
+            "type": "others"
+        },
+        {
+            "name": "atún sencilla",
+            "price": 790,
+            "type": "others"
+        },
+        {
+            "name": "atún familiar",
+            "price": 1975,
+            "type": "others"
+        }
+    ],
+    "location": {
+        "street": "calzada de guines #45 e/ 13 y 23 AMP. San Matias",
+        "council": null,
+        "municipe": "San Miguel del Padron",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

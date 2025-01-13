@@ -1,0 +1,171 @@
+{
+    "name": "Mundo Pizza",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "italian",
+    "hours": {
+        "open": "12:00",
+        "close": "22:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "home",
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": "Mundo Pizza",
+    "ig": "@mundopizza_habana",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "croquetas caseras",
+            "price": 590,
+            "type": "appetizer"
+        },
+        {
+            "name": "tostones criollos",
+            "price": 540,
+            "type": "appetizer"
+        },
+        {
+            "name": "focaccia",
+            "price": 560,
+            "type": "appetizer"
+        },
+        {
+            "name": "pizza metro criolla",
+            "price": 2800,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza metro casa",
+            "price": 3700,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza metro gouda",
+            "price": 5100,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza metro elección",
+            "price": 5150,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza 1/2 metro mix",
+            "price": 2500,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza 1/2 metro elección",
+            "price": 2700,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza rossa",
+            "price": 590,
+            "type": "pizza"
+        },
+        {
+            "name": "spaghetti",
+            "price": 950,
+            "type": "pasta"
+        },
+        {
+            "name": "lasaña",
+            "price": 1250,
+            "type": "pasta"
+        },
+        {
+            "name": "spaghetti al pesto",
+            "price": 1050,
+            "type": "pasta"
+        },
+        {
+            "name": "spaghetti del dia",
+            "price": 1600,
+            "type": "pasta"
+        },
+        {
+            "name": "postre del dia",
+            "price": 650,
+            "type": "desserts"
+        },
+        {
+            "name": "pizza a chocolate",
+            "price": 815,
+            "type": "desserts"
+        },
+        {
+            "name": "helado 3 gracias",
+            "price": 500,
+            "type": "desserts"
+        },
+        {
+            "name": "refresco",
+            "price": 250,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "energizante",
+            "price": 390,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "malta",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugo cajita",
+            "price": 250,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "cerveza",
+            "price": 300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "yogurt",
+            "price": 250,
+            "type": "others"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.13771148492377,
+        "coords_y": -82.36400171839173
+    }
+}

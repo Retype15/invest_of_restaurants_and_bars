@@ -1,0 +1,644 @@
+{
+    "name": "Sapori",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "08:00",
+        "close": "22:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [],
+    "delivery": [
+        "home",
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 5.0,
+    "reviews": 75,
+    "amenities": [
+        "pet_friendly"
+    ],
+    "fb": null,
+    "ig": "https://www.instagram.com/sapori_oficial",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "tostadas de mantequilla y mermelada",
+            "price": 400,
+            "type": "breakfast"
+        },
+        {
+            "name": "tostadas de aguacate, chia, aceite de oliva y tomate",
+            "price": 800,
+            "type": "breakfast"
+        },
+        {
+            "name": "ensalada de frutas",
+            "price": 1000,
+            "type": "breakfast"
+        },
+        {
+            "name": "yogurt con cereal",
+            "price": 650,
+            "type": "breakfast"
+        },
+        {
+            "name": "yogurt con frutas",
+            "price": 650,
+            "type": "breakfast"
+        },
+        {
+            "name": "leche con cereal",
+            "price": 650,
+            "type": "breakfast"
+        },
+        {
+            "name": "crepes",
+            "price": 800,
+            "type": "breakfast"
+        },
+        {
+            "name": "crepes de nutella",
+            "price": 1000,
+            "type": "breakfast"
+        },
+        {
+            "name": "tostadas francesas",
+            "price": 1000,
+            "type": "breakfast"
+        },
+        {
+            "name": "waffles",
+            "price": 1000,
+            "type": "breakfast"
+        },
+        {
+            "name": "huevos al gusto",
+            "price": 1000,
+            "type": "breakfast"
+        },
+        {
+            "name": "huevos benedictos",
+            "price": 1500,
+            "type": "breakfast"
+        },
+        {
+            "name": "desayuno continental",
+            "price": 2000,
+            "type": "breakfast"
+        },
+        {
+            "name": "desayuno americano",
+            "price": 2000,
+            "type": "breakfast"
+        },
+        {
+            "name": "desayuno sapori",
+            "price": 2200,
+            "type": "breakfast"
+        },
+        {
+            "name": "desayuno healthy",
+            "price": 2500,
+            "type": "breakfast"
+        },
+        {
+            "name": "croissant natural",
+            "price": 600,
+            "type": "appetizer"
+        },
+        {
+            "name": "baguette natural pequeño",
+            "price": 180,
+            "type": "appetizer"
+        },
+        {
+            "name": "barra de baguette natural",
+            "price": 650,
+            "type": "appetizer"
+        },
+        {
+            "name": "pan briochi",
+            "price": 1500,
+            "type": "appetizer"
+        },
+        {
+            "name": "pan boom",
+            "price": 250,
+            "type": "appetizer"
+        },
+        {
+            "name": "pan rustico",
+            "price": 1100,
+            "type": "appetizer"
+        },
+        {
+            "name": "bolitas de queso (5u)",
+            "price": 1200,
+            "type": "appetizer"
+        },
+        {
+            "name": "croquetas (6u)",
+            "price": 1200,
+            "type": "appetizer"
+        },
+        {
+            "name": "papas fritas",
+            "price": 900,
+            "type": "appetizer"
+        },
+        {
+            "name": "brusquetas clásicas (4u)",
+            "price": 800,
+            "type": "appetizer"
+        },
+        {
+            "name": "brusquetas de jamon serrano (4u)",
+            "price": 950,
+            "type": "appetizer"
+        },
+        {
+            "name": "nuggets de pollo (6u)",
+            "price": 2000,
+            "type": "appetizer"
+        },
+        {
+            "name": "tacos de pechuga (3u)",
+            "price": 2200,
+            "type": "appetizer"
+        },
+        {
+            "name": "tacos de cerdo (3u)",
+            "price": 2200,
+            "type": "appetizer"
+        },
+        {
+            "name": "picadera sapori",
+            "price": 4000,
+            "type": "appetizer"
+        },
+        {
+            "name": "ensalada cesar",
+            "price": 2200,
+            "type": "appetizer"
+        },
+        {
+            "name": "ensalada capresse",
+            "price": 2700,
+            "type": "appetizer"
+        },
+        {
+            "name": "ensalada estación",
+            "price": 1800,
+            "type": "appetizer"
+        },
+        {
+            "name": "carpaccio de res",
+            "price": 3250,
+            "type": "mains"
+        },
+        {
+            "name": "ceviche de pescado",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "dulce de chocolate",
+            "price": 750,
+            "type": "desserts"
+        },
+        {
+            "name": "dulce de fresa",
+            "price": 700,
+            "type": "desserts"
+        },
+        {
+            "name": "dulce de vainilla",
+            "price": 700,
+            "type": "desserts"
+        },
+        {
+            "name": "dulce de avellana",
+            "price": 700,
+            "type": "desserts"
+        },
+        {
+            "name": "dulce de limón",
+            "price": 700,
+            "type": "desserts"
+        },
+        {
+            "name": "dulce de tiramisú",
+            "price": 750,
+            "type": "desserts"
+        },
+        {
+            "name": "dulce de tres leches",
+            "price": 750,
+            "type": "desserts"
+        },
+        {
+            "name": "dulce de yogurt con frutos del bosque",
+            "price": 700,
+            "type": "desserts"
+        },
+        {
+            "name": "dulce de pistacho",
+            "price": 750,
+            "type": "desserts"
+        },
+        {
+            "name": "tartaleta de chocolate",
+            "price": 700,
+            "type": "desserts"
+        },
+        {
+            "name": "tartaleta de pistacho con limón",
+            "price": 750,
+            "type": "desserts"
+        },
+        {
+            "name": "cheesecake de fresa",
+            "price": 700,
+            "type": "desserts"
+        },
+        {
+            "name": "ferrero rocher",
+            "price": 700,
+            "type": "desserts"
+        },
+        {
+            "name": "panna cotta",
+            "price": 500,
+            "type": "desserts"
+        },
+        {
+            "name": "matilda",
+            "price": 600,
+            "type": "desserts"
+        },
+        {
+            "name": "tarta de yogurt y frutos del bosque",
+            "price": 6500,
+            "type": "desserts"
+        },
+        {
+            "name": "tarta de chocolate",
+            "price": 6500,
+            "type": "desserts"
+        },
+        {
+            "name": "tarta de fresa",
+            "price": 6500,
+            "type": "desserts"
+        },
+        {
+            "name": "tarta de vainilla",
+            "price": 6500,
+            "type": "desserts"
+        },
+        {
+            "name": "tarta de avellana",
+            "price": 6500,
+            "type": "desserts"
+        },
+        {
+            "name": "tarta de limón",
+            "price": 6500,
+            "type": "desserts"
+        },
+        {
+            "name": "tarta tres leches",
+            "price": 5000,
+            "type": "desserts"
+        },
+        {
+            "name": "tarta cheesecake fresa",
+            "price": 6500,
+            "type": "desserts"
+        },
+        {
+            "name": "tarta matilda",
+            "price": 8000,
+            "type": "desserts"
+        },
+        {
+            "name": "tarta de tiramisú",
+            "price": 8000,
+            "type": "desserts"
+        },
+        {
+            "name": "tarta tres leches con frutos rojos",
+            "price": 8000,
+            "type": "desserts"
+        },
+        {
+            "name": "tarta de yogurt y frutos del bosque",
+            "price": 6500,
+            "type": "desserts"
+        },
+        {
+            "name": "tarta de chocolate",
+            "price": 6500,
+            "type": "desserts"
+        },
+        {
+            "name": "tarta de fresa",
+            "price": 6500,
+            "type": "desserts"
+        },
+        {
+            "name": "tarta de vainilla",
+            "price": 6500,
+            "type": "desserts"
+        },
+        {
+            "name": "tarta de avellana",
+            "price": 6500,
+            "type": "desserts"
+        },
+        {
+            "name": "tarta de limón",
+            "price": 6500,
+            "type": "desserts"
+        },
+        {
+            "name": "tarta tres leches",
+            "price": 5000,
+            "type": "desserts"
+        },
+        {
+            "name": "tarta cheesecake fresa",
+            "price": 6500,
+            "type": "desserts"
+        },
+        {
+            "name": "tarta matilda",
+            "price": 8000,
+            "type": "desserts"
+        },
+        {
+            "name": "tarta de tiramisú",
+            "price": 8000,
+            "type": "desserts"
+        },
+        {
+            "name": "tarta tres leches con frutos rojos",
+            "price": 8000,
+            "type": "desserts"
+        },
+        {
+            "name": "agua natural",
+            "price": 250,
+            "type": "water"
+        },
+        {
+            "name": "agua gaseada",
+            "price": 650,
+            "type": "water"
+        },
+        {
+            "name": "agua tónica",
+            "price": 600,
+            "type": "water"
+        },
+        {
+            "name": "refresco gaseado",
+            "price": 550,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "malta",
+            "price": 600,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "red bull",
+            "price": 750,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugo de caja",
+            "price": 250,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugo natural",
+            "price": 450,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "limonada",
+            "price": 1000,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "batido de frutas",
+            "price": 800,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "smoothie frutos rojos y platano",
+            "price": 800,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "smoothie mango y platano",
+            "price": 800,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "smoothie verde",
+            "price": 800,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "batido de helado",
+            "price": 1200,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "cerveza cristal botella",
+            "price": 650,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza crona botella",
+            "price": 650,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza stella artois",
+            "price": 650,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "servicio michelada",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "servicio chelada",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tinto de verano",
+            "price": 1000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "sangría",
+            "price": 1200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "piña colada",
+            "price": 1400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "aperol spritz",
+            "price": 1200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "daiquiri",
+            "price": 1000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "mojito",
+            "price": 1100,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "caipiroska",
+            "price": 1100,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "margarita",
+            "price": 1300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "gin tonic",
+            "price": 1300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "san francisco",
+            "price": 1000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cafe expresso",
+            "price": 400,
+            "type": "infusions"
+        },
+        {
+            "name": "café cubano",
+            "price": 400,
+            "type": "infusions"
+        },
+        {
+            "name": "café cortadito",
+            "price": 430,
+            "type": "infusions"
+        },
+        {
+            "name": "café americano",
+            "price": 400,
+            "type": "infusions"
+        },
+        {
+            "name": "café bombon",
+            "price": 550,
+            "type": "infusions"
+        },
+        {
+            "name": "café moca",
+            "price": 550,
+            "type": "infusions"
+        },
+        {
+            "name": "café capuchino",
+            "price": 650,
+            "type": "infusions"
+        },
+        {
+            "name": "café escoses",
+            "price": 650,
+            "type": "infusions"
+        },
+        {
+            "name": "café chantilly",
+            "price": 450,
+            "type": "infusions"
+        },
+        {
+            "name": "café affogato",
+            "price": 650,
+            "type": "infusions"
+        },
+        {
+            "name": "café latte",
+            "price": 850,
+            "type": "infusions"
+        },
+        {
+            "name": "frapuccino",
+            "price": 1200,
+            "type": "infusions"
+        },
+        {
+            "name": "café ice latte",
+            "price": 850,
+            "type": "infusions"
+        },
+        {
+            "name": "chocolate caliente",
+            "price": 850,
+            "type": "infusions"
+        },
+        {
+            "name": "te caliente",
+            "price": 250,
+            "type": "infusions"
+        },
+        {
+            "name": "te frio",
+            "price": 250,
+            "type": "infusions"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Playa",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.125680181720934,
+        "coords_y": -82.41363706139158
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "name": "El Batazo",
+    "phone": "+53 58050408",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "11:00",
+        "close": "22:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat"
+        ]
+    },
+    "cap": null,
+    "reservations": [],
+    "delivery": [
+        "home",
+        "takeaway",
+        "on-site",
+        "others"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "card",
+        "transfer",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Pizza de queso",
+            "price": 750,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de chorizo",
+            "price": 930,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de jamón",
+            "price": 930,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de hawaiana",
+            "price": 1130,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de cebolla",
+            "price": 950,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de ají",
+            "price": 950,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de atún",
+            "price": 1250,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de aceitunas",
+            "price": 950,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de peperoni",
+            "price": 1050,
+            "type": "pizza"
+        },
+        {
+            "name": "Espaguetis",
+            "price": 600,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis de jamón",
+            "price": 780,
+            "type": "pasta"
+        },
+        {
+            "name": "Hamburguesa strike",
+            "price": 550,
+            "type": "mains"
+        },
+        {
+            "name": "Hamburguesa doble play",
+            "price": 1000,
+            "type": "mains"
+        },
+        {
+            "name": "Hamburguesa homerun",
+            "price": 1300,
+            "type": "mains"
+        }
+    ],
+    "location": {
+        "street": "Primelles 356 entre Santa Teresa y Daois",
+        "council": null,
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

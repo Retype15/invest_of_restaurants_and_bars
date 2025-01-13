@@ -1,0 +1,251 @@
+{
+    "name": "Mi terraza",
+    "phone": "76822381",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "italian",
+    "hours": {
+        "open": "11:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "home"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.4,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": null,
+    "ig": "@miterraza_pizzeria",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Crema de queso",
+            "price": "850.00",
+            "type": "appetizer"
+        },
+        {
+            "name": "Crema Virginia",
+            "price": "1100.00",
+            "type": "appetizer"
+        },
+        {
+            "name": "Sandwich de queso",
+            "price": "700.00",
+            "type": "sandwich"
+        },
+        {
+            "name": "Sandwich de jamón",
+            "price": "650.00",
+            "type": "sandwich"
+        },
+        {
+            "name": "Sandwich de jamón y queso",
+            "price": "900.00",
+            "type": "sandwich"
+        },
+        {
+            "name": "Sandwich de atún",
+            "price": "1100.00",
+            "type": "sandwich"
+        },
+        {
+            "name": "Sandwich Mi Terraza",
+            "price": "1100.00",
+            "type": "sandwich"
+        },
+        {
+            "name": "Espaguetis Napolitanos",
+            "price": "1000.00",
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis de jamón",
+            "price": "1250.00",
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis de atún",
+            "price": "1400.00",
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis a la Carbonara",
+            "price": "1600.00",
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis doble queso",
+            "price": "1500.00",
+            "type": "pasta"
+        },
+        {
+            "name": "Canelos",
+            "price": "1500.00",
+            "type": "mains"
+        },
+        {
+            "name": "Pizza Napolitana",
+            "price": "1200.00",
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Hawaiana",
+            "price": "1700.00",
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Mi Terraza",
+            "price": "1800.00",
+            "type": "pizza"
+        },
+        {
+            "name": "Doble queso (150g)",
+            "price": "500.00",
+            "type": "sides"
+        },
+        {
+            "name": "Jamón (60g)",
+            "price": "300.00",
+            "type": "sides"
+        },
+        {
+            "name": "Cebolla",
+            "price": "250.00",
+            "type": "sides"
+        },
+        {
+            "name": "Piña",
+            "price": "200.00",
+            "type": "sides"
+        },
+        {
+            "name": "Atún",
+            "price": "400.00",
+            "type": "sides"
+        },
+        {
+            "name": "Aceitunas",
+            "price": "400.00",
+            "type": "sides"
+        },
+        {
+            "name": "Chorizo",
+            "price": "200.00",
+            "type": "sides"
+        },
+        {
+            "name": "Bacon",
+            "price": "700.00",
+            "type": "sides"
+        },
+        {
+            "name": "Limonada Frappe",
+            "price": "350.00",
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malteada",
+            "price": "500.00",
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Chelada",
+            "price": "550.00",
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Batidos (mango, fruta bomba o guayaba)",
+            "price": "400.00",
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Batidos de Helado (fresa, chocolate, helado con galleta, mozcatel)",
+            "price": "600.00",
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Pica Pica Mi Terraza",
+            "price": "1700.00",
+            "type": "others"
+        },
+        {
+            "name": "Tostones de jamón y queso",
+            "price": "1000.00",
+            "type": "others"
+        },
+        {
+            "name": "Tostones de atún",
+            "price": "1200.00",
+            "type": "others"
+        },
+        {
+            "name": "Fajitas de pollo (con mayonesa)",
+            "price": "1000.00",
+            "type": "others"
+        },
+        {
+            "name": "Ensalada de pollo",
+            "price": "400.00",
+            "type": "salads"
+        },
+        {
+            "name": "Frituras de malanga (con miel)",
+            "price": "400.00",
+            "type": "others"
+        },
+        {
+            "name": "Bolitas de queso (con miel)",
+            "price": "400.00",
+            "type": "others"
+        },
+        {
+            "name": "Croquetas (con mayonesa)",
+            "price": "400.00",
+            "type": "others"
+        },
+        {
+            "name": "Chicharritas",
+            "price": "300.00",
+            "type": "others"
+        },
+        {
+            "name": "Papas prefritas",
+            "price": "600.00",
+            "type": "others"
+        }
+    ],
+    "location": {
+        "street": "Calle 71 % 24 y 26",
+        "council": "Las Brisas",
+        "municipe": "Cotorro",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

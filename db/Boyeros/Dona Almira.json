@@ -1,0 +1,241 @@
+{
+    "name": "Dona Almira",
+    "phone": "76472532 / 52928671",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "12:00",
+        "close": "23:00",
+        "days": [
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 25,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "others"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash"
+    ],
+    "promo": false,
+    "rating": 4.6,
+    "reviews": 75,
+    "amenities": [
+        "pet_friendly"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Tostones rellenos",
+            "price": 850,
+            "type": "starters"
+        },
+        {
+            "name": "ANGU tamal en cazuela",
+            "price": 785,
+            "type": "starters"
+        },
+        {
+            "name": "Vegetales rellenos",
+            "price": 895,
+            "type": "starters"
+        },
+        {
+            "name": "Racion de chicharrones",
+            "price": 300,
+            "type": "starters"
+        },
+        {
+            "name": "Aderezo Dona Almira",
+            "price": 385,
+            "type": "starters"
+        },
+        {
+            "name": "Salsa agridulce",
+            "price": 395,
+            "type": "starters"
+        },
+        {
+            "name": "Entredos de chorizo",
+            "price": 1225,
+            "type": "starters"
+        },
+        {
+            "name": "Ceviche de pescado",
+            "price": 685,
+            "type": "starters"
+        },
+        {
+            "name": "Costillas de cerdo",
+            "price": 1890,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec americano",
+            "price": 2430,
+            "type": "mains"
+        },
+        {
+            "name": "Nasobuco",
+            "price": 1860,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de higado",
+            "price": 1290,
+            "type": "mains"
+        },
+        {
+            "name": "Higado a la italiana",
+            "price": 1380,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo rostizado",
+            "price": 2150,
+            "type": "mains"
+        },
+        {
+            "name": "Mignon de pescado grille",
+            "price": 1370,
+            "type": "mains"
+        },
+        {
+            "name": "Mignon de pescado a las finas hierbas",
+            "price": 1410,
+            "type": "mains"
+        },
+        {
+            "name": "Mignon de pescado Dona Almira",
+            "price": 1650,
+            "type": "mains"
+        },
+        {
+            "name": "Mignon de pescado gratinado",
+            "price": 1585,
+            "type": "mains"
+        },
+        {
+            "name": "Mignon de pescado con queso y bacon",
+            "price": 1720,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo Dona Almira",
+            "price": 1340,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo barbacoa",
+            "price": 1195,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo en salsa agridulce",
+            "price": 1205,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo grille",
+            "price": 1185,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo en fricase",
+            "price": 1225,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo a la pasa",
+            "price": 1220,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo grille con camarones y queso",
+            "price": 1375,
+            "type": "mains"
+        },
+        {
+            "name": "Cerdo enrrollado asado",
+            "price": 1545,
+            "type": "mains"
+        },
+        {
+            "name": "Cerdo enrrollado en salsa agridulce",
+            "price": 1570,
+            "type": "mains"
+        },
+        {
+            "name": "Cerdo enrrollado glaseado",
+            "price": 1550,
+            "type": "mains"
+        },
+        {
+            "name": "Fricase de cerdo",
+            "price": 1520,
+            "type": "mains"
+        },
+        {
+            "name": "Picadillo a la Habanera",
+            "price": 1290,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa Vieja",
+            "price": 1305,
+            "type": "mains"
+        },
+        {
+            "name": "Vaca Frita",
+            "price": 1260,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz congris",
+            "price": 120,
+            "type": "sides"
+        },
+        {
+            "name": "Ensalada de estacion",
+            "price": 285,
+            "type": "sides"
+        },
+        {
+            "name": "Cafe Cubano",
+            "price": 150,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cafe Cortado",
+            "price": 180,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Mousse variados",
+            "price": 570,
+            "type": "desserts"
+        }
+    ],
+    "location": {
+        "street": "Calle Finlay entre Avenida de los Pinos y F de Castro",
+        "council": null,
+        "municipe": "Boyeros",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

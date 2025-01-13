@@ -1,0 +1,180 @@
+{
+    "name": "Pal'Karajo",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "10:00",
+        "close": "22:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 12,
+    "reservations": [
+        "online"
+    ],
+    "delivery": [
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.4,
+    "reviews": 75,
+    "amenities": [
+        "pet_friendly"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "chicarrita de boniato",
+            "price": 200,
+            "type": "appetizer"
+        },
+        {
+            "name": "pan Pal'Karajo",
+            "price": 790,
+            "type": "sandwich"
+        },
+        {
+            "name": "pan con lechón",
+            "price": 450,
+            "type": "sandwich"
+        },
+        {
+            "name": "pan con jamón",
+            "price": 300,
+            "type": "sandwich"
+        },
+        {
+            "name": "pan con chorizo",
+            "price": 250,
+            "type": "sandwich"
+        },
+        {
+            "name": "pan con jamón y chorizo",
+            "price": 400,
+            "type": "sandwich"
+        },
+        {
+            "name": "tacos de cerdo mechados",
+            "price": 890,
+            "type": "mains"
+        },
+        {
+            "name": "tacos de cerdo estofados",
+            "price": 990,
+            "type": "mains"
+        },
+        {
+            "name": "michelada con cristal",
+            "price": 550,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "chelada con cristal",
+            "price": 550,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "expresso",
+            "price": 100,
+            "type": "infusions"
+        },
+        {
+            "name": "cortado",
+            "price": 150,
+            "type": "infusions"
+        },
+        {
+            "name": "capuccino",
+            "price": 300,
+            "type": "infusions"
+        },
+        {
+            "name": "frapuccino",
+            "price": 400,
+            "type": "infusions"
+        },
+        {
+            "name": "bombón",
+            "price": 300,
+            "type": "infusions"
+        },
+        {
+            "name": "jugo de mango",
+            "price": 200,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugo de piña",
+            "price": 200,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "batido de mango",
+            "price": 380,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "batido de mamey",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "batido de trigo",
+            "price": 380,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "batido de maní",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "batido de maní con chocolate",
+            "price": 450,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "piña colada",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "malteada",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "limonada",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "Avenida 101 Esquina 16",
+        "council": "Centro Cotorro",
+        "municipe": "Cotorro",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

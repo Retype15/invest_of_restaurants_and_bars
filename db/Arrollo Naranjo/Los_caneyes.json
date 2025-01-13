@@ -1,0 +1,326 @@
+{
+    "name": "Los caneyes",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "12:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "home",
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.6,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Tostones",
+            "price": 800.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Papas fritas",
+            "price": 900.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Fajitas de pollo empanadas",
+            "price": 1000.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Fajitas de cerdo empanadas",
+            "price": 1000.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Eperlan de pescado",
+            "price": 1300.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Masas de Cangrejo con tostones",
+            "price": 1000.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Milanesa de res con papas fritas",
+            "price": 1500.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Hamburguesa de res c/ queso gratinado y papas fritas",
+            "price": 1500.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Hamburguesas de Salmón c/ queso gratinado y tostones",
+            "price": 1500.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Filete de Pescado Grille",
+            "price": 1500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de Pescado empanado",
+            "price": 1500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de Pescado Monte toro",
+            "price": 1800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de Pescado Caney",
+            "price": 1800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de Pescado \"Los Caneyes\" (filete con camarones y queso gratinado)",
+            "price": 2500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Masas de Cangrejo en salsa de tomate",
+            "price": 1300.0,
+            "type": "mains"
+        },
+        {
+            "name": "Salmón rociado en salsa de tomate",
+            "price": 1500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Camarones al Ajillo",
+            "price": 2200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Enchilado de Camarones",
+            "price": 2200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Camarones Rebozados",
+            "price": 2200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo ahumado deshuesado",
+            "price": 1800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de Cerdo Frito",
+            "price": 1300.0,
+            "type": "mains"
+        },
+        {
+            "name": "Escalope de cerdo",
+            "price": 1500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de cerdo con Jamón, chorizo y Queso",
+            "price": 1800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec Uruguayo",
+            "price": 1800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Boucht de cerdo",
+            "price": 1300.0,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa Vieja",
+            "price": 1700.0,
+            "type": "mains"
+        },
+        {
+            "name": "Vaca Frita",
+            "price": 1700.0,
+            "type": "mains"
+        },
+        {
+            "name": "Suprema de pollo",
+            "price": 1300.0,
+            "type": "mains"
+        },
+        {
+            "name": "Fajitas salteadas",
+            "price": 1300.0,
+            "type": "mains"
+        },
+        {
+            "name": "Fajitas empanadas",
+            "price": 1400.0,
+            "type": "mains"
+        },
+        {
+            "name": "Suprema de pollo empanada",
+            "price": 1400.0,
+            "type": "mains"
+        },
+        {
+            "name": "Suprema de pollo con jamón y queso",
+            "price": 1800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Gordon Blue",
+            "price": 2300.0,
+            "type": "mains"
+        },
+        {
+            "name": "Suprema de pollo rellena con camarones y queso",
+            "price": 2300.0,
+            "type": "mains"
+        },
+        {
+            "name": "Suprema \"Los Caneyes\" (camarones y queso gratinado)",
+            "price": 2300.0,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz Blanco",
+            "price": 150.0,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz Congri",
+            "price": 200.0,
+            "type": "sides"
+        },
+        {
+            "name": "Yuca con mojo",
+            "price": 200.0,
+            "type": "sides"
+        },
+        {
+            "name": "Puré de malanga (se procesa al pedido)",
+            "price": 400.0,
+            "type": "sides"
+        },
+        {
+            "name": "Tarta con Ganache de Chocolate",
+            "price": 450.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Pote de helado Gustó (1 litro)",
+            "price": 1000.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Spaguettis Napolitano",
+            "price": 700.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Pizza Napolitana",
+            "price": 900.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Napolitana con queso Gouda",
+            "price": 1300.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Ensalada Mixta de Estación",
+            "price": 250.0,
+            "type": "salads"
+        },
+        {
+            "name": "Refresco cola y limón",
+            "price": 250.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco de mate",
+            "price": 270.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta",
+            "price": 300.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua Mineral Embotellada",
+            "price": 300.0,
+            "type": "water"
+        },
+        {
+            "name": "Cervezas",
+            "price": 330.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Cristal",
+            "price": 300.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Latas de jugo",
+            "price": 300.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Bebida energizante",
+            "price": 100.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Café",
+            "price": 100.0,
+            "type": "infusions"
+        }
+    ],
+    "location": {
+        "street": "Calle Martí y Gutierrez",
+        "council": "Reparto Electrico",
+        "municipe": "Arroyo Naranjo",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

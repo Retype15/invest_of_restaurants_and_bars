@@ -1,0 +1,317 @@
+{
+    "name": "Coco Blue",
+    "phone": "59121916",
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "10:00",
+        "close": "00:30",
+        "days": [
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "online",
+        "phone",
+        "in-person"
+    ],
+    "delivery": [
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "DESAYUNO",
+            "price": 2800.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "HAMBURGUESA DE POLLO",
+            "price": 1400.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "HAMBURGUESA DE RES",
+            "price": 1900.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "SANDWICH ZORRA PELUA",
+            "price": 1600.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "NACHOS",
+            "price": 400.0,
+            "type": "starters"
+        },
+        {
+            "name": "BONIATO FRITO",
+            "price": 500.0,
+            "type": "starters"
+        },
+        {
+            "name": "FRITURAS DE MALANGA",
+            "price": 700.0,
+            "type": "starters"
+        },
+        {
+            "name": "CROQUETAS DE PESCADO",
+            "price": 1000.0,
+            "type": "starters"
+        },
+        {
+            "name": "CROQUETAS DE RES",
+            "price": 1100.0,
+            "type": "starters"
+        },
+        {
+            "name": "TACOS DE POLLO",
+            "price": 1100.0,
+            "type": "starters"
+        },
+        {
+            "name": "TACOS DE VEGETALES",
+            "price": 1000.0,
+            "type": "starters"
+        },
+        {
+            "name": "TACOS DE RES",
+            "price": 1200.0,
+            "type": "starters"
+        },
+        {
+            "name": "CEVICHE",
+            "price": 1600.0,
+            "type": "starters"
+        },
+        {
+            "name": "FAJITAS DE POLLO",
+            "price": 1200.0,
+            "type": "starters"
+        },
+        {
+            "name": "BISTEC DE POLLO",
+            "price": 2000.0,
+            "type": "mains"
+        },
+        {
+            "name": "ESPAGUETTI NAPOLITANO",
+            "price": 1600.0,
+            "type": "mains"
+        },
+        {
+            "name": "FILETE DE PESCADO",
+            "price": 2000.0,
+            "type": "mains"
+        },
+        {
+            "name": "ROPA VIEJA",
+            "price": 2100.0,
+            "type": "mains"
+        },
+        {
+            "name": "CASCOS DE GUAYABA",
+            "price": 800.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Importadas",
+            "price": 500.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Nacional",
+            "price": 550.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cristal dispensada",
+            "price": 400.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cubetazo",
+            "price": 2800.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Mojito",
+            "price": 700.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cuba Libre",
+            "price": 700.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cubata",
+            "price": 600.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Daiquirí",
+            "price": 700.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Daiquirí de Sabores",
+            "price": 750.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipiriña",
+            "price": 600.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipiroska Base",
+            "price": 570.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipirísima",
+            "price": 650.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Piña Colada",
+            "price": 700.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Chelada",
+            "price": 880.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Michelada",
+            "price": 900.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Sangría",
+            "price": 1100.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Margarita",
+            "price": 800.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Long Island",
+            "price": 1100.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Jagger Bomb",
+            "price": 1000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Blue Lagon",
+            "price": 1100.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Expresso",
+            "price": 400.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cortado",
+            "price": 450.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Capuccino",
+            "price": 500.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Frappuccino",
+            "price": 600.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Americano",
+            "price": 350.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Frutas",
+            "price": 450.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Natural",
+            "price": 450.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Frappé",
+            "price": 500.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Frescura",
+            "price": 600.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Natural",
+            "price": 450.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Tónica",
+            "price": 500.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Gaseada",
+            "price": 600.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refrescos",
+            "price": 500.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Energizante",
+            "price": 700.0,
+            "type": "non_alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Plaza de la Revolucion",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

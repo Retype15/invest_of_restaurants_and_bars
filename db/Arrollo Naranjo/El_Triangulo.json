@@ -1,0 +1,126 @@
+{
+    "name": "El Triangulo",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "08:00",
+        "close": "24:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "others"
+    ],
+    "delivery": [
+        "others"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Fajitas de pollo",
+            "price": 350.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Croquetas",
+            "price": 150.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Bolitas de queso",
+            "price": 150.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostones",
+            "price": 150.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Pollo Frito",
+            "price": 1000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Cerveza Cristal",
+            "price": 250.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Bucanero",
+            "price": 250.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Escorial",
+            "price": 200.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Holanda",
+            "price": 200.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Agua",
+            "price": 120.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco",
+            "price": 220.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugo de caja",
+            "price": 180.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Red Bull",
+            "price": 230.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta",
+            "price": 220.0,
+            "type": "non_alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "Esquina Calzada de 10 de octubre y Calzada de Porvenir",
+        "council": "La Palma",
+        "municipe": "Arroyo Naranjo",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

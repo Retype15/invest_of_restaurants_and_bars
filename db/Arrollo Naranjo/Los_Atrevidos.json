@@ -1,0 +1,202 @@
+{
+    "name": "Pizzeria Los Atrevidos",
+    "phone": "76470313",
+    "email": null,
+    "web": "https://atrevidospizzeria.com/",
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "italian",
+    "hours": {
+        "open": "10:00",
+        "close": "21:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "home",
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": "https://www.facebook.com/pizzerialosatrevidos",
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Pizza Napolitana",
+            "price": 1100,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza d' Cebolla",
+            "price": 1250,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza d' Champiñones",
+            "price": 1300,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza d' Pimiento",
+            "price": 1250,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza d' Jamón",
+            "price": 1350,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza d' Aceitunas",
+            "price": 1400,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza d' Chorizo",
+            "price": 1350,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza d' Chorizo Vela",
+            "price": 1150,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Hawaiana",
+            "price": 1400,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza d' Bacon",
+            "price": 1400,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza d' Atún",
+            "price": 1500,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Bolonesa",
+            "price": 1600,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza d' Jamón Serrano",
+            "price": 1550,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza d' Camarones",
+            "price": 1650,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza 4 Quesos",
+            "price": 1500,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Atrevida",
+            "price": 1800,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Jamón Pernia",
+            "price": 1500,
+            "type": "pizza"
+        },
+        {
+            "name": "Lasaña",
+            "price": 1100,
+            "type": "mains"
+        },
+        {
+            "name": "Spaguetis Napolitanos",
+            "price": 1000,
+            "type": "mains"
+        },
+        {
+            "name": "Spaguetis d' Parmesano",
+            "price": 1200,
+            "type": "mains"
+        },
+        {
+            "name": "Spaguetis d' Jamón",
+            "price": 1250,
+            "type": "mains"
+        },
+        {
+            "name": "Spaguetis d' Atún",
+            "price": 1350,
+            "type": "mains"
+        },
+        {
+            "name": "Spaguetis d' Chorizo",
+            "price": 1250,
+            "type": "mains"
+        },
+        {
+            "name": "Spaguetis d' Aceituna",
+            "price": 1300,
+            "type": "mains"
+        },
+        {
+            "name": "Spaguetis d' Cebolla",
+            "price": 1150,
+            "type": "mains"
+        },
+        {
+            "name": "Spaguetis Hawaianos",
+            "price": 1300,
+            "type": "mains"
+        },
+        {
+            "name": "Spaguetis 4 Quesos",
+            "price": 1400,
+            "type": "mains"
+        },
+        {
+            "name": "Spaguetis Atrevidos",
+            "price": 1050,
+            "type": "mains"
+        },
+        {
+            "name": "Spaguetis Bolonesa",
+            "price": 1450,
+            "type": "mains"
+        }
+    ],
+    "location": {
+        "street": "Calzada de Bejucal # 2639 e/ Estrella y Camilo Sierra",
+        "council": null,
+        "municipe": "Arroyo Naranjo",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

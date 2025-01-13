@@ -1,0 +1,505 @@
+{
+    "name": "Los_Chinos_Pizza",
+    "phone": null,
+    "email": null,
+    "web": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=/maps/place/Los%2Bchinos%2Bpizza/%4023.1693708,-82.1378248,15z/data%3D!4m2!3m1!1s0x0:0x4ca0ee6e38b9be6c%3Fsa%3DX%26ved%3D1t:2428%26ictx%3D111&ved=2ahUKEwiSmrWP-oaKAxX2TDABHQxBAUkQ_BJ6BAgaEAk&usg=AOvVaw2s0StPT-DNKB7a_P8X5Fel",
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "italian",
+    "hours": {
+        "open": "11:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 54,
+    "reservations": null,
+    "delivery": [
+        "home",
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "transfer",
+        "cash"
+    ],
+    "promo": false,
+    "rating": 4.3,
+    "reviews": null,
+    "amenities": [
+        "pet_friendly",
+        "invalid_accessible"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Brusquetas",
+            "price": "600",
+            "type": "appetizer"
+        },
+        {
+            "name": "Brusquetas con Queso",
+            "price": "750",
+            "type": "appetizer"
+        },
+        {
+            "name": "Focaccia",
+            "price": "700",
+            "type": "appetizer"
+        },
+        {
+            "name": "Focaccia con Salsa de Tomate",
+            "price": "750",
+            "type": "appetizer"
+        },
+        {
+            "name": "Focaccia con Queso",
+            "price": "1000",
+            "type": "appetizer"
+        },
+        {
+            "name": "Croquetas Caseras",
+            "price": "450",
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostones Rellenos de Jamon y Queso",
+            "price": "650",
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostones Rellenos de Atun",
+            "price": "700",
+            "type": "appetizer"
+        },
+        {
+            "name": "Coctel de Camaron",
+            "price": "2600",
+            "type": "appetizer"
+        },
+        {
+            "name": "Sopa de Vegetales",
+            "price": "500",
+            "type": "soups"
+        },
+        {
+            "name": "Crema de Queso",
+            "price": "450",
+            "type": "soups"
+        },
+        {
+            "name": "Crema Aurora",
+            "price": "480",
+            "type": "soups"
+        },
+        {
+            "name": "Crema Virginia",
+            "price": "550",
+            "type": "soups"
+        },
+        {
+            "name": "Lazaña Boloñesa",
+            "price": "1900",
+            "type": "mains"
+        },
+        {
+            "name": "Lazaña de Jamon",
+            "price": "1800",
+            "type": "mains"
+        },
+        {
+            "name": "Pasta Arrabiata",
+            "price": "850",
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta al Aglio Olio",
+            "price": "850",
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta Bolognesa",
+            "price": "1700",
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta Carbonara",
+            "price": "1200",
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta Alfredo",
+            "price": "1200",
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta al Pesto",
+            "price": "1200",
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta Matriciana",
+            "price": "1200",
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta con Camarones",
+            "price": "1700",
+            "type": "pasta"
+        },
+        {
+            "name": "De Queso",
+            "price": "1150",
+            "type": "pizza"
+        },
+        {
+            "name": "De Jamon",
+            "price": "1600",
+            "type": "pizza"
+        },
+        {
+            "name": "Con Aceitunas:",
+            "price": "1500",
+            "type": "pizza"
+        },
+        {
+            "name": "Salame",
+            "price": "1500",
+            "type": "pizza"
+        },
+        {
+            "name": "Chorizo",
+            "price": "1600",
+            "type": "pizza"
+        },
+        {
+            "name": "Champiñon",
+            "price": "1700",
+            "type": "pizza"
+        },
+        {
+            "name": "3 Vegetales",
+            "price": "1700",
+            "type": "pizza"
+        },
+        {
+            "name": "3 Embutidos",
+            "price": "1700",
+            "type": "pizza"
+        },
+        {
+            "name": "Salame y Picante",
+            "price": "1700",
+            "type": "pizza"
+        },
+        {
+            "name": "Pepperoni",
+            "price": "1700",
+            "type": "pizza"
+        },
+        {
+            "name": "Hawaiana",
+            "price": "1700",
+            "type": "pizza"
+        },
+        {
+            "name": "Jamon y Champiñon",
+            "price": "1700",
+            "type": "pizza"
+        },
+        {
+            "name": "Atun",
+            "price": "1700",
+            "type": "pizza"
+        },
+        {
+            "name": "Camaron",
+            "price": "2200",
+            "type": "pizza"
+        },
+        {
+            "name": "Bacon",
+            "price": "1700",
+            "type": "pizza"
+        },
+        {
+            "name": "Los Chinos",
+            "price": "2200",
+            "type": "pizza"
+        },
+        {
+            "name": "Cebolla",
+            "price": "1600",
+            "type": "pizza"
+        },
+        {
+            "name": "Pimiento",
+            "price": "1600",
+            "type": "pizza"
+        },
+        {
+            "name": "Bistec de Cerdo",
+            "price": "1900",
+            "type": "mains"
+        },
+        {
+            "name": "Fajita de Cerdo",
+            "price": "1900",
+            "type": "mains"
+        },
+        {
+            "name": "Masas Fritas",
+            "price": "2000",
+            "type": "mains"
+        },
+        {
+            "name": "Ropa Vieja",
+            "price": "1900",
+            "type": "mains"
+        },
+        {
+            "name": "Lomo Deshuesado",
+            "price": "1900",
+            "type": "mains"
+        },
+        {
+            "name": "Chuleta",
+            "price": "2100",
+            "type": "mains"
+        },
+        {
+            "name": "Bistec Relleno de Jamon y Queso",
+            "price": "2100",
+            "type": "mains"
+        },
+        {
+            "name": "Eperlan",
+            "price": "2250",
+            "type": "mains"
+        },
+        {
+            "name": "Filete Grille",
+            "price": "2100",
+            "type": "mains"
+        },
+        {
+            "name": "Filete Empanado",
+            "price": "2250",
+            "type": "mains"
+        },
+        {
+            "name": "Filete Monte Toro",
+            "price": "2500",
+            "type": "mains"
+        },
+        {
+            "name": "Canciller",
+            "price": "2600",
+            "type": "mains"
+        },
+        {
+            "name": "Jhon Bill",
+            "price": "3000",
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de Pollo",
+            "price": "1600",
+            "type": "mains"
+        },
+        {
+            "name": "Fajita de Pollo",
+            "price": "1600",
+            "type": "mains"
+        },
+        {
+            "name": "Pollo Asado",
+            "price": "3000",
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de Pechuga Grille",
+            "price": "1700",
+            "type": "mains"
+        },
+        {
+            "name": "Fajita de Pechuga",
+            "price": "1700",
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga Rellena de Jamon y Queso",
+            "price": "2100",
+            "type": "mains"
+        },
+        {
+            "name": "Pollo a la Criolla",
+            "price": "2000",
+            "type": "mains"
+        },
+        {
+            "name": "Ropa Vieja de Res",
+            "price": "3000",
+            "type": "mains"
+        },
+        {
+            "name": "Camarones Grille",
+            "price": "2600",
+            "type": "seafood"
+        },
+        {
+            "name": "Camarones Enchilado",
+            "price": "2600",
+            "type": "seafood"
+        },
+        {
+            "name": "Camarones al Ajillo",
+            "price": "2600",
+            "type": "seafood"
+        },
+        {
+            "name": "Camarones Rebosado",
+            "price": "2700",
+            "type": "seafood"
+        },
+        {
+            "name": "Langosta Grille",
+            "price": "3000",
+            "type": "seafood"
+        },
+        {
+            "name": "Langosta al Ajillo",
+            "price": "3000",
+            "type": "seafood"
+        },
+        {
+            "name": "Langosta Enchilada",
+            "price": "3600",
+            "type": "seafood"
+        },
+        {
+            "name": "Langosta Marinera",
+            "price": "4000",
+            "type": "seafood"
+        },
+        {
+            "name": "Cebolla",
+            "price": "450",
+            "type": "sides"
+        },
+        {
+            "name": "Jamon",
+            "price": "560",
+            "type": "sides"
+        },
+        {
+            "name": "Salame",
+            "price": "550",
+            "type": "sides"
+        },
+        {
+            "name": "Atun",
+            "price": "670",
+            "type": "sides"
+        },
+        {
+            "name": "Bacon",
+            "price": "560",
+            "type": "sides"
+        },
+        {
+            "name": "Salsa de Tomate",
+            "price": "450",
+            "type": "sides"
+        },
+        {
+            "name": "Piña",
+            "price": "450",
+            "type": "sides"
+        },
+        {
+            "name": "Aceitunas",
+            "price": "450",
+            "type": "sides"
+        },
+        {
+            "name": "Queso",
+            "price": "500",
+            "type": "sides"
+        },
+        {
+            "name": "Chorizo",
+            "price": "550",
+            "type": "sides"
+        },
+        {
+            "name": "Pimiento",
+            "price": "450",
+            "type": "sides"
+        },
+        {
+            "name": "Tomate Natural",
+            "price": "450",
+            "type": "sides"
+        },
+        {
+            "name": "Camaron",
+            "price": "1100",
+            "type": "sides"
+        },
+        {
+            "name": "Champiñon",
+            "price": "670",
+            "type": "sides"
+        },
+        {
+            "name": "Arroz Blanco",
+            "price": "240",
+            "type": "sides"
+        },
+        {
+            "name": "Arroz Moro",
+            "price": "260",
+            "type": "sides"
+        },
+        {
+            "name": "Ensalada de Vegetales",
+            "price": "280",
+            "type": "salads"
+        },
+        {
+            "name": "Racion de Vianda Hervida",
+            "price": "300",
+            "type": "sides"
+        },
+        {
+            "name": "Papas Fritas",
+            "price": "500",
+            "type": "sides"
+        },
+        {
+            "name": "Otras Viandas Fritas",
+            "price": "400",
+            "type": "sides"
+        }
+    ],
+    "location": {
+        "street": "5V96+PVV",
+        "council": null,
+        "municipe": "La Habana del Este",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

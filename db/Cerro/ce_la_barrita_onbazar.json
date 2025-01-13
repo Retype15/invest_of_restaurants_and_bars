@@ -1,0 +1,188 @@
+{
+    "name": "La Barrita Onbazar",
+    "phone": "+53 54494741",
+    "email": null,
+    "web": "labarrita.onbazar.net",
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "09:00",
+        "close": "00:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "home",
+        "takeaway",
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "card",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": null,
+    "ig": "la_barrita_onbazar",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Tostones rellenos",
+            "price": 1300,
+            "type": "starters"
+        },
+        {
+            "name": "Jamón ,queso y aceitunas",
+            "price": 750,
+            "type": "starters"
+        },
+        {
+            "name": "Mixta",
+            "price": 1600,
+            "type": "starters"
+        },
+        {
+            "name": "Brochetas",
+            "price": 2000,
+            "type": "starters"
+        },
+        {
+            "name": "Croquetas",
+            "price": 650,
+            "type": "starters"
+        },
+        {
+            "name": "Pollo frito",
+            "price": 1500,
+            "type": "starters"
+        },
+        {
+            "name": "Pollo chiflado",
+            "price": 1650,
+            "type": "starters"
+        },
+        {
+            "name": "Pizza de napolitana",
+            "price": 850,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de chorizo",
+            "price": 1000,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de jamón",
+            "price": 1000,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de hawaiana",
+            "price": 1150,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de cebolla",
+            "price": 1000,
+            "type": "pizza"
+        },
+        {
+            "name": "Espaguetis",
+            "price": 850,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis de jamón",
+            "price": 1100,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis de chorizo",
+            "price": 1000,
+            "type": "pasta"
+        },
+        {
+            "name": "Hamburguesa ",
+            "price": 1200,
+            "type": "mains"
+        },
+        {
+            "name": "Hamburguesa jamón y queso",
+            "price": 1650,
+            "type": "mains"
+        },
+        {
+            "name": "Hamburguesa onbazar",
+            "price": 2700,
+            "type": "mains"
+        },
+        {
+            "name": "Café expreso",
+            "price": 180,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Café cortado",
+            "price": 220,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Capuchino",
+            "price": 450,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Café bombón",
+            "price": 450,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Piña colada",
+            "price": 600,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Piña colada (alchol)",
+            "price": 750,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Limonada frapé",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malteada",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "Amenida entre Cruz del Pader e Infanta",
+        "council": null,
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

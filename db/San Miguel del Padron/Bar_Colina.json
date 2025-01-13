@@ -1,0 +1,96 @@
+{
+    "name": "Bar Colina",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "italian",
+    "hours": {
+        "open": "11:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 200,
+    "reservations": [
+        "online"
+    ],
+    "delivery": [],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "entremes de jamón y queso",
+            "price": 600,
+            "type": "appetizer"
+        },
+        {
+            "name": "croquetas",
+            "price": 400,
+            "type": "appetizer"
+        },
+        {
+            "name": "frituras de malanga",
+            "price": 550,
+            "type": "appetizer"
+        },
+        {
+            "name": "tostones",
+            "price": 400,
+            "type": "appetizer"
+        },
+        {
+            "name": "tostones rellenos",
+            "price": 600,
+            "type": "appetizer"
+        },
+        {
+            "name": "chicharrita",
+            "price": 300,
+            "type": "appetizer"
+        },
+        {
+            "name": "espaguetti napolitano",
+            "price": 550,
+            "type": "pasta"
+        },
+        {
+            "name": "pizza napolitana grande",
+            "price": 650,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza napolitana",
+            "price": 220,
+            "type": "pizza"
+        }
+    ],
+    "location": {
+        "street": "esquina b y calzada de guines reparto merceditas",
+        "council": null,
+        "municipe": "San Miguel del Padron",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

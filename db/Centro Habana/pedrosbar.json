@@ -1,0 +1,206 @@
+{
+    "name": "Pedro's Bar",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "italian",
+    "hours": {
+        "open": "14:00",
+        "close": "02:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 5.0,
+    "reviews": 75,
+    "amenities": [
+        "invalid_accessible",
+        "parking"
+    ],
+    "fb": "Pedro's Bar",
+    "ig": "@pedrosbar_boulevard",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "papas fritas",
+            "price": 1150,
+            "type": "appetizer"
+        },
+        {
+            "name": "frituras de malanga",
+            "price": 800,
+            "type": "appetizer"
+        },
+        {
+            "name": "croquetas",
+            "price": 1050,
+            "type": "appetizer"
+        },
+        {
+            "name": "dados de queso",
+            "price": 1350,
+            "type": "appetizer"
+        },
+        {
+            "name": "fajitas de pollo",
+            "price": 1450,
+            "type": "appetizer"
+        },
+        {
+            "name": "tabla mixta",
+            "price": 4600,
+            "type": "appetizer"
+        },
+        {
+            "name": "pizza de queso",
+            "price": 1200,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza hawaiana",
+            "price": 1500,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de vegetales",
+            "price": 1500,
+            "type": "pizza"
+        },
+        {
+            "name": "sandwich de jamon y queso",
+            "price": 1200,
+            "type": "sandwich"
+        },
+        {
+            "name": "sandwich de pechuga",
+            "price": 1550,
+            "type": "sandwich"
+        },
+        {
+            "name": "sandwich de atun",
+            "price": 1500,
+            "type": "sandwich"
+        },
+        {
+            "name": "sandwich de lechon",
+            "price": 1550,
+            "type": "sandwich"
+        },
+        {
+            "name": "agua natural",
+            "price": 250,
+            "type": "water"
+        },
+        {
+            "name": "refresco",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "energizante",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "canchanchara",
+            "price": 1150,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "mojito",
+            "price": 1100,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "caipis",
+            "price": 1100,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "daiquiri",
+            "price": 1100,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "gin tonic",
+            "price": 1450,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "margarita",
+            "price": 1050,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cubata",
+            "price": 1050,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "sangria",
+            "price": 1350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "piña colada",
+            "price": 1100,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "jarra de cerveza",
+            "price": 350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "vasos de ceveza",
+            "price": 200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "servicio de michelada",
+            "price": 300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "servicio de chelada",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.136930631399565,
+        "coords_y": -82.36181409182808
+    }
+}

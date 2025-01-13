@@ -1,0 +1,577 @@
+{
+    "name": "Salsa Mora",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "11:00",
+        "close": "04:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "home",
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 3.0,
+    "reviews": 75,
+    "amenities": [
+        "parking",
+        "live_music"
+    ],
+    "fb": "Salsa Mora",
+    "ig": "@salsamora_70",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "pan de la casa",
+            "price": 250,
+            "type": "appetizer"
+        },
+        {
+            "name": "baguette j & q",
+            "price": 750,
+            "type": "appetizer"
+        },
+        {
+            "name": "baguette de queso",
+            "price": 650,
+            "type": "appetizer"
+        },
+        {
+            "name": "croquetas de la casa",
+            "price": 1000,
+            "type": "appetizer"
+        },
+        {
+            "name": "tostones rellenos",
+            "price": 1050,
+            "type": "appetizer"
+        },
+        {
+            "name": "tacos de la casa",
+            "price": 1150,
+            "type": "appetizer"
+        },
+        {
+            "name": "ceviche",
+            "price": 2250,
+            "type": "appetizer"
+        },
+        {
+            "name": "fajitas",
+            "price": 2050,
+            "type": "appetizer"
+        },
+        {
+            "name": "esperland",
+            "price": 2250,
+            "type": "appetizer"
+        },
+        {
+            "name": "bolitas de queso",
+            "price": 1450,
+            "type": "appetizer"
+        },
+        {
+            "name": "garbanzos fritos",
+            "price": 1250,
+            "type": "appetizer"
+        },
+        {
+            "name": "coctel de camarones",
+            "price": 2350,
+            "type": "appetizer"
+        },
+        {
+            "name": "papas fritas",
+            "price": 1250,
+            "type": "appetizer"
+        },
+        {
+            "name": "filete de pescado",
+            "price": 4000,
+            "type": "mains"
+        },
+        {
+            "name": "filete de canciller",
+            "price": 5000,
+            "type": "mains"
+        },
+        {
+            "name": "camaron al gusto",
+            "price": 4300,
+            "type": "mains"
+        },
+        {
+            "name": "langosta al gusto",
+            "price": 4500,
+            "type": "mains"
+        },
+        {
+            "name": "pulpo al gusto",
+            "price": 4500,
+            "type": "mains"
+        },
+        {
+            "name": "langosta termidor",
+            "price": 5000,
+            "type": "mains"
+        },
+        {
+            "name": "caldereta de mariscos",
+            "price": 6000,
+            "type": "mains"
+        },
+        {
+            "name": "grillada del mar",
+            "price": 6000,
+            "type": "mains"
+        },
+        {
+            "name": "bistec de cerdo",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "uruguayo de cerdo",
+            "price": 4500,
+            "type": "mains"
+        },
+        {
+            "name": "chuleta de cerdo",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "cerdo asado",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "pollo asado",
+            "price": 2300,
+            "type": "mains"
+        },
+        {
+            "name": "cordon blue",
+            "price": 4500,
+            "type": "mains"
+        },
+        {
+            "name": "pechuga de pollo",
+            "price": 2500,
+            "type": "mains"
+        },
+        {
+            "name": "ropa vieja",
+            "price": 2500,
+            "type": "mains"
+        },
+        {
+            "name": "rib eye",
+            "price": 8500,
+            "type": "mains"
+        },
+        {
+            "name": "cordero estofado",
+            "price": 3500,
+            "type": "mains"
+        },
+        {
+            "name": "tomahawk",
+            "price": 12500,
+            "type": "mains"
+        },
+        {
+            "name": "arroz melosos de pollo",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "arroz melosos de mariscos",
+            "price": 3500,
+            "type": "mains"
+        },
+        {
+            "name": "pasta napoles",
+            "price": 1300,
+            "type": "pasta"
+        },
+        {
+            "name": "pasta fruto di mare",
+            "price": 3000,
+            "type": "pasta"
+        },
+        {
+            "name": "pasta carbonara",
+            "price": 2500,
+            "type": "pasta"
+        },
+        {
+            "name": "ensalada mixta",
+            "price": 450,
+            "type": "sides"
+        },
+        {
+            "name": "arroz blanco",
+            "price": 200,
+            "type": "sides"
+        },
+        {
+            "name": "arroz moro",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "tostones naturales",
+            "price": 250,
+            "type": "sides"
+        },
+        {
+            "name": "tarta",
+            "price": 1000,
+            "type": "desserts"
+        },
+        {
+            "name": "flan de la casa",
+            "price": 500,
+            "type": "desserts"
+        },
+        {
+            "name": "agua natural",
+            "price": 250,
+            "type": "water"
+        },
+        {
+            "name": "refrescos",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "energizantes",
+            "price": 250,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "red bull",
+            "price": 650,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "limonada",
+            "price": 250,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugos naturales",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "hc 7 anos",
+            "price": 650,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "hc seleccion",
+            "price": 1850,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "santiago 8 anos",
+            "price": 780,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "santiago 11 anos",
+            "price": 1300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "santiago 12 anos",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "pacto navio",
+            "price": 1850,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "ciroc",
+            "price": 1300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "grey goose",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "patron silver",
+            "price": 2400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "patron reposado",
+            "price": 2500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "olmeca silver",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "olmeca reposado",
+            "price": 700,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "jameson",
+            "price": 700,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "ballantines",
+            "price": 900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "chivas 12",
+            "price": 1100,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "jw red label",
+            "price": 850,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "jw black label",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "jw blue label",
+            "price": 10000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "jw gold label",
+            "price": 2300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "jw green label",
+            "price": 2500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "buchanans",
+            "price": 2500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "jack daniels",
+            "price": 1200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza dispensada",
+            "price": 220,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza cristal",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza bucanero",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza corona",
+            "price": 850,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "servicio michelada",
+            "price": 300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "servicio chelada",
+            "price": 250,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "caipirina",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "caipirisima",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "caipiroska",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "mojito",
+            "price": 700,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "pina colada",
+            "price": 550,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "ron collins",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tom collins",
+            "price": 780,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "martini",
+            "price": 1000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "gin tonic",
+            "price": 780,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "margarita",
+            "price": 550,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tequila sunrise",
+            "price": 550,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cuba libre",
+            "price": 700,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cubata",
+            "price": 800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cubata santiago 8",
+            "price": 900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cubanito",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "daiquiri",
+            "price": 550,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "bloody mary",
+            "price": 960,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "sangria salsa mora",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "baileys",
+            "price": 1000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "jagger",
+            "price": 750,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "campari",
+            "price": 800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "sambuca",
+            "price": 650,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "grapa",
+            "price": 550,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cafe",
+            "price": 250,
+            "type": "coffee"
+        },
+        {
+            "name": "cafe cortado",
+            "price": 300,
+            "type": "coffee"
+        },
+        {
+            "name": "capuccino",
+            "price": 700,
+            "type": "coffee"
+        },
+        {
+            "name": "frappuccino",
+            "price": 1000,
+            "type": "coffee"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Playa",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.11402909851061,
+        "coords_y": -82.43950857535798
+    }
+}

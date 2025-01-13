@@ -1,0 +1,153 @@
+{
+    "name": "El Faro",
+    "phone": "59477689",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "09:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "others"
+    ],
+    "delivery": [
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 3.7,
+    "reviews": 30,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Enchilado De Cangrejo",
+            "price": 750.0,
+            "type": "starters"
+        },
+        {
+            "name": "Croqueta De La Casa",
+            "price": 180.0,
+            "type": "starters"
+        },
+        {
+            "name": "Ensalada Fr\u00eda De Jam\u00f3n",
+            "price": 700.0,
+            "type": "starters"
+        },
+        {
+            "name": "Ensalada Fr\u00eda De At\u00fan",
+            "price": 1200.0,
+            "type": "starters"
+        },
+        {
+            "name": "Picadera Tropical",
+            "price": 850.0,
+            "type": "starters"
+        },
+        {
+            "name": "Plato a lo Cubano",
+            "price": 800.0,
+            "type": "starters"
+        },
+        {
+            "name": "Pan Con Hamburguesa",
+            "price": 500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Hamburguesa Faro",
+            "price": 900.0,
+            "type": "mains"
+        },
+        {
+            "name": "Costillas de Cerdo",
+            "price": 1200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Ruedas de pescado Grille",
+            "price": 1400.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo Grille",
+            "price": 950.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pizza El Faro",
+            "price": 900.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Combinada",
+            "price": 900.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Hawaiana",
+            "price": 900.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza De Cebolla",
+            "price": 900.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza De Pimiento",
+            "price": 900.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Gustazo Doble Queso",
+            "price": 900.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Jam\u00f3n",
+            "price": 900.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Spaguetti Napolitano",
+            "price": 750.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Spaguetti de Jam\u00f3n",
+            "price": 850.0,
+            "type": "pasta"
+        }
+    ],
+    "location": {
+        "street": "Maximo Gomez",
+        "council": null,
+        "municipe": "Guanabacoa",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

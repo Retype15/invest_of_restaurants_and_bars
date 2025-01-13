@@ -1,0 +1,333 @@
+{
+    "name": "El Bejuco",
+    "phone": "5350671673",
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "00:00",
+        "close": "24:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.8,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Combo Dulce",
+            "price": 950.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Combo Salado",
+            "price": 950.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Tostadas con Dulce",
+            "price": 250.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Tostadas con Salsa",
+            "price": 250.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Agrego de queso",
+            "price": 150.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Agrego de Jamón",
+            "price": 200.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Fruta de Temporada",
+            "price": 250.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Tostones Naturales",
+            "price": 400.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tostones Rellenos",
+            "price": 800.0,
+            "type": "starters"
+        },
+        {
+            "name": "Brusquetas",
+            "price": 500.0,
+            "type": "starters"
+        },
+        {
+            "name": "Picadera Simple",
+            "price": 600.0,
+            "type": "starters"
+        },
+        {
+            "name": "Picadera Guajira",
+            "price": 1200.0,
+            "type": "starters"
+        },
+        {
+            "name": "Chicharritas",
+            "price": 300.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tamal con Cerdo",
+            "price": 900.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tamal",
+            "price": 200.0,
+            "type": "starters"
+        },
+        {
+            "name": "Sándwich Jamón y Queso",
+            "price": 800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Sándwich Jamón",
+            "price": 750.0,
+            "type": "mains"
+        },
+        {
+            "name": "Sándwich Queso",
+            "price": 750.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pan con Lechón",
+            "price": 1000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Cerveza Cristal (Botella)",
+            "price": 350.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Michelada",
+            "price": 750.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Chelada",
+            "price": 700.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Mojito",
+            "price": 500.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cuba libre",
+            "price": 450.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Caipiriña",
+            "price": 400.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Caipiroska",
+            "price": 400.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Caipirísima",
+            "price": 400.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Canchánchara",
+            "price": 450.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Melonada",
+            "price": 700.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Verano en un Vaso",
+            "price": 600.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Tinto de verano",
+            "price": 600.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Piña colada",
+            "price": 700.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Bejuco colora'o",
+            "price": 700.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Bejuco Gin",
+            "price": 700.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cubata con Reserva",
+            "price": 650.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cubata con 7 años",
+            "price": 800.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Línea Black Tears",
+            "price": 350.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Línea 7 años",
+            "price": 600.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Línea Smoky",
+            "price": 700.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Línea Santiago",
+            "price": 900.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Línea Reserva",
+            "price": 400.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Tequila Blanco",
+            "price": 350.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Tequila Reposado",
+            "price": 500.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Copa de Vino",
+            "price": 500.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Agua",
+            "price": 300.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco",
+            "price": 300.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugos Naturales",
+            "price": 250.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Batidos",
+            "price": 350.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada",
+            "price": 500.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Café expreso",
+            "price": 150.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cortado",
+            "price": 250.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Capuccino",
+            "price": 300.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Fráppuccino",
+            "price": 350.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Macchiato",
+            "price": 250.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Iced Latte",
+            "price": 350.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Americano",
+            "price": 300.0,
+            "type": "non_alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Plaza de la Revolucion",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "name": "Pastificio San Francesco",
+    "phone": "77990695",
+    "email": "maiuridanilofrancesc@libero.it",
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "italian",
+    "hours": {
+        "open": "11:30",
+        "close": "23:30",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 35,
+    "reservations": [
+        "null"
+    ],
+    "delivery": [
+        "home"
+    ],
+    "level": "medium",
+    "payment": [
+        "transfer",
+        "cash",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 90,
+    "amenities": [
+        "parking"
+    ],
+    "fb": "Ristorante San Francesco",
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Fettuccine, fussili, tonnarelli, pappardelle o spaghetti a la bolognesa",
+            "price": 2100,
+            "type": "mains"
+        },
+        {
+            "name": "Fettuccine, fussili, tonnarelli, pappardelle o spaghetti con salciccia",
+            "price": 2100,
+            "type": "mains"
+        },
+        {
+            "name": "Fettuccine, fussili, tonnarelli, pappardelle o spaghetti al Pesto",
+            "price": 2050,
+            "type": "mains"
+        },
+        {
+            "name": "Fettuccine, fussili, tonnarelli, pappardelle o spaghetti al pomodoro e basilico",
+            "price": 1900,
+            "type": "mains"
+        },
+        {
+            "name": "Fettuccine, fussili, tonnarelli, pappardelle o spaghetti a la carbonara",
+            "price": 2100,
+            "type": "mains"
+        },
+        {
+            "name": "Fettuccine, fussili, tonnarelli, pappardelle o spaghetti a la amatriciana",
+            "price": 2100,
+            "type": "mains"
+        },
+        {
+            "name": "Fettuccine, fussili, tonnarelli, pappardelle o spaghetti Gamberetti",
+            "price": 2600,
+            "type": "mains"
+        },
+        {
+            "name": "Fettuccine, fussili, tonnarelli, pappardelle o spaghetti Frutti di Mare",
+            "price": 3500,
+            "type": "mains"
+        },
+        {
+            "name": "Fettuccine, fussili, tonnarelli, pappardelle o spaghetti Aragosta",
+            "price": 3600,
+            "type": "mains"
+        },
+        {
+            "name": "Fettuccine, fussili, tonnarelli, pappardelle o spaghetti Arrabiata",
+            "price": 1900,
+            "type": "mains"
+        },
+        {
+            "name": "Fettuccine, fussili, tonnarelli, pappardelle o spaghetti con salmone",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "Fettuccine, fussili, tonnarelli, pappardelle o spaghetti Panna e salciccia",
+            "price": 2400,
+            "type": "mains"
+        },
+        {
+            "name": "Fettuccine, fussili, tonnarelli, pappardelle o spaghetti con atun",
+            "price": 2200,
+            "type": "mains"
+        },
+        {
+            "name": "Lasagna",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "Ravioli",
+            "price": 3000,
+            "type": "mains"
+        }
+    ],
+    "location": {
+        "street": "Calle 478 entre 5ta Avenida y 5ta D, Guanabo",
+        "council": null,
+        "municipe": "Habana del Este",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

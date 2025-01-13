@@ -1,0 +1,284 @@
+{
+    "name": "GaraG",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "12:00",
+        "close": "00:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": null,
+    "delivery": null,
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Picadera GaraG",
+            "price": "3500",
+            "type": "appetizer"
+        },
+        {
+            "name": "Toston Alfredo",
+            "price": "750",
+            "type": "appetizer"
+        },
+        {
+            "name": "Eperlan",
+            "price": "1650",
+            "type": "appetizer"
+        },
+        {
+            "name": "Fajitas de pollo",
+            "price": "1225",
+            "type": "appetizer"
+        },
+        {
+            "name": "Fajitas de cerdo",
+            "price": "1550",
+            "type": "appetizer"
+        },
+        {
+            "name": "Croquetas de Mima",
+            "price": "750",
+            "type": "appetizer"
+        },
+        {
+            "name": "Ceviche",
+            "price": "900",
+            "type": "appetizer"
+        },
+        {
+            "name": "Tacos de Carnita",
+            "price": "1205",
+            "type": "appetizer"
+        },
+        {
+            "name": "Tacos Marinesos",
+            "price": "1295",
+            "type": "appetizer"
+        },
+        {
+            "name": "Ensalada Fria",
+            "price": "750",
+            "type": "appetizer"
+        },
+        {
+            "name": "Coctel de Camaron",
+            "price": "1250",
+            "type": "appetizer"
+        },
+        {
+            "name": "Napoles (pasta)",
+            "price": "930",
+            "type": "pasta"
+        },
+        {
+            "name": "Napoles (pizza)",
+            "price": "930",
+            "type": "pizza"
+        },
+        {
+            "name": "Anti Hawaiana",
+            "price": "1555",
+            "type": "pizza"
+        },
+        {
+            "name": "Lechocita",
+            "price": "1595",
+            "type": "pizza"
+        },
+        {
+            "name": "5 Quesos",
+            "price": "1650",
+            "type": "pizza"
+        },
+        {
+            "name": "Filete de pescado grille",
+            "price": "1920",
+            "type": "seafood"
+        },
+        {
+            "name": "Filete de pescado empanado",
+            "price": "1980",
+            "type": "seafood"
+        },
+        {
+            "name": "Filete de pescado GaraG",
+            "price": "2225",
+            "type": "seafood"
+        },
+        {
+            "name": "Canciller",
+            "price": "2150",
+            "type": "mains"
+        },
+        {
+            "name": "Filete Alfredo",
+            "price": "2150",
+            "type": "mains"
+        },
+        {
+            "name": "Masas de pescado al ajito",
+            "price": "1920",
+            "type": "seafood"
+        },
+        {
+            "name": "Pargo frito",
+            "price": "2150",
+            "type": "seafood"
+        },
+        {
+            "name": "Pollo frito",
+            "price": "1350",
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de pollo grille",
+            "price": "1350",
+            "type": "mains"
+        },
+        {
+            "name": "Pollo empanado",
+            "price": "1450",
+            "type": "mains"
+        },
+        {
+            "name": "Cordon Blue",
+            "price": "1925",
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de cerdo encebollado",
+            "price": "1950",
+            "type": "mains"
+        },
+        {
+            "name": "Cerdo grille",
+            "price": "1700",
+            "type": "mains"
+        },
+        {
+            "name": "Cerdo empanado",
+            "price": "1750",
+            "type": "mains"
+        },
+        {
+            "name": "Cerdo Uruguayo",
+            "price": "1955",
+            "type": "mains"
+        },
+        {
+            "name": "Masa de cerdo frita",
+            "price": "2200",
+            "type": "mains"
+        },
+        {
+            "name": "Cerdo asado",
+            "price": "2150",
+            "type": "mains"
+        },
+        {
+            "name": "Camaron al ajillo",
+            "price": "2300",
+            "type": "seafood"
+        },
+        {
+            "name": "Camaron grille",
+            "price": "2105",
+            "type": "seafood"
+        },
+        {
+            "name": "Camaron enchilado",
+            "price": "2230",
+            "type": "seafood"
+        },
+        {
+            "name": "Camaron emapanado",
+            "price": "2290",
+            "type": "seafood"
+        },
+        {
+            "name": "Aporreado de res",
+            "price": "1950",
+            "type": "mains"
+        },
+        {
+            "name": "Ropa vieja",
+            "price": "1930",
+            "type": "mains"
+        },
+        {
+            "name": "Arroz frito especial",
+            "price": "1350",
+            "type": "mains"
+        },
+        {
+            "name": "Arroz frito",
+            "price": "1200",
+            "type": "mains"
+        },
+        {
+            "name": "Ensalada estacion",
+            "price": "350",
+            "type": "salads"
+        },
+        {
+            "name": "Vegetal salteado",
+            "price": "350",
+            "type": "sides"
+        },
+        {
+            "name": "Copa de helado",
+            "price": "400",
+            "type": "desserts"
+        },
+        {
+            "name": "Copa lolita",
+            "price": "650",
+            "type": "desserts"
+        },
+        {
+            "name": "Cake a la moda",
+            "price": "850",
+            "type": "desserts"
+        },
+        {
+            "name": "Batido de helado",
+            "price": "750",
+            "type": "desserts"
+        }
+    ],
+    "location": {
+        "street": "C. Guanabacoa #1214 % B y C, Los Angeles",
+        "council": null,
+        "municipe": "San Miguel del Padron",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

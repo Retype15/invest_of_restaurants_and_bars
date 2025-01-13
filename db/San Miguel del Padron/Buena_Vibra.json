@@ -1,0 +1,138 @@
+{
+    "name": "Buena Vibra",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "12:00",
+        "close": "22:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 20,
+    "reservations": [
+        "online"
+    ],
+    "delivery": [
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "croquetas",
+            "price": 400,
+            "type": "appetizer"
+        },
+        {
+            "name": "fritura de malanga",
+            "price": 400,
+            "type": "appetizer"
+        },
+        {
+            "name": "vianda frita",
+            "price": 300,
+            "type": "appetizer"
+        },
+        {
+            "name": "tostones tradicionales",
+            "price": 300,
+            "type": "appetizer"
+        },
+        {
+            "name": "tostones rellenos",
+            "price": 500,
+            "type": "appetizer"
+        },
+        {
+            "name": "hamburguesa de pollo",
+            "price": 300,
+            "type": "sandwich"
+        },
+        {
+            "name": "bistec de pollo",
+            "price": 850,
+            "type": "mains"
+        },
+        {
+            "name": "bistec de pollo empanado",
+            "price": 900,
+            "type": "mains"
+        },
+        {
+            "name": "hígado de cerdo",
+            "price": 800,
+            "type": "mains"
+        },
+        {
+            "name": "lomo ahumado",
+            "price": 900,
+            "type": "mains"
+        },
+        {
+            "name": "bistec de cerdo",
+            "price": 900,
+            "type": "mains"
+        },
+        {
+            "name": "pechuga de pollo",
+            "price": 900,
+            "type": "mains"
+        },
+        {
+            "name": "espaguetti con queso",
+            "price": 400,
+            "type": "pasta"
+        },
+        {
+            "name": "espaguetti de jamón",
+            "price": 550,
+            "type": "pasta"
+        },
+        {
+            "name": "tequila reposado",
+            "price": 300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "licor crema",
+            "price": 200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "piña colada",
+            "price": 300,
+            "type": "cocktails"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "San Miguel del Padron",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

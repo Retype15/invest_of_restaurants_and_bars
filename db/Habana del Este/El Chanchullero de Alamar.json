@@ -1,0 +1,278 @@
+{
+    "name": "El Chanchullero",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "12:00",
+        "close": "00:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 30,
+    "reservations": [
+        "others"
+    ],
+    "delivery": [
+        "home",
+        "takeaway",
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "card",
+        "cash",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.7,
+    "reviews": 75,
+    "amenities": [
+        "pet_friendly"
+    ],
+    "fb": "https://www.facebook.com/El Chanchullero de Alamar Bar&Restaurant",
+    "ig": "https://www.instagram.com/@chanchullerobar.zona6",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Chicharrita de platano macho",
+            "price": 250,
+            "type": "appetizer"
+        },
+        {
+            "name": "Toston relleno con cerdo",
+            "price": 375,
+            "type": "appetizer"
+        },
+        {
+            "name": "Fritura de malanga con miel",
+            "price": 375,
+            "type": "appetizer"
+        },
+        {
+            "name": "Ceviche de pulpo y pescado",
+            "price": 450,
+            "type": "appetizer"
+        },
+        {
+            "name": "Cerdo al perejil",
+            "price": 795,
+            "type": "mains"
+        },
+        {
+            "name": "Brochetas de cerdo",
+            "price": 795,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec encebollado",
+            "price": 800,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa vieja",
+            "price": 800,
+            "type": "mains"
+        },
+        {
+            "name": "Cerdo asado al horno",
+            "price": 795,
+            "type": "mains"
+        },
+        {
+            "name": "Pulpo al ajillo",
+            "price": 925,
+            "type": "seafood"
+        },
+        {
+            "name": "Pescado chanchullero (castero)",
+            "price": 800,
+            "type": "seafood"
+        },
+        {
+            "name": "Enchilado de langosta",
+            "price": 975,
+            "type": "seafood"
+        },
+        {
+            "name": "Langosta a la plancha",
+            "price": 975,
+            "type": "seafood"
+        },
+        {
+            "name": "Masas de cerdo",
+            "price": 800,
+            "type": "mains"
+        },
+        {
+            "name": "cafe Expreso",
+            "price": 100,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugo de fruta natural",
+            "price": 140,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Catarro",
+            "price": 275,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cuba Libre",
+            "price": 275,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mojito",
+            "price": 275,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipirisima",
+            "price": 275,
+            "type": "cocktails"
+        },
+        {
+            "name": "Ron Coli",
+            "price": 275,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cosita de esa",
+            "price": 275,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipiroska",
+            "price": 275,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipirina",
+            "price": 300,
+            "type": "cocktails"
+        },
+        {
+            "name": "Daiquiri",
+            "price": 300,
+            "type": "cocktails"
+        },
+        {
+            "name": "Pina colada",
+            "price": 300,
+            "type": "cocktails"
+        },
+        {
+            "name": "Vodka con naranja",
+            "price": 300,
+            "type": "cocktails"
+        },
+        {
+            "name": "Copa de vino",
+            "price": 300,
+            "type": "wines"
+        },
+        {
+            "name": "Agua natural",
+            "price": 130,
+            "type": "water"
+        },
+        {
+            "name": "Agua gaseada",
+            "price": 180,
+            "type": "water"
+        },
+        {
+            "name": "Refrescos importados",
+            "price": 240,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refrescos nacionales",
+            "price": 200,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza importada",
+            "price": 275,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Red Bull",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Ron HC Club Especial",
+            "price": 325,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Chelada",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Michelada",
+            "price": 450,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Botella de vino",
+            "price": 1200,
+            "type": "wines"
+        },
+        {
+            "name": "Vodka absolut",
+            "price": 525,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Whiskey Black and White",
+            "price": 395,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Clan Cambell",
+            "price": 425,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Jameson",
+            "price": 425,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Finest Blended (Speech)",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Flan al caramelo",
+            "price": 150,
+            "type": "desserts"
+        }
+    ],
+    "location": {
+        "street": "#162D entre Calle 5G y Calle 162, zona 6, Alamar",
+        "council": null,
+        "municipe": "Habana del Este",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

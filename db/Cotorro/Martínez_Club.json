@@ -1,0 +1,185 @@
+{
+    "name": "Martínez Club",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "09:00",
+        "close": "21:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 20,
+    "reservations": [
+        "online"
+    ],
+    "delivery": [
+        "home"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "pet_friendly"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "fritura de malanga",
+            "price": 300,
+            "type": "appetizer"
+        },
+        {
+            "name": "ensalada fría",
+            "price": 150,
+            "type": "appetizer"
+        },
+        {
+            "name": "croquetas",
+            "price": 300,
+            "type": "appetizer"
+        },
+        {
+            "name": "tostones al ajillo",
+            "price": 300,
+            "type": "appetizer"
+        },
+        {
+            "name": "hamburguesa simple",
+            "price": 230,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa con mayonesa",
+            "price": 280,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa con jamón",
+            "price": 350,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa con chorizo",
+            "price": 350,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa con cebolla",
+            "price": 330,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa con queso blanco",
+            "price": 330,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa con queso gouda",
+            "price": 430,
+            "type": "mains"
+        },
+        {
+            "name": "pan con jamón",
+            "price": 250,
+            "type": "sandwich"
+        },
+        {
+            "name": "pan con perro",
+            "price": 200,
+            "type": "sandwich"
+        },
+        {
+            "name": "pan con croqueta",
+            "price": 100,
+            "type": "sandwich"
+        },
+        {
+            "name": "pollo chiflado",
+            "price": 700,
+            "type": "mains"
+        },
+        {
+            "name": "masa de cerdo frita",
+            "price": 1100,
+            "type": "mains"
+        },
+        {
+            "name": "espaguetti con queso blanco",
+            "price": 350,
+            "type": "pasta"
+        },
+        {
+            "name": "espaguetti con queso gouda",
+            "price": 500,
+            "type": "pasta"
+        },
+        {
+            "name": "pizza con queso blanco",
+            "price": 200,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza con queso gouda",
+            "price": 350,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza familiar con queso blanco",
+            "price": 450,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza familiar con queso gouda",
+            "price": 650,
+            "type": "pizza"
+        },
+        {
+            "name": "expresso",
+            "price": 20,
+            "type": "infusions"
+        },
+        {
+            "name": "refresco",
+            "price": 20,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugo",
+            "price": 50,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "malteada",
+            "price": 330,
+            "type": "non_alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Cotorro",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

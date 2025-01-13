@@ -1,0 +1,314 @@
+{
+    "name": "Restaurante El Pavo",
+    "phone": "58222469",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "12:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "phone",
+        "others"
+    ],
+    "delivery": [
+        "home"
+    ],
+    "level": "medium",
+    "payment": [
+        "transfer",
+        "cash"
+    ],
+    "promo": false,
+    "rating": 4.3,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Ensalada Fr\u00eda de Jam\u00f3n",
+            "price": 450.0,
+            "type": "starters"
+        },
+        {
+            "name": "Ensalada Fr\u00eda de At\u00fan",
+            "price": 500.0,
+            "type": "starters"
+        },
+        {
+            "name": "Croquetas",
+            "price": 200.0,
+            "type": "starters"
+        },
+        {
+            "name": "Fajitas",
+            "price": 500.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tost\u00f3n relleno de Jam\u00f3n",
+            "price": 450.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tost\u00f3n relleno de At\u00fan",
+            "price": 450.0,
+            "type": "starters"
+        },
+        {
+            "name": "Costillas",
+            "price": 800.0,
+            "type": "starters"
+        },
+        {
+            "name": "C\u00f3ctel de Camar\u00f3n",
+            "price": 700.0,
+            "type": "starters"
+        },
+        {
+            "name": "Garbanzo Frito",
+            "price": 400.0,
+            "type": "starters"
+        },
+        {
+            "name": "Eperlan",
+            "price": 600.0,
+            "type": "starters"
+        },
+        {
+            "name": "Entrem\u00e9s",
+            "price": 800.0,
+            "type": "starters"
+        },
+        {
+            "name": "Pollo Grille",
+            "price": 1100.0,
+            "type": "mains"
+        },
+        {
+            "name": "Masa de Cerdo",
+            "price": 1600.0,
+            "type": "mains"
+        },
+        {
+            "name": "Cerdo a la Milanesa",
+            "price": 1400.0,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de Cerdo",
+            "price": 1300.0,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de Res",
+            "price": 1300.0,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa Vieja",
+            "price": 1600.0,
+            "type": "mains"
+        },
+        {
+            "name": "Camarones Enchilados",
+            "price": 1300.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Camarones al Ajillo",
+            "price": 1300.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Camarones Grille",
+            "price": 1200.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Camarones Rebosados",
+            "price": 1300.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Enchilado de Langosta",
+            "price": 1400.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Langosta Grille",
+            "price": 1300.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Pescado Grille",
+            "price": 1400.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Marinada al Pavo",
+            "price": 2500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pizza Napolitana",
+            "price": 600.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Vegetales",
+            "price": 650.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Jam\u00f3n",
+            "price": 800.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Chorizo",
+            "price": 800.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Hawaiana",
+            "price": 850.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Carne",
+            "price": 800.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Camarones",
+            "price": 1000.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Especial 'El Pavo' ",
+            "price": 1500.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Espaguetis Napolitano",
+            "price": 600.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis con Jam\u00f3n",
+            "price": 800.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis Bolo\u00f1esa",
+            "price": 800.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis con Camarones",
+            "price": 1000.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis con At\u00fan",
+            "price": 950.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis con Bacon",
+            "price": 800.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Lasagna de Jam\u00f3n",
+            "price": 800.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Lasagna de Carne",
+            "price": 900.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Flan de Leche",
+            "price": 180.0,
+            "type": "desserts"
+        },
+        {
+            "item": "Cerveza Nacional",
+            "price": 250.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "item": "Cerveza Nacional",
+            "price": 200.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "item": "Cerveza Corona",
+            "price": 300.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "item": "Agua Natural",
+            "price": 180.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "item": "Agua Gaseada",
+            "price": 180.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "item": "Refresco Nacional",
+            "price": 225.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "item": "Refresco Importado",
+            "price": 260.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "item": "Malta Importada",
+            "price": 225.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "item": "Malta HyperMalt",
+            "price": 260.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "item": "Jugo(Cajita)",
+            "price": 180.0,
+            "type": "non_alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Guanabacoa",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

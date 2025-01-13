@@ -1,0 +1,394 @@
+{
+    "name": "El Bleko",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "13:00",
+        "close": "02:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": null,
+    "delivery": null,
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 3.5,
+    "reviews": null,
+    "amenities": [],
+    "fb": "El Bleko",
+    "ig": "@blecohavana",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "frituras de malanga",
+            "price": 750,
+            "type": "appetizer"
+        },
+        {
+            "name": "croquetas mixtas",
+            "price": 1050,
+            "type": "appetizer"
+        },
+        {
+            "name": "palitos de queso",
+            "price": 1100,
+            "type": "appetizer"
+        },
+        {
+            "name": "tacos de cerdo",
+            "price": 1550,
+            "type": "appetizer"
+        },
+        {
+            "name": "tacos de cerdo ahumado",
+            "price": 1750,
+            "type": "appetizer"
+        },
+        {
+            "name": "tacos de pollo",
+            "price": 1450,
+            "type": "appetizer"
+        },
+        {
+            "name": "nachos de salsa de queso",
+            "price": 900,
+            "type": "appetizer"
+        },
+        {
+            "name": "nachos con pollo a la barbacoa",
+            "price": 1450,
+            "type": "appetizer"
+        },
+        {
+            "name": "alitas de pollo a la barbacoa",
+            "price": 1350,
+            "type": "appetizer"
+        },
+        {
+            "name": "crostini mixto",
+            "price": 950,
+            "type": "appetizer"
+        },
+        {
+            "name": "torrejas saladas con cerdo ahumado",
+            "price": 1050,
+            "type": "appetizer"
+        },
+        {
+            "name": "quesadillas de jamón pierna",
+            "price": 1650,
+            "type": "appetizer"
+        },
+        {
+            "name": "bistec a la plancha",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "pollo frito",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "fajita de pechuga de pollo",
+            "price": 2500,
+            "type": "mains"
+        },
+        {
+            "name": "pizza de queso",
+            "price": 1250,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de jamón",
+            "price": 1450,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de chorizo",
+            "price": 1450,
+            "type": "pizza"
+        },
+        {
+            "name": "agua natural",
+            "price": 250,
+            "type": "water"
+        },
+        {
+            "name": "santa cola",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "santa limon",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "santa naranja",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "energizante",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "caipirisima",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "canchanchara",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "caipiroska",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "caipiriña",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "mojito",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "cuba libre",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "sangria",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "margarita",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "piña colada",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "old fashion",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "laguna azul",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "tr reserva",
+            "price": 300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tr barceló dorado",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tr barceló añejo",
+            "price": 450,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tr ritual",
+            "price": 300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tr añejo especial",
+            "price": 300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tr vat 69",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tr black white",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tr jw black",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tr jw red",
+            "price": 1100,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tr ballantines",
+            "price": 1000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tr doble black",
+            "price": 1800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "gin master",
+            "price": 650,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "gin master pink",
+            "price": 650,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "gin tanqueray",
+            "price": 650,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "gin beefarer",
+            "price": 550,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "gin johpur reserva",
+            "price": 900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "vodka tonic",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tr ciroc",
+            "price": 1000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tr ciroc coco",
+            "price": 1000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tr finlandia",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "czech driver",
+            "price": 750,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tequila de la casa",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "licores: bailey's",
+            "price": 800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "licores: jagermeister",
+            "price": 450,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "licores: jaeger",
+            "price": 800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "copa de vino",
+            "price": 500,
+            "type": "wines"
+        },
+        {
+            "name": "cristal lata",
+            "price": 350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "bucanero lata",
+            "price": 350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cristal botella",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "bucanero botella",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "hollandia",
+            "price": 300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "unlaguer",
+            "price": 330,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cafe expreso",
+            "price": 250,
+            "type": "coffee"
+        },
+        {
+            "name": "cafe capuccino",
+            "price": 400,
+            "type": "coffee"
+        },
+        {
+            "name": "cafe cortadito",
+            "price": 300,
+            "type": "coffee"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.141509790555908,
+        "coords_y": -82.374230422513
+    }
+}

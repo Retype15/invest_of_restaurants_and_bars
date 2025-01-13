@@ -1,0 +1,744 @@
+{
+    "name": "La Chucheria",
+    "phone": "72057278",
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "08:00",
+        "close": "24:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [],
+    "delivery": [
+        "home"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 5.0,
+    "reviews": 30,
+    "amenities": [
+        "parking",
+        "invalid_accessible"
+    ],
+    "fb": "La Chucheria",
+    "ig": "@lachucheria_cafebar",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "waffles con nutela",
+            "price": 1250,
+            "type": "breakfast"
+        },
+        {
+            "name": "waffles con frutas y miel",
+            "price": 1150,
+            "type": "breakfast"
+        },
+        {
+            "name": "waffles con salmon pastas y queso crema",
+            "price": 1850,
+            "type": "breakfast"
+        },
+        {
+            "name": "crispy chicken waffles",
+            "price": 1450,
+            "type": "breakfast"
+        },
+        {
+            "name": "desayuno europeo",
+            "price": 1400,
+            "type": "breakfast"
+        },
+        {
+            "name": "desayuno americano",
+            "price": 1500,
+            "type": "breakfast"
+        },
+        {
+            "name": "desayuno chucheria",
+            "price": 1600,
+            "type": "breakfast"
+        },
+        {
+            "name": "tostadas de serrano",
+            "price": 1750,
+            "type": "breakfast"
+        },
+        {
+            "name": "tostadas de salmon",
+            "price": 1900,
+            "type": "breakfast"
+        },
+        {
+            "name": "tortilla vegetariana",
+            "price": 1550,
+            "type": "breakfast"
+        },
+        {
+            "name": "pancakes",
+            "price": 1200,
+            "type": "breakfast"
+        },
+        {
+            "name": "tortilla natural",
+            "price": 1000,
+            "type": "breakfast"
+        },
+        {
+            "name": "crepes chuchería",
+            "price": 1300,
+            "type": "breakfast"
+        },
+        {
+            "name": "tostadas con mantequilla",
+            "price": 950,
+            "type": "breakfast"
+        },
+        {
+            "name": "brusquetas con serrano",
+            "price": 1200,
+            "type": "appetizer"
+        },
+        {
+            "name": "tapas de croquetas",
+            "price": 900,
+            "type": "appetizer"
+        },
+        {
+            "name": "picadera chuchería",
+            "price": 3000,
+            "type": "appetizer"
+        },
+        {
+            "name": "empanadas de carne",
+            "price": 800,
+            "type": "appetizer"
+        },
+        {
+            "name": "empanada de pollo",
+            "price": 780,
+            "type": "appetizer"
+        },
+        {
+            "name": "empanada de queso azul y espinacas",
+            "price": 900,
+            "type": "appetizer"
+        },
+        {
+            "name": "bolitas de queso",
+            "price": 850,
+            "type": "appetizer"
+        },
+        {
+            "name": "ensalada de verano",
+            "price": 1700,
+            "type": "appetizer"
+        },
+        {
+            "name": "ensalada chuchería",
+            "price": 1200,
+            "type": "appetizer"
+        },
+        {
+            "name": "ensalada nueva marinera",
+            "price": 1800,
+            "type": "appetizer"
+        },
+        {
+            "name": "ensalada de frutas",
+            "price": 800,
+            "type": "appetizer"
+        },
+        {
+            "name": "ensalada girega",
+            "price": 1600,
+            "type": "appetizer"
+        },
+        {
+            "name": "ensalada prosciutto",
+            "price": 200,
+            "type": "appetizer"
+        },
+        {
+            "name": "sandwich jonronero",
+            "price": 1650,
+            "type": "appetizer"
+        },
+        {
+            "name": "formula 1",
+            "price": 1700,
+            "type": "appetizer"
+        },
+        {
+            "name": "martinero",
+            "price": 1400,
+            "type": "appetizer"
+        },
+        {
+            "name": "catalan",
+            "price": 2000,
+            "type": "appetizer"
+        },
+        {
+            "name": "sandwich helena ruth",
+            "price": 1650,
+            "type": "appetizer"
+        },
+        {
+            "name": "sandwich beisbolera",
+            "price": 1450,
+            "type": "appetizer"
+        },
+        {
+            "name": "sandwich pepe sport (res)",
+            "price": 2150,
+            "type": "appetizer"
+        },
+        {
+            "name": "sandwich pepe sport (cerdo)",
+            "price": 1900,
+            "type": "appetizer"
+        },
+        {
+            "name": "sándwich vegetariano",
+            "price": 1200,
+            "type": "appetizer"
+        },
+        {
+            "name": "club sándwich",
+            "price": 1700,
+            "type": "appetizer"
+        },
+        {
+            "name": "hamburguesa jaque mate",
+            "price": 1750,
+            "type": "appetizer"
+        },
+        {
+            "name": "hamburguesa chuchería",
+            "price": 2100,
+            "type": "appetizer"
+        },
+        {
+            "name": "hamburguesa americana",
+            "price": 1350,
+            "type": "appetizer"
+        },
+        {
+            "name": "super chu",
+            "price": 2350,
+            "type": "appetizer"
+        },
+        {
+            "name": "pizza chuchería",
+            "price": 1250,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza familiar",
+            "price": 3000,
+            "type": "pizza"
+        },
+        {
+            "name": "pasta chucheria",
+            "price": 1150,
+            "type": "pasta"
+        },
+        {
+            "name": "pasta carbonara",
+            "price": 1900,
+            "type": "pasta"
+        },
+        {
+            "name": "pasta pesto",
+            "price": 1600,
+            "type": "pasta"
+        },
+        {
+            "name": "pasta 4 quesos",
+            "price": 2500,
+            "type": "pasta"
+        },
+        {
+            "name": "pasta bolonesa",
+            "price": 1400,
+            "type": "pasta"
+        },
+        {
+            "name": "lasagna",
+            "price": 1850,
+            "type": "mains"
+        },
+        {
+            "name": "filete de res",
+            "price": 2400,
+            "type": "mains"
+        },
+        {
+            "name": "carne de cerdo",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "pechuga de pollo",
+            "price": 1700,
+            "type": "mains"
+        },
+        {
+            "name": "atun",
+            "price": 2200,
+            "type": "mains"
+        },
+        {
+            "name": "jamon barra",
+            "price": 400,
+            "type": "sides"
+        },
+        {
+            "name": "jamon pierna",
+            "price": 450,
+            "type": "sides"
+        },
+        {
+            "name": "jamon serrano",
+            "price": 800,
+            "type": "sides"
+        },
+        {
+            "name": "queso gouda",
+            "price": 450,
+            "type": "sides"
+        },
+        {
+            "name": "queso parmessano",
+            "price": 500,
+            "type": "sides"
+        },
+        {
+            "name": "queso mozzarella",
+            "price": 450,
+            "type": "sides"
+        },
+        {
+            "name": "queso azul",
+            "price": 500,
+            "type": "sides"
+        },
+        {
+            "name": "chorizo",
+            "price": 600,
+            "type": "sides"
+        },
+        {
+            "name": "bacon",
+            "price": 450,
+            "type": "sides"
+        },
+        {
+            "name": "atun",
+            "price": 600,
+            "type": "sides"
+        },
+        {
+            "name": "champiñon",
+            "price": 350,
+            "type": "sides"
+        },
+        {
+            "name": "aceituna",
+            "price": 400,
+            "type": "sides"
+        },
+        {
+            "name": "nutella",
+            "price": 400,
+            "type": "sides"
+        },
+        {
+            "name": "piña glaseada",
+            "price": 250,
+            "type": "sides"
+        },
+        {
+            "name": "mayonesa",
+            "price": 250,
+            "type": "sides"
+        },
+        {
+            "name": "jalea de fruta",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "mantequilla",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "loñesa",
+            "price": 650,
+            "type": "sides"
+        },
+        {
+            "name": "vegetales",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "postre de la casa",
+            "price": 750,
+            "type": "desserts"
+        },
+        {
+            "name": "cono de helado",
+            "price": 400,
+            "type": "desserts"
+        },
+        {
+            "name": "cesta de helado",
+            "price": 600,
+            "type": "desserts"
+        },
+        {
+            "name": "tarta especial",
+            "price": 1300,
+            "type": "desserts"
+        },
+        {
+            "name": "refrescos nacional",
+            "price": 380,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "refrescos importados",
+            "price": 450,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugos",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "batidos de frutas",
+            "price": 800,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "batido de timba",
+            "price": 850,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "batido de malteada",
+            "price": 850,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "suero de helado",
+            "price": 1150,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "suero chuchería",
+            "price": 1450,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "cervezas nacionales",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cervezas importadas",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cervezas coronas",
+            "price": 790,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "mojito",
+            "price": 800,
+            "type": "cocktails"
+        },
+        {
+            "name": "mojito de frutas",
+            "price": 1000,
+            "type": "cocktails"
+        },
+        {
+            "name": "cuba libre",
+            "price": 700,
+            "type": "cocktails"
+        },
+        {
+            "name": "ron collins",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "caipiriña",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "caipiroska",
+            "price": 800,
+            "type": "cocktails"
+        },
+        {
+            "name": "sangría",
+            "price": 1200,
+            "type": "cocktails"
+        },
+        {
+            "name": "cali mocho",
+            "price": 950,
+            "type": "cocktails"
+        },
+        {
+            "name": "tinto verano",
+            "price": 950,
+            "type": "cocktails"
+        },
+        {
+            "name": "gin tonic",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "gingin tonic premium",
+            "price": 1200,
+            "type": "cocktails"
+        },
+        {
+            "name": "vodka tonic",
+            "price": 1100,
+            "type": "cocktails"
+        },
+        {
+            "name": "margarita",
+            "price": 950,
+            "type": "cocktails"
+        },
+        {
+            "name": "chelada nacional",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "chelada importada",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "chelada corona",
+            "price": 940,
+            "type": "cocktails"
+        },
+        {
+            "name": "michelada nacional",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "michelada importada",
+            "price": 950,
+            "type": "cocktails"
+        },
+        {
+            "name": "michelada importada premium",
+            "price": 1050,
+            "type": "cocktails"
+        },
+        {
+            "name": "daiquiri",
+            "price": 700,
+            "type": "cocktails"
+        },
+        {
+            "name": "mary pickford",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "bloody mary",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "bloody premium",
+            "price": 1250,
+            "type": "cocktails"
+        },
+        {
+            "name": "screw driver absolut",
+            "price": 950,
+            "type": "cocktails"
+        },
+        {
+            "name": "cubata",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "ton collins",
+            "price": 850,
+            "type": "cocktails"
+        },
+        {
+            "name": "tom collins premium",
+            "price": 1000,
+            "type": "cocktails"
+        },
+        {
+            "name": "long island",
+            "price": 1500,
+            "type": "cocktails"
+        },
+        {
+            "name": "piña colada",
+            "price": 1200,
+            "type": "cocktails"
+        },
+        {
+            "name": "canchanchara",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "expresso",
+            "price": 200,
+            "type": "infusions"
+        },
+        {
+            "name": "chuchería",
+            "price": 900,
+            "type": "infusions"
+        },
+        {
+            "name": "con leche",
+            "price": 450,
+            "type": "infusions"
+        },
+        {
+            "name": "cortado",
+            "price": 300,
+            "type": "infusions"
+        },
+        {
+            "name": "capuccino",
+            "price": 600,
+            "type": "infusions"
+        },
+        {
+            "name": "frapuccino",
+            "price": 850,
+            "type": "infusions"
+        },
+        {
+            "name": "carajillo",
+            "price": 650,
+            "type": "infusions"
+        },
+        {
+            "name": "bombon",
+            "price": 650,
+            "type": "infusions"
+        },
+        {
+            "name": "americano",
+            "price": 250,
+            "type": "infusions"
+        },
+        {
+            "name": "nespresso",
+            "price": 500,
+            "type": "infusions"
+        },
+        {
+            "name": "nespresso americano",
+            "price": 500,
+            "type": "infusions"
+        },
+        {
+            "name": "nespresso bombon",
+            "price": 900,
+            "type": "infusions"
+        },
+        {
+            "name": "nespresso cortado",
+            "price": 600,
+            "type": "infusions"
+        },
+        {
+            "name": "nespresso capuccino",
+            "price": 900,
+            "type": "infusions"
+        },
+        {
+            "name": "nespresso frapuccino",
+            "price": 1200,
+            "type": "infusions"
+        },
+        {
+            "name": "descafeinado",
+            "price": 350,
+            "type": "infusions"
+        },
+        {
+            "name": "chocolate a la española",
+            "price": 800,
+            "type": "infusions"
+        },
+        {
+            "name": "leche con chocolate",
+            "price": 650,
+            "type": "infusions"
+        },
+        {
+            "name": "mac & cheese",
+            "price": 1250,
+            "type": "others"
+        },
+        {
+            "name": "combo de niños",
+            "price": 1350,
+            "type": "others"
+        },
+        {
+            "name": "nuggets de pollo",
+            "price": 1250,
+            "type": "others"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Playa",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.113948715307984,
+        "coords_y": -82.42577878487478
+    }
+}

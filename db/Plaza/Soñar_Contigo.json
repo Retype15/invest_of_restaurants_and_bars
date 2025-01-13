@@ -1,0 +1,353 @@
+{
+    "name": "Sonar contigo",
+    "phone": "53395848",
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "13:00",
+        "close": "20:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 40,
+    "reservations": [],
+    "delivery": [
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 3.9,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Ración de Maní",
+            "price": 150,
+            "type": "starters"
+        },
+        {
+            "name": "Ración de chacharrita",
+            "price": 150,
+            "type": "starters"
+        },
+        {
+            "name": "Saladitas con jamón",
+            "price": 220,
+            "type": "starters"
+        },
+        {
+            "name": "Saladitas con atún",
+            "price": 250,
+            "type": "starters"
+        },
+        {
+            "name": "Ración de croquetas",
+            "price": 350,
+            "type": "starters"
+        },
+        {
+            "name": "Frituras de malanga",
+            "price": 330,
+            "type": "starters"
+        },
+        {
+            "name": "Ración de tostones",
+            "price": 250,
+            "type": "starters"
+        },
+        {
+            "name": "Ración de tostones rellenos de jamón",
+            "price": 400,
+            "type": "starters"
+        },
+        {
+            "name": "Ración de tostones rellenos de atún",
+            "price": 450,
+            "type": "starters"
+        },
+        {
+            "name": "Picadera de la casa",
+            "price": 1000,
+            "type": "starters"
+        },
+        {
+            "name": "Tacos de vegetales",
+            "price": 550,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos de cerdo asado",
+            "price": 720,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos de cerdo con vegetales",
+            "price": 750,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos de cerdo agridulce",
+            "price": 800,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos Mixtos",
+            "price": 850,
+            "type": "mains"
+        },
+        {
+            "name": "Brusquetta de tomate, albahaca y queso",
+            "price": 400,
+            "type": "mains"
+        },
+        {
+            "name": "Brusquetta de atún, cebolla y mayonesa",
+            "price": 480,
+            "type": "mains"
+        },
+        {
+            "name": "Brusquetta de jamón, queso y especias",
+            "price": 450,
+            "type": "mains"
+        },
+        {
+            "name": "Brusquetta de cerdo agridulce",
+            "price": 550,
+            "type": "mains"
+        },
+        {
+            "name": " Sandwich de jamón y queso",
+            "price": 450,
+            "type": "sandwich"
+        },
+        {
+            "name": "Sandwich de jamón ahumado y queso",
+            "price": 600,
+            "type": "sandwich"
+        },
+        {
+            "name": "Sandwich de atún",
+            "price": 500,
+            "type": "sandwich"
+        },
+        {
+            "name": "Sandwich de cerdo",
+            "price": 600,
+            "type": "sandwich"
+        },
+        {
+            "name": "Sandwich Especial ",
+            "price": 720,
+            "type": "sandwich"
+        },
+        {
+            "name": "Pastel con leche condensada",
+            "price": 450,
+            "type": "desserts"
+        },
+        {
+            "name": "Pastel con helado",
+            "price": 420,
+            "type": "desserts"
+        },
+        {
+            "name": "Cuba libre",
+            "price": 350,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mojito",
+            "price": 420,
+            "type": "cocktails"
+        },
+        {
+            "name": "Ron Collins",
+            "price": 300,
+            "type": "cocktails"
+        },
+        {
+            "name": "Canchánchara",
+            "price": 400,
+            "type": "cocktails"
+        },
+        {
+            "name": "Daiquirí",
+            "price": 400,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipirísima",
+            "price": 400,
+            "type": "cocktails"
+        },
+        {
+            "name": "Pina colada",
+            "price": 550,
+            "type": "cocktails"
+        },
+        {
+            "name": "Agua embotellada",
+            "price": 200,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada natural",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada con Hierba buena",
+            "price": 380,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada con piña",
+            "price": 420,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Batido de helado",
+            "price": 600,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malteada",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco",
+            "price": 260,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugo",
+            "price": 220,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Copa de vino",
+            "price": 380,
+            "type": "wines"
+        },
+        {
+            "name": "Smoothie de plátano",
+            "price": 530,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza importada",
+            "price": 300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Servicio de chelada",
+            "price": 130,
+            "type": "others"
+        },
+        {
+            "name": "Havana Club Especial",
+            "price": 250,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Havana Club Reserva",
+            "price": 280,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Havana Club 7 anos",
+            "price": 330,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Coladita",
+            "price": 50,
+            "type": "infusions"
+        },
+        {
+            "name": "Expresso",
+            "price": 90,
+            "type": "infusions"
+        },
+        {
+            "name": "Cortado",
+            "price": 120,
+            "type": "infusions"
+        },
+        {
+            "name": "Carajillo",
+            "price": 220,
+            "type": "infusions"
+        },
+        {
+            "name": "Cappuccino",
+            "price": 250,
+            "type": "infusions"
+        },
+        {
+            "name": "Mocaccino",
+            "price": 260,
+            "type": "infusions"
+        },
+        {
+            "name": "Soñar Contigo",
+            "price": 300,
+            "type": "infusions"
+        },
+        {
+            "name": "Café frío",
+            "price": 100,
+            "type": "infusions"
+        },
+        {
+            "name": "Frappuccino",
+            "price": 400,
+            "type": "infusions"
+        },
+        {
+            "name": "Affogatto",
+            "price": 260,
+            "type": "infusions"
+        },
+        {
+            "name": "ChocoFrappu",
+            "price": 550,
+            "type": "infusions"
+        },
+        {
+            "name": "Super Frappu",
+            "price": 700,
+            "type": "infusions"
+        }
+    ],
+    "location": {
+        "street": "Esquina Ave 23 y Calle C",
+        "council": null,
+        "municipe": "Plaza de la Revolucion",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "name": "Café literario La Copa",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "09:00",
+        "close": "17:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat"
+        ]
+    },
+    "cap": null,
+    "reservations": [],
+    "delivery": [
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": "https://www.instagram.com/cafe.literario.lacopa",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "croquetas con tostadas",
+            "price": 500,
+            "type": "appetizer"
+        },
+        {
+            "name": "papas fritas",
+            "price": 600,
+            "type": "appetizer"
+        },
+        {
+            "name": "hot dog",
+            "price": 600,
+            "type": "appetizer"
+        },
+        {
+            "name": "sandwich de jamon y queso",
+            "price": 700,
+            "type": "appetizer"
+        },
+        {
+            "name": "pan con hamburguesa",
+            "price": 700,
+            "type": "appetizer"
+        },
+        {
+            "name": "croissant de jamon con queso",
+            "price": 800,
+            "type": "appetizer"
+        },
+        {
+            "name": "croissant natural",
+            "price": 500,
+            "type": "appetizer"
+        },
+        {
+            "name": "copa de helado",
+            "price": 500,
+            "type": "desserts"
+        },
+        {
+            "name": "agua natural",
+            "price": 120,
+            "type": "water"
+        },
+        {
+            "name": "malteada",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "malta bucanero",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "energizante",
+            "price": 230,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugo de lata",
+            "price": 270,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "suero helado",
+            "price": 800,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "cafe expresso",
+            "price": 1500,
+            "type": "infusions"
+        },
+        {
+            "name": "cafe cortado",
+            "price": 200,
+            "type": "infusions"
+        },
+        {
+            "name": "cafe bombon",
+            "price": 350,
+            "type": "infusions"
+        },
+        {
+            "name": "capuchino",
+            "price": 400,
+            "type": "infusions"
+        },
+        {
+            "name": "frapuccino",
+            "price": 500,
+            "type": "infusions"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Playa",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.118089959620736,
+        "coords_y": -82.4323885782618
+    }
+}

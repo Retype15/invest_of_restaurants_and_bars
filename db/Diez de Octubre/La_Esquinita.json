@@ -1,0 +1,286 @@
+{
+    "name": "La Esquinita",
+    "phone": "76404105",
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "italian",
+    "hours": {
+        "open": "09:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "others"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.2,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Croquetas",
+            "price": 300,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostones Rellenos",
+            "price": 450,
+            "type": "appetizer"
+        },
+        {
+            "name": "Frituras de Malanga",
+            "price": 500,
+            "type": "appetizer"
+        },
+        {
+            "name": "Papas Fritas",
+            "price": 500,
+            "type": "appetizer"
+        },
+        {
+            "name": "Picadera",
+            "price": 1500,
+            "type": "appetizer"
+        },
+        {
+            "name": "Arroz Frito",
+            "price": 700,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de Cerdo",
+            "price": 1200,
+            "type": "mains"
+        },
+        {
+            "name": "Fajitas de Pollo",
+            "price": 1200,
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga de Pollo Grillé",
+            "price": 1200,
+            "type": "mains"
+        },
+        {
+            "name": "Chop Suey de Cerdo",
+            "price": 1200,
+            "type": "mains"
+        },
+        {
+            "name": "Cordon Bleu",
+            "price": 1300,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec Uruguayo",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec Encebollado de Res",
+            "price": 1700,
+            "type": "mains"
+        },
+        {
+            "name": "Pizza Pequeña de Queso Blanco",
+            "price": 200,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Pequeña Queso Blanco Hawaiana",
+            "price": 400,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Pequeña Queso Gouda",
+            "price": 300,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Pequeña Queso Gouda Hawaiana",
+            "price": 450,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Grande de Queso Blanco",
+            "price": 400,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Grande de Queso Blanco Hawaiana",
+            "price": 550,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Grande de Queso Gouda",
+            "price": 650,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Grande de Queso Gouda Hawaiana",
+            "price": 800,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Pequeña Especial \"La esquinita\"",
+            "price": 600,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Grande Especial \"La esquinita\"",
+            "price": 1200,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Familiar \"La esquinita\"",
+            "price": 3000,
+            "type": "pizza"
+        },
+        {
+            "name": "Espagueti (Blanco)",
+            "price": 350,
+            "type": "pasta"
+        },
+        {
+            "name": "Espagueti (Gouda)",
+            "price": 450,
+            "type": "pasta"
+        },
+        {
+            "name": "Espagueti (Blanco y Jamón)",
+            "price": 450,
+            "type": "pasta"
+        },
+        {
+            "name": "Espagueti (Gouda y Jamón)",
+            "price": 600,
+            "type": "pasta"
+        },
+        {
+            "name": "Espagueti (Blanco y Chorizo)",
+            "price": 450,
+            "type": "pasta"
+        },
+        {
+            "name": "Espagueti (Gouda y Chorizo)",
+            "price": 600,
+            "type": "pasta"
+        },
+        {
+            "name": "Espagueti (Blanco y Cebolla)",
+            "price": 450,
+            "type": "pasta"
+        },
+        {
+            "name": "Espagueti (Gouda y Cebolla)",
+            "price": 600,
+            "type": "pasta"
+        },
+        {
+            "name": "Hamburguesa Sencilla",
+            "price": 450,
+            "type": "sandwich"
+        },
+        {
+            "name": "Hamburguesa (Jamón)",
+            "price": 550,
+            "type": "sandwich"
+        },
+        {
+            "name": "Hamburguesa (Gouda)",
+            "price": 550,
+            "type": "sandwich"
+        },
+        {
+            "name": "Hamburguesa (Jamón y Gouda)",
+            "price": 650,
+            "type": "sandwich"
+        },
+        {
+            "name": "Hamburguesa Especial \"La Esquinita\"",
+            "price": 750,
+            "type": "sandwich"
+        },
+        {
+            "name": "Doble Queso Blanco",
+            "price": 100,
+            "type": "sides"
+        },
+        {
+            "name": "Doble Queso Gouda",
+            "price": 250,
+            "type": "sides"
+        },
+        {
+            "name": "Jamón",
+            "price": 100,
+            "type": "sides"
+        },
+        {
+            "name": "Chorizo",
+            "price": 100,
+            "type": "sides"
+        },
+        {
+            "name": "Cebolla",
+            "price": 100,
+            "type": "sides"
+        },
+        {
+            "name": "Pimiento",
+            "price": 100,
+            "type": "sides"
+        },
+        {
+            "name": "Piña",
+            "price": 100,
+            "type": "sides"
+        },
+        {
+            "name": "Aceituna",
+            "price": 150,
+            "type": "sides"
+        },
+        {
+            "name": "Atún",
+            "price": 300,
+            "type": "sides"
+        }
+    ],
+    "location": {
+        "street": "Juan Lefont entre Libertad y Johnson",
+        "council": "Santos Suárez",
+        "municipe": "Diez de Octubre",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

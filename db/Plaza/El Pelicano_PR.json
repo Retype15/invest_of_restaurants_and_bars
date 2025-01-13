@@ -1,0 +1,215 @@
+{
+    "name": "El Pelícano",
+    "phone": "63960310",
+    "email": null,
+    "web": null,
+    "est_type": null,
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "10:00",
+        "close": "18:00",
+        "days": [
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": null,
+    "delivery": [
+        "home",
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "transfer",
+        "cash"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": null,
+    "amenities": null,
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Pan con Jamón y Queso",
+            "price": 350.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Pan con Perro",
+            "price": 360.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Pan con Lechón",
+            "price": 500.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Pan con Hamburguesa",
+            "price": 550.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Croquetas",
+            "price": 350.0,
+            "type": "starters"
+        },
+        {
+            "name": "Picadera de Jamón y Queso",
+            "price": 450.0,
+            "type": "starters"
+        },
+        {
+            "name": "Papas Fritas",
+            "price": 550.0,
+            "type": "starters"
+        },
+        {
+            "name": "Bolitas de Queso",
+            "price": 650.0,
+            "type": "starters"
+        },
+        {
+            "name": "Salchipapa",
+            "price": 750.0,
+            "type": "starters"
+        },
+        {
+            "name": "Pollo Frito",
+            "price": 420.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo Chiflado",
+            "price": 520.0,
+            "type": "mains"
+        },
+        {
+            "name": "Brochetas de Pollo y Vegetales",
+            "price": 580.0,
+            "type": "mains"
+        },
+        {
+            "name": "Brochetas Mixtas",
+            "price": 700.0,
+            "type": "mains"
+        },
+        {
+            "name": "Brochetas de Cerdo",
+            "price": 950.0,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de Cerdo",
+            "price": 950.0,
+            "type": "mains"
+        },
+        {
+            "name": "Lonja de Cerdo",
+            "price": 950.0,
+            "type": "mains"
+        },
+        {
+            "name": "Masa de Cerdo",
+            "price": 990.0,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz Moro",
+            "price": 150.0,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz Blanco",
+            "price": 150.0,
+            "type": "mains"
+        },
+        {
+            "name": "Paleta de Chocolate",
+            "price": 260.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Pote de Helado",
+            "price": 495.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Cerveza",
+            "price": 190.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Chelada",
+            "price": 290.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cuba Libre",
+            "price": 380.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Michelada",
+            "price": 390.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cafe Expresso",
+            "price": 90.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cafe Cortado",
+            "price": 110.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cafe Bombón",
+            "price": 150.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugo de Cajita",
+            "price": 190.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua",
+            "price": 120.0,
+            "type": "water"
+        },
+        {
+            "name": "Refresco de Lata",
+            "price": 195.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada Frape",
+            "price": 250.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Energizante",
+            "price": 220.0,
+            "type": "non_alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "Avenida 26",
+        "council": null,
+        "municipe": "Plaza de la Revolucion",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

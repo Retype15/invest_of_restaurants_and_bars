@@ -1,0 +1,146 @@
+{
+    "name": "Café Toscano",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "08:00",
+        "close": "22:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 12,
+    "reservations": [
+        "others"
+    ],
+    "delivery": [
+        "takeaway",
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "pet_friendly"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "tostones rellenos",
+            "price": 250,
+            "type": "appetizer"
+        },
+        {
+            "name": "tostones",
+            "price": 150,
+            "type": "appetizer"
+        },
+        {
+            "name": "platano",
+            "price": 100,
+            "type": "appetizer"
+        },
+        {
+            "name": "hamburguesa sencilla",
+            "price": 300,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa con queso",
+            "price": 380,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa doble con queso",
+            "price": 550,
+            "type": "mains"
+        },
+        {
+            "name": "pollo chiflado",
+            "price": 400,
+            "type": "mains"
+        },
+        {
+            "name": "pollo especial",
+            "price": 1000,
+            "type": "mains"
+        },
+        {
+            "name": "espaguetti",
+            "price": 330,
+            "type": "pasta"
+        },
+        {
+            "name": "espaguetti con queso gouda",
+            "price": 400,
+            "type": "pasta"
+        },
+        {
+            "name": "pizza napolitana",
+            "price": 17,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza doble de queso",
+            "price": 250,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza hawaiana",
+            "price": 290,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza gouda",
+            "price": 250,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza cubana",
+            "price": 320,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza grande napolitana",
+            "price": 550,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza grande doble de queso",
+            "price": 790,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza grande gouda",
+            "price": 940,
+            "type": "pizza"
+        }
+    ],
+    "location": {
+        "street": "Calzada de Guines",
+        "council": null,
+        "municipe": "San Miguel del Padron",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

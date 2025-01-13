@@ -1,0 +1,190 @@
+{
+    "name": "Beirut",
+    "phone": "78315883",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "11:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 60,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Shish Taouk",
+            "price": 2950,
+            "type": "mains"
+        },
+        {
+            "name": "Kabab",
+            "price": 2900,
+            "type": "mains"
+        },
+        {
+            "name": "Shish Taouk-Kabab",
+            "price": 2800,
+            "type": "mains"
+        },
+        {
+            "name": "Shish Kabab",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "Tajin",
+            "price": 3500,
+            "type": "mains"
+        },
+        {
+            "name": "Mixto Beirut",
+            "price": 3700,
+            "type": "mains"
+        },
+        {
+            "name": "Fetuche",
+            "price": 1500,
+            "type": "salads"
+        },
+        {
+            "name": "Ensalada mixta",
+            "price": 2000,
+            "type": "salads"
+        },
+        {
+            "name": "Betabel",
+            "price": 2000,
+            "type": "salads"
+        },
+        {
+            "name": "Ensalada Beirut",
+            "price": 2100,
+            "type": "salads"
+        },
+        {
+            "name": "Tabule",
+            "price": 3000,
+            "type": "salads"
+        },
+        {
+            "name": " Shawarma de pollo",
+            "price": 1520,
+            "type": "sandwich"
+        },
+        {
+            "name": " Shawarma árabe",
+            "price": 1520,
+            "type": "sandwich"
+        },
+        {
+            "name": "Sandwich Falafel",
+            "price": 1420,
+            "type": "sandwich"
+        },
+        {
+            "name": " Sandwich Shish Taouk",
+            "price": 1720,
+            "type": "sandwich"
+        },
+        {
+            "name": " Sandwich Kabab",
+            "price": 1720,
+            "type": "sandwich"
+        },
+        {
+            "name": "Limonada",
+            "price": 410,
+            "type": "cocktails"
+        },
+        {
+            "name": "Agua nacional",
+            "price": 175,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refrescos importados",
+            "price": 290,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Maltas",
+            "price": 290,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cervezas",
+            "price": 390,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Jugos naturales",
+            "price": 410,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Expresso",
+            "price": 125,
+            "type": "infusions"
+        },
+        {
+            "name": "Capuccino",
+            "price": 300,
+            "type": "infusions"
+        },
+        {
+            "name": "Americano",
+            "price": 160,
+            "type": "infusions"
+        },
+        {
+            "name": "Cortado",
+            "price": 200,
+            "type": "infusions"
+        },
+        {
+            "name": "Te",
+            "price": 150,
+            "type": "infusions"
+        }
+    ],
+    "location": {
+        "street": "Calle 1ra entre A y B, Vedado",
+        "council": null,
+        "municipe": "Plaza de la Revolucion",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

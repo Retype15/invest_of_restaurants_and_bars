@@ -1,0 +1,495 @@
+{
+    "name": "Distrito 25",
+    "phone": "52831416",
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "mexican",
+    "hours": {
+        "open": "11:00",
+        "close": "22:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 50,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 3.5,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Nachos",
+            "price": 400,
+            "type": "starters"
+        },
+        {
+            "name": "Nachos Ranchero",
+            "price": 650,
+            "type": "starters"
+        },
+        {
+            "name": "Chilaquile pollo",
+            "price": 650,
+            "type": "starters"
+        },
+        {
+            "name": "Tostón de jamón y queso",
+            "price": 550,
+            "type": "starters"
+        },
+        {
+            "name": "Tostón Tomasa",
+            "price": 700,
+            "type": "starters"
+        },
+        {
+            "name": "Tostón camarón",
+            "price": 800,
+            "type": "starters"
+        },
+        {
+            "name": "Tostón cangrejo",
+            "price": 900,
+            "type": "starters"
+        },
+        {
+            "name": "Ceviche pescado",
+            "price": 850,
+            "type": "starters"
+        },
+        {
+            "name": "Crudo camarón",
+            "price": 900,
+            "type": "starters"
+        },
+        {
+            "name": "Coctel camarón",
+            "price": 1000,
+            "type": "starters"
+        },
+        {
+            "name": "Coctel langosta",
+            "price": 1500,
+            "type": "starters"
+        },
+        {
+            "name": "Tabla especial",
+            "price": 3000,
+            "type": "starters"
+        },
+        {
+            "name": "Croquetas (5u)",
+            "price": 600,
+            "type": "starters"
+        },
+        {
+            "name": "Croquetas (10u)",
+            "price": 1000,
+            "type": "starters"
+        },
+        {
+            "name": "Ostiones",
+            "price": 500,
+            "type": "starters"
+        },
+        {
+            "name": "Burrito de cerdo",
+            "price": 900,
+            "type": "mains"
+        },
+        {
+            "name": "Burrito Tomasa",
+            "price": 1000,
+            "type": "mains"
+        },
+        {
+            "name": "Burrito Cangrejo",
+            "price": 1100,
+            "type": "mains"
+        },
+        {
+            "name": "Burrito Langosta",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "Burrito Camarón",
+            "price": 1200,
+            "type": "mains"
+        },
+        {
+            "name": "Súper Burrito",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos Chochitos",
+            "price": 450,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos Pastor",
+            "price": 500,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos Habanero",
+            "price": 400,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos Tinga",
+            "price": 450,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos caribeños",
+            "price": 500,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos Navilio",
+            "price": 700,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos Tomasa",
+            "price": 650,
+            "type": "mains"
+        },
+        {
+            "name": "Quesadilla ",
+            "price": 400,
+            "type": "mains"
+        },
+        {
+            "name": "Taco Estrella",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo mechado",
+            "price": 1700,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo en crema al cajú",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo grillé",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "Mar y tierra",
+            "price": 4000,
+            "type": "mains"
+        },
+        {
+            "name": "Langosta",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz meloso",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "Langostino",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "Camarón al gusto",
+            "price": 1600,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de pescado",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "Pulpo al gusto",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "Caldereta de mariscos",
+            "price": 3500,
+            "type": "mains"
+        },
+        {
+            "name": "Cerdo en crema de queso al cajún",
+            "price": 2500,
+            "type": "mains"
+        },
+        {
+            "name": "Pizza napolitana",
+            "price": 800,
+            "type": "pizza"
+        },
+        {
+            "name": "Espaguetis napolitanos",
+            "price": 650,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis Fruti D´Mare",
+            "price": 1000,
+            "type": "pasta"
+        },
+        {
+            "name": "jamón",
+            "price": 250,
+            "type": "sides"
+        },
+        {
+            "name": "queso",
+            "price": 350,
+            "type": "sides"
+        },
+        {
+            "name": "cebolla",
+            "price": 200,
+            "type": "sides"
+        },
+        {
+            "name": "pina",
+            "price": 150,
+            "type": "sides"
+        },
+        {
+            "name": "aceituna",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "pimiento",
+            "price": 200,
+            "type": "sides"
+        },
+        {
+            "name": "camarón",
+            "price": 350,
+            "type": "sides"
+        },
+        {
+            "name": " Sandwich campesino",
+            "price": 750,
+            "type": "sandwich"
+        },
+        {
+            "name": "Sandwich pollo",
+            "price": 550,
+            "type": "sandwich"
+        },
+        {
+            "name": "Sandwich jamón y queso",
+            "price": 500,
+            "type": "sandwich"
+        },
+        {
+            "name": "Mojito natural",
+            "price": 450,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mojito moreno",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "Ron Collins",
+            "price": 400,
+            "type": "cocktails"
+        },
+        {
+            "name": "Daiquirí natural",
+            "price": 400,
+            "type": "cocktails"
+        },
+        {
+            "name": "Daiquirí de fresa",
+            "price": 500,
+            "type": "cocktails"
+        },
+        {
+            "name": "Canchánchara",
+            "price": 500,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cancha",
+            "price": 550,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipirísima",
+            "price": 500,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipirina",
+            "price": 500,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipiroska",
+            "price": 500,
+            "type": "cocktails"
+        },
+        {
+            "name": "Sangría",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "Pina colada",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "Gin tonic",
+            "price": 500,
+            "type": "cocktails"
+        },
+        {
+            "name": "Vodka tonic",
+            "price": 500,
+            "type": "cocktails"
+        },
+        {
+            "name": "Blue Lagon",
+            "price": 550,
+            "type": "cocktails"
+        },
+        {
+            "name": "Ballentines 12 anos",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cuba libre ",
+            "price": 450,
+            "type": "cocktails"
+        },
+        {
+            "name": "Limonada",
+            "price": 350,
+            "type": "cocktails"
+        },
+        {
+            "name": "Limonada Frescura",
+            "price": 400,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cerveza nacional",
+            "price": 350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza importada",
+            "price": 300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Servicio Michelada",
+            "price": 200,
+            "type": "others"
+        },
+        {
+            "name": "Servicio Chelada",
+            "price": 150,
+            "type": "others"
+        },
+        {
+            "name": "Refresco Importado",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugo natural",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Batido de mamey",
+            "price": 700,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua natural",
+            "price": 200,
+            "type": "water"
+        },
+        {
+            "name": "Energizante",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "expresso",
+            "price": 120,
+            "type": "infusions"
+        },
+        {
+            "name": "cortado",
+            "price": 180,
+            "type": "infusions"
+        },
+        {
+            "name": "bombón",
+            "price": 350,
+            "type": "infusions"
+        },
+        {
+            "name": "Capuchino",
+            "price": 320,
+            "type": "infusions"
+        },
+        {
+            "name": "Frapuchino",
+            "price": 500,
+            "type": "infusions"
+        }
+    ],
+    "location": {
+        "street": "Calle 25 entre M y N, Vedado",
+        "council": null,
+        "municipe": "Plaza de la Revolucion",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "name": "Bohío_Mercadito",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "10:00",
+        "close": "21:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [],
+    "delivery": [
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.2,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Baguette Jamón y Queso",
+            "price": 700.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Croissant Nutella",
+            "price": 800.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Croissant Jamón y Queso",
+            "price": 900.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Mini Croissants Chocolate",
+            "price": 150.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Dona Chocolate",
+            "price": 250.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Capuchino",
+            "price": 250.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Expresso",
+            "price": 100.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cortado",
+            "price": 150.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Bombón",
+            "price": 250.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Affogato",
+            "price": 500.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Frappuccino",
+            "price": 500.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Frutos del Bosque/Plátano",
+            "price": 600.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Mango",
+            "price": 500.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Frutabomba",
+            "price": 500.0,
+            "type": "non_alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "Malecón",
+        "council": "Vedado",
+        "municipe": "Plaza de la Revolucion",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

@@ -1,0 +1,306 @@
+{
+    "name": "The Place",
+    "phone": "58382601",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "08:00",
+        "close": "03:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "others"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": "https://www.facebook.com/ThePlaceCuba/",
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Croquetas",
+            "price": 600.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Eperlan",
+            "price": 900.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostones",
+            "price": 500.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Frituras malanga",
+            "price": 500.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Garbanzos fritos",
+            "price": 1950.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Sopón imperial",
+            "price": 1300.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Picadera The Place",
+            "price": 2300.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Papas fritas",
+            "price": 800.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Pechuga pollo grillé",
+            "price": 1400.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo frito",
+            "price": 1200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec cerdo grillé",
+            "price": 1600.0,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec uruguayo",
+            "price": 1800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Costilla cerdo",
+            "price": 1700.0,
+            "type": "mains"
+        },
+        {
+            "name": "Masa cerdo frita",
+            "price": 1700.0,
+            "type": "mains"
+        },
+        {
+            "name": "Chilindrón cordero",
+            "price": 1950.0,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa vieja",
+            "price": 1500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec res",
+            "price": 1800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Chuleta cerdo",
+            "price": 1750.0,
+            "type": "mains"
+        },
+        {
+            "name": "Chuletón",
+            "price": 3000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado",
+            "price": 1500.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Canciller",
+            "price": 1800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Langosta en sus variedades",
+            "price": 1950.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Camarón",
+            "price": 1500.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Pizza napolitana",
+            "price": 800.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Espaguetis napolitanos",
+            "price": 800.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Jarra cerveza Cristal",
+            "price": 300.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Termo cerveza Cristal",
+            "price": 2000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Cristal",
+            "price": 300.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza importada",
+            "price": 250.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Malta Bucanero",
+            "price": 300.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Lata refresco",
+            "price": 290.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Caja jugos",
+            "price": 260.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Pomo agua",
+            "price": 200.0,
+            "type": "water"
+        },
+        {
+            "name": "Energizante",
+            "price": 330.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Caipiroska",
+            "price": 500.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipirísima",
+            "price": 500.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mojito",
+            "price": 520.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Gin tonic",
+            "price": 500.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Sangría",
+            "price": 600.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Michelada",
+            "price": 900.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Chelada",
+            "price": 500.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Limonada frappé",
+            "price": 600.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Margarita",
+            "price": 550.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Red Label",
+            "price": 550.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Old Pard",
+            "price": 950.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Jamerson",
+            "price": 600.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Tequila",
+            "price": 450.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Tequila reposado",
+            "price": 500.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Selección maestro",
+            "price": 1150.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Pacto navio",
+            "price": 1150.0,
+            "type": "alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "calle 100, pasando Aldabo",
+        "council": null,
+        "municipe": "Boyeros",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

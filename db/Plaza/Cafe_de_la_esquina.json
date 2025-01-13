@@ -1,0 +1,352 @@
+{
+    "name": "Café D la Esquina",
+    "phone": "78362565",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "08:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 50,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "home",
+        "takeaway",
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.0,
+    "reviews": 30,
+    "amenities": [
+        "parking"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Pizza Tacos Mix",
+            "price": 2600,
+            "type": "starters"
+        },
+        {
+            "name": "Tabla de la casa",
+            "price": 4200,
+            "type": "starters"
+        },
+        {
+            "name": "Canoa de Olga",
+            "price": 800,
+            "type": "starters"
+        },
+        {
+            "name": "Trío de pizzeta Margarita",
+            "price": 1000,
+            "type": "starters"
+        },
+        {
+            "name": "Tapa Hot Dog",
+            "price": 2200,
+            "type": "starters"
+        },
+        {
+            "name": "Trío de pizzeta especial",
+            "price": 1300,
+            "type": "starters"
+        },
+        {
+            "name": "Falso Sushi",
+            "price": 2600,
+            "type": "mains"
+        },
+        {
+            "name": "Rollo Criollo",
+            "price": 1900,
+            "type": "mains"
+        },
+        {
+            "name": "Rollo La Esquina",
+            "price": 1900,
+            "type": "mains"
+        },
+        {
+            "name": "Plato Campesino",
+            "price": 2500,
+            "type": "mains"
+        },
+        {
+            "name": "Pasta clásica",
+            "price": 1300,
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta al pesto",
+            "price": 1500,
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta  Ragú/Bolognesa",
+            "price": 1800,
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta Carbonara",
+            "price": 2200,
+            "type": "pasta"
+        },
+        {
+            "name": "Cebolla",
+            "price": 120,
+            "type": "sides"
+        },
+        {
+            "name": "Champiñón",
+            "price": 170,
+            "type": "sides"
+        },
+        {
+            "name": "Queso Gouda",
+            "price": 200,
+            "type": "sides"
+        },
+        {
+            "name": "Jamón Embuchado",
+            "price": 100,
+            "type": "sides"
+        },
+        {
+            "name": "Bacon",
+            "price": 150,
+            "type": "sides"
+        },
+        {
+            "name": "Tarta de la casa",
+            "price": 700,
+            "type": "desserts"
+        },
+        {
+            "name": "Mojito",
+            "price": 700,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mojito Especial",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "Pina Colada",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "Daikirí",
+            "price": 700,
+            "type": "cocktails"
+        },
+        {
+            "name": "Margarita",
+            "price": 1000,
+            "type": "cocktails"
+        },
+        {
+            "name": "Sangría",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipirina",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipiroska",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "Gin Tonic",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "Vodka Tonic",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "Limonada natural",
+            "price": 450,
+            "type": "cocktails"
+        },
+        {
+            "name": "Limonada Lizzie sin ron",
+            "price": 700,
+            "type": "cocktails"
+        },
+        {
+            "name": "Limonada Lizzie con ron",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "Agua gaseada importada",
+            "price": 1050,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua natural pequeña",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua natural grande",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua gaseada nacional",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua Tónica nacional",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco nacional",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco importado",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza importada",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza nacional superior",
+            "price": 550,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "jugo de frutas naturales",
+            "price": 250,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Copa de vino tinto",
+            "price": 600,
+            "type": "wines"
+        },
+        {
+            "name": "Copa de vino blanco",
+            "price": 600,
+            "type": "wines"
+        },
+        {
+            "name": "Energizante",
+            "price": 600,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta",
+            "price": 450,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Batido de helado",
+            "price": 650,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Batido de frutas",
+            "price": 450,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "expresso ",
+            "price": 200,
+            "type": "infusions"
+        },
+        {
+            "name": "Capuccino",
+            "price": 350,
+            "type": "infusions"
+        },
+        {
+            "name": "Frapuccino",
+            "price": 700,
+            "type": "infusions"
+        },
+        {
+            "name": "Americano",
+            "price": 220,
+            "type": "infusions"
+        },
+        {
+            "name": "Cortado",
+            "price": 260,
+            "type": "infusions"
+        },
+        {
+            "name": "Café con leche",
+            "price": 350,
+            "type": "infusions"
+        },
+        {
+            "name": "Carajillo",
+            "price": 360,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Bombón",
+            "price": 600,
+            "type": "infusions"
+        },
+        {
+            "name": "Café frío",
+            "price": 300,
+            "type": "infusions"
+        },
+        {
+            "name": "Té",
+            "price": 250,
+            "type": "infusions"
+        }
+    ],
+    "location": {
+        "street": "Paseo #101, esq. a 5ta.",
+        "council": "Vedado",
+        "municipe": "Plaza de la Revolucion",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

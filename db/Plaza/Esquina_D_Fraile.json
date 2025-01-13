@@ -1,0 +1,586 @@
+{
+    "name": "Esquina D-Fraile ",
+    "phone": "52932497",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "12:00",
+        "close": "00:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 150,
+    "reservations": [
+        "in-person",
+        "phone"
+    ],
+    "delivery": [
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 5.0,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Croquetas de pescado",
+            "price": 950,
+            "type": "starters"
+        },
+        {
+            "name": "Empanadas de la casa",
+            "price": 950,
+            "type": "starters"
+        },
+        {
+            "name": "Frituritas de malanga",
+            "price": 850,
+            "type": "starters"
+        },
+        {
+            "name": "Pulpo encebollado al pimenton",
+            "price": 3000,
+            "type": "starters"
+        },
+        {
+            "name": "Calamar a la romana",
+            "price": 3000,
+            "type": "starters"
+        },
+        {
+            "name": "Ceviche",
+            "price": 2100,
+            "type": "starters"
+        },
+        {
+            "name": "Ensalada de langosta",
+            "price": 2800,
+            "type": "starters"
+        },
+        {
+            "name": "Coctel tropical de camaron",
+            "price": 1800,
+            "type": "starters"
+        },
+        {
+            "name": "Tataki fraile",
+            "price": 2100,
+            "type": "starters"
+        },
+        {
+            "name": "Tartar de la pesca del dia",
+            "price": 2100,
+            "type": "starters"
+        },
+        {
+            "name": "Ensalada Cesar de pollo",
+            "price": 1800,
+            "type": "starters"
+        },
+        {
+            "name": "Jamon serrano y productos ibericos",
+            "price": 3500,
+            "type": "starters"
+        },
+        {
+            "name": "Fritos del mar",
+            "price": 3000,
+            "type": "starters"
+        },
+        {
+            "name": "Sopa del pescador",
+            "price": 850,
+            "type": "starters"
+        },
+        {
+            "name": "Garbanzo frito al estilo cubano",
+            "price": 1900,
+            "type": "starters"
+        },
+        {
+            "name": "Manito de cerdo guisada",
+            "price": 1800,
+            "type": "starters"
+        },
+        {
+            "name": "Pescado al tomate y olivo",
+            "price": 2900,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado con salsa de mostaza a las finas hierba",
+            "price": 2900,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado con alcaparra y cebolla",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado en refrito de ajo",
+            "price": 2800,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado con mojo iberico",
+            "price": 3200,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado entero al horno",
+            "price": "Segun el peso",
+            "type": "mains"
+        },
+        {
+            "name": "Camarones al gusto",
+            "price": 2600,
+            "type": "mains"
+        },
+        {
+            "name": "Langosta al gusto",
+            "price": 3200,
+            "type": "mains"
+        },
+        {
+            "name": "Paella Marinera",
+            "price": 6000,
+            "type": "mains"
+        },
+        {
+            "name": "Solomillo de cerdo con salsa de hongos y frutos seco",
+            "price": 3300,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz negro",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz meloso con langosta y camaron",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz con pollo a la chorrera",
+            "price": 2200,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa vieja",
+            "price": 2100,
+            "type": "mains"
+        },
+        {
+            "name": "Cordero a la cazuela",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo al curry o teriyaki",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "Solomillo de res con salsa de 5 pimientos/champinones/queso azul",
+            "price": 6000,
+            "type": "mains"
+        },
+        {
+            "name": "Ensalada de vegetales",
+            "price": 600,
+            "type": "sides"
+        },
+        {
+            "name": "Vegetal salteado",
+            "price": 700,
+            "type": "sides"
+        },
+        {
+            "name": "Vegetales a la brasa",
+            "price": 600,
+            "type": "sides"
+        },
+        {
+            "name": "Pure de viandas",
+            "price": 700,
+            "type": "sides"
+        },
+        {
+            "name": "Vianda frita",
+            "price": 450,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz blanco",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz pilaf",
+            "price": 500,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz moro",
+            "price": 350,
+            "type": "sides"
+        },
+        {
+            "name": "Queso fresco y tomate",
+            "price": 1500,
+            "type": "pizza"
+        },
+        {
+            "name": "Jamon",
+            "price": 2100,
+            "type": "pizza"
+        },
+        {
+            "name": "Bacon",
+            "price": 2400,
+            "type": "pizza"
+        },
+        {
+            "name": "Chorizo",
+            "price": 2400,
+            "type": "pizza"
+        },
+        {
+            "name": "Vegetales",
+            "price": 2000,
+            "type": "pizza"
+        },
+        {
+            "name": "Cuatro Estaciones",
+            "price": 2800,
+            "type": "pizza"
+        },
+        {
+            "name": "Hawaiana",
+            "price": 2400,
+            "type": "pizza"
+        },
+        {
+            "name": "Marinera",
+            "price": 3200,
+            "type": "pizza"
+        },
+        {
+            "name": "Jamon Serrano",
+            "price": 3000,
+            "type": "pizza"
+        },
+        {
+            "name": "Focaccia de jamon serrano y aceitunas",
+            "price": 2500,
+            "type": "pizza"
+        },
+        {
+            "name": "Calzone habanero",
+            "price": 3000,
+            "type": "pizza"
+        },
+        {
+            "name": "Tomate y parmesano",
+            "price": 2000,
+            "type": "pasta"
+        },
+        {
+            "name": "Frutos del mar",
+            "price": 3000,
+            "type": "pasta"
+        },
+        {
+            "name": "Ajo, camaron y Parmesano",
+            "price": 2700,
+            "type": "pasta"
+        },
+        {
+            "name": "Amatriciana",
+            "price": 3000,
+            "type": "pasta"
+        },
+        {
+            "name": "Bolonesa",
+            "price": 2000,
+            "type": "pasta"
+        },
+        {
+            "name": "Carbonara",
+            "price": 2300,
+            "type": "pasta"
+        },
+        {
+            "name": "Nero de seppia",
+            "price": 3000,
+            "type": "pasta"
+        },
+        {
+            "name": " ",
+            "price": "",
+            "type": "others"
+        },
+        {
+            "name": " ",
+            "price": " ",
+            "type": "sandwich"
+        },
+        {
+            "name": "Helado",
+            "price": 750,
+            "type": "desserts"
+        },
+        {
+            "name": "Flan",
+            "price": 800,
+            "type": "desserts"
+        },
+        {
+            "name": "Copa lolita",
+            "price": 1000,
+            "type": "desserts"
+        },
+        {
+            "name": "Brownie con helado",
+            "price": 1000,
+            "type": "desserts"
+        },
+        {
+            "name": "Tarta tres leches",
+            "price": 800,
+            "type": "desserts"
+        },
+        {
+            "name": "Cheesecake",
+            "price": 1200,
+            "type": "desserts"
+        },
+        {
+            "name": "Daiquiri",
+            "price": 1000,
+            "type": "cocktails"
+        },
+        {
+            "name": "Daiquiri de frutas",
+            "price": 1200,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cuba libre",
+            "price": 1000,
+            "type": "cocktails"
+        },
+        {
+            "name": "Havana Especial",
+            "price": 1000,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mojito",
+            "price": 1000,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mojito de frutas",
+            "price": 1200,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipirisima",
+            "price": 1000,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipiroska",
+            "price": 1000,
+            "type": "cocktails"
+        },
+        {
+            "name": "Pina colada",
+            "price": 1600,
+            "type": "cocktails"
+        },
+        {
+            "name": "Pina colada sin alcohol",
+            "price": 1400,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cubata",
+            "price": 1000,
+            "type": "cocktails"
+        },
+        {
+            "name": "Margarita",
+            "price": 1500,
+            "type": "cocktails"
+        },
+        {
+            "name": "Tequilla sunrise",
+            "price": 1800,
+            "type": "cocktails"
+        },
+        {
+            "name": "Screwdriver",
+            "price": 1600,
+            "type": "cocktails"
+        },
+        {
+            "name": "Expresso Martini",
+            "price": 2000,
+            "type": "cocktails"
+        },
+        {
+            "name": "Negroni",
+            "price": 2000,
+            "type": "cocktails"
+        },
+        {
+            "name": "Martini",
+            "price": 2000,
+            "type": "cocktails"
+        },
+        {
+            "name": "Manhattan",
+            "price": 2000,
+            "type": "cocktails"
+        },
+        {
+            "name": "Whisky Sour",
+            "price": 1800,
+            "type": "cocktails"
+        },
+        {
+            "name": "Sangria",
+            "price": 1500,
+            "type": "cocktails"
+        },
+        {
+            "name": "Orgasmo",
+            "price": 2000,
+            "type": "cocktails"
+        },
+        {
+            "name": "Agua gaseada importada",
+            "price": 800,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua importada",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua tonica nacional",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua tonica importada",
+            "price": 1200,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refrescos importados",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada",
+            "price": 6000,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada con hierba buena",
+            "price": 700,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza de tonel 480ml",
+            "price": 450,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza de tonel 250l",
+            "price": 250,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Servicio de chelada",
+            "price": 250,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Servicio de michelada",
+            "price": 350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Energizantes",
+            "price": 1000,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Maltas",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugos naturales",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Heineken",
+            "price": 800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Copa de vino tinto",
+            "price": 1200,
+            "type": "wines"
+        },
+        {
+            "name": "Copa de vino blanco",
+            "price": 1200,
+            "type": "wines"
+        },
+        {
+            "name": " ",
+            "price": "",
+            "type": "infusions"
+        }
+    ],
+    "location": {
+        "street": "Calle D entre 1era y 3era",
+        "council": null,
+        "municipe": "Plaza de la Revolucion",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

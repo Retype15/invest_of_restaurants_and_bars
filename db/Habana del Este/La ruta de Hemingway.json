@@ -1,0 +1,455 @@
+{
+    "name": "La ruta de Hemingway",
+    "phone": "50813470",
+    "email": null,
+    "web": "larutadehemingway.godaddysites.com",
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "12:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 30,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "card"
+    ],
+    "promo": false,
+    "rating": 3.7,
+    "reviews": 75,
+    "amenities": [
+        "pet_friendly"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Croquetas de la casa",
+            "price": 500,
+            "type": "starters"
+        },
+        {
+            "name": "Ceviche de pescado",
+            "price": 1300,
+            "type": "starters"
+        },
+        {
+            "name": "Tostones rellenos",
+            "price": 1150,
+            "type": "starters"
+        },
+        {
+            "name": "Eperlan de pescado",
+            "price": 1300,
+            "type": "starters"
+        },
+        {
+            "name": "Garbanzos fritos",
+            "price": 1350,
+            "type": "starters"
+        },
+        {
+            "name": "Ensalada fria",
+            "price": 1050,
+            "type": "salads"
+        },
+        {
+            "name": "Brusquetas",
+            "price": 450,
+            "type": "appetizer"
+        },
+        {
+            "name": "Pincho Pio",
+            "price": 2500,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de cerdo a la campesina",
+            "price": 2400,
+            "type": "mains"
+        },
+        {
+            "name": "El Balsero",
+            "price": 3100,
+            "type": "mains"
+        },
+        {
+            "name": "Pulpo a las brasas",
+            "price": 3500,
+            "type": "seafood"
+        },
+        {
+            "name": "Camaron a la mantequilla",
+            "price": 2900,
+            "type": "seafood"
+        },
+        {
+            "name": "Langosta al carbon",
+            "price": 3600,
+            "type": "seafood"
+        },
+        {
+            "name": "Fajas Ibericas",
+            "price": 4250,
+            "type": "mains"
+        },
+        {
+            "name": "Chilindron de cordero",
+            "price": 3450,
+            "type": "mains"
+        },
+        {
+            "name": "Fricase de costilla",
+            "price": 3650,
+            "type": "mains"
+        },
+        {
+            "name": "Masas de cerdo a la campesina",
+            "price": 3200,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado entero",
+            "price": 3100,
+            "type": "mains"
+        },
+        {
+            "name": "Tambor cubano",
+            "price": 3100,
+            "type": "mains"
+        },
+        {
+            "name": "Rueda de pescado",
+            "price": 2700,
+            "type": "mains"
+        },
+        {
+            "name": "Pizza napolitana",
+            "price": 2000,
+            "type": "pizza"
+        },
+        {
+            "name": "Viandas fritas",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "Vianda con mojo",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "Ensalada estacion",
+            "price": 400,
+            "type": "salads"
+        },
+        {
+            "name": "Arroz blanco",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz moro",
+            "price": 400,
+            "type": "sides"
+        },
+        {
+            "name": "Jugo en lata",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugo de fruta",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Batido de fruta",
+            "price": 420,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada frappe",
+            "price": 450,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada frescura",
+            "price": 480,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta",
+            "price": 360,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malteada",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco importado",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua natural",
+            "price": 250,
+            "type": "water"
+        },
+        {
+            "name": "Agua tonica",
+            "price": 700,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Energizante",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Kermato",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza nacional",
+            "price": 300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza en lata importada",
+            "price": 250,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Presidente",
+            "price": 300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Heineken",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Corona",
+            "price": 450,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Copa de vino",
+            "price": 650,
+            "type": "wines"
+        },
+        {
+            "name": "Botella de vino",
+            "price": 3000,
+            "type": "wines"
+        },
+        {
+            "name": "Todos los cocteles",
+            "price": 450,
+            "type": "cocktails"
+        },
+        {
+            "name": "Sangria",
+            "price": 800,
+            "type": "cocktails"
+        },
+        {
+            "name": "Pina colada",
+            "price": 700,
+            "type": "cocktails"
+        },
+        {
+            "name": "Gin Tonic",
+            "price": 800,
+            "type": "cocktails"
+        },
+        {
+            "name": "Ron Barcelo Dorado",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Brandy",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ginebra Tanqueray",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Conac",
+            "price": 1000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Habana Club 7 anos",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Habana Club 3 anos",
+            "price": 300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Habana Club Pacto Navio",
+            "price": 1200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Habana Club Reserva",
+            "price": 350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Habana Club Especial",
+            "price": 300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Habana Club Seleccion del Maestro",
+            "price": 1300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Jagermeifter",
+            "price": 700,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Legendario",
+            "price": 250,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ron 15 anos",
+            "price": 1100,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Whiskey Pasportt",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "W. Black Label",
+            "price": 1000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "W. Double Black Label",
+            "price": 1800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "W. 15 anos",
+            "price": 1900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "W. Red Label",
+            "price": 800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "W. VAT 69",
+            "price": 350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "W. Black and White",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Bucana",
+            "price": 1650,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Tequila Olmeca",
+            "price": 800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ginebra",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cafe Expresso",
+            "price": 250,
+            "type": "infusions"
+        },
+        {
+            "name": "Cafe americano",
+            "price": 250,
+            "type": "infusions"
+        },
+        {
+            "name": "Cafe chocolate",
+            "price": 300,
+            "type": "infusions"
+        },
+        {
+            "name": "Cafe cortado",
+            "price": 300,
+            "type": "infusions"
+        },
+        {
+            "name": "Cafe bombon",
+            "price": 370,
+            "type": "infusions"
+        },
+        {
+            "name": "Cafe con leche",
+            "price": 450,
+            "type": "infusions"
+        },
+        {
+            "name": "Capuchino",
+            "price": 450,
+            "type": "infusions"
+        },
+        {
+            "name": "Postre del dia",
+            "price": 750,
+            "type": "desserts"
+        }
+    ],
+    "location": {
+        "street": "Calle Real entre Victoria y Marcos",
+        "council": null,
+        "municipe": "Habana del Este",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "name": "Bueníssimo heladería",
+    "phone": null,
+    "email": null,
+    "web": "https://buennissimo.com/",
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "09:30",
+        "close": "23:30",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": null,
+    "delivery": null,
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 5.0,
+    "reviews": null,
+    "amenities": [
+        "parking"
+    ],
+    "fb": null,
+    "ig": "https://www.instagram.com/@buenissimo.heladeria",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "1/2 kg de helado",
+            "price": 1800,
+            "type": "desserts"
+        },
+        {
+            "name": "1 kg de helado",
+            "price": 3600,
+            "type": "desserts"
+        },
+        {
+            "name": "cono (1bola 95gr)",
+            "price": 280,
+            "type": "desserts"
+        },
+        {
+            "name": "cono doble",
+            "price": 560,
+            "type": "desserts"
+        },
+        {
+            "name": "cono maxi",
+            "price": 850,
+            "type": "desserts"
+        },
+        {
+            "name": "copa buenissimo",
+            "price": 1500,
+            "type": "desserts"
+        },
+        {
+            "name": "copa family",
+            "price": 2100,
+            "type": "desserts"
+        },
+        {
+            "name": "copa firenze",
+            "price": 1200,
+            "type": "desserts"
+        },
+        {
+            "name": "copa habana",
+            "price": 620,
+            "type": "desserts"
+        },
+        {
+            "name": "copa roma",
+            "price": 950,
+            "type": "desserts"
+        },
+        {
+            "name": "copeta 1 bola",
+            "price": 300,
+            "type": "desserts"
+        },
+        {
+            "name": "copeta 2 sabores",
+            "price": 630,
+            "type": "desserts"
+        },
+        {
+            "name": "copeta 3 sabores",
+            "price": 920,
+            "type": "desserts"
+        },
+        {
+            "name": "copeta 4 sabores",
+            "price": 1200,
+            "type": "desserts"
+        },
+        {
+            "name": "tulipan",
+            "price": 1300,
+            "type": "desserts"
+        },
+        {
+            "name": "tulipan max",
+            "price": 1500,
+            "type": "desserts"
+        },
+        {
+            "name": "batido",
+            "price": 900,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "batido maxi",
+            "price": 1000,
+            "type": "non_alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.143218246225477,
+        "coords_y": -82.37817617833404
+    }
+}

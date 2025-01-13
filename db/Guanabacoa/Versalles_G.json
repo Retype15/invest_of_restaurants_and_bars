@@ -1,0 +1,236 @@
+{
+    "name": "Cafe Versalles",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "09:00",
+        "close": "24:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": null,
+    "delivery": [
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 5.0,
+    "reviews": null,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "ENSALADA FR\u00cdA DE JAM\u00d3N",
+            "price": 500.0,
+            "type": "starters"
+        },
+        {
+            "name": "ENSALADA FR\u00cdA DE AT\u00daN",
+            "price": 700.0,
+            "type": "starters"
+        },
+        {
+            "name": "CROQUETAS DE LA CASA",
+            "price": 500.0,
+            "type": "starters"
+        },
+        {
+            "name": "EPERLAN DE PESCADO",
+            "price": 1600.0,
+            "type": "starters"
+        },
+        {
+            "name": "FAJITAS DE POLLO EMPANADO",
+            "price": 1500.0,
+            "type": "starters"
+        },
+        {
+            "name": "MARIPOSITAS CHINAS",
+            "price": 700.0,
+            "type": "starters"
+        },
+        {
+            "name": "CEVICHE PESCADO",
+            "price": 1000.0,
+            "type": "starters"
+        },
+        {
+            "name": "CESTA BANANERA",
+            "price": 850.0,
+            "type": "starters"
+        },
+        {
+            "name": "C\u00d3CTEL DE CAMAR\u00d3N",
+            "price": 1200.0,
+            "type": "starters"
+        },
+        {
+            "name": "Pollo grille",
+            "price": 1400.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo cantones",
+            "price": 2200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Cordon bleu",
+            "price": 2500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Medio pollo al carb\u00f3n con BBQ",
+            "price": 2500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado versalles",
+            "price": 2800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Canciller",
+            "price": 2800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Montetoro",
+            "price": 2200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Filete grille",
+            "price": 1600.0,
+            "type": "mains"
+        },
+        {
+            "name": "Camar\u00f3n al gusto",
+            "price": 2500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Chuleta de cerdo al carb\u00f3n con bbq 1 libra",
+            "price": 3600.0,
+            "type": "mains"
+        },
+        {
+            "name": "Solomillo de cerdo al carb\u00f3n con bbq 1 libra",
+            "price": 3000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Uruguayo de cerdo",
+            "price": 2500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Masa de cerdo frita 300 gr",
+            "price": 2800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de cerdo encebollado",
+            "price": 1600.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pizza Napoles",
+            "price": 900.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza queso gouda",
+            "price": 1260.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza jam\u00f3n",
+            "price": 1150.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza chorizo",
+            "price": 1250.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza camarones",
+            "price": 1700.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza cebolla",
+            "price": 1150.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza aceituna",
+            "price": 1200.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza pi\u00f1a",
+            "price": 1150.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza at\u00fan",
+            "price": 1250.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza lomo ahumado",
+            "price": 1250.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza beicon",
+            "price": 1300.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza pimiento",
+            "price": 1200.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Espaguetis",
+            "price": 800.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Laza\u00f1a de Jamon",
+            "price": 1200.0,
+            "type": "pasta"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Guanabacoa",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

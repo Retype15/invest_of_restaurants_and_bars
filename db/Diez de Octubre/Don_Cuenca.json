@@ -1,0 +1,266 @@
+{
+    "name": "Don Cuenca",
+    "phone": "76402249",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "12:00",
+        "close": "22:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "others"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": null,
+    "ig": "https://www.instagram.com/@don-cuenca",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "frituras de malanga",
+            "price": 500,
+            "type": "appetizer"
+        },
+        {
+            "name": "tostones rellenos de jamon y queso",
+            "price": 550,
+            "type": "appetizer"
+        },
+        {
+            "name": "garbanzos fritos",
+            "price": 850,
+            "type": "appetizer"
+        },
+        {
+            "name": "eperlan",
+            "price": 1450,
+            "type": "appetizer"
+        },
+        {
+            "name": "coctel de camarones",
+            "price": 1600,
+            "type": "appetizer"
+        },
+        {
+            "name": "bistec de cerdo grille",
+            "price": 1550,
+            "type": "mains"
+        },
+        {
+            "name": "bistec uruguayo",
+            "price": 2100,
+            "type": "mains"
+        },
+        {
+            "name": "lomo cerdo ahumado",
+            "price": 1700,
+            "type": "mains"
+        },
+        {
+            "name": "lomo cerdo hawaiano",
+            "price": 1900,
+            "type": "mains"
+        },
+        {
+            "name": "pechuga grille",
+            "price": 1659,
+            "type": "mains"
+        },
+        {
+            "name": "pechuga salteada con aji y cebolla",
+            "price": 1750,
+            "type": "mains"
+        },
+        {
+            "name": "pechuga hawaiana",
+            "price": 2100,
+            "type": "mains"
+        },
+        {
+            "name": "cordon blue",
+            "price": 2400,
+            "type": "mains"
+        },
+        {
+            "name": "chilindron de cordero",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "ropa vieja",
+            "price": 1900,
+            "type": "mains"
+        },
+        {
+            "name": "vaca frita",
+            "price": 1900,
+            "type": "mains"
+        },
+        {
+            "name": "solomillo de cerdo",
+            "price": 2950,
+            "type": "mains"
+        },
+        {
+            "name": "filete de pescado joinville",
+            "price": 3000,
+            "type": "seafood"
+        },
+        {
+            "name": "enchilado de mariscos",
+            "price": 3100,
+            "type": "seafood"
+        },
+        {
+            "name": "caldereta de mariscos",
+            "price": 3600,
+            "type": "seafood"
+        },
+        {
+            "name": "canelon de jamon",
+            "price": 1100,
+            "type": "pasta"
+        },
+        {
+            "name": "canelon de chorizo",
+            "price": 1250,
+            "type": "pasta"
+        },
+        {
+            "name": "canelon de atun",
+            "price": 1600,
+            "type": "pasta"
+        },
+        {
+            "name": "lasana de jamon",
+            "price": 1350,
+            "type": "pasta"
+        },
+        {
+            "name": "lasana de chorizo",
+            "price": 1550,
+            "type": "pasta"
+        },
+        {
+            "name": "lasana de atun",
+            "price": 1900,
+            "type": "pasta"
+        },
+        {
+            "name": "espaguetis don cuenca",
+            "price": 1650,
+            "type": "pasta"
+        },
+        {
+            "name": "espaguetis de mariscos",
+            "price": 2450,
+            "type": "pasta"
+        },
+        {
+            "name": "espaguetis frutos del mar",
+            "price": 2900,
+            "type": "pasta"
+        },
+        {
+            "name": "tarta de la casa",
+            "price": 450,
+            "type": "desserts"
+        },
+        {
+            "name": "flan de la casa",
+            "price": 450,
+            "type": "desserts"
+        },
+        {
+            "name": "crema de arroz con leche",
+            "price": 350,
+            "type": "desserts"
+        },
+        {
+            "name": "helado",
+            "price": 450,
+            "type": "desserts"
+        },
+        {
+            "name": "jugo natural",
+            "price": 250,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "suero de helado",
+            "price": 450,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "refresco",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "malta importada",
+            "price": 330,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "energizante",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "cafe",
+            "price": 100,
+            "type": "infusions"
+        },
+        {
+            "name": "cerveza nacional",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza importada",
+            "price": 350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cafe",
+            "price": 100,
+            "type": "infusions"
+        }
+    ],
+    "location": {
+        "street": "General Lee entre Destrampre y Figueroa",
+        "council": "Santo Suarez",
+        "municipe": "Diez de Octubre",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

@@ -1,0 +1,375 @@
+{
+    "name": "Chicken_Little",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "09:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 38,
+    "reservations": [
+        "in-person",
+        "phone"
+    ],
+    "delivery": [
+        "home",
+        "takeaway",
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": null,
+    "amenities": [
+        "pet_friendly",
+        "invalid_accessible",
+        "parking"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Ensalada de Pollo",
+            "price": "$825",
+            "type": "starters"
+        },
+        {
+            "name": "Coctel de Camaron",
+            "price": "$1300",
+            "type": "starters"
+        },
+        {
+            "name": "Coctel de Langosta",
+            "price": "$1300",
+            "type": "starters"
+        },
+        {
+            "name": "Tabla Surtida Chicken Little",
+            "price": "$1995",
+            "type": "starters"
+        },
+        {
+            "name": "Crudo de Pescado",
+            "price": "995",
+            "type": "starters"
+        },
+        {
+            "name": "Sopa de Pollo con Fideos",
+            "price": "$595",
+            "type": "starters"
+        },
+        {
+            "name": "Tostones Rellenos",
+            "price": "$895",
+            "type": "starters"
+        },
+        {
+            "name": "Tostones Rellenos Mixtos",
+            "price": "$925",
+            "type": "starters"
+        },
+        {
+            "name": "Tapas de Pescado",
+            "price": "$725",
+            "type": "starters"
+        },
+        {
+            "name": "Tapas Mixtas",
+            "price": "$995",
+            "type": "starters"
+        },
+        {
+            "name": "Pollo Grille",
+            "price": "$1650",
+            "type": "mains"
+        },
+        {
+            "name": "Pollo al Ajillo",
+            "price": "$1795",
+            "type": "mains"
+        },
+        {
+            "name": "Pollo Salteado con Piña",
+            "price": "$1675",
+            "type": "mains"
+        },
+        {
+            "name": "Pollo a la Mostaza",
+            "price": "1795",
+            "type": "mains"
+        },
+        {
+            "name": "Suprema Especial de Pollo",
+            "price": "$2150",
+            "type": "mains"
+        },
+        {
+            "name": "Pollo Tropical",
+            "price": "$2295",
+            "type": "mains"
+        },
+        {
+            "name": "Pollo Princesa",
+            "price": "$1995",
+            "type": "mains"
+        },
+        {
+            "name": "Pollo Salteado con Vegetales",
+            "price": "$1795",
+            "type": "mains"
+        },
+        {
+            "name": "Filete de Pescado Grille",
+            "price": "$1995",
+            "type": "mains"
+        },
+        {
+            "name": "Pescado con Vegetales",
+            "price": "$2095",
+            "type": "mains"
+        },
+        {
+            "name": "Dados de Pescado al Ajillo",
+            "price": "$2095",
+            "type": "mains"
+        },
+        {
+            "name": "Filete Jon Ville",
+            "price": "$2795",
+            "type": "mains"
+        },
+        {
+            "name": "Filete Canciller",
+            "price": "$2695",
+            "type": "mains"
+        },
+        {
+            "name": "Filete Costa Sur",
+            "price": "$2795",
+            "type": "mains"
+        },
+        {
+            "name": "Filete Princesa",
+            "price": "$2395",
+            "type": "mains"
+        },
+        {
+            "name": "Camaron Grille",
+            "price": "$2495",
+            "type": "mains"
+        },
+        {
+            "name": "Camaron al Ajillo",
+            "price": "$2595",
+            "type": "mains"
+        },
+        {
+            "name": "Camarones Enchilados",
+            "price": "$2595",
+            "type": "mains"
+        },
+        {
+            "name": "Camarones Empanados",
+            "price": "$2595",
+            "type": "mains"
+        },
+        {
+            "name": "Langosta Grille",
+            "price": "$2595",
+            "type": "mains"
+        },
+        {
+            "name": "Langosta Enchilada",
+            "price": "$2595",
+            "type": "mains"
+        },
+        {
+            "name": "Langosta al Ajillo",
+            "price": "2595",
+            "type": "mains"
+        },
+        {
+            "name": "Tres Delicias",
+            "price": "'$2900",
+            "type": "mains"
+        },
+        {
+            "name": "Gran Plato del Mar",
+            "price": "$3300",
+            "type": "mains"
+        },
+        {
+            "name": "Cazuela Marinera",
+            "price": "$2995",
+            "type": "mains"
+        },
+        {
+            "name": "Bistec Uruguayo",
+            "price": "$2795",
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de Cerdo Grille",
+            "price": "$2050",
+            "type": "mains"
+        },
+        {
+            "name": "Masas Fritas",
+            "price": "$2395",
+            "type": "mains"
+        },
+        {
+            "name": "Masas Hawaianas",
+            "price": "$2550",
+            "type": "mains"
+        },
+        {
+            "name": "Costillas de Cerdo Fritas",
+            "price": "$1525",
+            "type": "mains"
+        },
+        {
+            "name": "Ensalada Mixta",
+            "price": "$400",
+            "type": "sides"
+        },
+        {
+            "name": "Arros Blanco",
+            "price": "$195",
+            "type": "sides"
+        },
+        {
+            "name": "Arroz Moro",
+            "price": "$295",
+            "type": "sides"
+        },
+        {
+            "name": "Flan de Caramelo",
+            "price": "$325",
+            "type": "desserts"
+        },
+        {
+            "name": "Helados",
+            "price": "$450",
+            "type": "desserts"
+        },
+        {
+            "name": "Copa Lolita",
+            "price": "$550",
+            "type": "desserts"
+        },
+        {
+            "name": "Ron Havana Club 7 Años",
+            "price": "$325",
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ballantine Finest",
+            "price": "$800",
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ballantine 12",
+            "price": "$600",
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Limonada Frappe",
+            "price": "$650",
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua Nacional",
+            "price": "$250",
+            "type": "water"
+        },
+        {
+            "name": "Agua Tonica",
+            "price": "$250",
+            "type": "water"
+        },
+        {
+            "name": "Sodas Nacionales",
+            "price": "$325",
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Sodas Importadas",
+            "price": "$350",
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta",
+            "price": "$400",
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Nacional",
+            "price": "$345",
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Corona",
+            "price": "$495",
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Mojito",
+            "price": "$395",
+            "type": "cocktails"
+        },
+        {
+            "name": "Daiquiri",
+            "price": "$400",
+            "type": "cocktails"
+        },
+        {
+            "name": "Cuba Libre",
+            "price": "$450",
+            "type": "cocktails"
+        },
+        {
+            "name": "Gin Tonic",
+            "price": "$525",
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipiriña",
+            "price": "$375",
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipiroska",
+            "price": "$650",
+            "type": "cocktails"
+        }
+    ],
+    "location": {
+        "street": "5ta. B y 5ta. C, 5B15 e 504",
+        "council": null,
+        "municipe": "La Habana del Este",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

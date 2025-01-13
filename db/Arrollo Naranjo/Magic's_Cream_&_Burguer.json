@@ -1,0 +1,248 @@
+{
+    "name": "Magic's Cream & Burguer",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "11:00",
+        "close": "22:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "others"
+    ],
+    "delivery": [
+        "others"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Croquetas Magic's",
+            "price": 400.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Fritura de Malanga",
+            "price": 400.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tacos de Pollo",
+            "price": 700.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tacos de Cerdo",
+            "price": 800.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Fajas de Pollo",
+            "price": 600.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Bolitas de Queso",
+            "price": 500.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Papas Fritas",
+            "price": 500.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Hamburguesas de Cerdo",
+            "price": 430.0,
+            "type": "mains"
+        },
+        {
+            "name": "Hamburguesas de Pollo",
+            "price": 430.0,
+            "type": "mains"
+        },
+        {
+            "name": "Hamburguesas Doble",
+            "price": 1000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Hamburguesas Super Magic's",
+            "price": 1500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Bola de helado",
+            "price": 70.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Jimaguas",
+            "price": 195.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Ensalada de helado",
+            "price": 350.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Batido de helado",
+            "price": 395.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Tres gracias",
+            "price": 245.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Cervezas Importadas",
+            "price": 220.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cervezaas Nacionales",
+            "price": 300.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Malta",
+            "price": 300.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Pepsi",
+            "price": 300.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco de Lata",
+            "price": 210.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada Frappe",
+            "price": 250.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agrego de Michelada",
+            "price": 250.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Piña Colada sin Alcohol",
+            "price": 500.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Piña Colada con Alcohol",
+            "price": 575.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cuba Libre",
+            "price": 500.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mojito",
+            "price": 500.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Botella Label 5",
+            "price": 3500.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "JW Red Label",
+            "price": 600.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ballantine's",
+            "price": 550.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Howells",
+            "price": 300.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Gran Marchell",
+            "price": 300.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Pacto Navio",
+            "price": 700.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Havana Club Añejo Reserva",
+            "price": 400.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Havana Club Añejo 3 Años",
+            "price": 350.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ginebra",
+            "price": 300.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Vodka",
+            "price": 300.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Copa Vino Tinto",
+            "price": 600.0,
+            "type": "wines"
+        },
+        {
+            "name": "Copa Vino Blanco",
+            "price": 550.0,
+            "type": "wines"
+        }
+    ],
+    "location": {
+        "street": "Calzada de 10 de Octubre, % Santa Amalia y Arnao",
+        "council": null,
+        "municipe": "Arroyo Naranjo",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

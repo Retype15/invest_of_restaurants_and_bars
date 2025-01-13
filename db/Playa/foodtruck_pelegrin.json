@@ -1,0 +1,154 @@
+{
+    "name": "FoodTruck Pelegrin",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "08:00",
+        "close": "21:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [],
+    "delivery": [
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "pet_friendly",
+        "parking"
+    ],
+    "fb": null,
+    "ig": "@food_truck_pelegrin",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "waffles",
+            "price": 700,
+            "type": "breakfast"
+        },
+        {
+            "name": "desayuno",
+            "price": 1250,
+            "type": "breakfast"
+        },
+        {
+            "name": "bolitas de queso",
+            "price": 850,
+            "type": "appetizer"
+        },
+        {
+            "name": "papas fritas",
+            "price": 600,
+            "type": "appetizer"
+        },
+        {
+            "name": "croquetas",
+            "price": 700,
+            "type": "appetizer"
+        },
+        {
+            "name": "sándwich jamon y queso",
+            "price": 750,
+            "type": "appetizer"
+        },
+        {
+            "name": "sandwich atun",
+            "price": 850,
+            "type": "appetizer"
+        },
+        {
+            "name": "sándwich cubano",
+            "price": 1200,
+            "type": "appetizer"
+        },
+        {
+            "name": "sándwich pelegrin",
+            "price": 1300,
+            "type": "appetizer"
+        },
+        {
+            "name": "sandwich pechuga",
+            "price": 2500,
+            "type": "appetizer"
+        },
+        {
+            "name": "perro caliente",
+            "price": 750,
+            "type": "appetizer"
+        },
+        {
+            "name": "palomitas",
+            "price": 850,
+            "type": "appetizer"
+        },
+        {
+            "name": "jugos",
+            "price": 270,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "expresso",
+            "price": 150,
+            "type": "coffee"
+        },
+        {
+            "name": "cortado",
+            "price": 250,
+            "type": "coffee"
+        },
+        {
+            "name": "capuchino",
+            "price": 400,
+            "type": "coffee"
+        },
+        {
+            "name": "café bombon",
+            "price": 450,
+            "type": "coffee"
+        },
+        {
+            "name": "frapuchino",
+            "price": 550,
+            "type": "coffee"
+        },
+        {
+            "name": "carajillo",
+            "price": 350,
+            "type": "coffee"
+        },
+        {
+            "name": "leche fría",
+            "price": 370,
+            "type": "coffee"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Playa",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.111808672085502,
+        "coords_y": -82.44090092922819
+    }
+}

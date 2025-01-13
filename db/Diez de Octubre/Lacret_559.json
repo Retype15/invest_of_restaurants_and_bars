@@ -1,0 +1,449 @@
+{
+    "name": "Lacret 559",
+    "phone": "52906422",
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "12:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "phone",
+        "in-person"
+    ],
+    "delivery": [
+        "home",
+        "takeaway",
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "card",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": "https://www.facebook.com/cateringlacrett559",
+    "ig": "@bar_lacret559",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Frituras de Malanga",
+            "price": 425,
+            "type": "appetizer"
+        },
+        {
+            "name": "Croquetas 559",
+            "price": 650,
+            "type": "appetizer"
+        },
+        {
+            "name": "Croquetón de Res",
+            "price": 1000,
+            "type": "appetizer"
+        },
+        {
+            "name": "Eperlán de Pescado",
+            "price": 700,
+            "type": "appetizer"
+        },
+        {
+            "name": "Carpaccio de Res",
+            "price": 1550,
+            "type": "appetizer"
+        },
+        {
+            "name": "Carpaccio de Langosta",
+            "price": 1500,
+            "type": "appetizer"
+        },
+        {
+            "name": "Carpaccio de Pulpo",
+            "price": 1600,
+            "type": "appetizer"
+        },
+        {
+            "name": "Ceviche",
+            "price": 950,
+            "type": "appetizer"
+        },
+        {
+            "name": "Piquillos rellenos del mar",
+            "price": 1050,
+            "type": "appetizer"
+        },
+        {
+            "name": "Piquillos rellenos de ropa vieja",
+            "price": 1550,
+            "type": "appetizer"
+        },
+        {
+            "name": "Papas bravas",
+            "price": 700,
+            "type": "appetizer"
+        },
+        {
+            "name": "Fajitas de pollo",
+            "price": 700,
+            "type": "appetizer"
+        },
+        {
+            "name": "Brusquetas a la parmesana",
+            "price": 600,
+            "type": "appetizer"
+        },
+        {
+            "name": "Totopitos al ajo",
+            "price": 400,
+            "type": "appetizer"
+        },
+        {
+            "name": "Totopitos picantes ",
+            "price": 400,
+            "type": "appetizer"
+        },
+        {
+            "name": "Papas Fritas",
+            "price": 700,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tacos de Res",
+            "price": 1550,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos de Mar",
+            "price": 1550,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos de Cerdo",
+            "price": 1200,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos de Pollo",
+            "price": 1000,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa Vieja de Res",
+            "price": 2025,
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga de pollo Grillé",
+            "price": 1975,
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga de pollo a la Gordon Blue",
+            "price": 2175,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado Grillé",
+            "price": 1975,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado Enchilado",
+            "price": 1975,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado Canciller",
+            "price": 2175,
+            "type": "mains"
+        },
+        {
+            "name": "Langosta al Gusto",
+            "price": 2600,
+            "type": "mains"
+        },
+        {
+            "name": "Camarones al gusto",
+            "price": 2400,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo ahumado",
+            "price": 2175,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo importado",
+            "price": 2500,
+            "type": "mains"
+        },
+        {
+            "name": "Chuleta de cerdo",
+            "price": 2100,
+            "type": "mains"
+        },
+        {
+            "name": "Enchilado de Cangrado",
+            "price": 2400,
+            "type": "mains"
+        },
+        {
+            "name": "Hamburguesa de Res",
+            "price": 850,
+            "type": "mains"
+        },
+        {
+            "name": "Pizza Queso Azul",
+            "price": 2000,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Napolitana",
+            "price": 1360,
+            "type": "pizza"
+        },
+        {
+            "name": "Margarita",
+            "price": 1400,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Parmesana",
+            "price": 1800,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Carbonara",
+            "price": 1950,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Hawaina",
+            "price": 1800,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Cantábrica",
+            "price": 1800,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Marina",
+            "price": 2400,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Mediterránea",
+            "price": 1800,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Mixta Lacret",
+            "price": 2700,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Jamón",
+            "price": 1500,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Chorizo",
+            "price": 1450,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Con Bacon",
+            "price": 1850,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Cebolla",
+            "price": 1400,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Pimiento",
+            "price": 1500,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza con Vegetales",
+            "price": 1700,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Champiñón",
+            "price": 1700,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Atún",
+            "price": 2300,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Aceituna",
+            "price": 1400,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza con Jamón Serrano",
+            "price": 3000,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza con Jamón Ibérico",
+            "price": 3400,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza con Pepperoni",
+            "price": 2000,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Ranchera",
+            "price": 2500,
+            "type": "pizza"
+        },
+        {
+            "name": "Sangría",
+            "price": 660,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Tinto de Verano",
+            "price": 660,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Calimocho",
+            "price": 560,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Screwdriver",
+            "price": 470,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipiroska",
+            "price": 570,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipirissima",
+            "price": 570,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipirinha",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cubata",
+            "price": 470,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cuba Libre",
+            "price": 470,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cubanito",
+            "price": 480,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mojito",
+            "price": 580,
+            "type": "cocktails"
+        },
+        {
+            "name": "Barbados Surprise",
+            "price": 580,
+            "type": "cocktails"
+        },
+        {
+            "name": "Whiscola",
+            "price": 460,
+            "type": "cocktails"
+        },
+        {
+            "name": "Old Fashioned",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "Long island",
+            "price": 850,
+            "type": "cocktails"
+        },
+        {
+            "name": "Gin Tobic",
+            "price": 610,
+            "type": "cocktails"
+        },
+        {
+            "name": "Canchánchara",
+            "price": 580,
+            "type": "cocktails"
+        },
+        {
+            "name": "Limonada",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Energizante",
+            "price": 430,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta",
+            "price": 430,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugos Naturales",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "Calle Lacret #559 entre Goicuria y Mayía Rodríguez",
+        "council": null,
+        "municipe": "Diez de Octubre",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

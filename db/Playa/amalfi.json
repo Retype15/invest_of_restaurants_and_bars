@@ -1,0 +1,415 @@
+{
+    "name": "Amalfi",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "italian",
+    "hours": {
+        "open": "12:00",
+        "close": "22:30",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "others"
+    ],
+    "delivery": [
+        "home"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 5.0,
+    "reviews": null,
+    "amenities": [
+        "pet_friendly"
+    ],
+    "fb": "Amalfi",
+    "ig": "@amalfi_havana_restaurant",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "bruschetta",
+            "price": 1600,
+            "type": "appetizer"
+        },
+        {
+            "name": "bruschetta amalfi",
+            "price": 1920,
+            "type": "appetizer"
+        },
+        {
+            "name": "focaccia clasica",
+            "price": 1280,
+            "type": "appetizer"
+        },
+        {
+            "name": "parmigiana",
+            "price": 2240,
+            "type": "appetizer"
+        },
+        {
+            "name": "carpaccio pulpo",
+            "price": 3840,
+            "type": "appetizer"
+        },
+        {
+            "name": "carpaccio res",
+            "price": 4160,
+            "type": "appetizer"
+        },
+        {
+            "name": "carpaccio atun",
+            "price": 3520,
+            "type": "appetizer"
+        },
+        {
+            "name": "focaccia 500",
+            "price": 1280,
+            "type": "appetizer"
+        },
+        {
+            "name": "focaccia con prosciutto",
+            "price": 3840,
+            "type": "appetizer"
+        },
+        {
+            "name": "focaccia pomodoro e rucola",
+            "price": 2560,
+            "type": "appetizer"
+        },
+        {
+            "name": "focaccia salume del giorno e formaggio",
+            "price": 3200,
+            "type": "appetizer"
+        },
+        {
+            "name": "salsiccia italiana la plancha",
+            "price": 3840,
+            "type": "mains"
+        },
+        {
+            "name": "fantasia di mare",
+            "price": 4800,
+            "type": "mains"
+        },
+        {
+            "name": "gambari al limone",
+            "price": 3840,
+            "type": "mains"
+        },
+        {
+            "name": "profumo mediterraneo",
+            "price": 5120,
+            "type": "mains"
+        },
+        {
+            "name": "pomodoro fresco",
+            "price": 3520,
+            "type": "pasta"
+        },
+        {
+            "name": "carbonara",
+            "price": 3520,
+            "type": "pasta"
+        },
+        {
+            "name": "amatriciana",
+            "price": 3520,
+            "type": "pasta"
+        },
+        {
+            "name": "carbonara salsiccia",
+            "price": 3840,
+            "type": "pasta"
+        },
+        {
+            "name": "puttanesca",
+            "price": 3840,
+            "type": "pasta"
+        },
+        {
+            "name": "ragu malale",
+            "price": 3840,
+            "type": "pasta"
+        },
+        {
+            "name": "zucca e salsiccia",
+            "price": 3840,
+            "type": "pasta"
+        },
+        {
+            "name": "funghi e salsiccia",
+            "price": 4800,
+            "type": "pasta"
+        },
+        {
+            "name": "penne a la sorrentina",
+            "price": 3840,
+            "type": "pasta"
+        },
+        {
+            "name": "spaghetti con bottarga",
+            "price": 3200,
+            "type": "pasta"
+        },
+        {
+            "name": "penne al salmon",
+            "price": 3840,
+            "type": "pasta"
+        },
+        {
+            "name": "pasta amalfi",
+            "price": 3840,
+            "type": "pasta"
+        },
+        {
+            "name": "spaghetti cetara",
+            "price": 3840,
+            "type": "pasta"
+        },
+        {
+            "name": "linguine con calamar",
+            "price": 5120,
+            "type": "pasta"
+        },
+        {
+            "name": "pasta mediterranea",
+            "price": 5120,
+            "type": "pasta"
+        },
+        {
+            "name": "pizza margarita",
+            "price": 1920,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de la casa",
+            "price": 3520,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza vegetariana",
+            "price": 2560,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza mixta",
+            "price": 3200,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de atun",
+            "price": 3200,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de brocoli y salchicha",
+            "price": 2880,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza diavola",
+            "price": 3880,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de serrano",
+            "price": 3200,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza romana",
+            "price": 3200,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de jamon barra",
+            "price": 2560,
+            "type": "pizza"
+        },
+        {
+            "name": "ensalada de estacion",
+            "price": 1280,
+            "type": "salads"
+        },
+        {
+            "name": "ensalada positano",
+            "price": 1920,
+            "type": "salads"
+        },
+        {
+            "name": "ensalada ravello",
+            "price": 1920,
+            "type": "salads"
+        },
+        {
+            "name": "ensalada vettica",
+            "price": 1920,
+            "type": "salads"
+        },
+        {
+            "name": "torta al limon",
+            "price": 1280,
+            "type": "desserts"
+        },
+        {
+            "name": "tortino al cioccolato",
+            "price": 1600,
+            "type": "desserts"
+        },
+        {
+            "name": "profiterol",
+            "price": 1280,
+            "type": "desserts"
+        },
+        {
+            "name": "tiramisu",
+            "price": 1280,
+            "type": "desserts"
+        },
+        {
+            "name": "tiramisu pan di stelle",
+            "price": 1600,
+            "type": "desserts"
+        },
+        {
+            "name": "delicia del dia",
+            "price": 1280,
+            "type": "desserts"
+        },
+        {
+            "name": "agua nacional",
+            "price": 500,
+            "type": "water"
+        },
+        {
+            "name": "agua importada",
+            "price": 850,
+            "type": "water"
+        },
+        {
+            "name": "refresco nacional",
+            "price": 420,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "refresco importado",
+            "price": 750,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "limonada",
+            "price": 840,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugo natural",
+            "price": 700,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "cerveza",
+            "price": 980,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "daiquiri",
+            "price": 1400,
+            "type": "cocktails"
+        },
+        {
+            "name": "cuba libre",
+            "price": 1400,
+            "type": "cocktails"
+        },
+        {
+            "name": "cubanito",
+            "price": 1400,
+            "type": "cocktails"
+        },
+        {
+            "name": "cubata",
+            "price": 1400,
+            "type": "cocktails"
+        },
+        {
+            "name": "mojito",
+            "price": 1400,
+            "type": "cocktails"
+        },
+        {
+            "name": "caipiroska",
+            "price": 1400,
+            "type": "cocktails"
+        },
+        {
+            "name": "caipirinna",
+            "price": 1400,
+            "type": "cocktails"
+        },
+        {
+            "name": "caipirissima",
+            "price": 1400,
+            "type": "cocktails"
+        },
+        {
+            "name": "sangria",
+            "price": 1400,
+            "type": "cocktails"
+        },
+        {
+            "name": "margarita",
+            "price": 1400,
+            "type": "cocktails"
+        },
+        {
+            "name": "gin tonic",
+            "price": 1400,
+            "type": "cocktails"
+        },
+        {
+            "name": "pina colada",
+            "price": 1400,
+            "type": "cocktails"
+        },
+        {
+            "name": "negroni",
+            "price": 2240,
+            "type": "cocktails"
+        },
+        {
+            "name": "copa de vino",
+            "price": 1260,
+            "type": "wines"
+        },
+        {
+            "name": "copa de vino italiano",
+            "price": 1680,
+            "type": "wines"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Playa",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.118857756567763,
+        "coords_y": -82.42952136001638
+    }
+}

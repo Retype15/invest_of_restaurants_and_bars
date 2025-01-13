@@ -1,0 +1,154 @@
+{
+    "name": "El Cocal",
+    "phone": "76822199",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "12:00",
+        "close": "24:00",
+        "days": [
+            "mon",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "others"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.4,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Croquetas",
+            "price": 600.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Bolitas de queso",
+            "price": 650.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Ensalada de Atun",
+            "price": 1000.0,
+            "type": "salads"
+        },
+        {
+            "name": "Toston de queso",
+            "price": 600.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Toston de jamon y queso",
+            "price": 600.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Toston de Atun",
+            "price": 1000.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Crema de queso",
+            "price": 550.0,
+            "type": "soups"
+        },
+        {
+            "name": "Crema Aurora",
+            "price": 600.0,
+            "type": "soups"
+        },
+        {
+            "name": "Crema Virginia",
+            "price": 650.0,
+            "type": "soups"
+        },
+        {
+            "name": "Crema Mixta",
+            "price": 700.0,
+            "type": "soups"
+        },
+        {
+            "name": "Coctel Camaron",
+            "price": 1500.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Empellas",
+            "price": 550.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Pizza de Queso",
+            "price": 1200.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Jamon",
+            "price": 1400.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Hawaiiana",
+            "price": 1500.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Eperlan Pechuga",
+            "price": 1600.0,
+            "type": "mains"
+        },
+        {
+            "name": "Eperlan Pescado",
+            "price": 2000.0,
+            "type": "mains"
+        },
+        {
+            "name": "yuca",
+            "price": 400.0,
+            "type": "sides"
+        },
+        {
+            "name": "Toston",
+            "price": 400.0,
+            "type": "sides"
+        },
+        {
+            "name": "Flan",
+            "price": 500.0,
+            "type": "desserts"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": null,
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

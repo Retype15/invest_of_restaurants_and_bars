@@ -1,0 +1,263 @@
+{
+    "name": "Aires de Cojimar",
+    "phone": "77666890 / 58385050",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "12:00",
+        "close": "00:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 15,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "card"
+    ],
+    "promo": false,
+    "rating": 4.4,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": "https://www.facebook.com/Aires de Cojimar",
+    "ig": "https://www.instagram.com/aires_decojimar",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Coctel de pescado",
+            "price": 550,
+            "type": "starters"
+        },
+        {
+            "name": "Ensalada mixta",
+            "price": 400,
+            "type": "starters"
+        },
+        {
+            "name": "Picadera mixta",
+            "price": 1200,
+            "type": "starters"
+        },
+        {
+            "name": "Coctel Bella Mar",
+            "price": 750,
+            "type": "starters"
+        },
+        {
+            "name": "Ceviche Aires de Cojimar",
+            "price": 850,
+            "type": "starters"
+        },
+        {
+            "name": "Lomo de pescado en escabeche",
+            "price": 950,
+            "type": "starters"
+        },
+        {
+            "name": "Bolitas de queso",
+            "price": 550,
+            "type": "starters"
+        },
+        {
+            "name": "Eperlan",
+            "price": 950,
+            "type": "starters"
+        },
+        {
+            "name": "Frituras de malanga",
+            "price": 550,
+            "type": "starters"
+        },
+        {
+            "name": "Tapas caprichosas",
+            "price": 425,
+            "type": "starters"
+        },
+        {
+            "name": "Surtido de croquetas",
+            "price": 450,
+            "type": "starters"
+        },
+        {
+            "name": "Tostones al ajo",
+            "price": 350,
+            "type": "starters"
+        },
+        {
+            "name": "Sopon de mariscos",
+            "price": 750,
+            "type": "soups"
+        },
+        {
+            "name": "Sopa de pollo y vegetales",
+            "price": 550,
+            "type": "soups"
+        },
+        {
+            "name": "Crema de calabaza y queso",
+            "price": 500,
+            "type": "soups"
+        },
+        {
+            "name": "Crema de queso",
+            "price": 500,
+            "type": "soups"
+        },
+        {
+            "name": "Crema de mariscos",
+            "price": 600,
+            "type": "soups"
+        },
+        {
+            "name": "Costillas de cerdo fritas",
+            "price": 1950,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz con camarones",
+            "price": 1450,
+            "type": "mains"
+        },
+        {
+            "name": "Milanesa a la napolitana",
+            "price": 1450,
+            "type": "mains"
+        },
+        {
+            "name": "Uruguayo de cerdo",
+            "price": 1750,
+            "type": "mains"
+        },
+        {
+            "name": "Camaron al ajillo",
+            "price": 1550,
+            "type": "mains"
+        },
+        {
+            "name": "Langosta Varadero",
+            "price": 1950,
+            "type": "mains"
+        },
+        {
+            "name": "Langosta Busito",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "Langosta Aires de Cojimar",
+            "price": 5500,
+            "type": "mains"
+        },
+        {
+            "name": "Pulpo al vino tinto",
+            "price": 2850,
+            "type": "mains"
+        },
+        {
+            "name": "Pulpo al ajillo",
+            "price": 2850,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de pescado grille",
+            "price": 1250,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de pescado en salsa de romero y limon",
+            "price": 1350,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de pescado con camarones al graten",
+            "price": 1650,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de pescado Canciller",
+            "price": 1650,
+            "type": "mains"
+        },
+        {
+            "name": "Camarones tropicales",
+            "price": 1550,
+            "type": "mains"
+        },
+        {
+            "name": "Enchilado de camarones",
+            "price": 1450,
+            "type": "mains"
+        },
+        {
+            "name": "Camarones al sesamo",
+            "price": 1450,
+            "type": "mains"
+        },
+        {
+            "name": "Caldereta Dona Blanca",
+            "price": 3500,
+            "type": "mains"
+        },
+        {
+            "name": "Dados de cerdo a la cojimera",
+            "price": 1400,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de cerdo al mojo criollo",
+            "price": 1400,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo con camarones al graten",
+            "price": 1450,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo Hawaiano",
+            "price": 1150,
+            "type": "mains"
+        },
+        {
+            "name": "Sabor del cielo",
+            "price": 1550,
+            "type": "mains"
+        },
+        {
+            "name": "Ensalada mixta",
+            "price": 400,
+            "type": "sides"
+        },
+        {
+            "name": "Dulces finos",
+            "price": 450,
+            "type": "desserts"
+        }
+    ],
+    "location": {
+        "street": "Pezuela #3e05 entre RUA y Espartero",
+        "council": "Cojimar",
+        "municipe": "Habana del Este",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

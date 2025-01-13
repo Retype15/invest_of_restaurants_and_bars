@@ -1,0 +1,450 @@
+{
+    "name": "Guang Zhou",
+    "phone": "078615229",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "chinese",
+    "hours": {
+        "open": "11:00",
+        "close": "00:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [],
+    "delivery": [],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "card",
+        "others"
+    ],
+    "promo": false,
+    "rating": 3.1,
+    "reviews": 30,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Pollo a la plancha",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "Cerdo a la plancha",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "Res a la plancha",
+            "price": 2100,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado a la plancha",
+            "price": 2100,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo Grille",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado Grille",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "Marisco a la plancha",
+            "price": 3100,
+            "type": "mains"
+        },
+        {
+            "name": "De la Tierra",
+            "price": 4200,
+            "type": "mains"
+        },
+        {
+            "name": "Del Mar",
+            "price": 5500,
+            "type": "mains"
+        },
+        {
+            "name": "Mar y Tierra",
+            "price": 5900,
+            "type": "mains"
+        },
+        {
+            "name": "Cazuela de Mariscos",
+            "price": 5575,
+            "type": "mains"
+        },
+        {
+            "name": "Cerdo Grille",
+            "price": 1650,
+            "type": "mains"
+        },
+        {
+            "name": "Espaguetis Napolitanos",
+            "price": 1080.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Pizza Napolitana con queso blanco",
+            "price": 1150.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Napolitana con queso Gouda",
+            "price": 1250.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Tomate natural",
+            "price": 200.0,
+            "type": "sides"
+        },
+        {
+            "name": "Pimiento",
+            "price": 200.0,
+            "type": "sides"
+        },
+        {
+            "name": "Cebolla",
+            "price": 200.0,
+            "type": "sides"
+        },
+        {
+            "name": "Piña",
+            "price": 200.0,
+            "type": "sides"
+        },
+        {
+            "name": "Jamón",
+            "price": 450.0,
+            "type": "sides"
+        },
+        {
+            "name": "Chorizo",
+            "price": 300.0,
+            "type": "sides"
+        },
+        {
+            "name": "Bacon",
+            "price": 300.0,
+            "type": "sides"
+        },
+        {
+            "name": "Champiñones",
+            "price": 300.0,
+            "type": "sides"
+        },
+        {
+            "name": "Aceitunas",
+            "price": 250.0,
+            "type": "sides"
+        },
+        {
+            "name": "Atún",
+            "price": 500.0,
+            "type": "sides"
+        },
+        {
+            "name": "Queso Blanco",
+            "price": 250.0,
+            "type": "sides"
+        },
+        {
+            "name": "Marisco",
+            "price": 750.0,
+            "type": "sides"
+        },
+        {
+            "name": "Jamón Serrano",
+            "price": 500.0,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz blanco",
+            "price": 315,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz frito",
+            "price": 1710,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz Moro",
+            "price": 415,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz frito especial",
+            "price": 2110,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz frito familiar",
+            "price": 2970,
+            "type": "sides"
+        },
+        {
+            "name": "Chao mian (Fideos fritos)",
+            "price": 900,
+            "type": "sides"
+        },
+        {
+            "name": "Chop Suey de Pollo",
+            "price": 1700,
+            "type": "sides"
+        },
+        {
+            "name": "Chop Suey de Cerdo",
+            "price": 1900,
+            "type": "sides"
+        },
+        {
+            "name": "Chop Suey de vegetales",
+            "price": 800.0,
+            "type": "sides"
+        },
+        {
+            "name": "Viandas fritas del día",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "Yuca con mojo",
+            "price": 250.0,
+            "type": "sides"
+        },
+        {
+            "name": "Ensalada mixta",
+            "price": 300.0,
+            "type": "salads"
+        },
+        {
+            "name": "Havana Club 3 años",
+            "price": 350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Havana Club Especial",
+            "price": 250,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Havana Club Reserva",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Havana Club 7 años",
+            "price": 450,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Whisky",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Vodka",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Tequila Blanco",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Tequila Reposado",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ginebra",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Vino tinto",
+            "price": 500,
+            "type": "wines"
+        },
+        {
+            "name": "Vino blanco",
+            "price": 500,
+            "type": "wines"
+        },
+        {
+            "name": "Cerveza Nacional",
+            "price": 385.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Importada",
+            "price": 300.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Kermato (Jugo de tomate)",
+            "price": 200.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco Nacional",
+            "price": 350.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco Importado",
+            "price": 350.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta",
+            "price": 400.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malteada (Malta con leche)",
+            "price": 550.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua",
+            "price": 190.0,
+            "type": "water"
+        },
+        {
+            "name": "Agua 1.5L",
+            "price": 280.0,
+            "type": "water"
+        },
+        {
+            "name": "Jugo Natural",
+            "price": 325.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugo en conserva",
+            "price": 350.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Café Expreso",
+            "price": 100.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Americano",
+            "price": 150.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Cortado",
+            "price": 150.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Capsula",
+            "price": 300.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Té",
+            "price": 60.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Michelada ",
+            "price": 200,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mojito",
+            "price": 400,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cuba Libre",
+            "price": 400,
+            "type": "cocktails"
+        },
+        {
+            "name": "Ron Collins",
+            "price": 400,
+            "type": "cocktails"
+        },
+        {
+            "name": "Limonada Frappe",
+            "price": 350,
+            "type": "cocktails"
+        },
+        {
+            "name": "Daiquiri Frappe",
+            "price": 400,
+            "type": "cocktails"
+        },
+        {
+            "name": "Piña Colada",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cubata",
+            "price": 400,
+            "type": "cocktails"
+        },
+        {
+            "name": "Sangría",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "Gin Tonic",
+            "price": 550,
+            "type": "cocktails"
+        },
+        {
+            "name": "Margarita",
+            "price": 550,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipiriña",
+            "price": 450,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipiroska",
+            "price": 550,
+            "type": "cocktails"
+        }
+    ],
+    "location": {
+        "street": "Cuchillo entre San Nicolás y Rayo",
+        "council": null,
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

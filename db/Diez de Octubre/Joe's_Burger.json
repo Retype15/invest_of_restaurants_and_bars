@@ -1,0 +1,153 @@
+{
+    "name": "Joe's Burger",
+    "phone": "76400715",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "08:00",
+        "close": "22:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "others"
+    ],
+    "delivery": [
+        "takeaway",
+        "on-site",
+        "others"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.3,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": null,
+    "ig": "@joes_burguer00",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Hamburguesa de Cerdo",
+            "price": 500,
+            "type": "mains"
+        },
+        {
+            "name": "Hamburguesa de Pollo",
+            "price": 500,
+            "type": "mains"
+        },
+        {
+            "name": "Hamburguesa de Res",
+            "price": 700,
+            "type": "mains"
+        },
+        {
+            "name": "Hamburguesa Doble",
+            "price": 900,
+            "type": "mains"
+        },
+        {
+            "name": "Bocadito de Jamón y Queso",
+            "price": 450,
+            "type": "mains"
+        },
+        {
+            "name": "Queso",
+            "price": 120,
+            "type": "sides"
+        },
+        {
+            "name": "Lechuga",
+            "price": 100,
+            "type": "sides"
+        },
+        {
+            "name": "Jamón",
+            "price": 100,
+            "type": "sides"
+        },
+        {
+            "name": "Chorizo",
+            "price": 80,
+            "type": "sides"
+        },
+        {
+            "name": "Bacon",
+            "price": 150,
+            "type": "sides"
+        },
+        {
+            "name": "Huevo",
+            "price": 150,
+            "type": "sides"
+        },
+        {
+            "name": "Cebolla",
+            "price": 50,
+            "type": "sides"
+        },
+        {
+            "name": "Pepinillo",
+            "price": 50,
+            "type": "sides"
+        },
+        {
+            "name": "Tomate",
+            "price": 100,
+            "type": "sides"
+        },
+        {
+            "name": "Cerveza",
+            "price": 350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Limonada Frappé",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Batido de Helado",
+            "price": 700,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malteada",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Potes de Helado",
+            "price": 1000,
+            "type": "desserts"
+        }
+    ],
+    "location": {
+        "street": "Esquina Mayia Rodriguez y Aranguren",
+        "council": null,
+        "municipe": "Diez de Octubre",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

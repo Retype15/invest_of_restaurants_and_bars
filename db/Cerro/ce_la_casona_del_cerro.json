@@ -1,0 +1,140 @@
+{
+    "name": "La Casona del Cerro",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "10:00",
+        "close": "22:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [],
+    "delivery": [],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "card",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "pizza napolitana c/queso gouda",
+            "price": 450,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza doble queso",
+            "price": 650,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de jamon y queso gouda",
+            "price": 500,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza mixta c/queso gouda",
+            "price": 550,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza familiar c/queso gouda",
+            "price": 900,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza familiar doble queso",
+            "price": 1200,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza familiar de jamon y queso gouda",
+            "price": 1000,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza familiar mixta c/queso gouda",
+            "price": 1050,
+            "type": "pizza"
+        },
+        {
+            "name": "spaghetti c/queso gouda",
+            "price": 450,
+            "type": "pasta"
+        },
+        {
+            "name": "spaghetti c/ jamon y queso gouda",
+            "price": 500,
+            "type": "pasta"
+        },
+        {
+            "name": "spaghetti doble queso gouda",
+            "price": 650,
+            "type": "pasta"
+        },
+        {
+            "name": "spaghetti mixto",
+            "price": 550,
+            "type": "pasta"
+        },
+        {
+            "name": "pollo asado",
+            "price": 1100,
+            "type": "mains"
+        },
+        {
+            "name": "masa frita",
+            "price": 900,
+            "type": "mains"
+        },
+        {
+            "name": "bistec de cerdo",
+            "price": 850,
+            "type": "mains"
+        },
+        {
+            "name": "fricasé de cerdo",
+            "price": 850,
+            "type": "mains"
+        },
+        {
+            "name": "chuleta",
+            "price": 1000,
+            "type": "mains"
+        },
+        {
+            "name": "flan",
+            "price": 350,
+            "type": "desserts"
+        }
+    ],
+    "location": {
+        "street": "Calzada del Cerro entre Alzobispo y Peñón",
+        "council": null,
+        "municipe": "Cerro",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

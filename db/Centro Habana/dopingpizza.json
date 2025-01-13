@@ -1,0 +1,197 @@
+{
+    "name": "Doping pizza",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "italian",
+    "hours": {
+        "open": "12:00",
+        "close": "24:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [],
+    "delivery": [
+        "home",
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 3.1,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": "https://www.instagram.com/@dopingpizzas",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "ensalada fria natural",
+            "price": 500,
+            "type": "appetizer"
+        },
+        {
+            "name": "ensalada fria de jamon",
+            "price": 600,
+            "type": "appetizer"
+        },
+        {
+            "name": "ensalada fria de atun",
+            "price": 700,
+            "type": "appetizer"
+        },
+        {
+            "name": "pizza napolitana",
+            "price": 1000,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de jamon",
+            "price": 1100,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza hawaiana",
+            "price": 1300,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de atun",
+            "price": 1300,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de chorizo",
+            "price": 1400,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de bacon",
+            "price": 1400,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza doping extreme",
+            "price": 1500,
+            "type": "pizza"
+        },
+        {
+            "name": "spaghetti napoles",
+            "price": 900,
+            "type": "pasta"
+        },
+        {
+            "name": "queso",
+            "price": 450,
+            "type": "sides"
+        },
+        {
+            "name": "jamon",
+            "price": 350,
+            "type": "sides"
+        },
+        {
+            "name": "chorizo",
+            "price": 350,
+            "type": "sides"
+        },
+        {
+            "name": "atun",
+            "price": 400,
+            "type": "sides"
+        },
+        {
+            "name": "cebolla",
+            "price": 200,
+            "type": "sides"
+        },
+        {
+            "name": "pimiento",
+            "price": 200,
+            "type": "sides"
+        },
+        {
+            "name": "aceituna",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "bacon",
+            "price": 400,
+            "type": "sides"
+        },
+        {
+            "name": "paletica de helado clasica",
+            "price": 150,
+            "type": "desserts"
+        },
+        {
+            "name": "agua",
+            "price": 150,
+            "type": "water"
+        },
+        {
+            "name": "refresco",
+            "price": 250,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "malta",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "malteada",
+            "price": 650,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugos",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "batido de helado (12oz)",
+            "price": 550,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "batido de helado (16oz)",
+            "price": 750,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "cerveza",
+            "price": 300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "lasaña",
+            "price": 1300,
+            "type": "mains"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.13389533564469,
+        "coords_y": -82.37685653415737
+    }
+}

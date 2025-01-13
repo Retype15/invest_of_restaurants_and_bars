@@ -1,0 +1,749 @@
+{
+    "name": "Doña Alicia",
+    "phone": "7866-6009",
+    "email": null,
+    "web": "app.daalicia.com",
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "12:00",
+        "close": "00:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "home",
+        "takeaway",
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "card",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.4,
+    "reviews": 30,
+    "amenities": [
+        "invalid_accessible",
+        "pet_friendly"
+    ],
+    "fb": "https://www.facebook.com/RestauranteDaAlicia",
+    "ig": "https://www.instagram.com/restaurantedaalicia",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Tacos De Camarón",
+            "price": 1500.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tacos De Pollo (125g)",
+            "price": 1000.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tacos Al Pastor (125g)",
+            "price": 1025.0,
+            "type": "starters"
+        },
+        {
+            "name": "Cóctel De Langosta (150g)",
+            "price": 1000.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tostones Rellenos Con Jamón (50g Y 30g De Queso)",
+            "price": 700.0,
+            "type": "starters"
+        },
+        {
+            "name": "Bolitas De Queso (10 Unkd)",
+            "price": 1450.0,
+            "type": "starters"
+        },
+        {
+            "name": "Fritura De Malanga (10 Unid)",
+            "price": 560.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tacos De Pollo En Salsa Pico De Gallo (125g)",
+            "price": 1250.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tacos De Cerdo En Salsa De Pico De Gallo (125g)",
+            "price": 1200.0,
+            "type": "starters"
+        },
+        {
+            "name": "Langosta Salteada Al Ajo (350g)",
+            "price": 3250.0,
+            "type": "mains"
+        },
+        {
+            "name": "Langosta Grillé C/ Salsa De La Casa (350g)",
+            "price": 3000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Enchilado De Langosta (350g)",
+            "price": 3500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Langosta Termidor (350g)",
+            "price": 3125.0,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa Vieja Res Con Salsa De Tomate (170g)",
+            "price": 1995.0,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa Vieja Res Sin Salsa De Tomate (170g)",
+            "price": 1970.0,
+            "type": "mains"
+        },
+        {
+            "name": "Camarón Termidor",
+            "price": 3000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Camarón Salteado Con Ajo",
+            "price": 2600.0,
+            "type": "mains"
+        },
+        {
+            "name": "Camarones Enchilados",
+            "price": 2800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pulpo Salteado Al Ajo (230g)",
+            "price": 2625.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pulpo Enchilado (230g)",
+            "price": 2750.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado Gratinado Jamón Y Queso (280g)(45g Jamón Y Queso)",
+            "price": 2750.0,
+            "type": "mains"
+        },
+        {
+            "name": "Dados De Pescado Al Ajo (280g)",
+            "price": 2200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Dados De Pescado En Salsa Cubana (280g)",
+            "price": 2430.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado Grille C/ Salsa De La Casa (280g)",
+            "price": 2100.0,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa Vieja De Cordero Sin Salsa De Tomate (170g)",
+            "price": 1675.0,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa Vieja De Cordero Con Salsa De Tomate (170g)",
+            "price": 1700.0,
+            "type": "mains"
+        },
+        {
+            "name": "Estofado De Cordero Al Vino Tinto (250g)",
+            "price": 2300.0,
+            "type": "mains"
+        },
+        {
+            "name": "Chilindron De Cordero (280g)",
+            "price": 2200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec De Cerdo Gratinado Con Jamón Y Queso (280g Y 45g Jamón Y Queso)",
+            "price": 2200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec De La Abuela Con Mjo Criollo (280g)",
+            "price": 1700.0,
+            "type": "mains"
+        },
+        {
+            "name": "Masas De Cerdo Italianas",
+            "price": 3500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Masas De Cerdo Con Salsa Agridulce",
+            "price": 2350.0,
+            "type": "mains"
+        },
+        {
+            "name": "Masa De Cerdo Con Mojo Criollo",
+            "price": 2350.0,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo Deshuesado Con Mojo Criollo (280g)",
+            "price": 2000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo Ahumado Al Graten (280g)",
+            "price": 2500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo Ahumado Agridulce (280g)",
+            "price": 2250.0,
+            "type": "mains"
+        },
+        {
+            "name": "Fajitas De Cerdo A La Campesina (280g)",
+            "price": 2200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Fajita Pollo Crema (280g)",
+            "price": 2700.0,
+            "type": "mains"
+        },
+        {
+            "name": "Montado De Pollo, Jamón Y Queso (280g-50g Jamón Y Queso)",
+            "price": 2500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo Gratinado (280g)",
+            "price": 2375.0,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz Frito Con Camarón",
+            "price": 2450.0,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz Frito",
+            "price": 1825.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado Del Dia (280g)",
+            "price": 1950.0,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa Vieja De Cerdo Con Salsa De Tomate (170g)",
+            "price": 1900.0,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa Vieja De Cerdo Sin Salsa De Tomate (170g)",
+            "price": 1820.0,
+            "type": "mains"
+        },
+        {
+            "name": "Dados De Pescado En Salsa Italiana (280g)",
+            "price": 2900.0,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo Ahumado Grille",
+            "price": 2000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo Deshuesado Al Graten (280g) (50g Queso)",
+            "price": 2125.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo Doña Alicia",
+            "price": 3250.0,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec De La Abuela Con Salsa De Cebolla (280g)",
+            "price": 2000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo Deshuesado En Salsa De Cebolla (280g)",
+            "price": 2000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Fajitas De Pollo A La Campesina (280g)",
+            "price": 2400.0,
+            "type": "mains"
+        },
+        {
+            "name": "Fricase De Cerdo (240g)",
+            "price": 2600.0,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz Marinero",
+            "price": 3550.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pizza De Jamón",
+            "price": 1600.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza De Camarones",
+            "price": 2000.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza De Atún",
+            "price": 1750.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza De Bacon",
+            "price": 2000.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Napolitana",
+            "price": 1150.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza De Aji Y Cebolla",
+            "price": 1550.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Estilo Margarita",
+            "price": 1250.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Ropa Vieja De Cerdo",
+            "price": 1800.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza 4 Queso",
+            "price": 2000.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Hawaiana",
+            "price": 1625.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza De Salsa Pesto",
+            "price": 1200.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Al Pastor",
+            "price": 2000.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza De Ropa Vieja De Res",
+            "price": 2150.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Lasaña De Jamón",
+            "price": 1650.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis Con Jamón Y Queso Gouda",
+            "price": 1510.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis Con Camarones Y Queso Gouda",
+            "price": 2220.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis Carbonara",
+            "price": 2115.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis Nápoles C/ Gouda",
+            "price": 1105.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis Con Atun",
+            "price": 1660.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Canelon De Camaron",
+            "price": 1850.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Canelones De Jamón",
+            "price": 1650.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis En Salsa Blanca Cremosa Con Parmesano Y Albahaca Natural",
+            "price": 1500.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguettis De Vegetales Con Grana Padano",
+            "price": 1650.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Pollo Entero Relleno 2500gr (Ordenar Mínimo 6 Horas De Antelación)",
+            "price": 10000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Agrego De Jamón",
+            "price": 300.0,
+            "type": "sides"
+        },
+        {
+            "name": "Agrego De Queso",
+            "price": 600.0,
+            "type": "sides"
+        },
+        {
+            "name": "Agrego De Champiñones",
+            "price": 375.0,
+            "type": "sides"
+        },
+        {
+            "name": "Agrego De Cebolla",
+            "price": 275.0,
+            "type": "sides"
+        },
+        {
+            "name": "Agrego De Pimiento",
+            "price": 205.0,
+            "type": "sides"
+        },
+        {
+            "name": "Agrego De Atún",
+            "price": 550.0,
+            "type": "sides"
+        },
+        {
+            "name": "Tostones Naturales",
+            "price": 250.0,
+            "type": "sides"
+        },
+        {
+            "name": "Vegetales De Temporada",
+            "price": 350.0,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz Blanco",
+            "price": 220.0,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz Moro",
+            "price": 320.0,
+            "type": "sides"
+        },
+        {
+            "name": "Toston Al Ajo",
+            "price": 350.0,
+            "type": "sides"
+        },
+        {
+            "name": "Cake De Chocolate (Porción)",
+            "price": 850.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Cisne",
+            "price": 95.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Trufa De Chocolate",
+            "price": 160.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Eclear",
+            "price": 530.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Rosca Reyes",
+            "price": 350.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Arroz Con Leche",
+            "price": 580.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Cheesecake De Fresa (Porción)",
+            "price": 520.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Tortica",
+            "price": 100.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Malta Nacional Bucanero",
+            "price": 405.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Pepsi Cola De Lata",
+            "price": 380.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco Importado 7 Up",
+            "price": 320.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugo Kermato",
+            "price": 710.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Red Bull",
+            "price": 900.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua Tónica Mg",
+            "price": 600.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua Natural Buona",
+            "price": 280.0,
+            "type": "water"
+        },
+        {
+            "name": "Refresco Santa Naranja",
+            "price": 350.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua Gaseada Tehuacan",
+            "price": 650.0,
+            "type": "water"
+        },
+        {
+            "name": "Refresco Ritz Cola",
+            "price": 345.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Importada Modelo Especial",
+            "price": 650.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Presidente",
+            "price": 595.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Heineken Botella 330 Ml",
+            "price": 495.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Johnnie Walker Etiqueta Roja (750ml)",
+            "price": 9050.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Chivas Regal 12 (750ml)",
+            "price": 19500.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "H.c Selección De Maestros (700ml)",
+            "price": 8950.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "H.c Añejo Reserva (700cl)",
+            "price": 4300.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "H.c Añejo Especial (700ml)",
+            "price": 2625.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Tequila Olmeca Silver (700ml)",
+            "price": 5800.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Nacional Cristal",
+            "price": 440.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ron Santiago De Cuba Carta Blanca (700ml)",
+            "price": 3500.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Whisky Black & White (750ml)",
+            "price": 4125.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Whisky J/w Black Label (750ml)",
+            "price": 17500.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ron Santiago De Cuba Añejo 12",
+            "price": 12000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Black Tears (700ml)",
+            "price": 2000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Corona",
+            "price": 660.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "H.c.pacto Navío",
+            "price": 10000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Presidente Licht",
+            "price": 570.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Vt Frontera Merlot (Botella)",
+            "price": 2300.0,
+            "type": "wines"
+        },
+        {
+            "name": "Espumoso Cava Mistinguett Brut",
+            "price": 3800.0,
+            "type": "wines"
+        },
+        {
+            "name": "Espumoso Cava Brut Reserva Mistinguett",
+            "price": 3800.0,
+            "type": "wines"
+        },
+        {
+            "name": "Espumoso Gran Barón Cava Brut",
+            "price": 3800.0,
+            "type": "wines"
+        },
+        {
+            "name": "Vt Frontera Cabernet Sauvignon (Mercado)",
+            "price": 2100.0,
+            "type": "wines"
+        },
+        {
+            "name": "Vb Frontera Chardonay (Mercado)",
+            "price": 2100.0,
+            "type": "wines"
+        },
+        {
+            "name": "Vt Frontera Merlot (Mercado)",
+            "price": 2100.0,
+            "type": "wines"
+        },
+        {
+            "name": "Espumoso Torre De La Vid (Brut)",
+            "price": 2750.0,
+            "type": "wines"
+        },
+        {
+            "name": "Vino Espumoso Rocamar (Brut)",
+            "price": 2750.0,
+            "type": "wines"
+        },
+        {
+            "name": "Vino Rosado Espumoso Calaviña",
+            "price": 2500.0,
+            "type": "wines"
+        },
+        {
+            "name": "Vino Blanco Espumoso Calaviña Brut",
+            "price": 2500.0,
+            "type": "wines"
+        },
+        {
+            "name": "Cava Brut Rose Gran Baron",
+            "price": 2250.0,
+            "type": "wines"
+        },
+        {
+            "name": "Vino Blanco Espumoso Semisecos Condelier",
+            "price": 2625.0,
+            "type": "wines"
+        }
+    ],
+    "location": {
+        "street": "Reina esquina Belascoaín",
+        "council": null,
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

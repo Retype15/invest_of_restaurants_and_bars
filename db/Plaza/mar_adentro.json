@@ -1,0 +1,367 @@
+{
+    "name": "Mar Adentro",
+    "phone": "+5378332060",
+    "email": "maradentrohabana@gmail.com",
+    "web": "https://bio.site/maradentro",
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "09:00",
+        "close": "00:30",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "phone",
+        "in-person"
+    ],
+    "delivery": [
+        "home",
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "card"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": "https://www.facebook.com/maradentrohabana",
+    "ig": "https://www.instagram.com/maradentrohabana",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "inglés",
+            "price": 2000,
+            "type": "breakfast"
+        },
+        {
+            "name": "continental",
+            "price": 2000,
+            "type": "breakfast"
+        },
+        {
+            "name": "americano",
+            "price": 2200,
+            "type": "breakfast"
+        },
+        {
+            "name": "cesta de pan",
+            "price": 750,
+            "type": "appetizer"
+        },
+        {
+            "name": "focaccia al romero",
+            "price": 700,
+            "type": "appetizer"
+        },
+        {
+            "name": "focaccia de jamón serrano, tomate y rúcula",
+            "price": 2000,
+            "type": "appetizer"
+        },
+        {
+            "name": "bruchettas",
+            "price": 1800,
+            "type": "appetizer"
+        },
+        {
+            "name": "empanadillas de cangrejo o piña y queso",
+            "price": 1200,
+            "type": "appetizer"
+        },
+        {
+            "name": "tostones rellenos",
+            "price": 1300,
+            "type": "appetizer"
+        },
+        {
+            "name": "chispitas de malanga con camarones",
+            "price": 1100,
+            "type": "appetizer"
+        },
+        {
+            "name": "croquetas de pescados o pollo",
+            "price": 1200,
+            "type": "appetizer"
+        },
+        {
+            "name": "casabe taíno",
+            "price": 990,
+            "type": "appetizer"
+        },
+        {
+            "name": "tacos de vaca frita o pescado",
+            "price": 1900,
+            "type": "appetizer"
+        },
+        {
+            "name": "ceviche maradentro",
+            "price": 2100,
+            "type": "appetizer"
+        },
+        {
+            "name": "rollitos de salmón",
+            "price": 2200,
+            "type": "appetizer"
+        },
+        {
+            "name": "carpaccio de tuna",
+            "price": 2300,
+            "type": "appetizer"
+        },
+        {
+            "name": "sushi/nigiri",
+            "price": 2000,
+            "type": "appetizer"
+        },
+        {
+            "name": "dumplings de carne",
+            "price": 1800,
+            "type": "appetizer"
+        },
+        {
+            "name": "carpaccio de res",
+            "price": 2800,
+            "type": "appetizer"
+        },
+        {
+            "name": "pollo horneado",
+            "price": 2600,
+            "type": "mains"
+        },
+        {
+            "name": "pechuga de pollo grillada",
+            "price": 2800,
+            "type": "mains"
+        },
+        {
+            "name": "chilindrón de cordero al tinto",
+            "price": 3500,
+            "type": "mains"
+        },
+        {
+            "name": "masas de cerdo confitadas",
+            "price": 3200,
+            "type": "mains"
+        },
+        {
+            "name": "lonjas de cerdo asadas en cazuela",
+            "price": 3400,
+            "type": "mains"
+        },
+        {
+            "name": "costillas guajiras",
+            "price": 3800,
+            "type": "mains"
+        },
+        {
+            "name": "ropa vieja frita",
+            "price": 2700,
+            "type": "mains"
+        },
+        {
+            "name": "bistec de palomilla",
+            "price": 6800,
+            "type": "mains"
+        },
+        {
+            "name": "chivito uruguayo",
+            "price": 8200,
+            "type": "mains"
+        },
+        {
+            "name": "camarones",
+            "price": 3600,
+            "type": "seafood"
+        },
+        {
+            "name": "langosta",
+            "price": 4300,
+            "type": "seafood"
+        },
+        {
+            "name": "pesca del día",
+            "price": 3200,
+            "type": "seafood"
+        },
+        {
+            "name": "arroz blanco",
+            "price": 700,
+            "type": "sides"
+        },
+        {
+            "name": "arroz verde",
+            "price": 700,
+            "type": "sides"
+        },
+        {
+            "name": "frijoles dormidos",
+            "price": 700,
+            "type": "sides"
+        },
+        {
+            "name": "moros y cristianos",
+            "price": 700,
+            "type": "sides"
+        },
+        {
+            "name": "tostones",
+            "price": 700,
+            "type": "sides"
+        },
+        {
+            "name": "maduros",
+            "price": 700,
+            "type": "sides"
+        },
+        {
+            "name": "puré de boniato",
+            "price": 700,
+            "type": "sides"
+        },
+        {
+            "name": "limonada natural",
+            "price": 950,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "limonada frescura",
+            "price": 950,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "maradentro",
+            "price": 950,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "clarete",
+            "price": 950,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "vino blanco de verano",
+            "price": 950,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "licor marejada",
+            "price": 950,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "rubi",
+            "price": 950,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "limonada pepino y jengibre",
+            "price": 950,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "agua nacional",
+            "price": 450,
+            "type": "water"
+        },
+        {
+            "name": "agua importada",
+            "price": 500,
+            "type": "water"
+        },
+        {
+            "name": "agua tónica nacional",
+            "price": 700,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "agua tónica importada",
+            "price": 800,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "refresco nacional",
+            "price": 450,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "refresco importado",
+            "price": 600,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "malta",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "energizantes",
+            "price": 600,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "batido de frutas",
+            "price": 750,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "batido de helado",
+            "price": 900,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "copa de helado",
+            "price": 800,
+            "type": "desserts"
+        },
+        {
+            "name": "brownie y helado",
+            "price": 1300,
+            "type": "desserts"
+        },
+        {
+            "name": "cheesecake de guayaba",
+            "price": 1200,
+            "type": "desserts"
+        },
+        {
+            "name": "casquitos de guayaba con queso guajiro",
+            "price": 900,
+            "type": "desserts"
+        },
+        {
+            "name": "flan licuado",
+            "price": 1200,
+            "type": "desserts"
+        },
+        {
+            "name": "tarta de limón",
+            "price": 1000,
+            "type": "desserts"
+        }
+    ],
+    "location": {
+        "street": "Calle C, #15, entre 1ª y 3ª",
+        "council": null,
+        "municipe": "Plaza de la Revolucion",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.142433620136078,
+        "coords_y": -82.39923307575508
+    }
+}

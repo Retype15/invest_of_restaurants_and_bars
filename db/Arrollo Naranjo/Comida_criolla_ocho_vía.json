@@ -1,0 +1,181 @@
+{
+    "name": "Comida Criolla Ocho Vías",
+    "phone": "+5359107933",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "11:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "others"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Croquetas de queso",
+            "price": 500.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostones Rellenos",
+            "price": 800.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostones Tradicionales",
+            "price": 250.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Papas Fritas",
+            "price": 800.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Platanos Fritos",
+            "price": 200.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Bistec de Higado(460 gramos)",
+            "price": 1600.0,
+            "type": "mains"
+        },
+        {
+            "name": "Higado Italiana(460 gramos)",
+            "price": 1600.0,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de Cerdo(460 gramos)",
+            "price": 2200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Chuleta de Cerdo(460 gramos)",
+            "price": 2200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Fricase de Cerdo(430 gramos)",
+            "price": 2500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Masa Frita(430 gramos)",
+            "price": 2200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Fricase de Carnero(960 gramos)",
+            "price": 2200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec Uruguayo)",
+            "price": 2800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado Entero a la Marinera",
+            "price": 2200.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Ropa Vieja(460 gramos)",
+            "price": 2700.0,
+            "type": "mains"
+        },
+        {
+            "name": "Camaron Enchilado",
+            "price": 2700.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Langosta Grille(690 gramos)",
+            "price": 2700.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Langosta Enchilada(690 gramos)",
+            "price": 2800.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Pescado Empanado",
+            "price": 2500.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Enchilado de Cangrejo",
+            "price": 1800.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Bistec de Pollo",
+            "price": 2000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga de Pollo",
+            "price": 2500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Costilla Frita o Fricase",
+            "price": 2200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz Moro",
+            "price": 200.0,
+            "type": "sides"
+        },
+        {
+            "name": "Ensalada Mixta",
+            "price": 300.0,
+            "type": "salads"
+        }
+    ],
+    "location": {
+        "street": "Avenida 1er Anillo 3km despues de San Agustin",
+        "council": null,
+        "municipe": "Arroyo Naranjo",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

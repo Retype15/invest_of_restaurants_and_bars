@@ -1,0 +1,480 @@
+{
+    "name": "Café Clington",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "08:00",
+        "close": "18:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "others"
+    ],
+    "delivery": [
+        "others"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": null,
+    "ig": "https://www.instagram.com/@cafe_clington_",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "desayuno americano",
+            "price": 2000,
+            "type": "breakfast"
+        },
+        {
+            "name": "bxb",
+            "price": 600,
+            "type": "breakfast"
+        },
+        {
+            "name": "ensalada nicoise",
+            "price": 1500,
+            "type": "appetizer"
+        },
+        {
+            "name": "ensalada de aguacate y atun",
+            "price": 600,
+            "type": "appetizer"
+        },
+        {
+            "name": "ensalada de estacion",
+            "price": 500,
+            "type": "appetizer"
+        },
+        {
+            "name": "ensalada cesarin de suprema de pollo",
+            "price": 1000,
+            "type": "appetizer"
+        },
+        {
+            "name": "pasta fria de atun",
+            "price": 800,
+            "type": "appetizer"
+        },
+        {
+            "name": "pasta fria de jamon",
+            "price": 800,
+            "type": "appetizer"
+        },
+        {
+            "name": "pasta al pesto",
+            "price": 800,
+            "type": "appetizer"
+        },
+        {
+            "name": "tapas de jamon con frutos secos",
+            "price": 700,
+            "type": "appetizer"
+        },
+        {
+            "name": "tapas de falsa de atun napado en crema de vinagre balsamico",
+            "price": 900,
+            "type": "appetizer"
+        },
+        {
+            "name": "tapa iberica",
+            "price": 1000,
+            "type": "appetizer"
+        },
+        {
+            "name": "bruschettas",
+            "price": 900,
+            "type": "appetizer"
+        },
+        {
+            "name": "black and white",
+            "price": 1000,
+            "type": "appetizer"
+        },
+        {
+            "name": "anabella",
+            "price": 600,
+            "type": "appetizer"
+        },
+        {
+            "name": "hansel y gretel",
+            "price": 600,
+            "type": "appetizer"
+        },
+        {
+            "name": "sandwich de atun",
+            "price": 900,
+            "type": "mains"
+        },
+        {
+            "name": "sandwich de jamon y queso",
+            "price": 900,
+            "type": "mains"
+        },
+        {
+            "name": "sandwich de vegetales con huevo",
+            "price": 900,
+            "type": "mains"
+        },
+        {
+            "name": "sandwich de pollo",
+            "price": 1000,
+            "type": "mains"
+        },
+        {
+            "name": "sandwich de pollo con queso gratinado",
+            "price": 1200,
+            "type": "mains"
+        },
+        {
+            "name": "club sandwich",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "sandwich campesino",
+            "price": 2500,
+            "type": "mains"
+        },
+        {
+            "name": "mini burger",
+            "price": 310,
+            "type": "mains"
+        },
+        {
+            "name": "panini",
+            "price": 500,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa",
+            "price": 400,
+            "type": "mains"
+        },
+        {
+            "name": "pan troceado",
+            "price": 400,
+            "type": "mains"
+        },
+        {
+            "name": "pan viena",
+            "price": 350,
+            "type": "mains"
+        },
+        {
+            "name": "pan molde aleman",
+            "price": 900,
+            "type": "mains"
+        },
+        {
+            "name": "perro new york",
+            "price": 350,
+            "type": "mains"
+        },
+        {
+            "name": "panini new york",
+            "price": 500,
+            "type": "mains"
+        },
+        {
+            "name": "pan perro",
+            "price": 350,
+            "type": "mains"
+        },
+        {
+            "name": "pan rustico",
+            "price": 1000,
+            "type": "mains"
+        },
+        {
+            "name": "pan baguette",
+            "price": 700,
+            "type": "mains"
+        },
+        {
+            "name": "pan ciabatta",
+            "price": 550,
+            "type": "mains"
+        },
+        {
+            "name": "pan challah",
+            "price": 1000,
+            "type": "mains"
+        },
+        {
+            "name": "pan iberico",
+            "price": 250,
+            "type": "mains"
+        },
+        {
+            "name": "pan campesino",
+            "price": 400,
+            "type": "mains"
+        },
+        {
+            "name": "flan fanguito",
+            "price": 600,
+            "type": "desserts"
+        },
+        {
+            "name": "snicker",
+            "price": 750,
+            "type": "desserts"
+        },
+        {
+            "name": "tofi",
+            "price": 600,
+            "type": "desserts"
+        },
+        {
+            "name": "tarta de flan fanguito",
+            "price": 3500,
+            "type": "desserts"
+        },
+        {
+            "name": "cheesecake sabor fresa, limon y kiwi",
+            "price": 750,
+            "type": "desserts"
+        },
+        {
+            "name": "donas de chocolate",
+            "price": 570,
+            "type": "desserts"
+        },
+        {
+            "name": "ojos de buey",
+            "price": 200,
+            "type": "desserts"
+        },
+        {
+            "name": "magdalena",
+            "price": 250,
+            "type": "desserts"
+        },
+        {
+            "name": "hoja",
+            "price": 150,
+            "type": "desserts"
+        },
+        {
+            "name": "donas artesanales",
+            "price": 200,
+            "type": "desserts"
+        },
+        {
+            "name": "pastel danes",
+            "price": 200,
+            "type": "desserts"
+        },
+        {
+            "name": "caracol",
+            "price": 250,
+            "type": "desserts"
+        },
+        {
+            "name": "pastel de guayaba",
+            "price": 250,
+            "type": "desserts"
+        },
+        {
+            "name": "palmeras",
+            "price": 200,
+            "type": "desserts"
+        },
+        {
+            "name": "coquito horneado",
+            "price": 200,
+            "type": "desserts"
+        },
+        {
+            "name": "tarta grande de quiche lorraine",
+            "price": 3500,
+            "type": "desserts"
+        },
+        {
+            "name": "porcion de tarta quiche lorraine",
+            "price": 350,
+            "type": "desserts"
+        },
+        {
+            "name": "tarta pequeña de quiche lorraine",
+            "price": 600,
+            "type": "desserts"
+        },
+        {
+            "name": "tarta san marcos",
+            "price": 5000,
+            "type": "desserts"
+        },
+        {
+            "name": "protiferol",
+            "price": 450,
+            "type": "desserts"
+        },
+        {
+            "name": "eclair",
+            "price": 450,
+            "type": "desserts"
+        },
+        {
+            "name": "agua purificada de 500ml",
+            "price": 270,
+            "type": "water"
+        },
+        {
+            "name": "agua purificada de 1l",
+            "price": 350,
+            "type": "water"
+        },
+        {
+            "name": "agua purificada de 5l",
+            "price": 900,
+            "type": "water"
+        },
+        {
+            "name": "agua gaseada",
+            "price": 500,
+            "type": "water"
+        },
+        {
+            "name": "malta",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "pepsi",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "redbull",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "coca cola",
+            "price": 450,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "sprite",
+            "price": 450,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugos de 1l",
+            "price": 900,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "copa de jugos naturales",
+            "price": 250,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "cerveza cristal",
+            "price": 300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza sol",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza bucanero",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza heineken",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza blue",
+            "price": 300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza corona",
+            "price": 550,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "expresso",
+            "price": 200,
+            "type": "coffee"
+        },
+        {
+            "name": "cortado",
+            "price": 250,
+            "type": "coffee"
+        },
+        {
+            "name": "capuchino",
+            "price": 500,
+            "type": "coffee"
+        },
+        {
+            "name": "bombon",
+            "price": 500,
+            "type": "coffee"
+        },
+        {
+            "name": "frapuccino",
+            "price": 600,
+            "type": "coffee"
+        },
+        {
+            "name": "con leche",
+            "price": 600,
+            "type": "coffee"
+        },
+        {
+            "name": "chocolate caliente",
+            "price": 600,
+            "type": "coffee"
+        },
+        {
+            "name": "yougurt natural de 1l",
+            "price": 1200,
+            "type": "others"
+        },
+        {
+            "name": "yogurt probiotico de mango y guayaba",
+            "price": 900,
+            "type": "others"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Playa",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.115259266660882,
+        "coords_y": -82.43418842082183
+    }
+}

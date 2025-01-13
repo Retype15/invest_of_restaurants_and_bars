@@ -1,0 +1,529 @@
+{
+    "name": "Cafe Tilin",
+    "phone": "53857447",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "11:00",
+        "close": "22:00",
+        "days": [
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "home",
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": "https://www.facebook.com/p/Caf%C3%A9-Til%C3%ADn-Fontanar-100091993113611/?_rdr",
+    "ig": "@cafe_tilin_fontanar",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Croquetas de la Casa",
+            "price": 850,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostones Rellenos de Jamon y Queso",
+            "price": 950,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostones Rellenos de Atun",
+            "price": 950,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostones Rellenos de Ropa Vieja",
+            "price": 950,
+            "type": "appetizer"
+        },
+        {
+            "name": "Frituras de Malanga",
+            "price": 850,
+            "type": "appetizer"
+        },
+        {
+            "name": "Fajitas de Pollo",
+            "price": 950,
+            "type": "appetizer"
+        },
+        {
+            "name": "Fajitas de Cerdo",
+            "price": 950,
+            "type": "appetizer"
+        },
+        {
+            "name": "Picadera Tilin",
+            "price": 2500,
+            "type": "appetizer"
+        },
+        {
+            "name": "Hamburguesa Clasica",
+            "price": 1100,
+            "type": "appetizer"
+        },
+        {
+            "name": "Hamburguesa Bar",
+            "price": 1300,
+            "type": "appetizer"
+        },
+        {
+            "name": "Hamburguesa Mexicana",
+            "price": 1750,
+            "type": "appetizer"
+        },
+        {
+            "name": "Hamburguesa Tilin",
+            "price": 2000,
+            "type": "appetizer"
+        },
+        {
+            "name": "Combo Americano",
+            "price": 1750,
+            "type": "appetizer"
+        },
+        {
+            "name": "Hamburguesa La Cubana",
+            "price": 1800,
+            "type": "appetizer"
+        },
+        {
+            "name": "Hamburguesa Super Clasica",
+            "price": 1750,
+            "type": "appetizer"
+        },
+        {
+            "name": "Bistec de Cerdo Encebollado",
+            "price": 1850,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de Cerdo Grille",
+            "price": 1600,
+            "type": "mains"
+        },
+        {
+            "name": "Masas de Cerdo",
+            "price": 1850,
+            "type": "mains"
+        },
+        {
+            "name": "Escalope de Cerdo",
+            "price": 1950,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa Vieja de Cerdo",
+            "price": 1700,
+            "type": "mains"
+        },
+        {
+            "name": "Suprema de Pollo",
+            "price": 1850,
+            "type": "mains"
+        },
+        {
+            "name": "Fajitas de Pollo Salteadas con Vegetales",
+            "price": 1750,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo Frito",
+            "price": 1450,
+            "type": "mains"
+        },
+        {
+            "name": "Brochetas Mixtas al Carbon",
+            "price": 2500,
+            "type": "mains"
+        },
+        {
+            "name": "Cordon Bleu",
+            "price": 3050,
+            "type": "mains"
+        },
+        {
+            "name": "Milanesa a la Napolitana",
+            "price": 3300,
+            "type": "mains"
+        },
+        {
+            "name": "Crema de Malanga",
+            "price": 800,
+            "type": "soups"
+        },
+        {
+            "name": "Ensalada Mixta",
+            "price": 750,
+            "type": "salads"
+        },
+        {
+            "name": "Spaghetti Napolitano",
+            "price": 1300,
+            "type": "pasta"
+        },
+        {
+            "name": "Spaghetti de Jamon",
+            "price": 1700,
+            "type": "pasta"
+        },
+        {
+            "name": "Pizza Napolitana",
+            "price": 1300,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Chorizo",
+            "price": 1700,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Atun",
+            "price": 1700,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Hawaiana",
+            "price": 1950,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Tilin",
+            "price": 2500,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Jamon",
+            "price": 1700,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Cebolla",
+            "price": 1500,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Napolitana de 21cm",
+            "price": 1500,
+            "type": "pizza"
+        },
+        {
+            "name": "Arroz Frito",
+            "price": 1500,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz Moro",
+            "price": 350,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz Blanco",
+            "price": 250,
+            "type": "sides"
+        },
+        {
+            "name": "Viandas Fritas",
+            "price": 650,
+            "type": "sides"
+        },
+        {
+            "name": "Papas Fritas",
+            "price": 750,
+            "type": "sides"
+        },
+        {
+            "name": "Postre del Dia",
+            "price": 500,
+            "type": "desserts"
+        },
+        {
+            "name": "Tarta Helada",
+            "price": 950,
+            "type": "desserts"
+        },
+        {
+            "name": "Flan de Caramelo",
+            "price": 350,
+            "type": "desserts"
+        },
+        {
+            "name": "Copa de Helado",
+            "price": 450,
+            "type": "desserts"
+        },
+        {
+            "name": "Copa Lolita",
+            "price": 650,
+            "type": "desserts"
+        },
+        {
+            "name": "Cafe Expresso",
+            "price": 200,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cafe Americano",
+            "price": 200,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cafe Cortado",
+            "price": 250,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cafe Cappuccino",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Frapuchino",
+            "price": 750,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cafe Tilin",
+            "price": 600,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cafe Tolon",
+            "price": 750,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugo de Frutas",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Suero de Helado",
+            "price": 850,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua Natural Nacional",
+            "price": 250,
+            "type": "water"
+        },
+        {
+            "name": "Agua Natural Importada",
+            "price": 300,
+            "type": "water"
+        },
+        {
+            "name": "Refresco Importado",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Energizante",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta Importada",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Nacional",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Piña Colada",
+            "price": 950,
+            "type": "cocktails"
+        },
+        {
+            "name": "Limonada Frappe",
+            "price": 450,
+            "type": "cocktails"
+        },
+        {
+            "name": "Michelada",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "Chelada",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cubanito",
+            "price": 800,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mojito",
+            "price": 500,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mojito de Fruta",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "Daiquiri",
+            "price": 500,
+            "type": "cocktails"
+        },
+        {
+            "name": "Daiquiri de Fruta",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipiriña",
+            "price": 500,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipiroska",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipirisima",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "Bloody Mary",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "Screwdriver",
+            "price": 700,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cubalibre",
+            "price": 550,
+            "type": "cocktails"
+        },
+        {
+            "name": "Sangria",
+            "price": 850,
+            "type": "cocktails"
+        },
+        {
+            "name": "Tequila",
+            "price": 900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Margarita",
+            "price": 1250,
+            "type": "cocktails"
+        },
+        {
+            "name": "San Francisco",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "Blue Lagon",
+            "price": 800,
+            "type": "cocktails"
+        },
+        {
+            "name": "Coctel de La Casa Un Tilin",
+            "price": 1500,
+            "type": "cocktails"
+        },
+        {
+            "name": "Copa de Vino Frontera",
+            "price": 900,
+            "type": "wines"
+        },
+        {
+            "name": "Copa de Vino Casillero del Diablo",
+            "price": 1200,
+            "type": "wines"
+        },
+        {
+            "name": "Linea Chanceler",
+            "price": 250,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Linea Jaggermeister",
+            "price": 1000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Linea Red Label",
+            "price": 1200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Linea Ballentines Finest",
+            "price": 1200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Linea Ballentines 10 Años",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Linea Chivas Regal 12 Años",
+            "price": 1800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Linea Jack Daniels",
+            "price": 2500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Botella de Vino Frontera",
+            "price": 4500,
+            "type": "wines"
+        },
+        {
+            "name": "Botella de Vino Casillero del Diablo",
+            "price": 8000,
+            "type": "wines"
+        }
+    ],
+    "location": {
+        "street": "Avenida Independencia Km 9 1/2",
+        "council": null,
+        "municipe": "Boyeros",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

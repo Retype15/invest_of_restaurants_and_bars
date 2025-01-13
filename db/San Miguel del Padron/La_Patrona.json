@@ -1,0 +1,175 @@
+{
+    "name": "La Patrona",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "08:00",
+        "close": "00:00",
+        "days": [
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 6,
+    "reservations": [
+        "online"
+    ],
+    "delivery": [
+        "home",
+        "takeaway",
+        "on-site",
+        "others"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "hamburguesa clasica",
+            "price": 500,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa sencilla",
+            "price": 700,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa grosera",
+            "price": 1200,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa patrona",
+            "price": 1000,
+            "type": "mains"
+        },
+        {
+            "name": "bistec uruguayo",
+            "price": 2600,
+            "type": "mains"
+        },
+        {
+            "name": "ropa vieja",
+            "price": 1400,
+            "type": "mains"
+        },
+        {
+            "name": "escalope de cerdo",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "bistec de cerdo",
+            "price": 1600,
+            "type": "mains"
+        },
+        {
+            "name": "arroz frito",
+            "price": 1000,
+            "type": "mains"
+        },
+        {
+            "name": "lasaña",
+            "price": 1250,
+            "type": "pasta"
+        },
+        {
+            "name": "canelones",
+            "price": 1100,
+            "type": "pasta"
+        },
+        {
+            "name": "espaguetti carbonara",
+            "price": 15000,
+            "type": "pasta"
+        },
+        {
+            "name": "pizza La Patrona",
+            "price": 1800,
+            "type": "pizza"
+        },
+        {
+            "name": "flan",
+            "price": 200,
+            "type": "desserts"
+        },
+        {
+            "name": "copa lolita",
+            "price": 400,
+            "type": "desserts"
+        },
+        {
+            "name": "cesta helado",
+            "price": 500,
+            "type": "desserts"
+        },
+        {
+            "name": "tres gracias",
+            "price": 300,
+            "type": "desserts"
+        },
+        {
+            "name": "café express",
+            "price": 150,
+            "type": "infusions"
+        },
+        {
+            "name": "cafe con crema",
+            "price": 180,
+            "type": "infusions"
+        },
+        {
+            "name": "cafe La Patrona",
+            "price": 250,
+            "type": "infusions"
+        },
+        {
+            "name": "frapuchino",
+            "price": 250,
+            "type": "infusions"
+        },
+        {
+            "name": "jugos",
+            "price": 100,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "suero helado",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "batidos",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "Calzada de Guines en San Francisco de Paula",
+        "council": null,
+        "municipe": "San Miguel del Padron",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

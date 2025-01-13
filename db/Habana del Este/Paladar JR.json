@@ -1,0 +1,281 @@
+{
+    "name": "Paladar JR",
+    "phone": "77652300",
+    "email": "jrls@nauta.cu",
+    "web": "www.paladarjr.com",
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "09:00",
+        "close": "00:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 15,
+    "reservations": [
+        "null"
+    ],
+    "delivery": [
+        "home"
+    ],
+    "level": "medium",
+    "payment": [
+        "card",
+        "cash",
+        "others"
+    ],
+    "promo": false,
+    "rating": 3.3,
+    "reviews": 30,
+    "amenities": [
+        "null"
+    ],
+    "fb": "Paladar JR",
+    "ig": "null",
+    "twitter": "null",
+    "menu": [
+        {
+            "name": "Pizza Napoles con queso Gouda",
+            "price": 900,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de cebolla",
+            "price": 1100,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de aji",
+            "price": 1100,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de jamon",
+            "price": 1150,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Hawaiana",
+            "price": 1350,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de aceitunas",
+            "price": 1350,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de atun",
+            "price": 1450,
+            "type": "pizza"
+        },
+        {
+            "name": "Sandwich de jamon y queso",
+            "price": 700,
+            "type": "sandwich"
+        },
+        {
+            "name": "Bocadito de atun",
+            "price": 800,
+            "type": "sandwich"
+        },
+        {
+            "name": "Sandwich de queso",
+            "price": 800,
+            "type": "sandwich"
+        },
+        {
+            "name": "Pan con bistec de cerdo",
+            "price": 850,
+            "type": "sandwich"
+        },
+        {
+            "name": "Bistec de cerdo grille",
+            "price": 1300,
+            "type": "mains"
+        },
+        {
+            "name": "Fricase decerdo",
+            "price": 1350,
+            "type": "mains"
+        },
+        {
+            "name": "Chop Suey de cerdo",
+            "price": 1400,
+            "type": "mains"
+        },
+        {
+            "name": "Escalope de cerdo",
+            "price": 1400,
+            "type": "mains"
+        },
+        {
+            "name": "Tiras de cerdo empanado",
+            "price": 1400,
+            "type": "mains"
+        },
+        {
+            "name": "Chuleta de cerdo",
+            "price": 1450,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo ahumado",
+            "price": 1550,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec Princesa de cerdo",
+            "price": 1650,
+            "type": "mains"
+        },
+        {
+            "name": "Rollo de cerdo",
+            "price": 1650,
+            "type": "mains"
+        },
+        {
+            "name": "Masas de cerdo",
+            "price": 1650,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec Uruguayo",
+            "price": 1750,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec Uruguayo Especial",
+            "price": 1950,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de pollo",
+            "price": 1000,
+            "type": "mains"
+        },
+        {
+            "name": "Fricase de pollo",
+            "price": 1100,
+            "type": "mains"
+        },
+        {
+            "name": "Tiritas de pollo empanado",
+            "price": 1200,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de pollo empanado",
+            "price": 1200,
+            "type": "mains"
+        },
+        {
+            "name": "Gordon Blue",
+            "price": 1300,
+            "type": "mains"
+        },
+        {
+            "name": "Princesa de pollo",
+            "price": 1300,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec Gordon Blue",
+            "price": 1400,
+            "type": "mains"
+        },
+        {
+            "name": "Gordon Blue Especial",
+            "price": 1600,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de pollo Gamba",
+            "price": 1700,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de pescado",
+            "price": 1700,
+            "type": "seafood"
+        },
+        {
+            "name": "Eperlan",
+            "price": 1800,
+            "type": "seafood"
+        },
+        {
+            "name": "Pescado empanado",
+            "price": 1800,
+            "type": "seafood"
+        },
+        {
+            "name": "Filete de pescado Milanesa",
+            "price": 2100,
+            "type": "seafood"
+        },
+        {
+            "name": "Filete de pescado Montetoro",
+            "price": 2100,
+            "type": "seafood"
+        },
+        {
+            "name": "Canciller",
+            "price": 2100,
+            "type": "seafood"
+        },
+        {
+            "name": "Canciller Especial",
+            "price": 2300,
+            "type": "seafood"
+        },
+        {
+            "name": "Camaron grille",
+            "price": 1800,
+            "type": "seafood"
+        },
+        {
+            "name": "Enchilado de camarones",
+            "price": 1900,
+            "type": "seafood"
+        },
+        {
+            "name": "Empanado Especial JR",
+            "price": 3700,
+            "type": "seafood"
+        },
+        {
+            "name": "Cacerola del mar",
+            "price": 2200,
+            "type": "seafood"
+        },
+        {
+            "name": "Arroz frito",
+            "price": 1300,
+            "type": "others"
+        },
+        {
+            "name": "Arroz frito especial",
+            "price": 1550,
+            "type": "others"
+        }
+    ],
+    "location": {
+        "street": "Calle 20 Aniversario, 12 plantas, Alamar",
+        "council": "null",
+        "municipe": "Habana del Este",
+        "province": "La Habana",
+        "zip": "null",
+        "country": "Cuba",
+        "coords_x": "null",
+        "coords_y": "null"
+    }
+}

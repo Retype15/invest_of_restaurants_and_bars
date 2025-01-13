@@ -1,0 +1,228 @@
+{
+    "name": "Kafe DVD",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "00:00",
+        "close": "24:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "others"
+    ],
+    "delivery": [
+        "others"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [],
+    "fb": "https://www.facebook.com/kfedvd/?locale=zh_HK",
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "alitas de pollo",
+            "price": 1300,
+            "type": "appetizer"
+        },
+        {
+            "name": "tacos",
+            "price": 600,
+            "type": "appetizer"
+        },
+        {
+            "name": "croquetas",
+            "price": 400,
+            "type": "appetizer"
+        },
+        {
+            "name": "fajitas de pollo",
+            "price": 900,
+            "type": "appetizer"
+        },
+        {
+            "name": "tostones al ajillo",
+            "price": 350,
+            "type": "appetizer"
+        },
+        {
+            "name": "tostones",
+            "price": 300,
+            "type": "appetizer"
+        },
+        {
+            "name": "chicharritas",
+            "price": 150,
+            "type": "appetizer"
+        },
+        {
+            "name": "fritura de malanga",
+            "price": 400,
+            "type": "appetizer"
+        },
+        {
+            "name": "chorizo",
+            "price": 100,
+            "type": "appetizer"
+        },
+        {
+            "name": "jamon",
+            "price": 100,
+            "type": "appetizer"
+        },
+        {
+            "name": "queso",
+            "price": 200,
+            "type": "appetizer"
+        },
+        {
+            "name": "cebolla",
+            "price": 100,
+            "type": "appetizer"
+        },
+        {
+            "name": "pimiento",
+            "price": 100,
+            "type": "appetizer"
+        },
+        {
+            "name": "aceituna",
+            "price": 200,
+            "type": "appetizer"
+        },
+        {
+            "name": "pan con perro",
+            "price": 300,
+            "type": "mains"
+        },
+        {
+            "name": "pan con tortilla",
+            "price": 250,
+            "type": "mains"
+        },
+        {
+            "name": "pan hamburguesa",
+            "price": 400,
+            "type": "mains"
+        },
+        {
+            "name": "pan hamburguesa mariquitas",
+            "price": 500,
+            "type": "mains"
+        },
+        {
+            "name": "fricase de cerdo",
+            "price": 1300,
+            "type": "mains"
+        },
+        {
+            "name": "masa de cerdo",
+            "price": 1200,
+            "type": "mains"
+        },
+        {
+            "name": "chuleta de cerdo",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "bistec de cerdo",
+            "price": 1000,
+            "type": "mains"
+        },
+        {
+            "name": "bistec de pollo",
+            "price": 950,
+            "type": "mains"
+        },
+        {
+            "name": "higado con su salsa",
+            "price": 770,
+            "type": "mains"
+        },
+        {
+            "name": "higado a la italiana",
+            "price": 730,
+            "type": "mains"
+        },
+        {
+            "name": "higado encebollado",
+            "price": 650,
+            "type": "mains"
+        },
+        {
+            "name": "arroz frito",
+            "price": 700,
+            "type": "mains"
+        },
+        {
+            "name": "pastas napolitana",
+            "price": 700,
+            "type": "mains"
+        },
+        {
+            "name": "pizza grande",
+            "price": 300,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza chiquita",
+            "price": 200,
+            "type": "pizza"
+        },
+        {
+            "name": "cerveza",
+            "price": 200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "enrgizante",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugo lata",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "refresco pepsi",
+            "price": 250,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "refresco",
+            "price": 220,
+            "type": "non_alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "San Francisco entre 10 de Octubre y Delicias",
+        "council": null,
+        "municipe": "Diez de Octubre",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

@@ -1,0 +1,295 @@
+{
+    "name": "Fonda La Paila",
+    "phone": "+5353388837",
+    "email": "fondapaila25@gmail.com",
+    "web": "https://fondalapaila.com/",
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "12:00",
+        "close": "24:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "online",
+        "phone"
+    ],
+    "delivery": [
+        "home",
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.4,
+    "reviews": 75,
+    "amenities": [],
+    "fb": "https://www.facebook.com/lapaila25ym",
+    "ig": "https://www.instagram.com/lapaila_25ym/",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Cesta de Pan",
+            "price": "600.00",
+            "type": "appetizer"
+        },
+        {
+            "name": "Frituras de Malanga",
+            "price": "1000.00",
+            "type": "appetizer"
+        },
+        {
+            "name": "Croquetas de la Casa",
+            "price": "1350.00",
+            "type": "appetizer"
+        },
+        {
+            "name": "Pan con Lechón",
+            "price": "1850.00",
+            "type": "appetizer"
+        },
+        {
+            "name": "Tacos Guajiros",
+            "price": "2200.00",
+            "type": "appetizer"
+        },
+        {
+            "name": "Tacos de Camarón",
+            "price": "2200.00",
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostones 25 y M",
+            "price": "1850.00",
+            "type": "appetizer"
+        },
+        {
+            "name": "Bastones Fritos",
+            "price": "2500.00",
+            "type": "appetizer"
+        },
+        {
+            "name": "Cóctel de Langosta",
+            "price": "2000.00",
+            "type": "appetizer"
+        },
+        {
+            "name": "Cóctel de Camarón",
+            "price": "1900.00",
+            "type": "appetizer"
+        },
+        {
+            "name": "Ceviche Criollo",
+            "price": "2000.00",
+            "type": "appetizer"
+        },
+        {
+            "name": "Charcutería Criolla",
+            "price": "3000.00",
+            "type": "appetizer"
+        },
+        {
+            "name": "Tabla La Paila",
+            "price": "4500.00",
+            "type": "appetizer"
+        },
+        {
+            "name": "Papas Prefritas con Chorizo y Queso",
+            "price": "1500.00",
+            "type": "appetizer"
+        },
+        {
+            "name": "Bastones Fritos de Pescado",
+            "price": "3000.00",
+            "type": "appetizer"
+        },
+        {
+            "name": "Tabla de Jamón Serrano",
+            "price": "3500.00",
+            "type": "appetizer"
+        },
+        {
+            "name": "Tabla de Salmón",
+            "price": "3000.00",
+            "type": "appetizer"
+        },
+        {
+            "name": "Arroz con Pollo a la Cubana",
+            "price": "3000.00",
+            "type": "mains"
+        },
+        {
+            "name": "Pollo Campestre",
+            "price": "2300.00",
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga Grillé",
+            "price": "2500.00",
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga Salteada",
+            "price": "2500.00",
+            "type": "mains"
+        },
+        {
+            "name": "Ropa Vieja Criolla",
+            "price": "3000.00",
+            "type": "mains"
+        },
+        {
+            "name": "Vaca Frita",
+            "price": "3000.00",
+            "type": "mains"
+        },
+        {
+            "name": "Masas a la Paila",
+            "price": "3000.00",
+            "type": "mains"
+        },
+        {
+            "name": "Chuleta a la Parrilla",
+            "price": "3000.00",
+            "type": "mains"
+        },
+        {
+            "name": "Costillas BBQ",
+            "price": "3500.00",
+            "type": "mains"
+        },
+        {
+            "name": "Brocheta Criolla",
+            "price": "3000.00",
+            "type": "mains"
+        },
+        {
+            "name": "Lonjas de Cerdo",
+            "price": "2850.00",
+            "type": "mains"
+        },
+        {
+            "name": "Lomo de Cerdo Mechado",
+            "price": "3300.00",
+            "type": "mains"
+        },
+        {
+            "name": "Pescado al Carbón",
+            "price": "3000.00",
+            "type": "mains"
+        },
+        {
+            "name": "Pescado Sauté Papillote",
+            "price": "3600.00",
+            "type": "mains"
+        },
+        {
+            "name": "Camarón a su Elección",
+            "price": "3500.00",
+            "type": "mains"
+        },
+        {
+            "name": "Langosta al Carbón",
+            "price": "3600.00",
+            "type": "mains"
+        },
+        {
+            "name": "Langosta Enchilada",
+            "price": "3800.00",
+            "type": "mains"
+        },
+        {
+            "name": "Langosta Termidor",
+            "price": "4000.00",
+            "type": "mains"
+        },
+        {
+            "name": "Grillada Mixta",
+            "price": "6500.00",
+            "type": "mains"
+        },
+        {
+            "name": "Pulpo a su Elección",
+            "price": "4200.00",
+            "type": "mains"
+        },
+        {
+            "name": "Grillada del Mar",
+            "price": "5900.00",
+            "type": "mains"
+        },
+        {
+            "name": "Grillada de la Tierra",
+            "price": "5800.00",
+            "type": "mains"
+        },
+        {
+            "name": "Pasta Frutti di Mare",
+            "price": "3500.00",
+            "type": "pasta"
+        },
+        {
+            "name": "Lechón Ahumado",
+            "price": "3300.00",
+            "type": "mains"
+        },
+        {
+            "name": "helados de crema de fresa",
+            "price": "550",
+            "type": "desserts"
+        },
+        {
+            "name": "tarta de chocolate",
+            "price": "650",
+            "type": "desserts"
+        },
+        {
+            "name": "postre de paila",
+            "price": "750",
+            "type": "desserts"
+        },
+        {
+            "name": "cheescake de fruta",
+            "price": "950",
+            "type": "desserts"
+        },
+        {
+            "name": "flan de la casa",
+            "price": "500",
+            "type": "desserts"
+        },
+        {
+            "name": "copa lolita",
+            "price": "750",
+            "type": "desserts"
+        },
+        {
+            "name": "torrejas de la casa con helado",
+            "price": "500",
+            "type": "desserts"
+        }
+    ],
+    "location": {
+        "street": "Calle M e/ 25 y 27",
+        "council": "Vedado",
+        "municipe": "Plaza de la Revolucion",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.144894841159918,
+        "coords_y": -82.38263698387051
+    }
+}

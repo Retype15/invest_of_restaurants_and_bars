@@ -1,0 +1,161 @@
+{
+    "name": "Crispy Chicken",
+    "phone": "63182745",
+    "email": null,
+    "web": "elyarromenu.com/b/crispy-chiken",
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "11:00",
+        "close": "24:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": null,
+    "ig": "@crispy.chiken.monaco",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "MINI HOT DOG",
+            "price": 300,
+            "type": "appetizer"
+        },
+        {
+            "name": "FLAMENQUIN",
+            "price": 1000,
+            "type": "appetizer"
+        },
+        {
+            "name": "SAN JACOBO",
+            "price": 1000,
+            "type": "appetizer"
+        },
+        {
+            "name": "TOSTONES RELLENOS",
+            "price": 800,
+            "type": "appetizer"
+        },
+        {
+            "name": "ENTREMÉS DE JAMÓN Y QUESO",
+            "price": 2000,
+            "type": "appetizer"
+        },
+        {
+            "name": "PICADERA DE LA CASA",
+            "price": 3000,
+            "type": "appetizer"
+        },
+        {
+            "name": "CHIPS DE BONIATO",
+            "price": 700,
+            "type": "appetizer"
+        },
+        {
+            "name": "CROQUETAS",
+            "price": 1000,
+            "type": "appetizer"
+        },
+        {
+            "name": "POLLO FRITO",
+            "price": 1300,
+            "type": "mains"
+        },
+        {
+            "name": "POLLO CHIFLADO",
+            "price": 1600,
+            "type": "mains"
+        },
+        {
+            "name": "POLLO CHIFLADO (SIN HUESO)",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "POLLO RELLENO (JAMÓN Y QUESO)",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "NUGGETS DE POLLO",
+            "price": 1000,
+            "type": "mains"
+        },
+        {
+            "name": "SANDWICH DE POLLO",
+            "price": 900,
+            "type": "mains"
+        },
+        {
+            "name": "MINI HOT DOGS",
+            "price": 300,
+            "type": "mains"
+        },
+        {
+            "name": "BATIDO DE HELADO",
+            "price": 1000,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "MALTEADA",
+            "price": 900,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "JUGO NATURAL",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "VACA NEGRA",
+            "price": 800,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "CUBETAZO DE CERVEZAS",
+            "price": 2400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "CUBETAZO DE CERVEZAS CRISTAL",
+            "price": 3100,
+            "type": "alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "Avenida de Acosta y Juan Delgado",
+        "council": null,
+        "municipe": "Diez de Octubre",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

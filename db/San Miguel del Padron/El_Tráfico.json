@@ -1,0 +1,246 @@
+{
+    "name": "El Tráfico",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "10:00",
+        "close": "22:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 20,
+    "reservations": [
+        "online",
+        "others"
+    ],
+    "delivery": [
+        "takeaway",
+        "others"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "arroz moro",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "vianda",
+            "price": 150,
+            "type": "sides"
+        },
+        {
+            "name": "ensalada",
+            "price": 200,
+            "type": "sides"
+        },
+        {
+            "name": "tamal",
+            "price": 200,
+            "type": "sides"
+        },
+        {
+            "name": "papas fritas",
+            "price": 600,
+            "type": "sides"
+        },
+        {
+            "name": "bistec de pollo",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "bistec de cerdo",
+            "price": 1950,
+            "type": "mains"
+        },
+        {
+            "name": "bistec de res",
+            "price": 1950,
+            "type": "mains"
+        },
+        {
+            "name": "pechuga de pollo",
+            "price": 1950,
+            "type": "mains"
+        },
+        {
+            "name": "chuleta de cerdo",
+            "price": 1950,
+            "type": "mains"
+        },
+        {
+            "name": "masa de cerdo frita",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "cerdo guisado",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "lomo ahumado",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "costilla de cerdo",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "ropa vieja",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "filete de merluza",
+            "price": 2000,
+            "type": "seafood"
+        },
+        {
+            "name": "espaguetti con queso blanco",
+            "price": 400,
+            "type": "pasta"
+        },
+        {
+            "name": "espaguetti con queso gouda",
+            "price": 420,
+            "type": "pasta"
+        },
+        {
+            "name": "espaguetti con queso parmesano",
+            "price": 450,
+            "type": "pasta"
+        },
+        {
+            "name": "pizza de queso blanco",
+            "price": 280,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de queso blanco XL",
+            "price": 770,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de queso gouda",
+            "price": 320,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de queso gouda XL",
+            "price": 830,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de queso parmesano",
+            "price": 350,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de queso parmesano XL",
+            "price": 850,
+            "type": "pizza"
+        },
+        {
+            "name": "queso blanco",
+            "price": 300,
+            "type": "others"
+        },
+        {
+            "name": "queso gouda",
+            "price": 320,
+            "type": "others"
+        },
+        {
+            "name": "queso parmesano",
+            "price": 350,
+            "type": "others"
+        },
+        {
+            "name": "cebolla",
+            "price": 200,
+            "type": "others"
+        },
+        {
+            "name": "pimiento",
+            "price": 200,
+            "type": "others"
+        },
+        {
+            "name": "piña",
+            "price": 200,
+            "type": "others"
+        },
+        {
+            "name": "camarón",
+            "price": 350,
+            "type": "others"
+        },
+        {
+            "name": "jamón",
+            "price": 200,
+            "type": "others"
+        },
+        {
+            "name": "chorizo",
+            "price": 200,
+            "type": "others"
+        },
+        {
+            "name": "bacon",
+            "price": 200,
+            "type": "others"
+        },
+        {
+            "name": "salchicha",
+            "price": 200,
+            "type": "others"
+        },
+        {
+            "name": "aceituna",
+            "price": 300,
+            "type": "others"
+        },
+        {
+            "name": "atún",
+            "price": 300,
+            "type": "others"
+        }
+    ],
+    "location": {
+        "street": "Calzada de Guines entre 90 y 94",
+        "council": null,
+        "municipe": "San Miguel del Padron",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

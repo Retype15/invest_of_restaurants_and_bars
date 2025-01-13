@@ -1,0 +1,134 @@
+{
+    "name": "La Divina Pastora",
+    "phone": "77937809",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "state",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "12:00",
+        "close": "24:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 100,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "card"
+    ],
+    "promo": false,
+    "rating": 4.0,
+    "reviews": 30,
+    "amenities": [
+        "parking"
+    ],
+    "fb": "La Divina Pastora (Facebook)",
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Croqueticas La Tasca",
+            "price": 540,
+            "type": "starters"
+        },
+        {
+            "name": "Deditos de pollo",
+            "price": 540,
+            "type": "starters"
+        },
+        {
+            "name": "Empanadas Divina Pastora",
+            "price": 1500,
+            "type": "starters"
+        },
+        {
+            "name": "Fritura de malanga",
+            "price": 540,
+            "type": "starters"
+        },
+        {
+            "name": "Garbanzo frito",
+            "price": 1620,
+            "type": "starters"
+        },
+        {
+            "name": "Tablita de salmon ahumado",
+            "price": 1620,
+            "type": "starters"
+        },
+        {
+            "name": "Pastas fruto del mar",
+            "price": 2100,
+            "type": "starters"
+        },
+        {
+            "name": "Hamburguesa Pastora",
+            "price": 1080,
+            "type": "starters"
+        },
+        {
+            "name": "Sandwich Roast Beef",
+            "price": 1620,
+            "type": "starters"
+        },
+        {
+            "name": "Pollo empanado a la parmesana",
+            "price": 1200,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de pescado",
+            "price": 2300,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de cerdo",
+            "price": 2040,
+            "type": "mains"
+        },
+        {
+            "name": "Rollito de cerdo",
+            "price": 1560,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de res",
+            "price": 2880,
+            "type": "mains"
+        },
+        {
+            "name": "Estofado de res",
+            "price": 2040,
+            "type": "mains"
+        },
+        {
+            "name": "Langosta Divina Pastora",
+            "price": 2500,
+            "type": "mains"
+        }
+    ],
+    "location": {
+        "street": "Complejo Morro Cabana, Via Monumental",
+        "council": null,
+        "municipe": "Habana del Este",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

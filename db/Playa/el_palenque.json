@@ -1,0 +1,221 @@
+{
+    "name": "El Palenque",
+    "phone": "72038222",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "11:00",
+        "close": "21:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 3.5,
+    "reviews": 75,
+    "amenities": [
+        "invalid_accessible",
+        "parking"
+    ],
+    "fb": "Restaurante El Palenque",
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "cesta de pan",
+            "price": 100,
+            "type": "appetizer"
+        },
+        {
+            "name": "croquetas",
+            "price": 150,
+            "type": "appetizer"
+        },
+        {
+            "name": "chicharrones",
+            "price": 400,
+            "type": "appetizer"
+        },
+        {
+            "name": "entremes surtido",
+            "price": 100,
+            "type": "appetizer"
+        },
+        {
+            "name": "entremes de jamon y chorizo",
+            "price": 150,
+            "type": "appetizer"
+        },
+        {
+            "name": "variado de queso",
+            "price": 200,
+            "type": "appetizer"
+        },
+        {
+            "name": "arroz con pollo",
+            "price": 250,
+            "type": "mains"
+        },
+        {
+            "name": "pechuga con papas fritas",
+            "price": 700,
+            "type": "mains"
+        },
+        {
+            "name": "fajitas de pollo salteadas",
+            "price": 400,
+            "type": "mains"
+        },
+        {
+            "name": "picadillo de res",
+            "price": 350,
+            "type": "mains"
+        },
+        {
+            "name": "bistec de res",
+            "price": 300,
+            "type": "mains"
+        },
+        {
+            "name": "res de campesina",
+            "price": 400,
+            "type": "mains"
+        },
+        {
+            "name": "pasta napolitana",
+            "price": 250,
+            "type": "mains"
+        },
+        {
+            "name": "lasagna de carne",
+            "price": 200,
+            "type": "mains"
+        },
+        {
+            "name": "chilindron de cordero",
+            "price": 1700,
+            "type": "mains"
+        },
+        {
+            "name": "masas de cerdo fritas",
+            "price": 1000,
+            "type": "mains"
+        },
+        {
+            "name": "bistec de cerdo",
+            "price": 300,
+            "type": "mains"
+        },
+        {
+            "name": "pollo asado 1kg",
+            "price": 630,
+            "type": "mains"
+        },
+        {
+            "name": "cerdo asado 400gr",
+            "price": 800,
+            "type": "mains"
+        },
+        {
+            "name": "papas fritas",
+            "price": 215,
+            "type": "sides"
+        },
+        {
+            "name": "ensalada de vegetales",
+            "price": 300,
+            "type": "salads"
+        },
+        {
+            "name": "mermelada con queso",
+            "price": 60,
+            "type": "desserts"
+        },
+        {
+            "name": "arroz con leche",
+            "price": 60,
+            "type": "desserts"
+        },
+        {
+            "name": "dulce de frutabomba",
+            "price": 120,
+            "type": "desserts"
+        },
+        {
+            "name": "jugos naturales",
+            "price": 100,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "cerveza",
+            "price": 120,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "licores nacionales",
+            "price": 20,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "ron havana club reserva",
+            "price": 40,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tequila blanco",
+            "price": 150,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cafe palenque",
+            "price": null,
+            "type": "infusions"
+        },
+        {
+            "name": "cortadito",
+            "price": 60,
+            "type": "infusions"
+        },
+        {
+            "name": "café con leche",
+            "price": 80,
+            "type": "infusions"
+        },
+        {
+            "name": "te",
+            "price": 30,
+            "type": "infusions"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Playa",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.08636901084588,
+        "coords_y": -82.4625362784828
+    }
+}

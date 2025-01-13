@@ -1,0 +1,123 @@
+{
+    "name": "El Rápido",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "07:30",
+        "close": "19:30",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [],
+    "delivery": [],
+    "level": "medium",
+    "payment": [
+        "cash"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Croquetas",
+            "price": 300,
+            "type": "starters"
+        },
+        {
+            "name": "Papas fritas",
+            "price": 360,
+            "type": "starters"
+        },
+        {
+            "name": "Pan con Tortilla",
+            "price": 300,
+            "type": "mains"
+        },
+        {
+            "name": "Pan con Tortilla , Jamón",
+            "price": 360,
+            "type": "mains"
+        },
+        {
+            "name": "Pan con Tortilla, Chorizo",
+            "price": 360,
+            "type": "mains"
+        },
+        {
+            "name": "Pan con Tortilla, Cebolla",
+            "price": 360,
+            "type": "mains"
+        },
+        {
+            "name": "Pan con Tortilla , Queso Gouda",
+            "price": 400,
+            "type": "mains"
+        },
+        {
+            "name": "Espaguetis",
+            "price": 850,
+            "type": "mains"
+        },
+        {
+            "name": "Espaguetis Napolitano",
+            "price": 380,
+            "type": "mains"
+        },
+        {
+            "name": "Espaguetis de chorizo",
+            "price": 1000,
+            "type": "mains"
+        },
+        {
+            "name": "Hamburguesa de Cerdo",
+            "price": 620,
+            "type": "mains"
+        },
+        {
+            "name": "Hamburguesa de Res",
+            "price": 720,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo Chiflado",
+            "price": 750,
+            "type": "mains"
+        },
+        {
+            "name": "Sandwich Cubano",
+            "price": 860,
+            "type": "mains"
+        },
+        {
+            "name": "Pan con Bitec de Cerdo",
+            "price": 750,
+            "type": "mains"
+        }
+    ],
+    "location": {
+        "street": "Cruz del Pader entre Pedrosa y Amenidares",
+        "council": null,
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

@@ -1,0 +1,133 @@
+{
+    "name": "Salchipizza",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "13:00",
+        "close": "23:00",
+        "days": [
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.2,
+    "reviews": 75,
+    "amenities": [
+        "invalid_accessible"
+    ],
+    "fb": "Salchipizza",
+    "ig": "@salchipizza",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "tabla de panes artesanales",
+            "price": 1500,
+            "type": "appetizer"
+        },
+        {
+            "name": "terrina de pescado",
+            "price": 2700,
+            "type": "appetizer"
+        },
+        {
+            "name": "tinaja de carbón con crema Parmentier de verduras de estacion",
+            "price": 2500,
+            "type": "appetizer"
+        },
+        {
+            "name": "ensalada de cerdo guayaba y fruta bomba",
+            "price": 2000,
+            "type": "appetizer"
+        },
+        {
+            "name": "carretón de boniato, rueda de quimbombó y y látigo de carnero ahumado",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "volcán de maíz, lava de pescado ardiente y cenizas de pulpo",
+            "price": 3500,
+            "type": "mains"
+        },
+        {
+            "name": "masa de cerdo con verduras al gratin",
+            "price": 2300,
+            "type": "mains"
+        },
+        {
+            "name": "lasaña de carne a la boloñesa",
+            "price": 1600,
+            "type": "mains"
+        },
+        {
+            "name": "señorita de cerdo con verduras al gratin",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "recuerdos de la infancia",
+            "price": 2000,
+            "type": "desserts"
+        },
+        {
+            "name": "agua",
+            "price": 200,
+            "type": "water"
+        },
+        {
+            "name": "copa de vino",
+            "price": 750,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "copa de champagne",
+            "price": 800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza nacional",
+            "price": 350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza importada",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cafe",
+            "price": 150,
+            "type": "infusions"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.13412923367649,
+        "coords_y": -82.37826298998031
+    }
+}

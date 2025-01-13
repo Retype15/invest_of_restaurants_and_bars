@@ -1,0 +1,103 @@
+{
+    "name": "Allegro",
+    "phone": "7661010",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "state",
+    "cuisine": "italian",
+    "hours": {
+        "open": "12:00",
+        "close": "21:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 20,
+    "reservations": [
+        "others"
+    ],
+    "delivery": [
+        "others"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "card"
+    ],
+    "promo": false,
+    "rating": 4.0,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Crema de queso",
+            "price": 313,
+            "type": "starters"
+        },
+        {
+            "name": "Crema Aurora",
+            "price": 315,
+            "type": "starters"
+        },
+        {
+            "name": "Crema Virginia",
+            "price": 329,
+            "type": "starters"
+        },
+        {
+            "name": "Spaghettis napolitanos",
+            "price": 410,
+            "type": "mains"
+        },
+        {
+            "name": "Spaghettis de jamon",
+            "price": 570,
+            "type": "mains"
+        },
+        {
+            "name": "Lazagna de jamon",
+            "price": 550,
+            "type": "mains"
+        },
+        {
+            "name": "Pizza napolitana",
+            "price": 390,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de jamon",
+            "price": 540,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de chorizo",
+            "price": 588,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de bacon",
+            "price": 735,
+            "type": "pizza"
+        }
+    ],
+    "location": {
+        "street": "Paseo de la Villa, Villa Panamericana",
+        "council": null,
+        "municipe": "Habana del Este",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

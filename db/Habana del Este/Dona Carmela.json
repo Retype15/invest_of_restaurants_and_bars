@@ -1,0 +1,290 @@
+{
+    "name": "Dona Carmela",
+    "phone": "78636048",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "12:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 25,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "card",
+        "cash"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Frituras de malanga y miel",
+            "price": 600,
+            "type": "appetizer"
+        },
+        {
+            "name": "Croquetas de la casa",
+            "price": 600,
+            "type": "appetizer"
+        },
+        {
+            "name": "Caldo de pescado",
+            "price": 600,
+            "type": "soups"
+        },
+        {
+            "name": "Caldo de pollo",
+            "price": 600,
+            "type": "soups"
+        },
+        {
+            "name": "Caldo de mariscos",
+            "price": 700,
+            "type": "soups"
+        },
+        {
+            "name": "Coctel de camarones",
+            "price": 1000,
+            "type": "appetizer"
+        },
+        {
+            "name": "Coctel de pescado",
+            "price": 900,
+            "type": "appetizer"
+        },
+        {
+            "name": "Pulpitos para picar",
+            "price": 1200,
+            "type": "appetizer"
+        },
+        {
+            "name": "Pollo Asado",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo frito",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de cerdo encebollado",
+            "price": 2200,
+            "type": "mains"
+        },
+        {
+            "name": "Costillas fritas",
+            "price": 2400,
+            "type": "mains"
+        },
+        {
+            "name": "Milanesa de cerdo",
+            "price": 2500,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa Vieja de cerdo",
+            "price": 2200,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de pescado grille",
+            "price": 2200,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de pescado gratinado",
+            "price": 2400,
+            "type": "mains"
+        },
+        {
+            "name": "Camaron al ajillo",
+            "price": 2500,
+            "type": "seafood"
+        },
+        {
+            "name": "Camaron a la criolla",
+            "price": 2500,
+            "type": "seafood"
+        },
+        {
+            "name": "Pulpo al ajillo",
+            "price": 2700,
+            "type": "seafood"
+        },
+        {
+            "name": "Pulpo a la criolla",
+            "price": 2700,
+            "type": "seafood"
+        },
+        {
+            "name": "Combinacion Carmela",
+            "price": 4000,
+            "type": "seafood"
+        },
+        {
+            "name": "Cordero al gusto",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "Langosta al gusto",
+            "price": 6000,
+            "type": "seafood"
+        },
+        {
+            "name": "Mariscada",
+            "price": 6000,
+            "type": "seafood"
+        },
+        {
+            "name": "Arroz blanco",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz moro",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "Ensalada mixta",
+            "price": 300,
+            "type": "salads"
+        },
+        {
+            "name": "Frijoles negros",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "Yuca",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "Cappuccino",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cafe Cortado",
+            "price": 250,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cafe Expresso",
+            "price": 200,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cafe con leche",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cervezas",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Refrescos nacionales",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refrescos importados",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua natural de 500ml",
+            "price": 250,
+            "type": "water"
+        },
+        {
+            "name": "Agua narural de 1.5L",
+            "price": 600,
+            "type": "water"
+        },
+        {
+            "name": "Mojito natural",
+            "price": 700,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mojito de la casa",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cuba Libre",
+            "price": 700,
+            "type": "cocktails"
+        },
+        {
+            "name": "Sangria",
+            "price": 800,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cubata",
+            "price": 700,
+            "type": "cocktails"
+        },
+        {
+            "name": "Pina Colada",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "Daiquiri natural",
+            "price": 700,
+            "type": "cocktails"
+        },
+        {
+            "name": "Daiquiri",
+            "price": 800,
+            "type": "cocktails"
+        },
+        {
+            "name": "Postre del dia",
+            "price": 1000,
+            "type": "desserts"
+        }
+    ],
+    "location": {
+        "street": "Casa #10, Comunidad 1, Complejo Morro Cabana, Via Monumental",
+        "council": null,
+        "municipe": "Habana del Este",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

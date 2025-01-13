@@ -1,0 +1,229 @@
+{
+    "name": "Rico Rico",
+    "phone": "78701632",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "italian",
+    "hours": {
+        "open": "09:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "home"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash"
+    ],
+    "promo": false,
+    "rating": 2.4,
+    "reviews": null,
+    "amenities": [
+        "parking"
+    ],
+    "fb": "RicoRicopizzeria",
+    "ig": "@ricoricopizzeria",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Ensalada fria de atun (pequeña)",
+            "price": 645,
+            "type": "starters"
+        },
+        {
+            "name": "Ensalada fria de atun (mediana)",
+            "price": 1200,
+            "type": "starters"
+        },
+        {
+            "name": "Ensalada fria de atun (grande)",
+            "price": 2205,
+            "type": "starters"
+        },
+        {
+            "name": "Ensalada fria de jamon y queso (pequeña)",
+            "price": 495,
+            "type": "starters"
+        },
+        {
+            "name": "Pizzeta de Napole",
+            "price": 230,
+            "type": "starters"
+        },
+        {
+            "name": "Pizzeta de Chorizo",
+            "price": 325,
+            "type": "starters"
+        },
+        {
+            "name": "Bastones de Queso",
+            "price": 780,
+            "type": "starters"
+        },
+        {
+            "name": "Empanadas Gallegas",
+            "price": 380,
+            "type": "starters"
+        },
+        {
+            "name": "Tequeños",
+            "price": 350,
+            "type": "starters"
+        },
+        {
+            "name": "Pizza Napoles",
+            "price": 920,
+            "type": "mains"
+        },
+        {
+            "name": "Pasta Napoles",
+            "price": 920,
+            "type": "mains"
+        },
+        {
+            "name": "Pasta Carbonara",
+            "price": 1000,
+            "type": "mains"
+        },
+        {
+            "name": "Calzone Napoles",
+            "price": 1090,
+            "type": "mains"
+        },
+        {
+            "name": "Megacalzone",
+            "price": 1440,
+            "type": "mains"
+        },
+        {
+            "name": "Lasaña Boloñesa",
+            "price": 1550,
+            "type": "mains"
+        },
+        {
+            "name": "Lasaña de Jamon",
+            "price": 1490,
+            "type": "mains"
+        },
+        {
+            "name": "Aceitunas",
+            "price": 220,
+            "type": "sides"
+        },
+        {
+            "name": "Piña",
+            "price": 220,
+            "type": "sides"
+        },
+        {
+            "name": "Cebolla",
+            "price": 400,
+            "type": "sides"
+        },
+        {
+            "name": "Atun",
+            "price": 550,
+            "type": "sides"
+        },
+        {
+            "name": "Chorizo",
+            "price": 2390,
+            "type": "sides"
+        },
+        {
+            "name": "Bacon",
+            "price": 360,
+            "type": "sides"
+        },
+        {
+            "name": "Jamon",
+            "price": 320,
+            "type": "sides"
+        },
+        {
+            "name": "Jamon serrano",
+            "price": 480,
+            "type": "sides"
+        },
+        {
+            "name": "Parmesano",
+            "price": 350,
+            "type": "sides"
+        },
+        {
+            "name": "Gouda",
+            "price": 360,
+            "type": "sides"
+        },
+        {
+            "name": "Lomo ahumado",
+            "price": 380,
+            "type": "sides"
+        },
+        {
+            "name": "Queso azul",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "Pastelito de ojaldre de guayaba o coco",
+            "price": 260,
+            "type": "desserts"
+        },
+        {
+            "name": "Pastelito de ojaldre de jamon y queso",
+            "price": 280,
+            "type": "desserts"
+        },
+        {
+            "name": "Flan",
+            "price": 590,
+            "type": "desserts"
+        },
+        {
+            "name": "Frappi Rico",
+            "price": 180,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Mega Bati Bati",
+            "price": 990,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Super Bati Bati",
+            "price": 785,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Bati Frutas",
+            "price": 675,
+            "type": "non_alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "Calle Ayestarán entre Perfecto Lacoste y Aranguren",
+        "council": null,
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

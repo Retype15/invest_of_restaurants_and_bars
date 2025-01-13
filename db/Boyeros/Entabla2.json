@@ -1,0 +1,428 @@
+{
+    "name": "Entabla2",
+    "phone": "51744817",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": null,
+        "close": null,
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person",
+        "phone",
+        "others"
+    ],
+    "delivery": [
+        "takeaway",
+        "others"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash"
+    ],
+    "promo": false,
+    "rating": 4.4,
+    "reviews": 75,
+    "amenities": [
+        "outdoor",
+        "parking"
+    ],
+    "fb": "https://www.facebook.com/profile.php?id=61558469293972",
+    "ig": "https://www.instagram.com/entablados.habana/",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Caldo de mariscos",
+            "price": 1200,
+            "type": "starters"
+        },
+        {
+            "name": "Eperlan",
+            "price": 1500,
+            "type": "starters"
+        },
+        {
+            "name": "Tacos de cerdo",
+            "price": 1150,
+            "type": "starters"
+        },
+        {
+            "name": "Tacos de langosta",
+            "price": 950,
+            "type": "starters"
+        },
+        {
+            "name": "Frituras de malanga",
+            "price": 350,
+            "type": "starters"
+        },
+        {
+            "name": "Crujientes de pollo",
+            "price": 800,
+            "type": "starters"
+        },
+        {
+            "name": "Coctel de camarón",
+            "price": 1150,
+            "type": "starters"
+        },
+        {
+            "name": "Ceviche de pescado",
+            "price": 1150,
+            "type": "starters"
+        },
+        {
+            "name": "Coctel de langosta",
+            "price": 1050,
+            "type": "starters"
+        },
+        {
+            "name": "Pan con lechón",
+            "price": 1100,
+            "type": "starters"
+        },
+        {
+            "name": "Huevo hervido",
+            "price": 300,
+            "type": "starters"
+        },
+        {
+            "name": "Huevos fritos",
+            "price": 380,
+            "type": "starters"
+        },
+        {
+            "name": "Revoltillo natural",
+            "price": 380,
+            "type": "starters"
+        },
+        {
+            "name": "Langosta grille",
+            "price": 1950,
+            "type": "seafood"
+        },
+        {
+            "name": "Langosta al ajillo",
+            "price": 1950,
+            "type": "seafood"
+        },
+        {
+            "name": "Langosta enchilada",
+            "price": 2250,
+            "type": "seafood"
+        },
+        {
+            "name": "Camarón enchilado",
+            "price": 2300,
+            "type": "seafood"
+        },
+        {
+            "name": "Camarón grille",
+            "price": 2150,
+            "type": "seafood"
+        },
+        {
+            "name": "Costilla Frita",
+            "price": 2600,
+            "type": "mains"
+        },
+        {
+            "name": "Camarón al ajillo",
+            "price": 2150,
+            "type": "seafood"
+        },
+        {
+            "name": "Fricase de Cerdo",
+            "price": 2250,
+            "type": "mains"
+        },
+        {
+            "name": "Costilla en salsa BBQ",
+            "price": 2680,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec gratinado",
+            "price": 2150,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de cerdo",
+            "price": 1850,
+            "type": "mains"
+        },
+        {
+            "name": "Chuleta de cerdo",
+            "price": 1950,
+            "type": "mains"
+        },
+        {
+            "name": "Masa frita",
+            "price": 2150,
+            "type": "mains"
+        },
+        {
+            "name": "Chuletón de cerdo",
+            "price": 2500,
+            "type": "mains"
+        },
+        {
+            "name": "Super Chuletón Entabla2",
+            "price": 3200,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de pescado al Vino",
+            "price": 2000,
+            "type": "seafood"
+        },
+        {
+            "name": "Filete de pescado Mediterráneo",
+            "price": 2050,
+            "type": "seafood"
+        },
+        {
+            "name": "Filete don Pedro",
+            "price": 2900,
+            "type": "seafood"
+        },
+        {
+            "name": "Lonja de cerdo",
+            "price": 2150,
+            "type": "mains"
+        },
+        {
+            "name": "Vianda hervida con mojo",
+            "price": 200,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz moro",
+            "price": 250,
+            "type": "sides"
+        },
+        {
+            "name": "Ensalada de vegetales",
+            "price": 200,
+            "type": "salads"
+        },
+        {
+            "name": "Arroz blanco",
+            "price": 200,
+            "type": "sides"
+        },
+        {
+            "name": "Copa de Helado",
+            "price": 500,
+            "type": "desserts"
+        },
+        {
+            "name": "Ron Havana Club Ajeño 3 Años",
+            "price": 300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ron Havana Club Ajeño Especial",
+            "price": 300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ginebra Gin MG",
+            "price": 140,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ginebra Beefeater",
+            "price": 240,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ginebra Le Tribute",
+            "price": 490,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Licor Sambuca Extra Molinari",
+            "price": 200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Aguardiente Black Tears",
+            "price": 150,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Copa de Vino Blanco",
+            "price": 450,
+            "type": "wines"
+        },
+        {
+            "name": "Copa de Vino Tinto",
+            "price": 450,
+            "type": "wines"
+        },
+        {
+            "name": "Caipirisima",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cuba Libre",
+            "price": 460,
+            "type": "cocktails"
+        },
+        {
+            "name": "Sangria",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cubata",
+            "price": 480,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipirinha",
+            "price": 550,
+            "type": "cocktails"
+        },
+        {
+            "name": "Canchanchara",
+            "price": 450,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipiroska",
+            "price": 550,
+            "type": "cocktails"
+        },
+        {
+            "name": "Tinto Verano",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "Chelada",
+            "price": 120,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Jugos Naturales",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Suero de Helado",
+            "price": 850,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada Frape",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Batido de frutas naturales",
+            "price": 450,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua 600ml Niágara",
+            "price": 250,
+            "type": "water"
+        },
+        {
+            "name": "Refresco Mirinda",
+            "price": 430,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malteada",
+            "price": 430,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malteada",
+            "price": 780,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Cristal",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Jugo importado Fruta Fresca",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco Pepsi",
+            "price": 430,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco 7up",
+            "price": 430,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Blue",
+            "price": 450,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Malta Turbo",
+            "price": 450,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Café Expreso",
+            "price": 150,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Cortadito",
+            "price": 250,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Bombón",
+            "price": 550,
+            "type": "infusions"
+        },
+        {
+            "name": "Capuchino",
+            "price": 400,
+            "type": "infusions"
+        },
+        {
+            "name": "Café con leche",
+            "price": 400,
+            "type": "infusions"
+        }
+    ],
+    "location": {
+        "street": "Carretera Terminal 2, Aeropuerto Internacional J. Marti",
+        "council": "Calixto Sanchez",
+        "municipe": "Boyeros",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": "23.003753",
+        "coords_y": "-82.395883"
+    }
+}

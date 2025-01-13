@@ -1,0 +1,401 @@
+{
+    "name": "Fénix Dorado",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "chinese",
+    "hours": {
+        "open": "11:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [],
+    "delivery": [],
+    "level": "medium",
+    "payment": [],
+    "promo": false,
+    "rating": 3.5,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Picadera Fénix",
+            "price": 1785.0,
+            "type": "starters"
+        },
+        {
+            "name": "Entremés jamón y aceite",
+            "price": 535.0,
+            "type": "starters"
+        },
+        {
+            "name": "Entremés jamón y queso",
+            "price": 835.0,
+            "type": "starters"
+        },
+        {
+            "name": "Entremés aceitunas",
+            "price": 555.0,
+            "type": "starters"
+        },
+        {
+            "name": "Coctel camarones",
+            "price": 1200.0,
+            "type": "starters"
+        },
+        {
+            "name": "Ensalada fría jamón",
+            "price": 595.0,
+            "type": "starters"
+        },
+        {
+            "name": "Ensalada fría atún",
+            "price": 850.0,
+            "type": "starters"
+        },
+        {
+            "name": "Vianda c/mojo",
+            "price": 315.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tostones nat. ajillo",
+            "price": 495.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tost. rellenos jamoniquesos",
+            "price": 695.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tost. rellenos c/camarón",
+            "price": 835.0,
+            "type": "starters"
+        },
+        {
+            "name": "Mariposas chinas",
+            "price": 375.0,
+            "type": "starters"
+        },
+        {
+            "name": "Ensalada mixta",
+            "price": 360.0,
+            "type": "starters"
+        },
+        {
+            "name": "Sopa Fénix",
+            "price": 895.0,
+            "type": "starters"
+        },
+        {
+            "name": "Fritura malanga",
+            "price": 510.0,
+            "type": "starters"
+        },
+        {
+            "name": "Bistec cerdo grille",
+            "price": 1625.0,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec cerdo encebollado",
+            "price": 1885.0,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa vieja",
+            "price": 2535.0,
+            "type": "mains"
+        },
+        {
+            "name": "Camarón grille",
+            "price": 2785.0,
+            "type": "mains"
+        },
+        {
+            "name": "Camarón al ajillo",
+            "price": 2950.0,
+            "type": "mains"
+        },
+        {
+            "name": "Camarón enchilado",
+            "price": 3120.0,
+            "type": "mains"
+        },
+        {
+            "name": "Filete pescado grille",
+            "price": 2675.0,
+            "type": "mains"
+        },
+        {
+            "name": "Filete sensación",
+            "price": 3000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Filete terraza",
+            "price": 3940.0,
+            "type": "mains"
+        },
+        {
+            "name": "Chop suey camarón",
+            "price": 2970.0,
+            "type": "mains"
+        },
+        {
+            "name": "Chop suey pollo",
+            "price": 1995.0,
+            "type": "mains"
+        },
+        {
+            "name": "Chop suey cerdo",
+            "price": 2205.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo grille",
+            "price": 3975.0,
+            "type": "mains"
+        },
+        {
+            "name": "Plancha de mar",
+            "price": 5255.0,
+            "type": "mains"
+        },
+        {
+            "name": "Masas cerdo ftas (1.5b)",
+            "price": 4550.0,
+            "type": "mains"
+        },
+        {
+            "name": "Brochetas cerdo (1.56)",
+            "price": 4650.0,
+            "type": "mains"
+        },
+        {
+            "name": "Plancha mar y tierra",
+            "price": 5255.0,
+            "type": "mains"
+        },
+        {
+            "name": "Corona fenix",
+            "price": 5965.0,
+            "type": "mains"
+        },
+        {
+            "name": "Zarzuela de mariscos",
+            "price": 5455.0,
+            "type": "mains"
+        },
+        {
+            "name": "Mucho cerdo (3 lb)",
+            "price": 8550.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pizza c/queso gouda",
+            "price": 1120.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza c/queso blanco",
+            "price": 695.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Haw. queso blanco",
+            "price": 1145.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Haw. queso gouda",
+            "price": 1570.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Espag. nap. c/queso gouda",
+            "price": 995.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Espag. nap. c/queso bco",
+            "price": 645.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Pimiento",
+            "price": 200.0,
+            "type": "sides"
+        },
+        {
+            "name": "Cebolla",
+            "price": 200.0,
+            "type": "sides"
+        },
+        {
+            "name": "Piña",
+            "price": 200.0,
+            "type": "sides"
+        },
+        {
+            "name": "Jamón",
+            "price": 250.0,
+            "type": "sides"
+        },
+        {
+            "name": "Chorizo",
+            "price": 300.0,
+            "type": "sides"
+        },
+        {
+            "name": "Queso bco",
+            "price": 295.0,
+            "type": "sides"
+        },
+        {
+            "name": "Queso gouda",
+            "price": 520.0,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz frito Fénix",
+            "price": 1120.0,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz frito Fénix especial",
+            "price": 1540.0,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz frito Fénix esp. familiar",
+            "price": 2810.0,
+            "type": "sides"
+        },
+        {
+            "name": "Paella Fénix",
+            "price": 2920.0,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz moro",
+            "price": 335.0,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz blanco",
+            "price": 265.0,
+            "type": "sides"
+        },
+        {
+            "name": "Cerveza Corona",
+            "price": 480.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Nacional",
+            "price": 360.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Importada",
+            "price": 280.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Refresco Nacional",
+            "price": 310.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco Importado",
+            "price": 350.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta",
+            "price": 340.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Energizante",
+            "price": 500.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Nectar frutas",
+            "price": 340.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Aquia Nat, importada 500ml",
+            "price": 250.0,
+            "type": "water"
+        },
+        {
+            "name": "Ama Nat. Nacional 500ml",
+            "price": 210.0,
+            "type": "water"
+        },
+        {
+            "name": "Café expreso",
+            "price": 220.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Café americano",
+            "price": 220.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Café carajillo",
+            "price": 320.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Vino (bot)",
+            "price": 2500.0,
+            "type": "wines"
+        },
+        {
+            "name": "Copa heilada",
+            "price": 500.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Malteada",
+            "price": 600.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Batido helado",
+            "price": 540.0,
+            "type": "cocktails"
+        }
+    ],
+    "location": {
+        "street": "Cuchillo entre San Nicolás y Rayo",
+        "council": null,
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

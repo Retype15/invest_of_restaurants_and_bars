@@ -1,0 +1,298 @@
+{
+    "name": "Doña Lis Pizza",
+    "phone": "5510909",
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "10:30",
+        "close": "24:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "others"
+    ],
+    "delivery": [
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "transfer",
+        "cash"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 30,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Croquetas",
+            "price": 400.0,
+            "type": "starters"
+        },
+        {
+            "name": "Bolitas de queso/jamón",
+            "price": 500.0,
+            "type": "starters"
+        },
+        {
+            "name": "Bolitas de pescado",
+            "price": 450.0,
+            "type": "starters"
+        },
+        {
+            "name": "Frituras Malanga",
+            "price": 350.0,
+            "type": "starters"
+        },
+        {
+            "name": "Papas fritas",
+            "price": 500.0,
+            "type": "starters"
+        },
+        {
+            "name": "Fajitas de pollo",
+            "price": 600.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tostones rellenos",
+            "price": 500.0,
+            "type": "starters"
+        },
+        {
+            "name": "Nachos",
+            "price": 300.0,
+            "type": "starters"
+        },
+        {
+            "name": "Ración Yuca/Mojo",
+            "price": 250.0,
+            "type": "starters"
+        },
+        {
+            "name": "Don Hamburgueso/Vianda frita",
+            "price": 550.0,
+            "type": "mains"
+        },
+        {
+            "name": "Hamburguesa Doña Lis/Vianda frita",
+            "price": 1000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Cheeseburger/Vianda frita",
+            "price": 650.0,
+            "type": "mains"
+        },
+        {
+            "name": "Sándwich Atún/Vianda frita",
+            "price": 650.0,
+            "type": "mains"
+        },
+        {
+            "name": "Sándwich Jamón y Queso/Vianda frita",
+            "price": 550.0,
+            "type": "mains"
+        },
+        {
+            "name": "Sándwich Pollo y Vegetales/Vianda frita",
+            "price": 650.0,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos al Pastor",
+            "price": 700.0,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos Cerdo",
+            "price": 800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos Pollo/Vegetales",
+            "price": 700.0,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos de pescado",
+            "price": 750.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga Grillé",
+            "price": 800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga empanada",
+            "price": 850.0,
+            "type": "mains"
+        },
+        {
+            "name": "Fajitas salteadas",
+            "price": 700.0,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de cerdo",
+            "price": 900.0,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de cerdo gratinado",
+            "price": 1000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de pescado grillé",
+            "price": 900.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pizza napolitana",
+            "price": 650.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Margarita",
+            "price": 700.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Hawaiana",
+            "price": 900.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Doña Lis",
+            "price": 1400.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pasta Napolitana",
+            "price": 500.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta Vegetariana",
+            "price": 650.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Lasaña",
+            "price": 800.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Pote de helado",
+            "price": 750.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Paleta de helado",
+            "price": 200.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Servicio Michelada",
+            "price": 300.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Servicio Chelada",
+            "price": 200.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Nacional",
+            "price": 300.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza de botella",
+            "price": 300.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Importada",
+            "price": 280.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Jugo natural",
+            "price": 150.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Batido de fruta",
+            "price": 350.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Batido de Trigo",
+            "price": 500.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malteada",
+            "price": 500.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Batido de Helado",
+            "price": 500.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada Frappé",
+            "price": 300.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta",
+            "price": 300.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Energizante",
+            "price": 250.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco",
+            "price": 280.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua",
+            "price": 180.0,
+            "type": "water"
+        }
+    ],
+    "location": {
+        "street": "1169 A Neptuno",
+        "council": null,
+        "municipe": "Plaza de la Revolucion",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

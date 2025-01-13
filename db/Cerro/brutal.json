@@ -1,0 +1,324 @@
+{
+    "name": "Brutal Habana",
+    "phone": "050989151",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "12:00",
+        "close": "00:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [],
+    "delivery": [
+        "takeaway",
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "outdoor"
+    ],
+    "fb": null,
+    "ig": "https://www.instagram.com/brutal_habana?igsh=aGtpOXVkdnlpaTA=",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Brutal Junior",
+            "price": 550.0,
+            "type": "mains"
+        },
+        {
+            "name": "Combo Brutal Junior",
+            "price": 2550.0,
+            "type": "mains"
+        },
+        {
+            "name": "Batido de Helado",
+            "price": 1000.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Batido de Helado con Gomitas",
+            "price": 1400.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Batido de Helado BRUTAL",
+            "price": 2000.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Papas Fritas (Medias) 100g",
+            "price": 300.0,
+            "type": "sides"
+        },
+        {
+            "name": "Papas Fritas (Normal) 200g",
+            "price": 600.0,
+            "type": "sides"
+        },
+        {
+            "name": "SalchiPapas",
+            "price": 500.0,
+            "type": "sides"
+        },
+        {
+            "name": "SalchiPapas BRUTAL",
+            "price": 1400.0,
+            "type": "sides"
+        },
+        {
+            "name": "Croquetas de Pollo x 5",
+            "price": 175.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Croquetas de Pollo x 10",
+            "price": 350.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Cebolla",
+            "price": 100,
+            "type": "others"
+        },
+        {
+            "name": "Pepinillo",
+            "price": 5100,
+            "type": "others"
+        },
+        {
+            "name": "Pimiento",
+            "price": 5100,
+            "type": "others"
+        },
+        {
+            "name": "Tomate",
+            "price": 100,
+            "type": "others"
+        },
+        {
+            "name": "Aceituna",
+            "price": 100,
+            "type": "others"
+        },
+        {
+            "name": "Lechuga",
+            "price": 50,
+            "type": "others"
+        },
+        {
+            "name": "Pozuelo, Tenedor",
+            "price": 120,
+            "type": "others"
+        },
+        {
+            "name": "Termopack",
+            "price": 100,
+            "type": "others"
+        },
+        {
+            "name": "Baguette",
+            "price": 5150,
+            "type": "others"
+        },
+        {
+            "name": "Suave",
+            "price": 120,
+            "type": "others"
+        },
+        {
+            "name": "Croissant",
+            "price": 450,
+            "type": "others"
+        },
+        {
+            "name": "Pan de Hamburguesa",
+            "price": 150,
+            "type": "others"
+        },
+        {
+            "name": "Hamburguesa Brutal",
+            "price": 3200,
+            "type": "mains"
+        },
+        {
+            "name": "Baguette Brutal",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "SalchiPapas Brutal",
+            "price": 1400,
+            "type": "sides"
+        },
+        {
+            "name": "Papas Fritas Brutal",
+            "price": 1100,
+            "type": "sides"
+        },
+        {
+            "name": "Agrego de Nutella",
+            "price": 50,
+            "type": "others"
+        },
+        {
+            "name": "Agrego de Gomita",
+            "price": 400,
+            "type": "others"
+        },
+        {
+            "name": "Papas Fritas Medias",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "Papas Fritas Normales",
+            "price": 600,
+            "type": "sides"
+        },
+        {
+            "name": "SalchiPapas",
+            "price": 500,
+            "type": "sides"
+        },
+        {
+            "name": "Fajitas de Pechuga con Papas Fritas",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "Croquetas de Pollo (5 unidades)",
+            "price": 175,
+            "type": "appetizer"
+        },
+        {
+            "name": "Croquetas de Pollo (10 unidades)",
+            "price": 350,
+            "type": "appetizer"
+        },
+        {
+            "name": "Jamón Barra York",
+            "price": 240,
+            "type": "others"
+        },
+        {
+            "name": "Bacon",
+            "price": 260,
+            "type": "others"
+        },
+        {
+            "name": "Jamón Ahumado 1964",
+            "price": 350,
+            "type": "others"
+        },
+        {
+            "name": "Chorizo Ibérico",
+            "price": 350,
+            "type": "others"
+        },
+        {
+            "name": "Salchichón Natural",
+            "price": 370,
+            "type": "others"
+        },
+        {
+            "name": "Jamón Serrano",
+            "price": 500,
+            "type": "others"
+        },
+        {
+            "name": "Jamón Pastrami de Ternera",
+            "price": 500,
+            "type": "others"
+        },
+        {
+            "name": "Jamón de Pechuga de Pollo",
+            "price": 500,
+            "type": "others"
+        },
+        {
+            "name": "Lomo de Cerdo Disco",
+            "price": 500,
+            "type": "others"
+        },
+        {
+            "name": "Pasta de Atún",
+            "price": 820,
+            "type": "others"
+        },
+        {
+            "name": "Hamburguesa Sencilla",
+            "price": 1100,
+            "type": "mains"
+        },
+        {
+            "name": "Queso Blanco",
+            "price": 135,
+            "type": "others"
+        },
+        {
+            "name": "Queso Cheddar",
+            "price": 190,
+            "type": "others"
+        },
+        {
+            "name": "Queso Cheddar Fundido",
+            "price": 210,
+            "type": "others"
+        },
+        {
+            "name": "Queso Curado con Trufas",
+            "price": 240,
+            "type": "others"
+        },
+        {
+            "name": "Queso Azul Gorgonzola",
+            "price": 300,
+            "type": "others"
+        },
+        {
+            "name": "Queso Gouda",
+            "price": 350,
+            "type": "others"
+        },
+        {
+            "name": "Queso Cheddar",
+            "price": 350,
+            "type": "others"
+        },
+        {
+            "name": "Queso Blanco Lombardo",
+            "price": 650,
+            "type": "others"
+        }
+    ],
+    "location": {
+        "street": "Infanta esquina Calle Universidad",
+        "council": null,
+        "municipe": "Cerro",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

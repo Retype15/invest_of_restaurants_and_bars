@@ -1,0 +1,721 @@
+{
+    "name": "El Biky",
+    "phone": "(+53) 7870 6515",
+    "email": null,
+    "web": "elbiky.com",
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "08:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "home"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "card",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": null,
+    "amenities": [
+        "parking"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Croqueticas de la casa",
+            "price": 700.0,
+            "type": "starters"
+        },
+        {
+            "name": "Frituras de Malanga",
+            "price": 500.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tostones rellenos de jamón",
+            "price": 2000.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tostones rellenos de ropa vieja",
+            "price": 2200.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tostones rellenos mixtos",
+            "price": 2200.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tostones rellenos de atún",
+            "price": 2200.0,
+            "type": "starters"
+        },
+        {
+            "name": "Sándwich de jamón en pan baguette (con viandas fritas)",
+            "price": 700,
+            "type": "starters"
+        },
+        {
+            "name": "Sándwich de queso en pan baguette (con viandas fritas)",
+            "price": 1400,
+            "type": "starters"
+        },
+        {
+            "name": "Sándwich de jamón y queso en pan baguette (con viandas fritas)",
+            "price": 1200,
+            "type": "starters"
+        },
+        {
+            "name": "Baguette con lomo de cerdo (con viandas fritas)",
+            "price": 3500.0,
+            "type": "starters"
+        },
+        {
+            "name": "Baguette de atún",
+            "price": 1900.0,
+            "type": "starters"
+        },
+        {
+            "name": "Baguette catalana (jamón serrano con viandas fritas)",
+            "price": 1800.0,
+            "type": "starters"
+        },
+        {
+            "name": "Baguette de pollo (pechuga de pollo con viandas fritas)",
+            "price": 1900.0,
+            "type": "starters"
+        },
+        {
+            "name": "Baguette cubano (cerdo asado, jamón ahumado y queso)",
+            "price": 1393.0,
+            "type": "starters"
+        },
+        {
+            "name": "Pepito de filete de res (filete de res con vegetales y viandas fritas)",
+            "price": 5000.0,
+            "type": "starters"
+        },
+        {
+            "name": "Hamburguesa de carne (res) con vegetales y vianda frita",
+            "price": 2740.0,
+            "type": "starters"
+        },
+        {
+            "name": "Cheeseburger (res) con queso, vegetales y vianda frita",
+            "price": 2950.0,
+            "type": "starters"
+        },
+        {
+            "name": "Hamburguesa especial (res) con jamón, queso, bacon y vegetales",
+            "price": 3700.0,
+            "type": "starters"
+        },
+        {
+            "name": "Crema de Queso",
+            "price": 850.0,
+            "type": "starters"
+        },
+        {
+            "name": "Crema Reina",
+            "price": 850.0,
+            "type": "starters"
+        },
+        {
+            "name": "Crema Aurora",
+            "price": 850.0,
+            "type": "starters"
+        },
+        {
+            "name": "Crema Virginia",
+            "price": 850.0,
+            "type": "starters"
+        },
+        {
+            "name": "Carpaccio de Pulpo aderezado de aceite extra virgen de olivas",
+            "price": 2300.0,
+            "type": "mains"
+        },
+        {
+            "name": "Carpaccio de Res",
+            "price": 3800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Ceviche de Camarones",
+            "price": 2800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Coctel de Camarones en Salsa Rosa",
+            "price": 2400.0,
+            "type": "mains"
+        },
+        {
+            "name": "Fajitas de pollo",
+            "price": 1300.0,
+            "type": "mains"
+        },
+        {
+            "name": "Ceviche de Pescado",
+            "price": 2650.0,
+            "type": "mains"
+        },
+        {
+            "name": "Esperlan de pescado",
+            "price": 1300.0,
+            "type": "mains"
+        },
+        {
+            "name": "Esperlan de langosta",
+            "price": 2900.0,
+            "type": "mains"
+        },
+        {
+            "name": "Rosa de salmón ahumado",
+            "price": 4100.0,
+            "type": "mains"
+        },
+        {
+            "name": "Surtido de Quesos",
+            "price": 2200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pimientos Piquillos Rellenos (queso crema, atún y vegetales)",
+            "price": 1950.0,
+            "type": "mains"
+        },
+        {
+            "name": "Entremes de Jamón Serrano",
+            "price": 2000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Cazuela de Garbanzos",
+            "price": 2100.0,
+            "type": "mains"
+        },
+        {
+            "name": "Lasaña Bolognesa",
+            "price": 3800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pizza de Queso",
+            "price": 1300,
+            "type": "mains"
+        },
+        {
+            "name": "Espaguetis a la Carbonara",
+            "price": 3000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Espaguetis con Jamón y Queso",
+            "price": 1250.0,
+            "type": "mains"
+        },
+        {
+            "name": "Espaguetis Napolitanos",
+            "price": 970,
+            "type": "mains"
+        },
+        {
+            "name": "Espaguetis Bolognesa",
+            "price": 2500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Espaguetis con Atún",
+            "price": 2400.0,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de Cerdo a la plancha",
+            "price": 3500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo de Cerdo Grille",
+            "price": 3500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Masas de Cerdo Fritas",
+            "price": 2800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Chuleta de Cerdo Frita",
+            "price": 2300.0,
+            "type": "mains"
+        },
+        {
+            "name": "Escalope de Cerdo",
+            "price": 3900,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo Grille",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "Gorden Blue",
+            "price": 2400,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de Pescado",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de Salmón",
+            "price": 5500,
+            "type": "mains"
+        },
+        {
+            "name": "Zalzuela de Mariscos",
+            "price": 6000,
+            "type": "mains"
+        },
+        {
+            "name": "Solomillo de Res",
+            "price": 6800,
+            "type": "mains"
+        },
+        {
+            "name": "Pulpo",
+            "price": 5800,
+            "type": "mains"
+        },
+        {
+            "name": "Ración de Jamón",
+            "price": 350.0,
+            "type": "sides"
+        },
+        {
+            "name": "Ración de Pimientos",
+            "price": 250.0,
+            "type": "sides"
+        },
+        {
+            "name": "Ración de Bacón",
+            "price": 1300.0,
+            "type": "sides"
+        },
+        {
+            "name": "Ración de Queso Gouda",
+            "price": 750.0,
+            "type": "sides"
+        },
+        {
+            "name": "Ración de Salsa Boloñesa",
+            "price": 1100.0,
+            "type": "sides"
+        },
+        {
+            "name": "Ración de Aceitunas",
+            "price": 400.0,
+            "type": "sides"
+        },
+        {
+            "name": "Ración de Champiñones",
+            "price": 400.0,
+            "type": "sides"
+        },
+        {
+            "name": "Ración de Jamón Serrano",
+            "price": 1100.0,
+            "type": "sides"
+        },
+        {
+            "name": "Ración de Atún",
+            "price": 1600.0,
+            "type": "sides"
+        },
+        {
+            "name": "Ración de Camarón",
+            "price": 2150.0,
+            "type": "sides"
+        },
+        {
+            "name": "Ración de Chorizo Vela",
+            "price": 2000.0,
+            "type": "sides"
+        },
+        {
+            "name": "Ración Queso Parmesano",
+            "price": 950.0,
+            "type": "sides"
+        },
+        {
+            "name": "Ensalada de Vegetales, vegetales de estación",
+            "price": 1000.0,
+            "type": "salads"
+        },
+        {
+            "name": "Ensalada Mixta Vegetal (Queso, atún, huevo y cebolla)",
+            "price": 2300.0,
+            "type": "salads"
+        },
+        {
+            "name": "Ensalada Fría de Pasta (De la casa) Italiana",
+            "price": 900.0,
+            "type": "salads"
+        },
+        {
+            "name": "Ración de Arroz Blanco",
+            "price": 140.0,
+            "type": "sides"
+        },
+        {
+            "name": "Ración de Arroz Mongol",
+            "price": 180.0,
+            "type": "sides"
+        },
+        {
+            "name": "Ensalada Verde",
+            "price": 200.0,
+            "type": "salads"
+        },
+        {
+            "name": "Papas Fritas",
+            "price": 1300.0,
+            "type": "sides"
+        },
+        {
+            "name": "Puré de Malanga",
+            "price": 650.0,
+            "type": "sides"
+        },
+        {
+            "name": "Flan de Caramelo",
+            "price": 400.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Cheesecake",
+            "price": 920.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Bizcocho con helado",
+            "price": 720.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Copa Tres Leches",
+            "price": 960.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Pie de Limón",
+            "price": 1100.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Helado Sencillo",
+            "price": 420.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Jimaguas",
+            "price": 740.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Tres Gracias",
+            "price": 680.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Copa Lolita (Helado con Flan)",
+            "price": 860.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Ensalada de Helado",
+            "price": 900.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Batido de Helado",
+            "price": 850.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Suero de Helado",
+            "price": 970.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Ron Collis",
+            "price": 750.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Limonada Clarete",
+            "price": 2000.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Sangría",
+            "price": 750.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cuba Libre",
+            "price": 1800.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mary Pickford",
+            "price": 750.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cuba Bella",
+            "price": 750.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Majto",
+            "price": 750.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Daiquiri Rebelde",
+            "price": 750.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Havana Special",
+            "price": 750.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "B-52",
+            "price": 800.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Piña Colada",
+            "price": 1000.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Bloody Mary",
+            "price": 800.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Manhattan",
+            "price": 900.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cantharchars",
+            "price": 750.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Martini",
+            "price": 800.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "San Francisco",
+            "price": 400.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Colada",
+            "price": 400.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Miami Vice",
+            "price": 400.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Virgin Maria",
+            "price": 400.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "47'S Frozen",
+            "price": 400.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua Gaseosa Importada",
+            "price": 550.0,
+            "type": "water"
+        },
+        {
+            "name": "Agua Natural sin gas",
+            "price": 440.0,
+            "type": "water"
+        },
+        {
+            "name": "Agua Tónica",
+            "price": 1000.0,
+            "type": "water"
+        },
+        {
+            "name": "Refrescos",
+            "price": 550.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta",
+            "price": 650.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cervezas",
+            "price": 1200.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Jarra de Cerveza",
+            "price": 400.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Vaso de Cerveza",
+            "price": 350.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Red Bull",
+            "price": 1200.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Kermato",
+            "price": 1200.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada",
+            "price": 720.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada Fresca",
+            "price": 850.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugos de Frutas Naturales",
+            "price": 500.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Batidos de Frutas Naturales",
+            "price": 600.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Copa de Vino",
+            "price": 1500.0,
+            "type": "wines"
+        },
+        {
+            "name": "Copa de vino digestivo dulce (50ml)",
+            "price": 1200.0,
+            "type": "wines"
+        },
+        {
+            "name": "Michelada",
+            "price": 250.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Chelada",
+            "price": 200.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Vaso de Leche",
+            "price": 200.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Café Expreso",
+            "price": 170.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Americano",
+            "price": 170.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Cortado",
+            "price": 200.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Café con Leche",
+            "price": 270.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Carajillo",
+            "price": 400.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Bombón",
+            "price": 400.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Capuchino",
+            "price": 310.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Té",
+            "price": 150.0,
+            "type": "infusions"
+        }
+    ],
+    "location": {
+        "street": "Infanta Nº412 e/ San Lázaro y Concordia",
+        "council": null,
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

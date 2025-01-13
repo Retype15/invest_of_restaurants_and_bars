@@ -1,0 +1,254 @@
+{
+    "name": "Fiesta Criolla",
+    "phone": "52413555",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "12:00",
+        "close": "24:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "others"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Toston criollo",
+            "price": 500.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Toston relleno con Jamon y Queso",
+            "price": 600.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Toston relleno con Atun",
+            "price": 700.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Eperlan",
+            "price": 1300.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Fajitas de pollo",
+            "price": 1300.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Caldo de Mariscos",
+            "price": 1000.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Camaron Rebosado",
+            "price": 2000.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tamal en Hojas",
+            "price": 90.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Fritura de Malanga",
+            "price": 500.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Platano Frito",
+            "price": 350.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Alitas de Pollo",
+            "price": 850.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Pollo Asado",
+            "price": 1150.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga Grillé",
+            "price": 1450.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga Gratinada Jamón y Queso",
+            "price": 1600.0,
+            "type": "mains"
+        },
+        {
+            "name": "Chuleta",
+            "price": 1350.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga Salteada con vegetales",
+            "price": 1550.0,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo Ahumado",
+            "price": 1350.0,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo deshuesado ahumado",
+            "price": 1550.0,
+            "type": "mains"
+        },
+        {
+            "name": "Costillas Fritas",
+            "price": 1400.0,
+            "type": "mains"
+        },
+        {
+            "name": "Masa Frita",
+            "price": 1550.0,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec Grillé",
+            "price": 1450.0,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec Gratinado de Jamón y Queso",
+            "price": 1600.0,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa Vieja",
+            "price": 1500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Suprema carnero",
+            "price": 1800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Fricasé de Carnero",
+            "price": 1500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Camarón grillé",
+            "price": 1900.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Langosta grillé",
+            "price": 1900.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Pulpo grillé",
+            "price": 2000.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Pescado grillé",
+            "price": 1300.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Rueda pescado grillé",
+            "price": 1300.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Pescado Grillé gratinado con Jamón y Queso",
+            "price": 1450.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Don Pedro",
+            "price": 2300.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Masa de cangrejo",
+            "price": 1050.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Caldero de mariscos",
+            "price": 3500.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Mar y tierra",
+            "price": 3950.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Paella",
+            "price": 2300.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Mariscada",
+            "price": 2500.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Spaguetis Napolitanos",
+            "price": 1000.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Spaguetis con Jamón y Queso",
+            "price": 1250.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Dulce Tres Leches",
+            "price": 350.0,
+            "type": "desserts"
+        }
+    ],
+    "location": {
+        "street": "Calle 100 #1003 (después del puente de calabazar)",
+        "council": null,
+        "municipe": "Arroyo Naranjo",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

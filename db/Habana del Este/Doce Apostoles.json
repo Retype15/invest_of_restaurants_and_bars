@@ -1,0 +1,184 @@
+{
+    "name": "Los Doce Apostoles",
+    "phone": "77937733",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "state",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "12:00",
+        "close": "24:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 60,
+    "reservations": [
+        "others"
+    ],
+    "delivery": [
+        "others"
+    ],
+    "level": "medium",
+    "payment": [
+        "card"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": "Restaurante Doce Apostoles",
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Entremes de jamon y queso",
+            "price": 400,
+            "type": "starters"
+        },
+        {
+            "name": "Eperlan de pescado",
+            "price": 550,
+            "type": "starters"
+        },
+        {
+            "name": "Anillas de calamar",
+            "price": 550,
+            "type": "starters"
+        },
+        {
+            "name": "Alitas de pollo",
+            "price": 450,
+            "type": "starters"
+        },
+        {
+            "name": "Nuggets de pollo",
+            "price": 250,
+            "type": "starters"
+        },
+        {
+            "name": "Picadera especial",
+            "price": 600,
+            "type": "starters"
+        },
+        {
+            "name": "Pollo grille",
+            "price": 700,
+            "type": "mains"
+        },
+        {
+            "name": "Fajitas de res",
+            "price": 950,
+            "type": "mains"
+        },
+        {
+            "name": "Steak de res",
+            "price": 950,
+            "type": "mains"
+        },
+        {
+            "name": "Fajitas de cerdo",
+            "price": 800,
+            "type": "mains"
+        },
+        {
+            "name": "Masas de cerdo",
+            "price": 900,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de pescado",
+            "price": 900,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado del Chef",
+            "price": 1100,
+            "type": "mains"
+        },
+        {
+            "name": "Gambas al grill",
+            "price": 1200,
+            "type": "mains"
+        },
+        {
+            "name": "Cerveza dispensada",
+            "price": 190,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza importada",
+            "price": 220,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza nacional",
+            "price": 215,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Maltas",
+            "price": 210,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Maltina Perla Negra",
+            "price": 180,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugo natural en caja",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refrescos nacionales",
+            "price": 280,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Vino tinto (copa)",
+            "price": 200,
+            "type": "wines"
+        },
+        {
+            "name": "Ron Habana Club Anejo Blanco (shot)",
+            "price": 80,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ron Habana Club profundo (shot)",
+            "price": 160,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ron Habana Club Selección de Maestro (shot)",
+            "price": 350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ron Cubay carta blanca (shot)",
+            "price": 100,
+            "type": "alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "Complejo Morro Cabana,Via Monumental",
+        "council": null,
+        "municipe": "Habana del Este",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

@@ -1,0 +1,143 @@
+{
+    "name": "Cafe Bulevar",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "11:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 3.4,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "ensalada de estacion",
+            "price": 200,
+            "type": "appetizer"
+        },
+        {
+            "name": "papas fritas",
+            "price": 150,
+            "type": "appetizer"
+        },
+        {
+            "name": "caldosa boulevard",
+            "price": 200,
+            "type": "mains"
+        },
+        {
+            "name": "arroz con subproductos",
+            "price": 300,
+            "type": "mains"
+        },
+        {
+            "name": "fajitas de cerdo",
+            "price": 1350,
+            "type": "mains"
+        },
+        {
+            "name": "fajitas de pollo",
+            "price": 1300,
+            "type": "mains"
+        },
+        {
+            "name": "filete de merluza",
+            "price": 550,
+            "type": "mains"
+        },
+        {
+            "name": "jugo de fruta",
+            "price": 100,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "cerveza importada",
+            "price": 180,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "vino tinto cabernet",
+            "price": 1340,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "licor paso pondal (30ml)",
+            "price": 75,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "licor fenet blanca (30ml)",
+            "price": 75,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "grappa carolina bianca (30ml)",
+            "price": 75,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "ron legendario añejo (45ml)",
+            "price": 90,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "ron legendario dorado (45ml)",
+            "price": 100,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "trago legendario ronse (45ml)",
+            "price": 75,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "licor de cafe (30ml)",
+            "price": 75,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "copa de vino blanco (125ml)",
+            "price": 145,
+            "type": "alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.136606572526283,
+        "coords_y": -82.36299826271366
+    }
+}

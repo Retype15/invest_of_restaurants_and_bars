@@ -1,0 +1,171 @@
+{
+    "name": "D'Mitu",
+    "phone": "76988258",
+    "email": null,
+    "web": "https://pizzeria-dmitu.ola.click",
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "italian",
+    "hours": {
+        "open": "10:00",
+        "close": "22:00",
+        "days": [
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "home",
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "card",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.4,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Pizza Hawaiana",
+            "price": 520,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Chorizo",
+            "price": 500,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Jamon",
+            "price": 490,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Queso",
+            "price": 380,
+            "type": "pizza"
+        },
+        {
+            "name": "Super Pizza Mixta",
+            "price": 900,
+            "type": "pizza"
+        },
+        {
+            "name": "Super Pizza Hawaiana",
+            "price": 800,
+            "type": "pizza"
+        },
+        {
+            "name": "Super Pizza de Chorizo",
+            "price": 780,
+            "type": "pizza"
+        },
+        {
+            "name": "Super Pizza de Jamon",
+            "price": 750,
+            "type": "pizza"
+        },
+        {
+            "name": "Super Pizza de Queso",
+            "price": 600,
+            "type": "pizza"
+        },
+        {
+            "name": "Canelones",
+            "price": 450,
+            "type": "pasta"
+        },
+        {
+            "name": "Lasaña",
+            "price": 500,
+            "type": "pasta"
+        },
+        {
+            "name": "Raviolis",
+            "price": 650,
+            "type": "pasta"
+        },
+        {
+            "name": "Farfalle",
+            "price": 500,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis",
+            "price": 500,
+            "type": "pasta"
+        },
+        {
+            "name": "Pizza Familiar mixta Con bordes jamon y queso",
+            "price": 1200,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Familiar mixta Sin bordes jamon y queso",
+            "price": 1000,
+            "type": "pizza"
+        },
+        {
+            "name": "Pastelon",
+            "price": 850,
+            "type": "mains"
+        },
+        {
+            "name": "Fugazzeta D'Mitu",
+            "price": 980,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Sol",
+            "price": 750,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza D'Mitu",
+            "price": 380,
+            "type": "pizza"
+        },
+        {
+            "name": "Takazo",
+            "price": 600,
+            "type": "pizza"
+        },
+        {
+            "name": "Calzone D'Mitu",
+            "price": 480,
+            "type": "pizza"
+        },
+        {
+            "name": "Super Takaso",
+            "price": 950,
+            "type": "pizza"
+        }
+    ],
+    "location": {
+        "street": "Calle 1ra #64 Altos entre Gertrudis y Lagueruela",
+        "council": "La Víbora",
+        "municipe": "Diez de Octubre",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

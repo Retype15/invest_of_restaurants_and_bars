@@ -1,0 +1,96 @@
+{
+    "name": "Don Timbon",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "09:00",
+        "close": "22:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 12,
+    "reservations": [],
+    "delivery": [],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "pet_friendly"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "hamburguesa sencilla",
+            "price": 350,
+            "type": "mains"
+        },
+        {
+            "name": "pan con bistec",
+            "price": 550,
+            "type": "sandwich"
+        },
+        {
+            "name": "arroz salteado",
+            "price": 500,
+            "type": "mains"
+        },
+        {
+            "name": "lasaña",
+            "price": 550,
+            "type": "pasta"
+        },
+        {
+            "name": "espaguetti",
+            "price": 300,
+            "type": "pasta"
+        },
+        {
+            "name": "pizza napolitana",
+            "price": 160,
+            "type": "pizza"
+        },
+        {
+            "name": "jamón",
+            "price": 80,
+            "type": "others"
+        },
+        {
+            "name": "chorizo",
+            "price": 100,
+            "type": "others"
+        },
+        {
+            "name": "atún",
+            "price": 100,
+            "type": "others"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "San Miguel del Padron",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

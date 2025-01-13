@@ -1,0 +1,118 @@
+{
+    "name": "La esquinita del Cotorro",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "10:00",
+        "close": "20:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 24,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "tostones",
+            "price": 200,
+            "type": "appetizer"
+        },
+        {
+            "name": "tortilla natural",
+            "price": 220,
+            "type": "appetizer"
+        },
+        {
+            "name": "tortilla de queso blanco",
+            "price": 280,
+            "type": "appetizer"
+        },
+        {
+            "name": "tortilla de jamón",
+            "price": 320,
+            "type": "appetizer"
+        },
+        {
+            "name": "tortilla de chorizo",
+            "price": 320,
+            "type": "appetizer"
+        },
+        {
+            "name": "tortilla mixta",
+            "price": 410,
+            "type": "appetizer"
+        },
+        {
+            "name": "hamburguesa simple",
+            "price": 250,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa doble",
+            "price": 380,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa esquinita",
+            "price": 480,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa esquinita plus",
+            "price": 580,
+            "type": "mains"
+        },
+        {
+            "name": "pan con jamón",
+            "price": 240,
+            "type": "sandwich"
+        },
+        {
+            "name": "pan con jamón y chorizo",
+            "price": 270,
+            "type": "sandwich"
+        },
+        {
+            "name": "pan con chorizo",
+            "price": 160,
+            "type": "sandwich"
+        }
+    ],
+    "location": {
+        "street": "Avenida 71",
+        "council": null,
+        "municipe": "Cotorro",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

@@ -1,0 +1,161 @@
+{
+    "name": "Anillo Habanero",
+    "phone": "52042710",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "10:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "online",
+        "phone",
+        "in-person"
+    ],
+    "delivery": [
+        "home",
+        "takeaway",
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "transfer",
+        "cash",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 30,
+    "amenities": [
+        "live_music",
+        "outdoor"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Picadera Anillo",
+            "price": 3000.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tacos de vegetales",
+            "price": 600.0,
+            "type": "starters"
+        },
+        {
+            "name": "Croquetas Habaneras",
+            "price": 400.0,
+            "type": "starters"
+        },
+        {
+            "name": "Nachos, Salsa Rosa y Guacamole",
+            "price": 400.0,
+            "type": "starters"
+        },
+        {
+            "name": "Brochetas",
+            "price": 1300.0,
+            "type": "starters"
+        },
+        {
+            "name": "C\u00f3ctel de camarones",
+            "price": 2000.0,
+            "type": "starters"
+        },
+        {
+            "name": "Frituras",
+            "price": 300.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tostones rellenos",
+            "price": 550.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tacos de Pollo",
+            "price": 800.0,
+            "type": "starters"
+        },
+        {
+            "name": "Lomo ahumado",
+            "price": 2000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Chuletas de cerdo",
+            "price": 3000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa vieja",
+            "price": 3000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Vaca Frita",
+            "price": 3000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Camarones enchilados",
+            "price": 3500.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Camarones al ajillo",
+            "price": 3500.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Pizza Napolitana",
+            "price": 800.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Spaguetis Napol\u00e9s",
+            "price": 850.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Tarta de Vainilla",
+            "price": 750.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Cheesecake de Lim\u00f3n",
+            "price": 750.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Coctel de Frutas Importadas",
+            "price": 350.0,
+            "type": "desserts"
+        }
+    ],
+    "location": {
+        "street": "Primer Anillo de La Habana",
+        "council": null,
+        "municipe": "Guanabacoa",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

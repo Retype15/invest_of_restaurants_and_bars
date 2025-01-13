@@ -1,0 +1,743 @@
+{
+    "name": "Kasa Takos",
+    "phone": null,
+    "email": "kasatakos@gmail.com",
+    "web": "https://beacons.ai/kasatakos",
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "mexican",
+    "hours": {
+        "open": "12:00",
+        "close": "00:30",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [],
+    "delivery": [
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.4,
+    "reviews": 60,
+    "amenities": [
+        "pet_friendly"
+    ],
+    "fb": "KasaTakos",
+    "ig": "@kasatakos_havana",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Nachos",
+            "price": 400,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostones Rellenos R.V",
+            "price": 800,
+            "type": "appetizer"
+        },
+        {
+            "name": "Frituras de Malanga",
+            "price": 500,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostones Rellenos Camarón",
+            "price": 900,
+            "type": "appetizer"
+        },
+        {
+            "name": "Croquetas de la Casa",
+            "price": 600,
+            "type": "appetizer"
+        },
+        {
+            "name": "Pozole",
+            "price": 700,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostones Rellenos JSM",
+            "price": 700,
+            "type": "appetizer"
+        },
+        {
+            "name": "Pica Pica Que Rico",
+            "price": 1600,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tacos de vegetales",
+            "price": 800,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos de pollo",
+            "price": 950,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos de carnita",
+            "price": 1000,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos de ropa vieja",
+            "price": 1100,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos de cochinita",
+            "price": 1100,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos al pastor",
+            "price": 1200,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos de camarón",
+            "price": 1600,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos de langosta",
+            "price": 1600,
+            "type": "mains"
+        },
+        {
+            "name": "Takos combinados",
+            "price": 1600,
+            "type": "mains"
+        },
+        {
+            "name": "Quesadillas de vegetales",
+            "price": 850,
+            "type": "mains"
+        },
+        {
+            "name": "Quesadillas de pollo",
+            "price": 1000,
+            "type": "mains"
+        },
+        {
+            "name": "Quesadillas de carnita",
+            "price": 1050,
+            "type": "mains"
+        },
+        {
+            "name": "Quesadillas de ropa vieja",
+            "price": 1150,
+            "type": "mains"
+        },
+        {
+            "name": "Quesadillas de cochinita",
+            "price": 1150,
+            "type": "mains"
+        },
+        {
+            "name": "Quesadillas al pastor",
+            "price": 1250,
+            "type": "mains"
+        },
+        {
+            "name": "Quesadillas de camarón",
+            "price": 1650,
+            "type": "mains"
+        },
+        {
+            "name": "Quesadillas de langosta",
+            "price": 1650,
+            "type": "mains"
+        },
+        {
+            "name": "Burritos de vegetales",
+            "price": 900,
+            "type": "mains"
+        },
+        {
+            "name": "Burritos de pollo",
+            "price": 1150,
+            "type": "mains"
+        },
+        {
+            "name": "Burritos de carnita",
+            "price": 1100,
+            "type": "mains"
+        },
+        {
+            "name": "Burritos de ropa vieja",
+            "price": 1200,
+            "type": "mains"
+        },
+        {
+            "name": "Burritos de cochinita",
+            "price": 1200,
+            "type": "mains"
+        },
+        {
+            "name": "Burritos al pastor",
+            "price": 1300,
+            "type": "mains"
+        },
+        {
+            "name": "Burritos de camarón",
+            "price": 1700,
+            "type": "mains"
+        },
+        {
+            "name": "Burritos de langosta",
+            "price": 1700,
+            "type": "mains"
+        },
+        {
+            "name": "Chimichangas de vegetales",
+            "price": 920,
+            "type": "mains"
+        },
+        {
+            "name": "Chimichangas de pollo",
+            "price": 1170,
+            "type": "mains"
+        },
+        {
+            "name": "Chimichangas de carnita",
+            "price": 1120,
+            "type": "mains"
+        },
+        {
+            "name": "Chimichangas de ropa vieja",
+            "price": 1220,
+            "type": "mains"
+        },
+        {
+            "name": "Chimichangas de cochinita",
+            "price": 1220,
+            "type": "mains"
+        },
+        {
+            "name": "Chimichangas al pastor",
+            "price": 1320,
+            "type": "mains"
+        },
+        {
+            "name": "Chimichangas de camarón",
+            "price": 1720,
+            "type": "mains"
+        },
+        {
+            "name": "Chimichangas de langosta",
+            "price": 1720,
+            "type": "mains"
+        },
+        {
+            "name": "bistec grille de cerdo encebollado",
+            "price": 1300,
+            "type": "mains"
+        },
+        {
+            "name": "fajitas de cerdo salteadas",
+            "price": 1400,
+            "type": "mains"
+        },
+        {
+            "name": "solomillo de cerdo",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "ranchero de cerdo",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "rollo de la casa (cerdo)",
+            "price": 1850,
+            "type": "mains"
+        },
+        {
+            "name": "bistec grille de pollo",
+            "price": 900,
+            "type": "mains"
+        },
+        {
+            "name": "pollo a la mexicana",
+            "price": 950,
+            "type": "mains"
+        },
+        {
+            "name": "fajitas de pollo salteadas",
+            "price": 1000,
+            "type": "mains"
+        },
+        {
+            "name": "ranchero de pollo",
+            "price": 1200,
+            "type": "mains"
+        },
+        {
+            "name": "vaca frita",
+            "price": 1250,
+            "type": "mains"
+        },
+        {
+            "name": "ropa vieja",
+            "price": 1400,
+            "type": "mains"
+        },
+        {
+            "name": "bistec de res encebollado",
+            "price": 1600,
+            "type": "mains"
+        },
+        {
+            "name": "rollo de la casa (res)",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "grille de camarón",
+            "price": 1700,
+            "type": "mains"
+        },
+        {
+            "name": "ajillo de camarón",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "enchilado de camarón",
+            "price": 1850,
+            "type": "mains"
+        },
+        {
+            "name": "grille de pescado",
+            "price": 1300,
+            "type": "mains"
+        },
+        {
+            "name": "ajillo de pescado",
+            "price": 1400,
+            "type": "mains"
+        },
+        {
+            "name": "enchilado de pescado",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "John Ville",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "grille de langosta",
+            "price": 1700,
+            "type": "mains"
+        },
+        {
+            "name": "ajillo de langosta",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "enchilado de langosta",
+            "price": 1850,
+            "type": "mains"
+        },
+        {
+            "name": "Termidor",
+            "price": 2200,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz Blanco",
+            "price": 150,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz Moro",
+            "price": 250,
+            "type": "sides"
+        },
+        {
+            "name": "Vegetales",
+            "price": 400,
+            "type": "sides"
+        },
+        {
+            "name": "Vianda Frita",
+            "price": 450,
+            "type": "sides"
+        },
+        {
+            "name": "Flan",
+            "price": 350,
+            "type": "desserts"
+        },
+        {
+            "name": "Postre de la Casa",
+            "price": 250,
+            "type": "desserts"
+        },
+        {
+            "name": "Agua Natural 1.5 L",
+            "price": 350,
+            "type": "water"
+        },
+        {
+            "name": "Agua Natural 500 ML",
+            "price": 250,
+            "type": "water"
+        },
+        {
+            "name": "Energizante",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refrescos Pepsy y 7UP",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco Santa",
+            "price": 250,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada Natural",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada Clarete",
+            "price": 450,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugos Naturales",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada Frappé",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada Frescura",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Cristal",
+            "price": 350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Heineken",
+            "price": 540,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Krombacher",
+            "price": 250,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza 8.6",
+            "price": 370,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "mojito",
+            "price": 450,
+            "type": "cocktails"
+        },
+        {
+            "name": "ron collins",
+            "price": 400,
+            "type": "cocktails"
+        },
+        {
+            "name": "mojito saborizado",
+            "price": 500,
+            "type": "cocktails"
+        },
+        {
+            "name": "cubata",
+            "price": 500,
+            "type": "cocktails"
+        },
+        {
+            "name": "canchánchara",
+            "price": 400,
+            "type": "cocktails"
+        },
+        {
+            "name": "daiquirí",
+            "price": 450,
+            "type": "cocktails"
+        },
+        {
+            "name": "havana especial",
+            "price": 500,
+            "type": "cocktails"
+        },
+        {
+            "name": "daiquirí saborizado",
+            "price": 500,
+            "type": "cocktails"
+        },
+        {
+            "name": "mary pickford",
+            "price": 400,
+            "type": "cocktails"
+        },
+        {
+            "name": "cuba libre",
+            "price": 450,
+            "type": "cocktails"
+        },
+        {
+            "name": "margarita",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "caipiriña",
+            "price": 400,
+            "type": "cocktails"
+        },
+        {
+            "name": "gold margarita",
+            "price": 700,
+            "type": "cocktails"
+        },
+        {
+            "name": "caipiroska",
+            "price": 450,
+            "type": "cocktails"
+        },
+        {
+            "name": "calimocho",
+            "price": 400,
+            "type": "cocktails"
+        },
+        {
+            "name": "caipiríssima",
+            "price": 450,
+            "type": "cocktails"
+        },
+        {
+            "name": "gin tonic",
+            "price": 1300,
+            "type": "cocktails"
+        },
+        {
+            "name": "screw driver",
+            "price": 400,
+            "type": "cocktails"
+        },
+        {
+            "name": "vodka tonic",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "servicio chelada",
+            "price": 200,
+            "type": "cocktails"
+        },
+        {
+            "name": "blue lagoon",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "servicio michelada",
+            "price": 250,
+            "type": "cocktails"
+        },
+        {
+            "name": "sangría",
+            "price": 500,
+            "type": "cocktails"
+        },
+        {
+            "name": "tinto de verano",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "piña colada",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "vino tinto",
+            "price": 1000,
+            "type": "wines"
+        },
+        {
+            "name": "black tears aguardiente",
+            "price": 200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "hab club añejo 7 años",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "black tears super dry",
+            "price": 260,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "ron santiago 11 años",
+            "price": 750,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "black tears dry spiced",
+            "price": 300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "ron santiago 12 años",
+            "price": 800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "hab club añejo reserva",
+            "price": 300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "pacto navío",
+            "price": 950,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "hab club ritual",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "olmeca blanco",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "dark chocolate",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "olmeca reposado",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "viuda de romero",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "johnnie walker red label",
+            "price": 750,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "black & white whisky",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "brandy torre 10",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "vermouth blanco",
+            "price": 250,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "brandy torre 15",
+            "price": 450,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "vermouth rosso",
+            "price": 250,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "ginebra",
+            "price": 300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "vodka",
+            "price": 250,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Café Express",
+            "price": 150,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Americano",
+            "price": 150,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Cortado",
+            "price": 170,
+            "type": "infusions"
+        },
+        {
+            "name": "Café con Leche",
+            "price": 350,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Capuccino",
+            "price": 350,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Frapuccino",
+            "price": 350,
+            "type": "infusions"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.139644726614794,
+        "coords_y": -82.3755633828391
+    }
+}

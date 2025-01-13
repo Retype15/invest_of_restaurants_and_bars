@@ -1,0 +1,530 @@
+{
+    "name": "Macarena",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "16:00",
+        "close": "03:00",
+        "days": [
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 5.0,
+    "reviews": 75,
+    "amenities": [],
+    "fb": "Cafe bar macarena",
+    "ig": "@cafe_bar_macarena",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "croquetas de la casa",
+            "price": 550,
+            "type": "appetizer"
+        },
+        {
+            "name": "jamón y queso",
+            "price": 650,
+            "type": "appetizer"
+        },
+        {
+            "name": "rollitos a la macarena",
+            "price": 700,
+            "type": "appetizer"
+        },
+        {
+            "name": "tostones rellenos",
+            "price": 750,
+            "type": "appetizer"
+        },
+        {
+            "name": "surtida queso y embutido",
+            "price": 1200,
+            "type": "appetizer"
+        },
+        {
+            "name": "mixta la macarena",
+            "price": 2200,
+            "type": "appetizer"
+        },
+        {
+            "name": "agua 500 ml",
+            "price": 200,
+            "type": "water"
+        },
+        {
+            "name": "agua tónica 330 ml",
+            "price": 220,
+            "type": "water"
+        },
+        {
+            "name": "energizante",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "refresco limón",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "refresco cola",
+            "price": 200,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "limonada frappe",
+            "price": 600,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "limonada blue",
+            "price": 600,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "limonada roja",
+            "price": 600,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "limonada natural",
+            "price": 600,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "limonada frescura",
+            "price": 700,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "cerveza cristal de botella",
+            "price": 420,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza bucanero de botella",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza importada",
+            "price": 300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "mojitos",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "cuba libre",
+            "price": 550,
+            "type": "cocktails"
+        },
+        {
+            "name": "bello monte",
+            "price": 550,
+            "type": "cocktails"
+        },
+        {
+            "name": "cuba bella",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "mary pickford",
+            "price": 550,
+            "type": "cocktails"
+        },
+        {
+            "name": "havana especial",
+            "price": 500,
+            "type": "cocktails"
+        },
+        {
+            "name": "presidente",
+            "price": 500,
+            "type": "cocktails"
+        },
+        {
+            "name": "piña colada",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "daikiri",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "caipirissima",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "cubanito",
+            "price": 400,
+            "type": "cocktails"
+        },
+        {
+            "name": "caipiroska",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "sex on the beach",
+            "price": 550,
+            "type": "cocktails"
+        },
+        {
+            "name": "screw driver",
+            "price": 550,
+            "type": "cocktails"
+        },
+        {
+            "name": "kamikase",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "black russian",
+            "price": 550,
+            "type": "cocktails"
+        },
+        {
+            "name": "cosmopolitan",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "camino al cielo",
+            "price": 550,
+            "type": "cocktails"
+        },
+        {
+            "name": "blue hawaii",
+            "price": 550,
+            "type": "cocktails"
+        },
+        {
+            "name": "vodka tonic",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "bloody mary",
+            "price": 550,
+            "type": "cocktails"
+        },
+        {
+            "name": "moscú mule",
+            "price": 500,
+            "type": "cocktails"
+        },
+        {
+            "name": "long islad",
+            "price": 800,
+            "type": "cocktails"
+        },
+        {
+            "name": "vodka martini",
+            "price": 700,
+            "type": "cocktails"
+        },
+        {
+            "name": "charro negro",
+            "price": 550,
+            "type": "cocktails"
+        },
+        {
+            "name": "margarita",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "acapulco de noche",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "bloody mariachi",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "nieblas del caribe",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "submarino",
+            "price": 700,
+            "type": "cocktails"
+        },
+        {
+            "name": "long island ice tea",
+            "price": 800,
+            "type": "cocktails"
+        },
+        {
+            "name": "tom collins",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "caruso",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "gin and sin",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "gin tonic",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "martini",
+            "price": 800,
+            "type": "cocktails"
+        },
+        {
+            "name": "santiago 8",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "hc pacto de navio",
+            "price": 1000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "santiago 11",
+            "price": 1000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "santiago 12",
+            "price": 1200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "monte de la rosa",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "olmeca blanco",
+            "price": 550,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "olmeca reposado",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "don ramón",
+            "price": 800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "gin beefeater",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "gin q spades",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "gin q rosse",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "gin master",
+            "price": 650,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "old fashion",
+            "price": 700,
+            "type": "cocktails"
+        },
+        {
+            "name": "mini julep",
+            "price": 800,
+            "type": "cocktails"
+        },
+        {
+            "name": "jhon collins",
+            "price": 800,
+            "type": "cocktails"
+        },
+        {
+            "name": "sangria",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "calimocho",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "tinto verano",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "medusa",
+            "price": 450,
+            "type": "cocktails"
+        },
+        {
+            "name": "derrame cerebral",
+            "price": 450,
+            "type": "cocktails"
+        },
+        {
+            "name": "B52",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "orgasmo",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "orgasmos multiples",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "submarino",
+            "price": 700,
+            "type": "cocktails"
+        },
+        {
+            "name": "chelada",
+            "price": 620,
+            "type": "cocktails"
+        },
+        {
+            "name": "michelada",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "clan campbell",
+            "price": 550,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "jameson",
+            "price": 550,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "JW red label",
+            "price": 650,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "ballantines",
+            "price": 650,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "chiva 12",
+            "price": 800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "jack daniel",
+            "price": 1000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "JW black lavel",
+            "price": 1100,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "HC añejo blanco",
+            "price": 250,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "HC añejo 3 años",
+            "price": 300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "HC añejo 7 años",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "HC ritual",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "expreso",
+            "price": 150,
+            "type": "infusions"
+        },
+        {
+            "name": "cortado",
+            "price": 250,
+            "type": "infusions"
+        },
+        {
+            "name": "carajillo",
+            "price": 450,
+            "type": "infusions"
+        },
+        {
+            "name": "frappuccino",
+            "price": 750,
+            "type": "infusions"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.140032524116656,
+        "coords_y": -82.37801794949878
+    }
+}

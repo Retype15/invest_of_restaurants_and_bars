@@ -1,0 +1,816 @@
+{
+    "name": "Mercy bar",
+    "phone": null,
+    "email": null,
+    "web": "linktr.ee/mercybarcafe",
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "12:00",
+        "close": "24:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "home",
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 3.5,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": "MERCY bar-café",
+    "ig": "@mercybarcafe",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "pan baguette",
+            "price": 250,
+            "type": "appetizer"
+        },
+        {
+            "name": "croquetas del dia (8u)",
+            "price": 800,
+            "type": "appetizer"
+        },
+        {
+            "name": "ensalada de vegetales",
+            "price": 500,
+            "type": "appetizer"
+        },
+        {
+            "name": "mariquitas de pollo",
+            "price": 1200,
+            "type": "appetizer"
+        },
+        {
+            "name": "bolitas de queso (8u)",
+            "price": 950,
+            "type": "appetizer"
+        },
+        {
+            "name": "yuca rellena",
+            "price": 1500,
+            "type": "appetizer"
+        },
+        {
+            "name": "tacos del dia (3u)",
+            "price": 1500,
+            "type": "appetizer"
+        },
+        {
+            "name": "pollo picaro",
+            "price": 1600,
+            "type": "appetizer"
+        },
+        {
+            "name": "tabla de embutidos",
+            "price": 1900,
+            "type": "appetizer"
+        },
+        {
+            "name": "tacos mercy",
+            "price": 2100,
+            "type": "appetizer"
+        },
+        {
+            "name": "tabla de queso",
+            "price": 2600,
+            "type": "appetizer"
+        },
+        {
+            "name": "eperlan",
+            "price": 2600,
+            "type": "appetizer"
+        },
+        {
+            "name": "ceviche",
+            "price": 2500,
+            "type": "appetizer"
+        },
+        {
+            "name": "pescadilla",
+            "price": 2800,
+            "type": "appetizer"
+        },
+        {
+            "name": "entrepan con atun",
+            "price": 1200,
+            "type": "appetizer"
+        },
+        {
+            "name": "entrepan cubano",
+            "price": 1400,
+            "type": "appetizer"
+        },
+        {
+            "name": "entrepan serrano",
+            "price": 2200,
+            "type": "appetizer"
+        },
+        {
+            "name": "arroz frito",
+            "price": 1350,
+            "type": "mains"
+        },
+        {
+            "name": "garbanzo frito",
+            "price": 1400,
+            "type": "mains"
+        },
+        {
+            "name": "pollo asado",
+            "price": 1700,
+            "type": "mains"
+        },
+        {
+            "name": "fajitas de cerdo",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "masas de cerdo",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "lomo ahumado",
+            "price": 2100,
+            "type": "mains"
+        },
+        {
+            "name": "ropa vieja de res",
+            "price": 2600,
+            "type": "mains"
+        },
+        {
+            "name": "filete de pescado",
+            "price": 2600,
+            "type": "mains"
+        },
+        {
+            "name": "gordon blue de cerdo",
+            "price": 3200,
+            "type": "mains"
+        },
+        {
+            "name": "mariscos al gusto",
+            "price": 3500,
+            "type": "mains"
+        },
+        {
+            "name": "mixto mercy",
+            "price": 3450,
+            "type": "mains"
+        },
+        {
+            "name": "brochetas al hornillo",
+            "price": 2900,
+            "type": "mains"
+        },
+        {
+            "name": "risotto",
+            "price": 2900,
+            "type": "mains"
+        },
+        {
+            "name": "estofado de cordero",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "rabo encendido",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "pescado frito entero",
+            "price": 3300,
+            "type": "mains"
+        },
+        {
+            "name": "parrillada criolla",
+            "price": 4700,
+            "type": "mains"
+        },
+        {
+            "name": "parrillada marinera",
+            "price": 7300,
+            "type": "mains"
+        },
+        {
+            "name": "parrillada mixta",
+            "price": 8700,
+            "type": "mains"
+        },
+        {
+            "name": "canelon de pollo",
+            "price": 1400,
+            "type": "mains"
+        },
+        {
+            "name": "lasagna de jamon",
+            "price": 1600,
+            "type": "mains"
+        },
+        {
+            "name": "pasta mercy",
+            "price": 2800,
+            "type": "mains"
+        },
+        {
+            "name": "pizza napolitana",
+            "price": 1300,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de jamon",
+            "price": 1500,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de chorizo",
+            "price": 150,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza hawaiana",
+            "price": 1500,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de vegetales",
+            "price": 1500,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de aceitunas",
+            "price": 1500,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de atun",
+            "price": 1600,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza familiar",
+            "price": 2200,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza mercy",
+            "price": 3000,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza serrano",
+            "price": 3200,
+            "type": "pizza"
+        },
+        {
+            "name": "tarta nata",
+            "price": 600,
+            "type": "desserts"
+        },
+        {
+            "name": "bola jimagua",
+            "price": 750,
+            "type": "desserts"
+        },
+        {
+            "name": "dulce de tres leche",
+            "price": 900,
+            "type": "desserts"
+        },
+        {
+            "name": "agua natural",
+            "price": 280,
+            "type": "water"
+        },
+        {
+            "name": "agua gaseada",
+            "price": 300,
+            "type": "water"
+        },
+        {
+            "name": "agua gaseada importada",
+            "price": 750,
+            "type": "water"
+        },
+        {
+            "name": "agua tónica importada",
+            "price": 590,
+            "type": "water"
+        },
+        {
+            "name": "refresco lata",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "redbull",
+            "price": 650,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "malta",
+            "price": 450,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "malteada",
+            "price": 600,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugos naturales",
+            "price": 250,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "limonada frappe",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "long island",
+            "price": 700,
+            "type": "cocktails"
+        },
+        {
+            "name": "screwdriver",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "mojito",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "daiquiri",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "gin tonic",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "vodka tonic",
+            "price": 975,
+            "type": "cocktails"
+        },
+        {
+            "name": "piña colada",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "caipirisima",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "caipiroska",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "blody mary",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "mary pickfor",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "tequila sunrise",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "cuba libre",
+            "price": 750,
+            "type": "cocktails"
+        },
+        {
+            "name": "shot jager meister",
+            "price": 750,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "daiquiri sabor",
+            "price": 1000,
+            "type": "cocktails"
+        },
+        {
+            "name": "margarita",
+            "price": 850,
+            "type": "cocktails"
+        },
+        {
+            "name": "margarita sabor",
+            "price": 1000,
+            "type": "cocktails"
+        },
+        {
+            "name": "canchanchara con santiago 8 años",
+            "price": 850,
+            "type": "cocktails"
+        },
+        {
+            "name": "sanria",
+            "price": 850,
+            "type": "cocktails"
+        },
+        {
+            "name": "tinto de verano",
+            "price": 850,
+            "type": "cocktails"
+        },
+        {
+            "name": "sangira blanca",
+            "price": 850,
+            "type": "cocktails"
+        },
+        {
+            "name": "martini",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "campari orange",
+            "price": 900,
+            "type": "cocktails"
+        },
+        {
+            "name": "cubanito",
+            "price": 1000,
+            "type": "cocktails"
+        },
+        {
+            "name": "aperol sprite",
+            "price": 1300,
+            "type": "cocktails"
+        },
+        {
+            "name": "beer beer",
+            "price": 1200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "jager bomb",
+            "price": 1200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "ciroc",
+            "price": 780,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "rones santiago blanco",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "santiago añejo 8 años",
+            "price": 650,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "santiago añejo 11 años",
+            "price": 1000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "santiago añejo 12 años",
+            "price": 1200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "black and white",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "johnnie walker red label",
+            "price": 700,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "johnnie walker black label",
+            "price": 1000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "j&b",
+            "price": 650,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "buchanan “s master",
+            "price": 1000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "buchanan “s master 18 años",
+            "price": 45000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "jw double black",
+            "price": 45000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "jw gold reserve",
+            "price": 65000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "jw gold 18 años",
+            "price": 90000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "le tribute",
+            "price": 750,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tanqueray",
+            "price": 800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "licor 43",
+            "price": 450,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "baileys",
+            "price": 690,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "sambuca",
+            "price": 690,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "licor frangelico",
+            "price": 850,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tequila del a casa",
+            "price": 450,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cubetazo",
+            "price": 1800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "vaso 240 ml",
+            "price": 250,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "jarra 500ml",
+            "price": 450,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "servicio chelar o michelar",
+            "price": 200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza lata",
+            "price": 380,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza cristal",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza stella artois",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "vino blanco por copa",
+            "price": 850,
+            "type": "wines"
+        },
+        {
+            "name": "viña esmeralda",
+            "price": 4400,
+            "type": "wines"
+        },
+        {
+            "name": "sangre de toro blanco",
+            "price": 4000,
+            "type": "wines"
+        },
+        {
+            "name": "celeste verdejo",
+            "price": 4200,
+            "type": "wines"
+        },
+        {
+            "name": "viña sol original",
+            "price": 4200,
+            "type": "wines"
+        },
+        {
+            "name": "sangre de toro chardonnay selection",
+            "price": 5500,
+            "type": "wines"
+        },
+        {
+            "name": "grahams fine white port",
+            "price": 8800,
+            "type": "wines"
+        },
+        {
+            "name": "waltraud",
+            "price": 9700,
+            "type": "wines"
+        },
+        {
+            "name": "vino tinto o rose por copa",
+            "price": 850,
+            "type": "wines"
+        },
+        {
+            "name": "santa digna gran reserva",
+            "price": 4000,
+            "type": "wines"
+        },
+        {
+            "name": "sangre de toro rioja",
+            "price": 4400,
+            "type": "wines"
+        },
+        {
+            "name": "altos ibéricos crianza",
+            "price": 4600,
+            "type": "wines"
+        },
+        {
+            "name": "torres corona crianza",
+            "price": 4600,
+            "type": "wines"
+        },
+        {
+            "name": "celeste roble",
+            "price": 5000,
+            "type": "wines"
+        },
+        {
+            "name": "jean león 3055 merlot",
+            "price": 6700,
+            "type": "wines"
+        },
+        {
+            "name": "gran corona reserva",
+            "price": 6900,
+            "type": "wines"
+        },
+        {
+            "name": "altos ibéricos reserva",
+            "price": 7900,
+            "type": "wines"
+        },
+        {
+            "name": "grahams fine tawny port",
+            "price": 8750,
+            "type": "wines"
+        },
+        {
+            "name": "celeste crianza",
+            "price": 9300,
+            "type": "wines"
+        },
+        {
+            "name": "purgatori",
+            "price": 9900,
+            "type": "wines"
+        },
+        {
+            "name": "secret del priorat",
+            "price": 1100,
+            "type": "wines"
+        },
+        {
+            "name": "zuccardi o malbec",
+            "price": 1100,
+            "type": "wines"
+        },
+        {
+            "name": "mas la plana",
+            "price": 38400,
+            "type": "wines"
+        },
+        {
+            "name": "sangre de toro rose",
+            "price": 6800,
+            "type": "wines"
+        },
+        {
+            "name": "jean león 3055",
+            "price": 6800,
+            "type": "wines"
+        },
+        {
+            "name": "santa digna",
+            "price": 4000,
+            "type": "wines"
+        },
+        {
+            "name": "juve & camps gran reserva",
+            "price": 28000,
+            "type": "wines"
+        },
+        {
+            "name": "viña esmeralda sparkling",
+            "price": 5500,
+            "type": "wines"
+        },
+        {
+            "name": "te frio o caliente",
+            "price": 200,
+            "type": "infusions"
+        },
+        {
+            "name": "expresso",
+            "price": 400,
+            "type": "coffee"
+        },
+        {
+            "name": "cortado",
+            "price": 500,
+            "type": "coffee"
+        },
+        {
+            "name": "americano",
+            "price": 400,
+            "type": "coffee"
+        },
+        {
+            "name": "capuchino",
+            "price": 700,
+            "type": "coffee"
+        },
+        {
+            "name": "frapuchino",
+            "price": 700,
+            "type": "coffee"
+        },
+        {
+            "name": "carajillo",
+            "price": 700,
+            "type": "coffee"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Playa",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.117726284857962,
+        "coords_y": -82.4422860238811
+    }
+}

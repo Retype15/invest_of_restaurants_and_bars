@@ -1,0 +1,165 @@
+{
+    "name": "Tong Do Laug",
+    "phone": "+53 55100355",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "chinese",
+    "hours": {
+        "open": "10:00",
+        "close": "21:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [],
+    "delivery": [],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "card",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.3,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Jiaozi Ravioles",
+            "price": 1350,
+            "type": "mains"
+        },
+        {
+            "name": "Bao",
+            "price": 700,
+            "type": "mains"
+        },
+        {
+            "name": "Mia Especial Tallarines",
+            "price": 1100,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz Frito Especial",
+            "price": 1100,
+            "type": "mains"
+        },
+        {
+            "name": "Siumi",
+            "price": 1200,
+            "type": "mains"
+        },
+        {
+            "name": "Chunkun Rollitos de Primavera",
+            "price": 1050,
+            "type": "mains"
+        },
+        {
+            "name": "Sopa China ",
+            "price": 990,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo Ahumado",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "Mariscos",
+            "price": 2500,
+            "type": "mains"
+        },
+        {
+            "name": "Mar y Tierra",
+            "price": 3850,
+            "type": "mains"
+        },
+        {
+            "name": "Camarones",
+            "price": 3600,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado",
+            "price": 1650,
+            "type": "mains"
+        },
+        {
+            "name": "Fajitas de Pechuga",
+            "price": 2200,
+            "type": "mains"
+        },
+        {
+            "name": "Cerveza",
+            "price": 300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Nacional",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Refresco",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugo",
+            "price": 330,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Frapeado",
+            "price": 330,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cocteles",
+            "price": 660,
+            "type": "cocktails"
+        },
+        {
+            "name": "Café",
+            "price": 390,
+            "type": "infusions"
+        },
+        {
+            "name": "Té",
+            "price": 170,
+            "type": "infusions"
+        },
+        {
+            "name": "Agua",
+            "price": 220,
+            "type": "water"
+        },
+        {
+            "name": "Agua calinete",
+            "price": 220,
+            "type": "water"
+        }
+    ],
+    "location": {
+        "street": "Cuchillo entre San Nicolás y Rayo",
+        "council": null,
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

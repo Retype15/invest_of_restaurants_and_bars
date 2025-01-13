@@ -1,0 +1,111 @@
+{
+    "name": "Hamburgo",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "09:00",
+        "close": "19:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "others"
+    ],
+    "delivery": [
+        "others"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "invalid_accessible",
+        "parking"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "hamburguesa de cerdo (220g)",
+            "price": 275,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa de res (220g)",
+            "price": 275,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa vegetal con aderezos (235g)",
+            "price": 300,
+            "type": "mains"
+        },
+        {
+            "name": "super hamburguesa (435g)",
+            "price": 550,
+            "type": "mains"
+        },
+        {
+            "name": "queso gouda (50g)",
+            "price": 150,
+            "type": "sides"
+        },
+        {
+            "name": "jamon bravo (50g)",
+            "price": 120,
+            "type": "sides"
+        },
+        {
+            "name": "jamon serrano (50g)",
+            "price": 250,
+            "type": "sides"
+        },
+        {
+            "name": "aceitunas (50g)",
+            "price": 120,
+            "type": "sides"
+        },
+        {
+            "name": "vegetales encurtidos (50g)",
+            "price": 80,
+            "type": "sides"
+        },
+        {
+            "name": "papas fritas (50g)",
+            "price": 75,
+            "type": "sides"
+        },
+        {
+            "name": "papas fritas (100g)",
+            "price": 150,
+            "type": "sides"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.131235737365408,
+        "coords_y": -82.37630082066377
+    }
+}

@@ -1,0 +1,233 @@
+{
+    "name": "Ruta 66",
+    "phone": "52833863",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "12:00",
+        "close": "21:30",
+        "days": [
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": null,
+    "delivery": null,
+    "level": "medium",
+    "payment": [
+        "transfer",
+        "cash"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": null,
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Tostones rellenos de jam\u00f3n y queso",
+            "price": 1090.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tostones rellenos de bolognesa",
+            "price": 950.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tostones rellenos de vegetales salteados y queso",
+            "price": 910.0,
+            "type": "starters"
+        },
+        {
+            "name": "Garbanzos fritos",
+            "price": 1900.0,
+            "type": "starters"
+        },
+        {
+            "name": "Ceviche de pescado",
+            "price": 1500.0,
+            "type": "starters"
+        },
+        {
+            "name": "Frituras de malanga",
+            "price": 595.0,
+            "type": "starters"
+        },
+        {
+            "name": "Croquetas",
+            "price": 490.0,
+            "type": "starters"
+        },
+        {
+            "name": "Brosquetas",
+            "price": 420.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tamal",
+            "price": 400.0,
+            "type": "starters"
+        },
+        {
+            "name": "Lomo ahumado (con gratinado de queso)",
+            "price": 1850.0,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo ahumado (con salsa de pi\u00f1a)",
+            "price": 2000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Enchilado de camarones",
+            "price": 3300.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Camarones al ajillo",
+            "price": 2950.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Camarones en salsa de frutas",
+            "price": 2800.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Enchilado de pulpo",
+            "price": 2690.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Pulpo al ajillo",
+            "price": 2470.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Filete de pescado Route 66 (a la plancha gratinado con queso y camar\u00f3n)",
+            "price": 3550.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Monte toro a la francesa (a la plancha gratinado con queso)",
+            "price": 2400.0,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de pescado en salsa de frutas",
+            "price": 2250.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Filete de pescado a la plancha",
+            "price": 1800.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Arroz frito especial Route 66",
+            "price": 2065.0,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz frito",
+            "price": 1280.0,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz blanco",
+            "price": 200.0,
+            "type": "sides"
+        },
+        {
+            "name": "Pur\u00e9 de malanga",
+            "price": 335.0,
+            "type": "sides"
+        },
+        {
+            "name": "Ensalada mixta de estaci\u00f3n",
+            "price": 425.0,
+            "type": "salads"
+        },
+        {
+            "name": "Super Route 66 (Cerdo)",
+            "price": 1965.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Castrol (Cerdo)",
+            "price": 1255.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Texaco (Cerdo)",
+            "price": 940.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Pizza de queso gouda",
+            "price": 850.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Lasa\u00f1a queso gouda",
+            "price": 1420.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis de queso gouda",
+            "price": 1100.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Cerveza importada",
+            "price": 210.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Vino tinto",
+            "price": 2200.0,
+            "type": "wines"
+        },
+        {
+            "name": "Refrescos importados",
+            "price": 240.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta importada",
+            "price": 250.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua Mineral",
+            "price": 190.0,
+            "type": "water"
+        },
+        {
+            "name": "Jugos importados",
+            "price": 210.0,
+            "type": "non_alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Guanabacoa",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

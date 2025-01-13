@@ -1,0 +1,296 @@
+{
+    "name": "Pechatniky",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "00:00",
+        "close": "24:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 5.0,
+    "reviews": 68,
+    "amenities": [
+        "invalid_accessible",
+        "parking"
+    ],
+    "fb": "Pechatniky",
+    "ig": "@pechatniky",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "desayuno pechatniky",
+            "price": 900,
+            "type": "breakfast"
+        },
+        {
+            "name": "croquetas de la casa",
+            "price": 950,
+            "type": "appetizer"
+        },
+        {
+            "name": "frituras de malanga",
+            "price": 820,
+            "type": "appetizer"
+        },
+        {
+            "name": "fajitas de pollo",
+            "price": 950,
+            "type": "appetizer"
+        },
+        {
+            "name": "tostones rellenos",
+            "price": 700,
+            "type": "appetizer"
+        },
+        {
+            "name": "garbanzo",
+            "price": 1000,
+            "type": "appetizer"
+        },
+        {
+            "name": "papas fritas",
+            "price": 800,
+            "type": "appetizer"
+        },
+        {
+            "name": "picadera pechatniky",
+            "price": 2900,
+            "type": "appetizer"
+        },
+        {
+            "name": "pollo",
+            "price": 1050,
+            "type": "mains"
+        },
+        {
+            "name": "arroz frito",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "mariscos",
+            "price": 3000,
+            "type": "seafood"
+        },
+        {
+            "name": "cerdo",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "vegetales sarteados al carbon",
+            "price": 900,
+            "type": "mains"
+        },
+        {
+            "name": "ensalada vegetales",
+            "price": 700,
+            "type": "salads"
+        },
+        {
+            "name": "baguette de atun",
+            "price": 950,
+            "type": "sandwich"
+        },
+        {
+            "name": "baguette jamon y queso",
+            "price": 750,
+            "type": "sandwich"
+        },
+        {
+            "name": "baguette de pollo",
+            "price": 780,
+            "type": "sandwich"
+        },
+        {
+            "name": "hamburguesa clasica",
+            "price": 750,
+            "type": "sandwich"
+        },
+        {
+            "name": "pizza",
+            "price": 1050,
+            "type": "pizza"
+        },
+        {
+            "name": "pastas",
+            "price": 1300,
+            "type": "pasta"
+        },
+        {
+            "name": "pelmeni",
+            "price": 1100,
+            "type": "mains"
+        },
+        {
+            "name": "shawarma",
+            "price": 1000,
+            "type": "mains"
+        },
+        {
+            "name": "jamon",
+            "price": 250,
+            "type": "sides"
+        },
+        {
+            "name": "queso",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "pollo",
+            "price": 350,
+            "type": "sides"
+        },
+        {
+            "name": "huevo",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "atun",
+            "price": 500,
+            "type": "sides"
+        },
+        {
+            "name": "copa 2 bolas",
+            "price": 320,
+            "type": "desserts"
+        },
+        {
+            "name": "copa 3 bolas",
+            "price": 380,
+            "type": "desserts"
+        },
+        {
+            "name": "tarta pechatniky",
+            "price": 590,
+            "type": "desserts"
+        },
+        {
+            "name": "agua natural",
+            "price": 170,
+            "type": "water"
+        },
+        {
+            "name": "refresco importando",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "refresco nacional",
+            "price": 250,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "malta",
+            "price": 330,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "malteda",
+            "price": 420,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "energizantes",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugo natural",
+            "price": 280,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugo de lata",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "batidos de frutas",
+            "price": 470,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "batidos de helado",
+            "price": 550,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "cerveza nacional",
+            "price": 350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza importada",
+            "price": 290,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "expreso",
+            "price": 200,
+            "type": "infusions"
+        },
+        {
+            "name": "cortado",
+            "price": 280,
+            "type": "infusions"
+        },
+        {
+            "name": "capuchino",
+            "price": 350,
+            "type": "infusions"
+        },
+        {
+            "name": "americano",
+            "price": 200,
+            "type": "infusions"
+        },
+        {
+            "name": "pechatniky",
+            "price": 680,
+            "type": "infusions"
+        },
+        {
+            "name": "te o infusion",
+            "price": 180,
+            "type": "infusions"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Playa",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.117985952744846,
+        "coords_y": -82.41582832900848
+    }
+}

@@ -1,0 +1,1039 @@
+{
+    "name": "Brasserie 255",
+    "phone": "76395989",
+    "email": null,
+    "web": "http://www.voya-havana.com/",
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "08:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "home",
+        "takeaway",
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer",
+        "card",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": null,
+    "ig": "https://www.instagram.com/brasserie255/",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Panes de la casa",
+            "price": 1500,
+            "type": "appetizer"
+        },
+        {
+            "name": "Ibérico",
+            "price": 4200,
+            "type": "appetizer"
+        },
+        {
+            "name": "Hummus",
+            "price": 1200,
+            "type": "appetizer"
+        },
+        {
+            "name": "Le Cocktail",
+            "price": 3900,
+            "type": "appetizer"
+        },
+        {
+            "name": "Carpaccio",
+            "price": 4500,
+            "type": "appetizer"
+        },
+        {
+            "name": "Rockefeller",
+            "price": 3600,
+            "type": "appetizer"
+        },
+        {
+            "name": "Bisque",
+            "price": 3600,
+            "type": "appetizer"
+        },
+        {
+            "name": "Ceviche",
+            "price": 3900,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tataki",
+            "price": 4500,
+            "type": "appetizer"
+        },
+        {
+            "name": "Croquetas",
+            "price": 1800,
+            "type": "appetizer"
+        },
+        {
+            "name": "Ratatouille",
+            "price": 2700,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tartar",
+            "price": 3900,
+            "type": "appetizer"
+        },
+        {
+            "name": "Nicoise",
+            "price": 4800,
+            "type": "mains"
+        },
+        {
+            "name": "Voya",
+            "price": 3600,
+            "type": "mains"
+        },
+        {
+            "name": "Feta",
+            "price": 4500,
+            "type": "mains"
+        },
+        {
+            "name": "Peri-Peri",
+            "price": 4800,
+            "type": "mains"
+        },
+        {
+            "name": "Ragu",
+            "price": 4500,
+            "type": "mains"
+        },
+        {
+            "name": "Risotto",
+            "price": 4500,
+            "type": "mains"
+        },
+        {
+            "name": "Al Ajillo",
+            "price": 5100,
+            "type": "mains"
+        },
+        {
+            "name": "Pesto",
+            "price": 3600,
+            "type": "mains"
+        },
+        {
+            "name": "Dorada",
+            "price": 6600,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa Vieja",
+            "price": 4800,
+            "type": "mains"
+        },
+        {
+            "name": "Salmón",
+            "price": 6000,
+            "type": "mains"
+        },
+        {
+            "name": "Curry Madras",
+            "price": 4800,
+            "type": "mains"
+        },
+        {
+            "name": "Thermidor",
+            "price": 7200,
+            "type": "mains"
+        },
+        {
+            "name": "Tagliata",
+            "price": 7500,
+            "type": "mains"
+        },
+        {
+            "name": "Scampi",
+            "price": 6300,
+            "type": "mains"
+        },
+        {
+            "name": "Lonjas",
+            "price": 6600,
+            "type": "mains"
+        },
+        {
+            "name": "Le Tournedos",
+            "price": 7800,
+            "type": "mains"
+        },
+        {
+            "name": "Sole Meuniere",
+            "price": 7500,
+            "type": "mains"
+        },
+        {
+            "name": "Vegetales Salteados",
+            "price": 900,
+            "type": "sides"
+        },
+        {
+            "name": "Puré de malanga",
+            "price": 900,
+            "type": "sides"
+        },
+        {
+            "name": "Gratin de boniato",
+            "price": 1200,
+            "type": "sides"
+        },
+        {
+            "name": "Ensalada verde",
+            "price": 1500,
+            "type": "salads"
+        },
+        {
+            "name": "Papas fritas",
+            "price": 1200,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz blanco",
+            "price": 900,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz Pilaf",
+            "price": 1200,
+            "type": "sides"
+        },
+        {
+            "name": "Plátanos maduros fritos",
+            "price": 900,
+            "type": "sides"
+        },
+        {
+            "name": "Yogurt Bowl",
+            "price": 1200,
+            "type": "desserts"
+        },
+        {
+            "name": "Tostada Caprese",
+            "price": 1500,
+            "type": "desserts"
+        },
+        {
+            "name": "Dos huevos a su gusto",
+            "price": 1200,
+            "type": "desserts"
+        },
+        {
+            "name": "Huevo Benedictino",
+            "price": 1800,
+            "type": "desserts"
+        },
+        {
+            "name": "Huevo Royale",
+            "price": 1800,
+            "type": "desserts"
+        },
+        {
+            "name": "Tortilla",
+            "price": 1800,
+            "type": "desserts"
+        },
+        {
+            "name": "Panini Desayuno",
+            "price": 2400,
+            "type": "desserts"
+        },
+        {
+            "name": "Crepes",
+            "price": 1500,
+            "type": "desserts"
+        },
+        {
+            "name": "Panquecques",
+            "price": 1500,
+            "type": "desserts"
+        },
+        {
+            "name": "VOYA Martini",
+            "price": 2100,
+            "type": "cocktails"
+        },
+        {
+            "name": "Smash Mediterraneo",
+            "price": 1800,
+            "type": "cocktails"
+        },
+        {
+            "name": "Secret Garden Mojito",
+            "price": 1800,
+            "type": "cocktails"
+        },
+        {
+            "name": "El Eloquente",
+            "price": 2700,
+            "type": "cocktails"
+        },
+        {
+            "name": "VOYA Kir Royale",
+            "price": 2100,
+            "type": "cocktails"
+        },
+        {
+            "name": "Vanilla Whiskey Sour",
+            "price": 1800,
+            "type": "cocktails"
+        },
+        {
+            "name": "Pink Martini",
+            "price": 1800,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mojito",
+            "price": 1500,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mojito de Frutas",
+            "price": 1500,
+            "type": "cocktails"
+        },
+        {
+            "name": "Daiquiri",
+            "price": 1500,
+            "type": "cocktails"
+        },
+        {
+            "name": "Daiquiri de Frutas",
+            "price": 1650,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cuba Libre",
+            "price": 1500,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cubata",
+            "price": 2100,
+            "type": "cocktails"
+        },
+        {
+            "name": "Tom Collins",
+            "price": 1800,
+            "type": "cocktails"
+        },
+        {
+            "name": "Old Fashioned",
+            "price": 2100,
+            "type": "cocktails"
+        },
+        {
+            "name": "Margarita",
+            "price": 2100,
+            "type": "cocktails"
+        },
+        {
+            "name": "Espresso Martini",
+            "price": 2400,
+            "type": "cocktails"
+        },
+        {
+            "name": "Aperol Spritz",
+            "price": 2100,
+            "type": "cocktails"
+        },
+        {
+            "name": "Bloody Mary",
+            "price": 2400,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cosmopolitan",
+            "price": 1800,
+            "type": "cocktails"
+        },
+        {
+            "name": "Sex on the Beach",
+            "price": 1800,
+            "type": "cocktails"
+        },
+        {
+            "name": "Tequila Sunrise",
+            "price": 1800,
+            "type": "cocktails"
+        },
+        {
+            "name": "Blue Lagoon",
+            "price": 1800,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipirinha",
+            "price": 1500,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipiroska",
+            "price": 1500,
+            "type": "cocktails"
+        },
+        {
+            "name": "Piña Colada",
+            "price": 2100,
+            "type": "cocktails"
+        },
+        {
+            "name": "Sangria",
+            "price": 1800,
+            "type": "cocktails"
+        },
+        {
+            "name": "Gin & Tonic",
+            "price": 1800,
+            "type": "cocktails"
+        },
+        {
+            "name": "Canchanchara",
+            "price": 1500,
+            "type": "cocktails"
+        },
+        {
+            "name": "Long Island",
+            "price": 2100,
+            "type": "cocktails"
+        },
+        {
+            "name": "Screwdriver",
+            "price": 1800,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mexica Silver",
+            "price": 1200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Mexica Reposado",
+            "price": 1200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Olmeca Blanco",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Olmeca Reposado",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "José Cuervo Tradicional",
+            "price": 2100,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "José Cuervo Reposado",
+            "price": 2100,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Patrón Silver",
+            "price": 3600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Patrón Reposado",
+            "price": 3600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Don Julio 1942",
+            "price": 13500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Clase Azul Reposado",
+            "price": 12000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Baileys",
+            "price": 1800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cointreau",
+            "price": 2100,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Kahlua",
+            "price": 1800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Sambuca",
+            "price": 1800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Tia Maria",
+            "price": 1800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Molinari",
+            "price": 1800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Licor 43",
+            "price": 1800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Anis de Mono",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Anis Dulce",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Disaronno Amaretto",
+            "price": 2100,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Malibu",
+            "price": 2100,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Campari",
+            "price": 1800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Limoncello",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Jägermeister",
+            "price": 1800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Aperol",
+            "price": 1800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Passoa",
+            "price": 1800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Frangelico",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ruavieja",
+            "price": 1200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Havana Club 3 Años",
+            "price": 1200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Havana Club Especial",
+            "price": 1200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Havana Club Reserva",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Havana Club 7 Años",
+            "price": 1800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Havana Club Smoky",
+            "price": 2400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Havana Club Selección de Maestros",
+            "price": 3600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Havana Club Pacto Navio",
+            "price": 3900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Havana Club 15 Años",
+            "price": 8400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Havana Club Union",
+            "price": 19500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Havana Club Máximo",
+            "price": 57000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Santiago de Cuba 8 Años",
+            "price": 2400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Santiago de Cuba 11 Años",
+            "price": 3600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Santiago de Cuba 12 Años",
+            "price": 4200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Johnnie Walker Red Label",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Johnnie Walker Black Label",
+            "price": 2700,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Johnnie Walker Swing",
+            "price": 3000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Jameson",
+            "price": 1800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ballentines",
+            "price": 1800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Chivas Regal 12 Años",
+            "price": 3000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Chivas Regal 15 Años",
+            "price": 4500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Chivas Regal 18 Años",
+            "price": 5400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Chivas Regal 25 Años",
+            "price": 13500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Glenfiddich 12 Años",
+            "price": 5100,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "The Singleton 12 Años",
+            "price": 5400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Glenmorangie 10 Años",
+            "price": 4800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Akashi Red",
+            "price": 4500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Master's",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Beefeater",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Beefeater 24",
+            "price": 2400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Gordon's Gin",
+            "price": 1800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Tanqueray",
+            "price": 2100,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Gin Mare",
+            "price": 2400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Hendrick's",
+            "price": 3000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Absolut",
+            "price": 2100,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Finlandia",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Stolichnaya",
+            "price": 1800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Stolichnaya Vanilla",
+            "price": 1800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ciroc",
+            "price": 2100,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Grey Goose",
+            "price": 3600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Belvedere",
+            "price": 4200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Osborne Fino Quinta Sherry",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Osborne 10 Años Tawny Port",
+            "price": 2700,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Hennessy V.S.",
+            "price": 4200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Comté Joseph V.S.O.P.",
+            "price": 2900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Comté Joseph X.O.",
+            "price": 6000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cristal Cuba",
+            "price": 900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cristal Extra Cuba",
+            "price": 900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Buccanero Cuba",
+            "price": 900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Presidente México",
+            "price": 900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Stella Artois",
+            "price": 900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Estrella Damm",
+            "price": 900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Heineken",
+            "price": 1200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Corona México",
+            "price": 1200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Agua Natural Nacional 500 ml",
+            "price": 750,
+            "type": "water"
+        },
+        {
+            "name": "Agua Con Gas Nacional 330 ml",
+            "price": 750,
+            "type": "water"
+        },
+        {
+            "name": "Mondariz Natural 750 ml",
+            "price": 1950,
+            "type": "water"
+        },
+        {
+            "name": "Mondariz Con Gas 750 ml",
+            "price": 1950,
+            "type": "water"
+        },
+        {
+            "name": "San Pellegino 750 ml",
+            "price": 1950,
+            "type": "water"
+        },
+        {
+            "name": "Perrier 330 ml",
+            "price": 1350,
+            "type": "water"
+        },
+        {
+            "name": "Coca-Cola / Pepsi",
+            "price": 1200,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "7 Up / Sprite",
+            "price": 1200,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Fanta / Mirinda",
+            "price": 1200,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refrescos Nacional",
+            "price": 900,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Red Bull",
+            "price": 1500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Ginger Ale",
+            "price": 1200,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta",
+            "price": 1200,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua Tónica Nacional",
+            "price": 900,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua Tónica Importado",
+            "price": 1200,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada",
+            "price": 1200,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugo Natural",
+            "price": 900,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugo Importado",
+            "price": 1200,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cucumbere Ginger Fizz",
+            "price": 1500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Espresso",
+            "price": 900,
+            "type": "infusions"
+        },
+        {
+            "name": "Double Espresso",
+            "price": 1200,
+            "type": "infusions"
+        },
+        {
+            "name": "Americano",
+            "price": 1050,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Latte",
+            "price": 1200,
+            "type": "infusions"
+        },
+        {
+            "name": "Cortado",
+            "price": 1050,
+            "type": "infusions"
+        },
+        {
+            "name": "Cappuccino",
+            "price": 1200,
+            "type": "infusions"
+        },
+        {
+            "name": "Espresso Macchiato",
+            "price": 1050,
+            "type": "infusions"
+        },
+        {
+            "name": "Latte Macchiato",
+            "price": 1200,
+            "type": "infusions"
+        },
+        {
+            "name": "Chocolate Caliente",
+            "price": 1200,
+            "type": "infusions"
+        },
+        {
+            "name": "Frappuccino",
+            "price": 1500,
+            "type": "infusions"
+        },
+        {
+            "name": "Infusión de Menta Fresca",
+            "price": 900,
+            "type": "infusions"
+        },
+        {
+            "name": "Infusión de Jengibre Fresco",
+            "price": 900,
+            "type": "infusions"
+        },
+        {
+            "name": "Infusión de Selección Fairtrade",
+            "price": 900,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Irlandés",
+            "price": 2100,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Italiano",
+            "price": 1800,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Español",
+            "price": 2100,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Bombón",
+            "price": 1800,
+            "type": "infusions"
+        },
+        {
+            "name": "Affogato",
+            "price": 2100,
+            "type": "infusions"
+        }
+    ],
+    "location": {
+        "street": "Calle Juan Delgado #255 entre Santa Catalina y Milagros",
+        "council": "Santos Suárez",
+        "municipe": "Diez de Octubre",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

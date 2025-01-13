@@ -1,0 +1,346 @@
+{
+    "name": "Kopas",
+    "phone": "51566616",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "10:00",
+        "close": "23:30",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 50,
+    "reservations": [
+        "in-person",
+        "phone",
+        "online",
+        "others"
+    ],
+    "delivery": [
+        "home",
+        "takeaway",
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "card",
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.3,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": null,
+    "ig": "hopas_bar_restaurant",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Tacos de camaron",
+            "price": 1250,
+            "type": "starters"
+        },
+        {
+            "name": "Tacos de res",
+            "price": 995,
+            "type": "starters"
+        },
+        {
+            "name": "Tacos de cerdo",
+            "price": 975,
+            "type": "starters"
+        },
+        {
+            "name": "Tacos de langosta",
+            "price": 1350,
+            "type": "starters"
+        },
+        {
+            "name": "Tacos de pescado",
+            "price": 975,
+            "type": "starters"
+        },
+        {
+            "name": "Fritura de malanga",
+            "price": 750,
+            "type": "starters"
+        },
+        {
+            "name": "Tostones rellenos de camaron",
+            "price": 1100,
+            "type": "starters"
+        },
+        {
+            "name": "Tostones rellenos de jamon y queso",
+            "price": 975,
+            "type": "starters"
+        },
+        {
+            "name": "Brochetas de langosta",
+            "price": 2350,
+            "type": "mains"
+        },
+        {
+            "name": "Brochetas de camaron",
+            "price": 2100,
+            "type": "mains"
+        },
+        {
+            "name": "Brochetas de cerdo",
+            "price": 1850,
+            "type": "mains"
+        },
+        {
+            "name": "Brochetas de pollo",
+            "price": 1550,
+            "type": "mains"
+        },
+        {
+            "name": "Langosta a las brasas",
+            "price": 2350,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo de pescado a las brasas",
+            "price": 2200,
+            "type": "mains"
+        },
+        {
+            "name": "Mar y tierra",
+            "price": 3650,
+            "type": "mains"
+        },
+        {
+            "name": "Rueda de albacora a las brasas",
+            "price": 1775,
+            "type": "mains"
+        },
+        {
+            "name": "Fajitas de pollo empanadas",
+            "price": 1450,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de pollo grille",
+            "price": 1250,
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga de pollo en salsa de jengibre y ajonjoli",
+            "price": 1450,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo al limon y al oregano",
+            "price": 1350,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo a la parmesana",
+            "price": 1650,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo al ajo y vino blanco",
+            "price": 1350,
+            "type": "mains"
+        },
+        {
+            "name": "Fajitas de pollo a la pina y miel",
+            "price": 1275,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo Princesa",
+            "price": 1650,
+            "type": "mains"
+        },
+        {
+            "name": "Fajitas de cerdo a la pina y miel",
+            "price": 1875,
+            "type": "mains"
+        },
+        {
+            "name": "Uruguayo de cerdo",
+            "price": 2250,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de cerdo Princesa",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "Masa de cerdo al estilo Kopas",
+            "price": 1875,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de cerdo encebollado",
+            "price": 1550,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo de cerdo ahumado con salsa barbecue",
+            "price": 1850,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo de cerdo ahumado con salsa agridulce",
+            "price": 1875,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo de cerdo ahumado encebollado",
+            "price": 1775,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de res encebollado",
+            "price": 1750,
+            "type": "mains"
+        },
+        {
+            "name": "Fajitas de res",
+            "price": 1750,
+            "type": "mains"
+        },
+        {
+            "name": "Mignon salsa del Chef",
+            "price": 1850,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa vieja",
+            "price": 1575,
+            "type": "mains"
+        },
+        {
+            "name": "Uruguayo de res",
+            "price": 2250,
+            "type": "mains"
+        },
+        {
+            "name": "Vaca frita",
+            "price": 1450,
+            "type": "mains"
+        },
+        {
+            "name": "Filete a la Deutch",
+            "price": 1750,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de pescado Princesa",
+            "price": 2150,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de pescado en salsa de limon",
+            "price": 1975,
+            "type": "mains"
+        },
+        {
+            "name": "Langosta enchilada",
+            "price": 2475,
+            "type": "mains"
+        },
+        {
+            "name": "Langosta grille",
+            "price": 2100,
+            "type": "mains"
+        },
+        {
+            "name": "Camaron enchilado",
+            "price": 2300,
+            "type": "mains"
+        },
+        {
+            "name": "camaron grille",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "Camaron empanado",
+            "price": 2300,
+            "type": "mains"
+        },
+        {
+            "name": "Camarones al ajillo",
+            "price": 2200,
+            "type": "mains"
+        },
+        {
+            "name": "Langosta al ajillo",
+            "price": 2250,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de pescado Costa Sur",
+            "price": 2650,
+            "type": "mains"
+        },
+        {
+            "name": "Dados de pescado al ajillo",
+            "price": 1750,
+            "type": "mains"
+        },
+        {
+            "name": "Camaron tropical",
+            "price": 3250,
+            "type": "mains"
+        },
+        {
+            "name": "Vodka Ciroc Red Berry",
+            "price": 8900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Whisky Jameson",
+            "price": 8500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Whisky J&B Rare",
+            "price": 5900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Whisky Elliot Hall",
+            "price": 4900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "whisky Chanceler",
+            "price": 2900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Whisky Ballantines",
+            "price": 8500,
+            "type": "alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "Esquina de 5ta Avenida, #482",
+        "council": null,
+        "municipe": "Habana del Este",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

@@ -1,0 +1,209 @@
+{
+    "name": "Jorgito's Pizzas",
+    "phone": "+53 54031349",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "11:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "others"
+    ],
+    "delivery": [
+        "home"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "card",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.0,
+    "reviews": 30,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "pizza de queso gouda (20cm)",
+            "price": 410,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de queso gouda (32cm)",
+            "price": 750,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de 2 quesos (32cm)",
+            "price": 990,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza hawaiana (32cm)",
+            "price": 1110,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de 3 quesos (32cm)",
+            "price": 1320,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de 4 quesos (32cm)",
+            "price": 1500,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de vegetales (32cm)",
+            "price": 1650,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza familiar de queso gouda (40x50cm)",
+            "price": 1820,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza familiar de 2 quesos (40x50cm)",
+            "price": 2780,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza familiar hawaiana (40x50cm)",
+            "price": 3260,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza familiar de 3 quesos (40x50cm)",
+            "price": 3345,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza familiar de 4 quesos (40x50cm)",
+            "price": 3470,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza familiar de vegetales (40x50cm)",
+            "price": 5420,
+            "type": "pizza"
+        },
+        {
+            "name": "spaghetti c/queso gouda",
+            "price": 690,
+            "type": "pasta"
+        },
+        {
+            "name": "Pizza Especial con todos los agregos (35cm)",
+            "price": 3800,
+            "type": "pizza"
+        },
+        {
+            "name": "chorizo",
+            "price": 170,
+            "type": "others"
+        },
+        {
+            "name": "chorizo (familiar)",
+            "price": 680,
+            "type": "others"
+        },
+        {
+            "name": "piña",
+            "price": 180,
+            "type": "others"
+        },
+        {
+            "name": "jamon",
+            "price": 180,
+            "type": "others"
+        },
+        {
+            "name": "jamon (familiar)",
+            "price": 720,
+            "type": "others"
+        },
+        {
+            "name": "queso nacional",
+            "price": 180,
+            "type": "others"
+        },
+        {
+            "name": "queso mozzarella",
+            "price": 240,
+            "type": "others"
+        },
+        {
+            "name": "pimiento",
+            "price": 250,
+            "type": "others"
+        },
+        {
+            "name": "pimiento (familiar)",
+            "price": 1000,
+            "type": "others"
+        },
+        {
+            "name": "cebolla",
+            "price": 300,
+            "type": "others"
+        },
+        {
+            "name": "cebolla (familiar)",
+            "price": 1200,
+            "type": "others"
+        },
+        {
+            "name": "queso gouda",
+            "price": 300,
+            "type": "others"
+        },
+        {
+            "name": "queso gouda (familiar)",
+            "price": 1200,
+            "type": "others"
+        },
+        {
+            "name": "queso parmesano",
+            "price": 330,
+            "type": "others"
+        },
+        {
+            "name": "atun",
+            "price": 330,
+            "type": "others"
+        },
+        {
+            "name": "aceituna",
+            "price": 350,
+            "type": "others"
+        }
+    ],
+    "location": {
+        "street": "Pedroso entre Infanta y Cruz del Pader",
+        "council": null,
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

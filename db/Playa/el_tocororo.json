@@ -1,0 +1,301 @@
+{
+    "name": "El Tocororo",
+    "phone": "72024530",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "12:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.0,
+    "reviews": 75,
+    "amenities": [
+        "invalid_accessible",
+        "parking"
+    ],
+    "fb": "Restaurante BAR Tocororo.",
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "panaderia de la casa",
+            "price": 75,
+            "type": "appetizer"
+        },
+        {
+            "name": "coctel de langosta",
+            "price": 550,
+            "type": "appetizer"
+        },
+        {
+            "name": "coctel de pescado",
+            "price": 385,
+            "type": "appetizer"
+        },
+        {
+            "name": "ensalada de pollo tropical",
+            "price": 300,
+            "type": "appetizer"
+        },
+        {
+            "name": "dados de queso en escabeche",
+            "price": 425,
+            "type": "appetizer"
+        },
+        {
+            "name": "entremes de jamon",
+            "price": 285,
+            "type": "appetizer"
+        },
+        {
+            "name": "seviche caribeno",
+            "price": 450,
+            "type": "appetizer"
+        },
+        {
+            "name": "picadera especial tocororos",
+            "price": 1500,
+            "type": "appetizer"
+        },
+        {
+            "name": "frituritas de la abuela",
+            "price": 170,
+            "type": "appetizer"
+        },
+        {
+            "name": "croquetas del chef",
+            "price": 200,
+            "type": "appetizer"
+        },
+        {
+            "name": "eperlan de pescado",
+            "price": 675,
+            "type": "appetizer"
+        },
+        {
+            "name": "mejillones a la diabla",
+            "price": 700,
+            "type": "appetizer"
+        },
+        {
+            "name": "pesca especial del dia con salsa de limon",
+            "price": 1600,
+            "type": "mains"
+        },
+        {
+            "name": "delicias del caribe",
+            "price": 1775,
+            "type": "mains"
+        },
+        {
+            "name": "langosta grille abrillantada con mantequilla y olivo",
+            "price": 1750,
+            "type": "mains"
+        },
+        {
+            "name": "langosta enchilada",
+            "price": 1700,
+            "type": "mains"
+        },
+        {
+            "name": "mejillones a la diabla",
+            "price": 1250,
+            "type": "mains"
+        },
+        {
+            "name": "pollo al horno al estilo del chef",
+            "price": 820,
+            "type": "mains"
+        },
+        {
+            "name": "suprema de pollo perfumada al olivo",
+            "price": 850,
+            "type": "mains"
+        },
+        {
+            "name": "higado grille con aderezo primavera",
+            "price": 985,
+            "type": "mains"
+        },
+        {
+            "name": "lonjas de cerdo asado con mojo criollo",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "costilla de cerdo asado a lo cubano",
+            "price": 1425,
+            "type": "mains"
+        },
+        {
+            "name": "ternera guisada a la campesina",
+            "price": 1550,
+            "type": "mains"
+        },
+        {
+            "name": "spaghetti napolitano",
+            "price": 550,
+            "type": "pasta"
+        },
+        {
+            "name": "spaghetti primavera",
+            "price": 625,
+            "type": "pasta"
+        },
+        {
+            "name": "spaghetti al olio",
+            "price": 550,
+            "type": "pasta"
+        },
+        {
+            "name": "spaghetti guarnecido con jamon",
+            "price": 685,
+            "type": "pasta"
+        },
+        {
+            "name": "spaghetti marinero",
+            "price": 850,
+            "type": "pasta"
+        },
+        {
+            "name": "arroz blanco",
+            "price": 110,
+            "type": "sides"
+        },
+        {
+            "name": "arroz moro",
+            "price": 200,
+            "type": "sides"
+        },
+        {
+            "name": "hortalizas salteadas",
+            "price": 100,
+            "type": "sides"
+        },
+        {
+            "name": "vianda hervida aderezada con mojo criollo",
+            "price": 100,
+            "type": "sides"
+        },
+        {
+            "name": "vianda frita",
+            "price": 100,
+            "type": "sides"
+        },
+        {
+            "name": "papas fritas",
+            "price": 150,
+            "type": "sides"
+        },
+        {
+            "name": "ensalada de hortalizas del dia",
+            "price": 100,
+            "type": "sides"
+        },
+        {
+            "name": "sopon campesino",
+            "price": 80,
+            "type": "sides"
+        },
+        {
+            "name": "frijoles negros a la criolla",
+            "price": 180,
+            "type": "sides"
+        },
+        {
+            "name": "caldo marinero",
+            "price": 195,
+            "type": "sides"
+        },
+        {
+            "name": "deliciosa torta de la casa",
+            "price": 285,
+            "type": "desserts"
+        },
+        {
+            "name": "arroz con leche a la canela",
+            "price": 200,
+            "type": "desserts"
+        },
+        {
+            "name": "dulces en almibar guarnecido con queso",
+            "price": 200,
+            "type": "desserts"
+        },
+        {
+            "name": "helado tocororo",
+            "price": 180,
+            "type": "desserts"
+        },
+        {
+            "name": "cafe expreso",
+            "price": 90,
+            "type": "infusions"
+        },
+        {
+            "name": "cafe cortadito",
+            "price": 100,
+            "type": "infusions"
+        },
+        {
+            "name": "cafe rocio de gallo",
+            "price": 150,
+            "type": "infusions"
+        },
+        {
+            "name": "cafe carajillo",
+            "price": 150,
+            "type": "infusions"
+        },
+        {
+            "name": "cafe americano",
+            "price": 100,
+            "type": "infusions"
+        },
+        {
+            "name": "infusion de manzanilla",
+            "price": 100,
+            "type": "infusions"
+        },
+        {
+            "name": "infusion de menta poleo",
+            "price": 100,
+            "type": "infusions"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Playa",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.124905240397386,
+        "coords_y": -82.42134057564077
+    }
+}

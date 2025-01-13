@@ -1,0 +1,169 @@
+{
+    "name": "Mundo Pizza",
+    "phone": "53372715",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "12:00",
+        "close": "22:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "others"
+    ],
+    "delivery": [
+        "home",
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.6,
+    "reviews": 60,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Croquetas Caseras",
+            "price": 590.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tostones Criollos",
+            "price": 540.0,
+            "type": "starters"
+        },
+        {
+            "name": "Focaccia",
+            "price": 560.0,
+            "type": "starters"
+        },
+        {
+            "name": "Pizza Rossa",
+            "price": 590.0,
+            "type": "starters"
+        },
+        {
+            "name": "Pizza Metro Criolla",
+            "price": 2800.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Metro Casa",
+            "price": 3700.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Metro Gouda",
+            "price": 5100.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Metro Elección",
+            "price": 5150.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza 1/2 Metro Mix",
+            "price": 2500.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza 1/2 Metro Elección",
+            "price": 2700.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Espaguetis",
+            "price": 950.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Lasagna",
+            "price": 1250.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis al Pesto",
+            "price": 1050.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis del Dia",
+            "price": 1600.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Postre del Dia",
+            "price": 650.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Pizza a Chocolate",
+            "price": 815.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Helado 3 Gracias",
+            "price": 500.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Cerveza",
+            "price": 300.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Refresco",
+            "price": 250.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Energizante",
+            "price": 390.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugo Cajita",
+            "price": 250.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Yogurt",
+            "price": 250.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta",
+            "price": 300.0,
+            "type": "non_alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

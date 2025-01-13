@@ -1,0 +1,415 @@
+{
+    "name": "Pasos Habaneros",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "09:00",
+        "close": "18:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [],
+    "delivery": [],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer",
+        "card"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Croquetas",
+            "price": 280,
+            "type": "appetizer"
+        },
+        {
+            "name": "Coctel de Camarón sencillo",
+            "price": 400,
+            "type": "appetizer"
+        },
+        {
+            "name": "Coctel de Camarón doble",
+            "price": 800,
+            "type": "appetizer"
+        },
+        {
+            "name": "Pan con queso blanco",
+            "price": 135,
+            "type": "appetizer"
+        },
+        {
+            "name": "Pan con croquetas",
+            "price": 180,
+            "type": "appetizer"
+        },
+        {
+            "name": "Pan con 2 Croquetas y Jamón",
+            "price": 280,
+            "type": "appetizer"
+        },
+        {
+            "name": "Bocadito Jamón",
+            "price": 240,
+            "type": "appetizer"
+        },
+        {
+            "name": "Bocadito de Jamón y Queso",
+            "price": 350,
+            "type": "appetizer"
+        },
+        {
+            "name": "Super Pan Pasos Habaneros",
+            "price": 600,
+            "type": "appetizer"
+        },
+        {
+            "name": "Pollo Asado Muslo o Contra muslo",
+            "price": 275,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo Asado 1/2",
+            "price": 550,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de Cerdo",
+            "price": 750,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de Cerdo Empanado",
+            "price": 850,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa Vieja de Res",
+            "price": 880,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo de Cerdo",
+            "price": 950,
+            "type": "mains"
+        },
+        {
+            "name": "Carne de Cerdo Asada",
+            "price": 950,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo Ahumado",
+            "price": 950,
+            "type": "mains"
+        },
+        {
+            "name": "Masa de Cerdo Frita",
+            "price": 950,
+            "type": "mains"
+        },
+        {
+            "name": "Chuleta de Cerdo",
+            "price": 1000,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec Uruguayo de Cerdo",
+            "price": 1000,
+            "type": "mains"
+        },
+        {
+            "name": "Alitas de pollo (1/2 libra)",
+            "price": 430,
+            "type": "mains"
+        },
+        {
+            "name": "Picadera \"Mi Habana\"",
+            "price": 750,
+            "type": "mains"
+        },
+        {
+            "name": "Picadera \"Pasos Habaneros\"",
+            "price": 850,
+            "type": "mains"
+        },
+        {
+            "name": "Alitas de pollo (1 libra)",
+            "price": 860,
+            "type": "mains"
+        },
+        {
+            "name": "Super Picadera Especial",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "Fajitas de Cerdo Pasos Habaneros",
+            "price": 950,
+            "type": "mains"
+        },
+        {
+            "name": "Napolitana",
+            "price": 250,
+            "type": "mains"
+        },
+        {
+            "name": "Doble Queso",
+            "price": 300,
+            "type": "mains"
+        },
+        {
+            "name": "Mayonesa",
+            "price": 300,
+            "type": "mains"
+        },
+        {
+            "name": "Jamón y Queso",
+            "price": 430,
+            "type": "mains"
+        },
+        {
+            "name": "Doble Queso y Jamón",
+            "price": 540,
+            "type": "mains"
+        },
+        {
+            "name": "Lasaña",
+            "price": 500,
+            "type": "mains"
+        },
+        {
+            "name": "Napolitano",
+            "price": 380,
+            "type": "mains"
+        },
+        {
+            "name": "Doble Queso",
+            "price": 440,
+            "type": "mains"
+        },
+        {
+            "name": "Jamón y Queso",
+            "price": 475,
+            "type": "mains"
+        },
+        {
+            "name": "Doble Queso y Jamón",
+            "price": 540,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz Blanco",
+            "price": 150,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz Moro",
+            "price": 200,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz Cardelnal",
+            "price": 260,
+            "type": "sides"
+        },
+        {
+            "name": "Ensalada de Estación",
+            "price": 250,
+            "type": "salads"
+        },
+        {
+            "name": "Vianda con Mojo",
+            "price": 250,
+            "type": "sides"
+        },
+        {
+            "name": "Vianda Frita",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "Helado \"Futbolito\"",
+            "price": 170,
+            "type": "desserts"
+        },
+        {
+            "name": "Helado \"Ciudad Deportiva\"",
+            "price": 225,
+            "type": "desserts"
+        },
+        {
+            "name": "Helado \"Jimagua Mónaco\"",
+            "price": 290,
+            "type": "desserts"
+        },
+        {
+            "name": "Helado \"Vaca Negra o Blanca\"",
+            "price": 320,
+            "type": "desserts"
+        },
+        {
+            "name": "Helado \"Sabor a Mi\"",
+            "price": 345,
+            "type": "desserts"
+        },
+        {
+            "name": "Helado \"Capitolio\"",
+            "price": 400,
+            "type": "desserts"
+        },
+        {
+            "name": "Helado \"Esquina de Tejas\"",
+            "price": 450,
+            "type": "desserts"
+        },
+        {
+            "name": "Helado \"Esquina de Toyo\"",
+            "price": 590,
+            "type": "desserts"
+        },
+        {
+            "name": "Helado \"Ensalada Parque Central\"",
+            "price": 660,
+            "type": "desserts"
+        },
+        {
+            "name": "Helados \"Pasos Habaneros\"",
+            "price": 710,
+            "type": "desserts"
+        },
+        {
+            "name": "Barquillo de Helado",
+            "price": 135,
+            "type": "desserts"
+        },
+        {
+            "name": "Potes de Helados (200 ml) sin montaje",
+            "price": 280,
+            "type": "desserts"
+        },
+        {
+            "name": "Potes de Helados (200 ml) con montaje",
+            "price": 300,
+            "type": "desserts"
+        },
+        {
+            "name": "Potes de Helados (400 ml) sin montaje",
+            "price": 400,
+            "type": "desserts"
+        },
+        {
+            "name": "Potes de Helados (400 ml) con montaje",
+            "price": 430,
+            "type": "desserts"
+        },
+        {
+            "name": "Vino Dulce",
+            "price": 100,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Whiskey 5Shot",
+            "price": 100,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Silver dry",
+            "price": 110,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Vino Tinto",
+            "price": 150,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Chisckiller",
+            "price": 170,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Black Tears (Brujo)",
+            "price": 170,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Habana Club",
+            "price": 170,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Agua mineral",
+            "price": 120,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco (pomu)",
+            "price": 235,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco lata (330ml)",
+            "price": 230,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza lata (330ml)",
+            "price": 200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Malta",
+            "price": 235,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Energizante(250ml)",
+            "price": 250,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza dispensada (500ml)",
+            "price": 290,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza dispensada (300ml)",
+            "price": 200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Termo de cerveza cristal de 6 jarras",
+            "price": 1700,
+            "type": "alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "Calle Santos Suárez 464 e/ Gómez y Mendoza",
+        "council": "Santos Suárez",
+        "municipe": "Diez de Octubre",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

@@ -1,0 +1,502 @@
+{
+    "name": "Caf\u00e9 Versalles",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "09:00",
+        "close": "24:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": null,
+    "delivery": [
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 5.0,
+    "reviews": 30,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Ensalada Fr\u00eda De Jam\u00f3n",
+            "price": 500.0,
+            "type": "starters"
+        },
+        {
+            "name": "Ensalada Fr\u00eda De At\u00fan",
+            "price": 700.0,
+            "type": "starters"
+        },
+        {
+            "name": "Croquetas De La Casa",
+            "price": 500.0,
+            "type": "starters"
+        },
+        {
+            "name": "Eperlan De Pescado",
+            "price": 1600.0,
+            "type": "starters"
+        },
+        {
+            "name": "Fajitas De Pollo Empanado",
+            "price": 1500.0,
+            "type": "starters"
+        },
+        {
+            "name": "Maripositas Chinas",
+            "price": 700.0,
+            "type": "starters"
+        },
+        {
+            "name": "Ceviche De Pescado",
+            "price": 1000.0,
+            "type": "starters"
+        },
+        {
+            "name": "Cesta Bananera",
+            "price": 850.0,
+            "type": "starters"
+        },
+        {
+            "name": "C\u00f3ctel De Camar\u00f3n",
+            "price": 1200.0,
+            "type": "starters"
+        },
+        {
+            "name": "Pollo grille",
+            "price": 1400.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo cantones",
+            "price": 2200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Cordon bleu",
+            "price": 2500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Medio pollo al carb\u00f3n con BBQ",
+            "price": 2500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado versalles",
+            "price": 2800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Canciller",
+            "price": 2800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Montetoro",
+            "price": 2200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Filete grille",
+            "price": 1600.0,
+            "type": "mains"
+        },
+        {
+            "name": "Camar\u00f3n al gusto",
+            "price": 2500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Chuleta de cerdo al carb\u00f3n con bbq 1 libra",
+            "price": 3600.0,
+            "type": "mains"
+        },
+        {
+            "name": "Solomillo de cerdo al carb\u00f3n con bbq 1 libra",
+            "price": 3000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Uruguayo de cerdo",
+            "price": 2500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Masa de cerdo frita 300 gr",
+            "price": 2800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de cerdo encebollado",
+            "price": 1600.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pizza Napoles",
+            "price": 900.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza queso gouda",
+            "price": 1260.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza jam\u00f3n",
+            "price": 1150.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza chorizo",
+            "price": 1250.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza camarones",
+            "price": 1700.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza cebolla",
+            "price": 1150.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza aceituna",
+            "price": 1200.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza pi\u00f1a",
+            "price": 1150.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza at\u00fan",
+            "price": 1250.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza lomo ahumado",
+            "price": 1250.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza beicon",
+            "price": 1300.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza pimiento",
+            "price": 1200.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Espaguetis",
+            "price": 800.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Laza\u00f1a de Jamon",
+            "price": 1200.0,
+            "type": "pasta"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Guanabacoa",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "Ron selecci\u00f3n de maestros",
+                "price": 900.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Ron a\u00f1ejo especial",
+                "price": 350.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Ron Santiago",
+                "price": 500.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Ron cubay",
+                "price": 350.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Ron 3 a\u00f1os",
+                "price": 350.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Ron reserva",
+                "price": 350.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Ron 7 a\u00f1os",
+                "price": 350.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Tequila reposado",
+                "price": 600.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Tequila olmega silver",
+                "price": 500.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Whisky chivas regal",
+                "price": 1000.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Whisky white label",
+                "price": 350.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Whisky ballantines",
+                "price": 450.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Whisky jack daniels",
+                "price": 450.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Whisky jameson",
+                "price": 450.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Vodka absolut",
+                "price": 500.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Daiquiri",
+                "price": 500.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Tinto verano",
+                "price": 500.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Jack in black",
+                "price": 600.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Bandera",
+                "price": 600.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Margarita",
+                "price": 600.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Margarita blue",
+                "price": 700.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Daiquiri frutas",
+                "price": 600.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Daiquiri rebelde",
+                "price": 500.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Cubanito",
+                "price": 500.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Bloody mary",
+                "price": 600.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Limonada frappe",
+                "price": 250.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Limonasa clarete",
+                "price": 400.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Sangr\u00eda",
+                "price": 500.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Pi\u00f1a colada",
+                "price": 550.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Limonada frescura",
+                "price": 350.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Cubata",
+                "price": 700.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Cuba libre",
+                "price": 500.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Mojito",
+                "price": 500.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Ron collins",
+                "price": 500.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Caipirissima",
+                "price": 500.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Caipiroska",
+                "price": 500.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Caipiroska vip",
+                "price": 850.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Vodka tonic",
+                "price": 850.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Gin tonic",
+                "price": 700.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Cerveza cristal",
+                "price": 350.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Cerveza importada (heineken)",
+                "price": 400.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Jarra de cerveza",
+                "price": 550.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Tarro de cerveza",
+                "price": 2500.0,
+                "type": "alcoholic_drinks"
+            },
+            {
+                "item": "Caf\u00e9 roc\u00edo de gallo",
+                "price": 250.0,
+                "type": "alcoholic_drinks"
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "Agua natural",
+                "price": 200.0,
+                "type": "non_alcoholic_drinks"
+            },
+            {
+                "item": "Refresco importado",
+                "price": 250.0,
+                "type": "non_alcoholic_drinks"
+            },
+            {
+                "item": "Refresco nacional",
+                "price": 250.0,
+                "type": "non_alcoholic_drinks"
+            },
+            {
+                "item": "Malta",
+                "price": 320.0,
+                "type": "non_alcoholic_drinks"
+            },
+            {
+                "item": "Jugos naturales",
+                "price": 350.0,
+                "type": "non_alcoholic_drinks"
+            },
+            {
+                "item": "Caf\u00e9 expreso",
+                "price": 100.0,
+                "type": "non_alcoholic_drinks"
+            },
+            {
+                "item": "Caf\u00e9 bombon",
+                "price": 250.0,
+                "type": "non_alcoholic_drinks"
+            },
+            {
+                "item": "Caf\u00e9 cortado",
+                "price": 200.0,
+                "type": "non_alcoholic_drinks"
+            }
+        ]
+    }
+}

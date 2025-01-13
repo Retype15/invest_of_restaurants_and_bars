@@ -1,0 +1,415 @@
+{
+    "name": "El Gabán",
+    "phone": null,
+    "email": null,
+    "web": "linktr.ee/elgabanhabana",
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "12:00",
+        "close": "00:30",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 5.0,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": "El Gabán la 14 restaurante",
+    "ig": "@elgaban_oficial",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "crema de vegetales",
+            "price": 2400,
+            "type": "appetizer"
+        },
+        {
+            "name": "croquetones a la amatriciana",
+            "price": 3000,
+            "type": "appetizer"
+        },
+        {
+            "name": "croquetones de iberico",
+            "price": 3600,
+            "type": "appetizer"
+        },
+        {
+            "name": "tartar de res con maracuya",
+            "price": 4500,
+            "type": "appetizer"
+        },
+        {
+            "name": "tabla mixta",
+            "price": 5400,
+            "type": "appetizer"
+        },
+        {
+            "name": "carpaccio de res",
+            "price": 6000,
+            "type": "appetizer"
+        },
+        {
+            "name": "tartar de langosta",
+            "price": 6000,
+            "type": "appetizer"
+        },
+        {
+            "name": "pizza new york",
+            "price": 6000,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de bolonia",
+            "price": 5400,
+            "type": "pizza"
+        },
+        {
+            "name": "ñoquis",
+            "price": 3600,
+            "type": "pasta"
+        },
+        {
+            "name": "raviolis mariscos",
+            "price": 4500,
+            "type": "pasta"
+        },
+        {
+            "name": "risotto rosa",
+            "price": 5400,
+            "type": "mains"
+        },
+        {
+            "name": "risotto al coco",
+            "price": 6000,
+            "type": "mains"
+        },
+        {
+            "name": "pesca blanca",
+            "price": 7500,
+            "type": "seafood"
+        },
+        {
+            "name": "pesca azul",
+            "price": 7500,
+            "type": "seafood"
+        },
+        {
+            "name": "mignon",
+            "price": 8400,
+            "type": "mains"
+        },
+        {
+            "name": "ribeye",
+            "price": 8400,
+            "type": "mains"
+        },
+        {
+            "name": "pure de malanga",
+            "price": 1800,
+            "type": "sides"
+        },
+        {
+            "name": "papas al horno",
+            "price": 1800,
+            "type": "sides"
+        },
+        {
+            "name": "vegetales salteados",
+            "price": 1800,
+            "type": "sides"
+        },
+        {
+            "name": "arroz pilaf",
+            "price": 2400,
+            "type": "sides"
+        },
+        {
+            "name": "brownie blanco",
+            "price": 1800,
+            "type": "desserts"
+        },
+        {
+            "name": "paulova",
+            "price": 1800,
+            "type": "desserts"
+        },
+        {
+            "name": "arroz con leche",
+            "price": 1800,
+            "type": "desserts"
+        },
+        {
+            "name": "postre con helado",
+            "price": 1800,
+            "type": "desserts"
+        },
+        {
+            "name": "agua tonica",
+            "price": 1500,
+            "type": "water"
+        },
+        {
+            "name": "agua san pellegrino",
+            "price": 1600,
+            "type": "water"
+        },
+        {
+            "name": "agua natural",
+            "price": 1600,
+            "type": "water"
+        },
+        {
+            "name": "agua panna",
+            "price": 1600,
+            "type": "water"
+        },
+        {
+            "name": "agua con gas",
+            "price": 1600,
+            "type": "water"
+        },
+        {
+            "name": "refresco",
+            "price": 1000,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "malta",
+            "price": 1000,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "energizante",
+            "price": 1500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "kermato",
+            "price": 1600,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "limonada frappe/natural",
+            "price": 1600,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "cerveza de botella",
+            "price": 1600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "copa de vino (espumoso, tinto o blanco)",
+            "price": 1800,
+            "type": "wines"
+        },
+        {
+            "name": "grinch",
+            "price": 1600,
+            "type": "cocktails"
+        },
+        {
+            "name": "mohana",
+            "price": 1600,
+            "type": "cocktails"
+        },
+        {
+            "name": "mojito de frutas",
+            "price": 1600,
+            "type": "cocktails"
+        },
+        {
+            "name": "piña colada",
+            "price": 1600,
+            "type": "cocktails"
+        },
+        {
+            "name": "rossini",
+            "price": 2500,
+            "type": "cocktails"
+        },
+        {
+            "name": "negroni chocolate",
+            "price": 2500,
+            "type": "cocktails"
+        },
+        {
+            "name": "bellini",
+            "price": 2500,
+            "type": "cocktails"
+        },
+        {
+            "name": "garibaldi",
+            "price": 2500,
+            "type": "cocktails"
+        },
+        {
+            "name": "mi to",
+            "price": 2500,
+            "type": "cocktails"
+        },
+        {
+            "name": "negroni g",
+            "price": 2500,
+            "type": "cocktails"
+        },
+        {
+            "name": "aperol spritz",
+            "price": 2500,
+            "type": "cocktails"
+        },
+        {
+            "name": "spritz",
+            "price": 2500,
+            "type": "cocktails"
+        },
+        {
+            "name": "campari spritz",
+            "price": 2500,
+            "type": "cocktails"
+        },
+        {
+            "name": "daiquiri",
+            "price": 2000,
+            "type": "cocktails"
+        },
+        {
+            "name": "canchanchara",
+            "price": 2000,
+            "type": "cocktails"
+        },
+        {
+            "name": "mojito",
+            "price": 2000,
+            "type": "cocktails"
+        },
+        {
+            "name": "cubanito",
+            "price": 2000,
+            "type": "cocktails"
+        },
+        {
+            "name": "caipirisima",
+            "price": 2000,
+            "type": "cocktails"
+        },
+        {
+            "name": "margarita",
+            "price": 2500,
+            "type": "cocktails"
+        },
+        {
+            "name": "sangria",
+            "price": 2500,
+            "type": "cocktails"
+        },
+        {
+            "name": "caipiroska",
+            "price": 2500,
+            "type": "cocktails"
+        },
+        {
+            "name": "moscow mule",
+            "price": 2500,
+            "type": "cocktails"
+        },
+        {
+            "name": "fernet con cola",
+            "price": 2500,
+            "type": "cocktails"
+        },
+        {
+            "name": "vodka tonic",
+            "price": 2500,
+            "type": "cocktails"
+        },
+        {
+            "name": "caipirinha",
+            "price": 2500,
+            "type": "cocktails"
+        },
+        {
+            "name": "bloody mary",
+            "price": 2500,
+            "type": "cocktails"
+        },
+        {
+            "name": "amaretto sour",
+            "price": 2500,
+            "type": "cocktails"
+        },
+        {
+            "name": "old fashioned",
+            "price": 2500,
+            "type": "cocktails"
+        },
+        {
+            "name": "new york whisky sour",
+            "price": 2500,
+            "type": "cocktails"
+        },
+        {
+            "name": "expresso martini",
+            "price": 1500,
+            "type": "cocktails"
+        },
+        {
+            "name": "cafe",
+            "price": 800,
+            "type": "coffee"
+        },
+        {
+            "name": "frapuccino",
+            "price": 1500,
+            "type": "coffee"
+        },
+        {
+            "name": "carajillo",
+            "price": 1500,
+            "type": "coffee"
+        },
+        {
+            "name": "te",
+            "price": 800,
+            "type": "infusions"
+        },
+        {
+            "name": "infusiones",
+            "price": 800,
+            "type": "infusions"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Playa",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.11556412986255,
+        "coords_y": -82.43678182320103
+    }
+}

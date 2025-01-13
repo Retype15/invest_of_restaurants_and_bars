@@ -1,0 +1,316 @@
+{
+    "name": "Don Burguer",
+    "phone": "+53 56073379",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "10:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "others"
+    ],
+    "delivery": [
+        "others"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.4,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": "Don Burguer JJ",
+    "ig": "@donburguercuba",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "ENSALADA FRÍA",
+            "price": 580.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "ACEITUNAS (RACIÓN)",
+            "price": 420.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "BOLITAS DE QUESO",
+            "price": 640.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "FRITURAS DE MALANGA",
+            "price": 510.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "CROQUETAS",
+            "price": 640.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "PAPITAS",
+            "price": 640.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "FAJITAS DE POLLO",
+            "price": 940.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "ENTREMES SURTIDO",
+            "price": 1720.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "BRUSQUETAS",
+            "price": 780.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "BURRITOS DE JAMÓN Y QUESO",
+            "price": 1260.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "TACOS DE VEGETALES",
+            "price": 620.0,
+            "type": "mains"
+        },
+        {
+            "name": "TACOS DE CERDO",
+            "price": 1120.0,
+            "type": "mains"
+        },
+        {
+            "name": "TACOS DE POLLO",
+            "price": 1120.0,
+            "type": "mains"
+        },
+        {
+            "name": "TACOS DE RES",
+            "price": 1280.0,
+            "type": "mains"
+        },
+        {
+            "name": "HAMBURGUESA (CERDO)",
+            "price": 740.0,
+            "type": "mains"
+        },
+        {
+            "name": "HAMBURGUESA (POLLO)",
+            "price": 740.0,
+            "type": "mains"
+        },
+        {
+            "name": "HAMBURGUESA (RES)",
+            "price": 860.0,
+            "type": "mains"
+        },
+        {
+            "name": "DOBLE HAMB. (CERDO)",
+            "price": 1040.0,
+            "type": "mains"
+        },
+        {
+            "name": "DOBLE HAMB. (POLLO)",
+            "price": 1040.0,
+            "type": "mains"
+        },
+        {
+            "name": "DOBLE HAMB. (RES)",
+            "price": 1480.0,
+            "type": "mains"
+        },
+        {
+            "name": "DOBLE HAMBURGUESA DE CERDO(BISTEC DE CERDO Y 3 AGREGOS / JAMON VICKING, QUESO Y CHORIZO)",
+            "price": 2680.0,
+            "type": "mains"
+        },
+        {
+            "name": "PAN C/ BISTEC DE CERDO",
+            "price": 840.0,
+            "type": "mains"
+        },
+        {
+            "name": "PAN C/ BISTEC DE POLLO",
+            "price": 810.0,
+            "type": "mains"
+        },
+        {
+            "name": "PAN C/ LECHÓN",
+            "price": 890.0,
+            "type": "mains"
+        },
+        {
+            "name": "BOCADITO DE ATÚN",
+            "price": 840.0,
+            "type": "mains"
+        },
+        {
+            "name": "SANDWICH DE JAMÓN QUESO Y CHORIZO",
+            "price": 890.0,
+            "type": "mains"
+        },
+        {
+            "name": "SANDWICH CUBANO",
+            "price": 1290.0,
+            "type": "mains"
+        },
+        {
+            "name": "JAMÓN VICKING",
+            "price": 120.0,
+            "type": "sides"
+        },
+        {
+            "name": "JAMÓN PIERNA",
+            "price": 190.0,
+            "type": "sides"
+        },
+        {
+            "name": "BACON",
+            "price": 190.0,
+            "type": "sides"
+        },
+        {
+            "name": "QUESO",
+            "price": 150.0,
+            "type": "sides"
+        },
+        {
+            "name": "CHORIZO",
+            "price": 120.0,
+            "type": "sides"
+        },
+        {
+            "name": "HUEVO",
+            "price": 190.0,
+            "type": "sides"
+        },
+        {
+            "name": "CEBOLLA",
+            "price": 60.0,
+            "type": "sides"
+        },
+        {
+            "name": "TOMATE",
+            "price": 60.0,
+            "type": "sides"
+        },
+        {
+            "name": "LECHUGA",
+            "price": 30.0,
+            "type": "sides"
+        },
+        {
+            "name": "PEPINILLO ENCURTIDO",
+            "price": 30.0,
+            "type": "sides"
+        },
+        {
+            "name": "PIÑA GLASEADA",
+            "price": 80.0,
+            "type": "sides"
+        },
+        {
+            "name": "3 GRACIAS",
+            "price": 740.0,
+            "type": "desserts"
+        },
+        {
+            "name": "ENSALADA",
+            "price": 1080.0,
+            "type": "desserts"
+        },
+        {
+            "name": "SUERO DE HELADO",
+            "price": 840.0,
+            "type": "desserts"
+        },
+        {
+            "name": "CASQUITOS DE GUAYABA",
+            "price": 560.0,
+            "type": "desserts"
+        },
+        {
+            "name": "FLAN",
+            "price": 560.0,
+            "type": "desserts"
+        },
+        {
+            "name": "DULCE DE COCO",
+            "price": 460.0,
+            "type": "desserts"
+        },
+        {
+            "name": "TORREJAS",
+            "price": 680.0,
+            "type": "desserts"
+        },
+        {
+            "name": "DULCE DE FRUTA BOMBA",
+            "price": 460.0,
+            "type": "desserts"
+        },
+        {
+            "name": "AGUA",
+            "price": 150.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "REFRESCO",
+            "price": 240.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "BATIDO DE FRUTAS",
+            "price": 390.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "LIMONADA FRAPE",
+            "price": 380.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "LIMONADA CON HIERBA BUENA",
+            "price": 460.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "MALTA",
+            "price": 400.0,
+            "type": "non_alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "Calzada de 10 de Octubre, entre  Aranguren y Santa Isabel",
+        "council": "La Palma",
+        "municipe": "Arroyo Naranjo",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

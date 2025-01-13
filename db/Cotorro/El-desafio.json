@@ -1,0 +1,211 @@
+{
+    "name": "El Desafío",
+    "phone": "+5363510685",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "12:00",
+        "close": "22:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "others"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Tostones campesinos",
+            "price": "435.00",
+            "type": "appetizer"
+        },
+        {
+            "name": "Eperlan",
+            "price": "985.00",
+            "type": "appetizer"
+        },
+        {
+            "name": "Croquetas",
+            "price": "575.00",
+            "type": "appetizer"
+        },
+        {
+            "name": "Coctel de langosta",
+            "price": "1135.00",
+            "type": "appetizer"
+        },
+        {
+            "name": "Filete de pescado empanado",
+            "price": "1995.00",
+            "type": "mains"
+        },
+        {
+            "name": "Masa frita",
+            "price": "1885.00",
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de Cerdo",
+            "price": "1885.00",
+            "type": "mains"
+        },
+        {
+            "name": "Lomo deshuesado",
+            "price": "1885.00",
+            "type": "mains"
+        },
+        {
+            "name": "Pierna ahumada",
+            "price": "1945.00",
+            "type": "mains"
+        },
+        {
+            "name": "Filete de cerdo",
+            "price": "2995.00",
+            "type": "mains"
+        },
+        {
+            "name": "Costilla",
+            "price": "1935.00",
+            "type": "mains"
+        },
+        {
+            "name": "Langosta",
+            "price": "1985.00",
+            "type": "seafood"
+        },
+        {
+            "name": "Pechuga a la brasa",
+            "price": "1535.00",
+            "type": "mains"
+        },
+        {
+            "name": "Enchilado de langosta",
+            "price": "2235.00",
+            "type": "seafood"
+        },
+        {
+            "name": "Langostón",
+            "price": "2685.00",
+            "type": "seafood"
+        },
+        {
+            "name": "Lomo al carbón",
+            "price": "4440.00",
+            "type": "mains"
+        },
+        {
+            "name": "Chuleta",
+            "price": "1935.00",
+            "type": "mains"
+        },
+        {
+            "name": "Arroz blanco",
+            "price": "155.00",
+            "type": "sides"
+        },
+        {
+            "name": "Arroz Moro",
+            "price": "270.00",
+            "type": "sides"
+        },
+        {
+            "name": "Dulce de leche",
+            "price": "795.00",
+            "type": "desserts"
+        },
+        {
+            "name": "Cerveza Heineken",
+            "price": "325.00",
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza unlager",
+            "price": "295.00",
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Hollandia",
+            "price": "270.00",
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Ashe",
+            "price": "270.00",
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Kiss",
+            "price": "265.00",
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Refresco de Cola",
+            "price": "270.00",
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco de limon",
+            "price": "270.00",
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta Morena",
+            "price": "325.00",
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Yogurt de sabor",
+            "price": "225.00",
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua natural",
+            "price": "225.00",
+            "type": "water"
+        },
+        {
+            "name": "Energizante",
+            "price": "295.00",
+            "type": "non_alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "calle 58 número 6712 % 67 y 69",
+        "council": null,
+        "municipe": "Cotorro",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

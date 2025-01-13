@@ -1,0 +1,238 @@
+{
+    "name": "Doña Almira",
+    "phone": "76472432",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "12:00",
+        "close": "23:00",
+        "days": [
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer",
+        "card"
+    ],
+    "promo": false,
+    "rating": 4.4,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Tostones rellenos",
+            "price": 850.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tamal en cazuela",
+            "price": 785.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Vegetales rellenos",
+            "price": 895.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Ración de chicharrones",
+            "price": 300.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Aderezo Doña Almira",
+            "price": 385.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Salsa Agridulce",
+            "price": 395.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Ensalada de Chorizo",
+            "price": 1225.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Ceviche de pescado",
+            "price": 685.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Migñon de Pescado Grillé",
+            "price": 1370.0,
+            "type": "mains"
+        },
+        {
+            "name": "Migñon de Pescado a las Finas Hierbas",
+            "price": 1410.0,
+            "type": "mains"
+        },
+        {
+            "name": "Migñon de Pescado Doña Almira",
+            "price": 1650.0,
+            "type": "mains"
+        },
+        {
+            "name": "Migñon de Pescado Gratinado",
+            "price": 1585.0,
+            "type": "mains"
+        },
+        {
+            "name": "Migñon de Pescado con Queso y Bacon",
+            "price": 1720.0,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec Americano",
+            "price": 2430.0,
+            "type": "mains"
+        },
+        {
+            "name": "Nasobuco",
+            "price": 1860.0,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de Hígado",
+            "price": 1290.0,
+            "type": "mains"
+        },
+        {
+            "name": "Hígado a la Italiana",
+            "price": 1380.0,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo Rostizado",
+            "price": 2150.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo Doña Almira",
+            "price": 1340.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo Barbacoa",
+            "price": 1195.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo Salsa Agridulce",
+            "price": 1295.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo Grillé",
+            "price": 1195.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo en Fricasé",
+            "price": 1200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo a la Pasa",
+            "price": 1220.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo Grillé con Camarones",
+            "price": 1375.0,
+            "type": "mains"
+        },
+        {
+            "name": "Cerdo Enrrollado Asado",
+            "price": 1545.0,
+            "type": "mains"
+        },
+        {
+            "name": "Cerdo Enrollado Salsa Agridulce",
+            "price": 1570.0,
+            "type": "mains"
+        },
+        {
+            "name": "Cerdo Enrollado Glaseado",
+            "price": 1550.0,
+            "type": "mains"
+        },
+        {
+            "name": "Fricasé de Cerdo",
+            "price": 1520.0,
+            "type": "mains"
+        },
+        {
+            "name": "Picada a La Habanera",
+            "price": 1290.0,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa Vieja",
+            "price": 1305.0,
+            "type": "mains"
+        },
+        {
+            "name": "Vaca Frita",
+            "price": 1260.0,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz Congris",
+            "price": 120.0,
+            "type": "sides"
+        },
+        {
+            "name": "Ensalada Estación",
+            "price": 285.0,
+            "type": "salads"
+        },
+        {
+            "name": "Musse Variados",
+            "price": 570.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Café Cubano",
+            "price": 150.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Café Cortado",
+            "price": 180.0,
+            "type": "desserts"
+        }
+    ],
+    "location": {
+        "street": "Calle Finlay No.979 % Avenida de Los Pinos y Fernandez de Castro",
+        "council": null,
+        "municipe": "Arroyo Naranjo",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

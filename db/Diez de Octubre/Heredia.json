@@ -1,0 +1,194 @@
+{
+    "name": "Heredia",
+    "phone": "76400222",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "italian",
+    "hours": {
+        "open": "10:00",
+        "close": "22:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [],
+    "delivery": [],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.4,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Nombre del plato",
+            "price": 2500,
+            "type": "mains"
+        },
+        {
+            "name": "Nombre del plato",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "Pizza Napolitana",
+            "price": 950,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Jamon",
+            "price": 980,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Chorizo",
+            "price": 980,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Boloñesa",
+            "price": 980,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Cebolla",
+            "price": 980,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Pimiento",
+            "price": 980,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Hawaiana",
+            "price": 1000,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza con aceituna",
+            "price": 1000,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza con atun",
+            "price": 1000,
+            "type": "pizza"
+        },
+        {
+            "name": "Espaguetis Napolitano",
+            "price": 600,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis de Jamon",
+            "price": 650,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis con Chorizo",
+            "price": 650,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis Boloñesa",
+            "price": 670,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis con Atun",
+            "price": 800,
+            "type": "pasta"
+        },
+        {
+            "name": "Lasaña de Jamon",
+            "price": 750,
+            "type": "mains"
+        },
+        {
+            "name": "Lasaña de Chorizo",
+            "price": 850,
+            "type": "mains"
+        },
+        {
+            "name": "Lasaña Boloñesa",
+            "price": 950,
+            "type": "mains"
+        },
+        {
+            "name": "Emparedado de Atun con Cebolla",
+            "price": 400,
+            "type": "sandwich"
+        },
+        {
+            "name": "Hamburguesa",
+            "price": 350,
+            "type": "sandwich"
+        },
+        {
+            "name": "Emapredado de Heredia",
+            "price": 350,
+            "type": "sandwich"
+        },
+        {
+            "name": "Emparedado Cubano",
+            "price": 350,
+            "type": "sandwich"
+        },
+        {
+            "name": "Limonada",
+            "price": 100,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugo de mango",
+            "price": 120,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugo de Tamarindo",
+            "price": 120,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugo de guayaba",
+            "price": 120,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Coctel de frutas",
+            "price": 150,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Batido de Helado",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "Calle Heredia % Avenida Acosta y O'Farril",
+        "council": null,
+        "municipe": "Diez de Octubre",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

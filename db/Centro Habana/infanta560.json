@@ -1,0 +1,129 @@
+{
+    "name": "Infanta 560",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "italian",
+    "hours": {
+        "open": "08:00",
+        "close": "22:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [],
+    "delivery": [],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "picadera (300g)",
+            "price": 550,
+            "type": "appetizer"
+        },
+        {
+            "name": "pizza napolitana (250g)",
+            "price": 200,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza hawaiana (300g)",
+            "price": 300,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza queso gouda (250g)",
+            "price": 320,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza familiar napolitana (500g)",
+            "price": 380,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza familiar hawaiana (600g)",
+            "price": 700,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza familiar queso gouda (500g)",
+            "price": 700,
+            "type": "pizza"
+        },
+        {
+            "name": "fajas de pollo (300g)",
+            "price": 600,
+            "type": "mains"
+        },
+        {
+            "name": "spaghetti (470g)",
+            "price": 300,
+            "type": "pasta"
+        },
+        {
+            "name": "spaghetti queso gouda (470g)",
+            "price": 420,
+            "type": "pasta"
+        },
+        {
+            "name": "jamon",
+            "price": 80,
+            "type": "sides"
+        },
+        {
+            "name": "piña",
+            "price": 80,
+            "type": "sides"
+        },
+        {
+            "name": "pimiento",
+            "price": 80,
+            "type": "sides"
+        },
+        {
+            "name": "queso",
+            "price": 80,
+            "type": "sides"
+        },
+        {
+            "name": "queso gouda",
+            "price": 100,
+            "type": "sides"
+        },
+        {
+            "name": "cebolla",
+            "price": 80,
+            "type": "sides"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.135420733511385,
+        "coords_y": -82.37831753600521
+    }
+}

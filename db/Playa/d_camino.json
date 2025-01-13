@@ -1,0 +1,341 @@
+{
+    "name": "D'kmino",
+    "phone": "72090437",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "11:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "home",
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.0,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": "DKmino",
+    "ig": "@dkaminocomidasaludable",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "pan con chicharrones carnudos y guacamole",
+            "price": 1655,
+            "type": "appetizer"
+        },
+        {
+            "name": "pan cubano el guapo",
+            "price": 3555,
+            "type": "appetizer"
+        },
+        {
+            "name": "croquetas de la abuela",
+            "price": 1000,
+            "type": "appetizer"
+        },
+        {
+            "name": "frituras de malanga y jamon",
+            "price": 1700,
+            "type": "appetizer"
+        },
+        {
+            "name": "empanadas de la casa",
+            "price": 1700,
+            "type": "appetizer"
+        },
+        {
+            "name": "carpaccio de ternera aceite trufas y destellos de parmesano",
+            "price": 1700,
+            "type": "appetizer"
+        },
+        {
+            "name": "berenjenas a la parmesana",
+            "price": 1700,
+            "type": "appetizer"
+        },
+        {
+            "name": "quesadilla marinera",
+            "price": 1700,
+            "type": "appetizer"
+        },
+        {
+            "name": "tostas y tacos de res o camaron",
+            "price": 1700,
+            "type": "appetizer"
+        },
+        {
+            "name": "ensalada cesar con dados de pollo show",
+            "price": 1700,
+            "type": "appetizer"
+        },
+        {
+            "name": "chorizo gallego al carbon con queso manchego",
+            "price": 1700,
+            "type": "appetizer"
+        },
+        {
+            "name": "ceviche de pescado y calamares crujientes",
+            "price": 1700,
+            "type": "appetizer"
+        },
+        {
+            "name": "steak tartar show",
+            "price": 1700,
+            "type": "appetizer"
+        },
+        {
+            "name": "calamares a la romana con salsa tartara y aceite de sesamo",
+            "price": 945,
+            "type": "appetizer"
+        },
+        {
+            "name": "burrata fresca con aceite de truffas tomate y aguacate",
+            "price": 2100,
+            "type": "appetizer"
+        },
+        {
+            "name": "yaquitori de langosta crujiente con salsa chipotle",
+            "price": 2255,
+            "type": "appetizer"
+        },
+        {
+            "name": "provoleta con blanqueta tomate y pimiento asado",
+            "price": 3335,
+            "type": "appetizer"
+        },
+        {
+            "name": "tamal relleno con lonjas de cerdo y huevo frito",
+            "price": 2955,
+            "type": "mains"
+        },
+        {
+            "name": "costillas de cerdo caramelizadas con pure de boniato y jengibre",
+            "price": 4145,
+            "type": "mains"
+        },
+        {
+            "name": "fricando de ternera estofado",
+            "price": 4500,
+            "type": "mains"
+        },
+        {
+            "name": "milanesa de pollo con mini ensalada cesar",
+            "price": 2955,
+            "type": "mains"
+        },
+        {
+            "name": "churrasco de filete de cerdo con salsa de guayaba y mostaza dijon",
+            "price": 2945,
+            "type": "mains"
+        },
+        {
+            "name": "pollo entero relleno de arroz moro y bacon",
+            "price": 2955,
+            "type": "mains"
+        },
+        {
+            "name": "solomillo de ternera con papas asadas y crema de piquillos",
+            "price": 4550,
+            "type": "mains"
+        },
+        {
+            "name": "picanha chilena",
+            "price": 8000,
+            "type": "mains"
+        },
+        {
+            "name": "rionada argentina",
+            "price": 8000,
+            "type": "mains"
+        },
+        {
+            "name": "bife de chorizo",
+            "price": 7255,
+            "type": "mains"
+        },
+        {
+            "name": "straccettis con cebolla y jamon",
+            "price": 3500,
+            "type": "mains"
+        },
+        {
+            "name": "filete de pescado con vegetales orientales",
+            "price": 3755,
+            "type": "mains"
+        },
+        {
+            "name": "filete de pescado frito con crujientes de cebolla frita y aderezo",
+            "price": 2950,
+            "type": "mains"
+        },
+        {
+            "name": "gambon argentino al ajillo",
+            "price": 3555,
+            "type": "mains"
+        },
+        {
+            "name": "cerdo asado a lo cubana",
+            "price": 8500,
+            "type": "mains"
+        },
+        {
+            "name": "tamaribs de cerdo 340g con papas fritas",
+            "price": 4500,
+            "type": "mains"
+        },
+        {
+            "name": "zarzuela de mariscos langosta camarón pescado y pulpo",
+            "price": 5500,
+            "type": "mains"
+        },
+        {
+            "name": "tagliata de res o cerdo queso bifido curado rucula fresca y aceite de truffas",
+            "price": 7500,
+            "type": "mains"
+        },
+        {
+            "name": "punta de filete al ajillo con mostaza",
+            "price": 4550,
+            "type": "mains"
+        },
+        {
+            "name": "pastas largas y cortas a la piedra",
+            "price": 3100,
+            "type": "mains"
+        },
+        {
+            "name": "pasta alfredo",
+            "price": 2950,
+            "type": "mains"
+        },
+        {
+            "name": "pasta aglio e olio con dados de tomate",
+            "price": 2755,
+            "type": "mains"
+        },
+        {
+            "name": "real pizza italiana 33 cm",
+            "price": 2300,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza imperial",
+            "price": 3655,
+            "type": "pizza"
+        },
+        {
+            "name": "jamon barra",
+            "price": 500,
+            "type": "sides"
+        },
+        {
+            "name": "jamon serrano",
+            "price": 650,
+            "type": "sides"
+        },
+        {
+            "name": "queso gouda",
+            "price": 500,
+            "type": "sides"
+        },
+        {
+            "name": "queso parmesano",
+            "price": 800,
+            "type": "sides"
+        },
+        {
+            "name": "bacon",
+            "price": 500,
+            "type": "sides"
+        },
+        {
+            "name": "pepperoni",
+            "price": 550,
+            "type": "sides"
+        },
+        {
+            "name": "chorizo asturiano",
+            "price": 550,
+            "type": "sides"
+        },
+        {
+            "name": "camaron",
+            "price": 600,
+            "type": "sides"
+        },
+        {
+            "name": "huevo",
+            "price": 400,
+            "type": "sides"
+        },
+        {
+            "name": "aceitunas",
+            "price": 500,
+            "type": "sides"
+        },
+        {
+            "name": "cebolla",
+            "price": 450,
+            "type": "sides"
+        },
+        {
+            "name": "cookies recien horneadas con helado y cremas",
+            "price": 2000,
+            "type": "desserts"
+        },
+        {
+            "name": "cheesecake",
+            "price": 2000,
+            "type": "desserts"
+        },
+        {
+            "name": "tres leche con fanguito y helado",
+            "price": 2000,
+            "type": "desserts"
+        },
+        {
+            "name": "brownie de nueces y helado de pistacho",
+            "price": 2000,
+            "type": "desserts"
+        },
+        {
+            "name": "es mas que un flan",
+            "price": 2000,
+            "type": "desserts"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Playa",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.11433698105626,
+        "coords_y": -82.41322840010747
+    }
+}

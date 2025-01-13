@@ -1,0 +1,128 @@
+{
+    "name": "El pórtico",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "00:00",
+        "close": "24:00",
+        "days": [
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [],
+    "delivery": [
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 5.0,
+    "reviews": 30,
+    "amenities": [
+        "invalid_accessible",
+        "parking"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "pollo chiflado",
+            "price": 400,
+            "type": "appetizer"
+        },
+        {
+            "name": "chuleton",
+            "price": 950,
+            "type": "appetizer"
+        },
+        {
+            "name": "papas fritas",
+            "price": 350,
+            "type": "appetizer"
+        },
+        {
+            "name": "croquetas",
+            "price": 350,
+            "type": "appetizer"
+        },
+        {
+            "name": "tostones",
+            "price": 250,
+            "type": "appetizer"
+        },
+        {
+            "name": "cerveza dispensada (jarra)",
+            "price": 300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza dispensada (termo)",
+            "price": 2000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza parranda",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza hollandia",
+            "price": 200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza cacique",
+            "price": 240,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza unlaguer",
+            "price": 200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza La Fria",
+            "price": 180,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza almara",
+            "price": 180,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza bucanero",
+            "price": 240,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza cristal",
+            "price": 250,
+            "type": "alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.13385424944992,
+        "coords_y": -82.36160649338726
+    }
+}

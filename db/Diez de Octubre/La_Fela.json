@@ -1,0 +1,831 @@
+{
+    "name": "La Fela",
+    "phone": "51950601",
+    "email": null,
+    "web": "www.lafelarestaurant.com",
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "12:00",
+        "close": "24:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer",
+        "card"
+    ],
+    "promo": false,
+    "rating": 4.6,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": "https://www.facebook.com/lafelarestaurant/",
+    "ig": "@lafelarestaurant",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Ensalada fría de jamón",
+            "price": 600,
+            "type": "appetizer"
+        },
+        {
+            "name": "Ceviche de pescado",
+            "price": 2000,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tartar de salmón",
+            "price": 2000,
+            "type": "appetizer"
+        },
+        {
+            "name": "Ceviche de camarones",
+            "price": 2000,
+            "type": "appetizer"
+        },
+        {
+            "name": "Coctel de camarón",
+            "price": 2000,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tabla mixta",
+            "price": 2600,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tabla de jamón Serrano y queso azul",
+            "price": 2800,
+            "type": "appetizer"
+        },
+        {
+            "name": "Croquetas de la casa",
+            "price": 700,
+            "type": "appetizer"
+        },
+        {
+            "name": "Garbanzos fritos",
+            "price": 1800,
+            "type": "appetizer"
+        },
+        {
+            "name": "Frituras de malanga",
+            "price": 750,
+            "type": "appetizer"
+        },
+        {
+            "name": "Bolitas de queso con salsa agridulce",
+            "price": 750,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostones rellenos con ropa vieja de cerdo",
+            "price": 1300,
+            "type": "appetizer"
+        },
+        {
+            "name": "Eperlan de pescado con salsa rosa",
+            "price": 2000,
+            "type": "appetizer"
+        },
+        {
+            "name": "Fajitas de pollo",
+            "price": 1800,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tacos al pastor",
+            "price": 1000,
+            "type": "appetizer"
+        },
+        {
+            "name": "Empanada de la casa en salsa agridulce",
+            "price": 600,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tequenos (rollitos de queso)",
+            "price": 600,
+            "type": "appetizer"
+        },
+        {
+            "name": "Crema de queso",
+            "price": 550,
+            "type": "appetizer"
+        },
+        {
+            "name": "Masas de cerdo fritas encebolladas",
+            "price": 2800,
+            "type": "mains"
+        },
+        {
+            "name": "Chuleta de cerdo",
+            "price": 2500,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de cerdo grille",
+            "price": 2000,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de cerdo encebollado",
+            "price": 2200,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de cerdo gratinado con jamon y queso",
+            "price": 2400,
+            "type": "mains"
+        },
+        {
+            "name": "Lonjas de cerdo con mojo criollo",
+            "price": 2800,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de pollo grille",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "Suprema de pollo grille",
+            "price": 2200,
+            "type": "mains"
+        },
+        {
+            "name": "Suprema de pollo gratinada con jamon y queso",
+            "price": 2400,
+            "type": "mains"
+        },
+        {
+            "name": "Suprema de pollo a la crema",
+            "price": 2400,
+            "type": "mains"
+        },
+        {
+            "name": "Cordero al chilindron o al vino tinto",
+            "price": 2800,
+            "type": "mains"
+        },
+        {
+            "name": "Cordero estofado",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de palomilla",
+            "price": 2500,
+            "type": "mains"
+        },
+        {
+            "name": "Filet Mignon",
+            "price": 4000,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa vieja de res",
+            "price": 2500,
+            "type": "mains"
+        },
+        {
+            "name": "Vaca frita con anillos de cebolla",
+            "price": 2700,
+            "type": "mains"
+        },
+        {
+            "name": "Churrasco de res",
+            "price": 4000,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de pescado grille",
+            "price": 2500,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de pescado gratinado con jamon y queso",
+            "price": 2800,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de pescado al limon",
+            "price": 2700,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de pescado La Fela",
+            "price": 3200,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de pescado John Bill",
+            "price": 3400,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado entero frito",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "Camaron Termidor",
+            "price": 3200,
+            "type": "mains"
+        },
+        {
+            "name": "Camaron a su eleccion (enchilado o al ajillo)",
+            "price": 2800,
+            "type": "mains"
+        },
+        {
+            "name": "Caldereta de mariscos",
+            "price": 3200,
+            "type": "mains"
+        },
+        {
+            "name": "Brocheta mixta del Corral",
+            "price": 3200,
+            "type": "mains"
+        },
+        {
+            "name": "Brocheta mixta del Mar",
+            "price": 3700,
+            "type": "mains"
+        },
+        {
+            "name": "Grillada de la casa (cerdo, pollo, pescado y camaron)",
+            "price": 3800,
+            "type": "mains"
+        },
+        {
+            "name": "Paella Marinera",
+            "price": 3500,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz con pollo a la chorrera",
+            "price": 2500,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz frito",
+            "price": 2500,
+            "type": "mains"
+        },
+        {
+            "name": "Entrecot de res (guarnecido de papas al horno, aromatizado con finas hierbas y acompanado de una copa de vino)",
+            "price": 6000,
+            "type": "mains"
+        },
+        {
+            "name": "Pizza npolitana",
+            "price": 1000,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza La Fela",
+            "price": 2400,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de vegetales",
+            "price": 1700,
+            "type": "pizza"
+        },
+        {
+            "name": "Super Pizza de queso blanco",
+            "price": 1600,
+            "type": "pizza"
+        },
+        {
+            "name": "Super Pizza de queso importado",
+            "price": 2400,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de champignones",
+            "price": 1500,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Frutti di Mare",
+            "price": 2900,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Margarita",
+            "price": 1400,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de camarones",
+            "price": 2600,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza napolitana con queso blanco",
+            "price": 600,
+            "type": "pizza"
+        },
+        {
+            "name": "Lasagna",
+            "price": 1200,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaghettis napolitano de queso blanco",
+            "price": 700,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaghettis napolitanos de queso importado",
+            "price": 1100,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaghettis al Pesto con queso importado",
+            "price": 1500,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaghettis Frutti di Mare",
+            "price": 3200,
+            "type": "pasta"
+        },
+        {
+            "name": "Hamburguesa Especial",
+            "price": 1400,
+            "type": "sandwich"
+        },
+        {
+            "name": "Sandwich cubano",
+            "price": 2000,
+            "type": "sandwich"
+        },
+        {
+            "name": "Baguette de jamon y queso Gouda",
+            "price": 1000,
+            "type": "sandwich"
+        },
+        {
+            "name": "Baguette de atun y anillas de cebolla",
+            "price": 1400,
+            "type": "sandwich"
+        },
+        {
+            "name": "Baguette de jamon Serrano y queso Gouda",
+            "price": 1800,
+            "type": "sandwich"
+        },
+        {
+            "name": "Pan con bistec",
+            "price": 1600,
+            "type": "sandwich"
+        },
+        {
+            "name": "Hamburguesa de pollo",
+            "price": 350,
+            "type": "sandwich"
+        },
+        {
+            "name": "Hamburguesa de res",
+            "price": 500,
+            "type": "sandwich"
+        },
+        {
+            "name": "Cebolla",
+            "price": 200,
+            "type": "sides"
+        },
+        {
+            "name": "Pimiento",
+            "price": 200,
+            "type": "sides"
+        },
+        {
+            "name": "Jamon",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "Chorizo",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "Queso importado",
+            "price": 400,
+            "type": "sides"
+        },
+        {
+            "name": "Queso blanco",
+            "price": 200,
+            "type": "sides"
+        },
+        {
+            "name": "Jamon Serrano",
+            "price": 500,
+            "type": "sides"
+        },
+        {
+            "name": "Bacon",
+            "price": 400,
+            "type": "sides"
+        },
+        {
+            "name": "Aceitunas",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "Atun",
+            "price": 400,
+            "type": "sides"
+        },
+        {
+            "name": "Camaron",
+            "price": 800,
+            "type": "sides"
+        },
+        {
+            "name": "Ropa vieja",
+            "price": 500,
+            "type": "sides"
+        },
+        {
+            "name": "Pina",
+            "price": 200,
+            "type": "sides"
+        },
+        {
+            "name": "Champignones",
+            "price": 400,
+            "type": "sides"
+        },
+        {
+            "name": "Pepperoni",
+            "price": 500,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz blanco",
+            "price": 150,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz moros y cristianos",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz Pilaf",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "Vianda frita",
+            "price": 250,
+            "type": "sides"
+        },
+        {
+            "name": "Yuca con mojo criollo",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "Tamal en cazuela",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "Tostones al ajo estilo oriental",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "Ensalada de vegetales frescos",
+            "price": 400,
+            "type": "sides"
+        },
+        {
+            "name": "Papas fritas",
+            "price": 600,
+            "type": "sides"
+        },
+        {
+            "name": "Pure de malanga",
+            "price": 400,
+            "type": "sides"
+        },
+        {
+            "name": "Tres Gracias",
+            "price": 450,
+            "type": "desserts"
+        },
+        {
+            "name": "Cake",
+            "price": 400,
+            "type": "desserts"
+        },
+        {
+            "name": "Copa Lolita",
+            "price": 450,
+            "type": "desserts"
+        },
+        {
+            "name": "Tarta",
+            "price": 400,
+            "type": "desserts"
+        },
+        {
+            "name": "Flan",
+            "price": 200,
+            "type": "desserts"
+        },
+        {
+            "name": "Batido de mamey / Guayaba / Frutabomba",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Suero de helado",
+            "price": 900,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malteada",
+            "price": 550,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua natural",
+            "price": 150,
+            "type": "water"
+        },
+        {
+            "name": "Jugo en conserva",
+            "price": 250,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugo de fruta",
+            "price": 250,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refrescos",
+            "price": 250,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco Pepsi / 7up / Fanta / Coca Cola",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta Bucanero",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta Holandia",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Cristal",
+            "price": 350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Termo de cerveza Cristal",
+            "price": 2450,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza importada",
+            "price": 300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Termo de cerveza importada",
+            "price": 2100,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Heineken",
+            "price": 550,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Termo de cerveza Heineken",
+            "price": 3850,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Michelada",
+            "price": 400,
+            "type": "cocktails"
+        },
+        {
+            "name": "Chelada",
+            "price": 300,
+            "type": "cocktails"
+        },
+        {
+            "name": "Kermato",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "Energizantes",
+            "price": 300,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Red Bull",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza dispensada",
+            "price": 350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Termo de dispensada",
+            "price": 1750,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Caipirinha",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipiroska",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "Screwdriver",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "Jagerinha",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "Jager Mule",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "Sex on the beach",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "Tequila Sunrise",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "Gin & Tonic",
+            "price": 1000,
+            "type": "cocktails"
+        },
+        {
+            "name": "Bloody Mary",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "Margarita",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "Sangria",
+            "price": 700,
+            "type": "cocktails"
+        },
+        {
+            "name": "Black Russian",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "White Russian",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "Alexander",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mary Pickford",
+            "price": 550,
+            "type": "cocktails"
+        },
+        {
+            "name": "Piña Colada",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cubanito",
+            "price": 650,
+            "type": "cocktails"
+        },
+        {
+            "name": "Coctel La Fela",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "Coctel Buena Fe",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mojito La Fela",
+            "price": 600,
+            "type": "cocktails"
+        },
+        {
+            "name": "Daiquiri",
+            "price": 500,
+            "type": "cocktails"
+        },
+        {
+            "name": "Ron Expresso",
+            "price": 350,
+            "type": "cocktails"
+        },
+        {
+            "name": "Irish Coffee",
+            "price": 550,
+            "type": "cocktails"
+        },
+        {
+            "name": "Expresso Martini",
+            "price": 500,
+            "type": "cocktails"
+        },
+        {
+            "name": "Café Carajillo",
+            "price": 350,
+            "type": "infusions"
+        },
+        {
+            "name": "Cappuccino",
+            "price": 600,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Bombón",
+            "price": 600,
+            "type": "infusions"
+        },
+        {
+            "name": "Express Jager",
+            "price": 500,
+            "type": "cocktails"
+        }
+    ],
+    "location": {
+        "street": "#4, Nuestra Senora de Regla entre Remedios y Calzada de Luyano",
+        "council": null,
+        "municipe": "Diez de Octubre",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

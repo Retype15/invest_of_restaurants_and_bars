@@ -1,0 +1,121 @@
+{
+    "name": "Diverxo",
+    "phone": "58594576",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "12:00",
+        "close": "24:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "home",
+        "takeaway",
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer",
+        "card"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [],
+    "fb": "https://www.facebook.com/p/Diverxo-Restaurant-Bar-100075778576229/",
+    "ig": "@diverxo-restaurant-bar",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Lechon asado",
+            "price": 1650,
+            "type": "mains"
+        },
+        {
+            "name": "Espaguetis napolitana",
+            "price": 850,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis jamon",
+            "price": 1100,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis chorizo",
+            "price": 1100,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis alfredo de jamon",
+            "price": 1150,
+            "type": "pasta"
+        },
+        {
+            "name": "Pizza napolitana",
+            "price": 850,
+            "type": "pizza"
+        },
+        {
+            "name": "Diveryo",
+            "price": 1950,
+            "type": "mains"
+        },
+        {
+            "name": "Jamon",
+            "price": 350,
+            "type": "sides"
+        },
+        {
+            "name": "Atun",
+            "price": 500,
+            "type": "sides"
+        },
+        {
+            "name": "Chorizo",
+            "price": 350,
+            "type": "sides"
+        },
+        {
+            "name": "Aceituna",
+            "price": 500,
+            "type": "sides"
+        },
+        {
+            "name": "Queso",
+            "price": 350,
+            "type": "sides"
+        },
+        {
+            "name": "termo de cerveza",
+            "price": 2160,
+            "type": "alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "Calzada de 10 de octubre #904 entre Luz Oeste y Lacret",
+        "council": null,
+        "municipe": "Diez de Octubre",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

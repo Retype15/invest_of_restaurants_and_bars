@@ -1,0 +1,1065 @@
+{
+    "name": "Santy Pescador",
+    "phone": "72724998",
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "12:00",
+        "close": "24:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "takeaway"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": "Restaurante Santy Pescador",
+    "ig": "@restaurante_santy_pescador",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "ceviche",
+            "price": 3800,
+            "type": "appetizer"
+        },
+        {
+            "name": "ceviche negro",
+            "price": 4200,
+            "type": "appetizer"
+        },
+        {
+            "name": "ceviche negro con sesamo",
+            "price": 4200,
+            "type": "appetizer"
+        },
+        {
+            "name": "sushi",
+            "price": 3500,
+            "type": "appetizer"
+        },
+        {
+            "name": "tataki",
+            "price": 3500,
+            "type": "appetizer"
+        },
+        {
+            "name": "sashimi",
+            "price": 3300,
+            "type": "appetizer"
+        },
+        {
+            "name": "tartar",
+            "price": 3800,
+            "type": "appetizer"
+        },
+        {
+            "name": "ahumado jugoso",
+            "price": 3500,
+            "type": "appetizer"
+        },
+        {
+            "name": "ahumado seco",
+            "price": 3500,
+            "type": "appetizer"
+        },
+        {
+            "name": "eperlan de pescado",
+            "price": 3300,
+            "type": "appetizer"
+        },
+        {
+            "name": "eperlan de langosta",
+            "price": 4300,
+            "type": "appetizer"
+        },
+        {
+            "name": "hueva",
+            "price": 3300,
+            "type": "appetizer"
+        },
+        {
+            "name": "hueva empanada",
+            "price": 3500,
+            "type": "appetizer"
+        },
+        {
+            "name": "carpaccio de pescado",
+            "price": 3300,
+            "type": "appetizer"
+        },
+        {
+            "name": "carpaccio de pulpo",
+            "price": 3500,
+            "type": "appetizer"
+        },
+        {
+            "name": "carpaccio de langosta",
+            "price": 3500,
+            "type": "appetizer"
+        },
+        {
+            "name": "escabeche de pescado",
+            "price": 3500,
+            "type": "appetizer"
+        },
+        {
+            "name": "mixto de tempuras",
+            "price": 9000,
+            "type": "appetizer"
+        },
+        {
+            "name": "sopa de vegetales",
+            "price": 2200,
+            "type": "mains"
+        },
+        {
+            "name": "sopa de pescado",
+            "price": 3300,
+            "type": "mains"
+        },
+        {
+            "name": "sopa de marisco",
+            "price": 4200,
+            "type": "mains"
+        },
+        {
+            "name": "caldereta",
+            "price": 4500,
+            "type": "mains"
+        },
+        {
+            "name": "almejas al vino",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "arroz caldoso",
+            "price": 4500,
+            "type": "mains"
+        },
+        {
+            "name": "filete de pescado",
+            "price": 3800,
+            "type": "mains"
+        },
+        {
+            "name": "pescado entero",
+            "price": 4000,
+            "type": "mains"
+        },
+        {
+            "name": "pulpo enchilado",
+            "price": 4000,
+            "type": "mains"
+        },
+        {
+            "name": "pulpo a la gallega",
+            "price": 4000,
+            "type": "mains"
+        },
+        {
+            "name": "pulpo a la vinagreta",
+            "price": 4000,
+            "type": "mains"
+        },
+        {
+            "name": "pulpo al ajo",
+            "price": 4000,
+            "type": "mains"
+        },
+        {
+            "name": "calamar enchilado",
+            "price": 5000,
+            "type": "mains"
+        },
+        {
+            "name": "calamar al ajillo",
+            "price": 5000,
+            "type": "mains"
+        },
+        {
+            "name": "camarón enchilado",
+            "price": 3500,
+            "type": "mains"
+        },
+        {
+            "name": "camarón mediterráneo",
+            "price": 3200,
+            "type": "mains"
+        },
+        {
+            "name": "camarón empanado",
+            "price": 3200,
+            "type": "mains"
+        },
+        {
+            "name": "camarón al ajo",
+            "price": 3200,
+            "type": "mains"
+        },
+        {
+            "name": "langosta entera",
+            "price": 9000,
+            "type": "mains"
+        },
+        {
+            "name": "cola de langosta al ajo",
+            "price": 5500,
+            "type": "mains"
+        },
+        {
+            "name": "cola de langosta enchilada",
+            "price": 5700,
+            "type": "mains"
+        },
+        {
+            "name": "langostinos",
+            "price": 6500,
+            "type": "mains"
+        },
+        {
+            "name": "cola de langostino",
+            "price": 3200,
+            "type": "mains"
+        },
+        {
+            "name": "mejillones al ajo",
+            "price": 3500,
+            "type": "mains"
+        },
+        {
+            "name": "mejillones mediterráneo",
+            "price": 3500,
+            "type": "mains"
+        },
+        {
+            "name": "mixto de marisco",
+            "price": 9500,
+            "type": "mains"
+        },
+        {
+            "name": "pintas",
+            "price": 9600,
+            "type": "mains"
+        },
+        {
+            "name": "muelas de cangrejo a la vinagreta",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "enchilado de pecho de cangrejo",
+            "price": 3000,
+            "type": "mains"
+        },
+        {
+            "name": "pasta al oleo",
+            "price": 1500,
+            "type": "pasta"
+        },
+        {
+            "name": "pasta natural",
+            "price": 2000,
+            "type": "pasta"
+        },
+        {
+            "name": "pasta con vegetales",
+            "price": 2500,
+            "type": "pasta"
+        },
+        {
+            "name": "pasta con almejas",
+            "price": 3200,
+            "type": "pasta"
+        },
+        {
+            "name": "pasta con camarón",
+            "price": 3500,
+            "type": "pasta"
+        },
+        {
+            "name": "pasta con langostino",
+            "price": 4000,
+            "type": "pasta"
+        },
+        {
+            "name": "pasta con pescado",
+            "price": 3800,
+            "type": "pasta"
+        },
+        {
+            "name": "pasta con langosta",
+            "price": 4200,
+            "type": "pasta"
+        },
+        {
+            "name": "pasta con calamar",
+            "price": 4500,
+            "type": "pasta"
+        },
+        {
+            "name": "pasta con pulpo",
+            "price": 4000,
+            "type": "pasta"
+        },
+        {
+            "name": "pasta mixta",
+            "price": 4500,
+            "type": "pasta"
+        },
+        {
+            "name": "arroz con vegetales",
+            "price": 1000,
+            "type": "sides"
+        },
+        {
+            "name": "agrego de pan",
+            "price": 800,
+            "type": "sides"
+        },
+        {
+            "name": "agrego de galletas",
+            "price": 800,
+            "type": "sides"
+        },
+        {
+            "name": "tartas",
+            "price": 1150,
+            "type": "desserts"
+        },
+        {
+            "name": "nieve artesanal de frutas",
+            "price": 850,
+            "type": "desserts"
+        },
+        {
+            "name": "flan",
+            "price": 950,
+            "type": "desserts"
+        },
+        {
+            "name": "casquito de guayaba con queso",
+            "price": 850,
+            "type": "desserts"
+        },
+        {
+            "name": "dulce de frutabomba",
+            "price": 850,
+            "type": "desserts"
+        },
+        {
+            "name": "piñas en almibar",
+            "price": 850,
+            "type": "desserts"
+        },
+        {
+            "name": "mermelada con queso blanco",
+            "price": 850,
+            "type": "desserts"
+        },
+        {
+            "name": "agua natural",
+            "price": 390,
+            "type": "water"
+        },
+        {
+            "name": "agua natural (1L)",
+            "price": 780,
+            "type": "water"
+        },
+        {
+            "name": "agua tonica",
+            "price": 500,
+            "type": "water"
+        },
+        {
+            "name": "agua tonica importada",
+            "price": 800,
+            "type": "water"
+        },
+        {
+            "name": "agua gaseada",
+            "price": 450,
+            "type": "water"
+        },
+        {
+            "name": "refrescos",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "limonada frappe",
+            "price": 500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "limonada frescura",
+            "price": 550,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "limonada natural",
+            "price": 450,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "kermato",
+            "price": 850,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugo natural de mango",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugo natural de guayaba",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugo natural de fruta bomba",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugo natural de melon",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugo natural de piña",
+            "price": 400,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugo natural de mamey",
+            "price": 550,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "san francisco",
+            "price": 550,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "alexander",
+            "price": 1270,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "bloody mary",
+            "price": 800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "caipiriña",
+            "price": 850,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "caipiriña frutas",
+            "price": 950,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "caipirisima frutas",
+            "price": 800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "caipirisima santy",
+            "price": 1350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "caipiroska",
+            "price": 700,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "caipiroska absolut",
+            "price": 1250,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "caipiroska ciroc sabores",
+            "price": 2000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "caipiroska grey goose",
+            "price": 2600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "caipirsima",
+            "price": 750,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "canchanchara",
+            "price": 850,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cuba libre",
+            "price": 750,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cubanito",
+            "price": 800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cubata",
+            "price": 850,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "daiquiri",
+            "price": 700,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "daiquiri de frutas",
+            "price": 1120,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "gin tonic clasico",
+            "price": 1350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "gin tonic beefater",
+            "price": 1600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "gin tonic beefater 24",
+            "price": 2000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "gin tonic hendrick",
+            "price": 2330,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "gin tonic hendrick importado",
+            "price": 3000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "gin tonic tanqueray",
+            "price": 2230,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "gin tonic beefater importado",
+            "price": 1900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "gin tonic clasico importado",
+            "price": 1990,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "gin tonic tanqueray importado",
+            "price": 2800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "gin tonic tanqueray ten",
+            "price": 2900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "gin tonic master",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "gin tonic mg",
+            "price": 2000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "gin tonic mg rose",
+            "price": 2200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "margarita",
+            "price": 1950,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "margarita 1800 blue",
+            "price": 2900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "margarita patron silver",
+            "price": 3200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "margarita altos",
+            "price": 2200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "margarita altos reposado",
+            "price": 2400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "margarita don julio 70",
+            "price": 7800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "margarita jimador añejo",
+            "price": 2400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "martini",
+            "price": 1300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "mojito",
+            "price": 800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "mojito santy",
+            "price": 1100,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "mojito (sin alcohol)",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "negroni",
+            "price": 1450,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "orange campari",
+            "price": 850,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "piña colada",
+            "price": 1200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "ron collins",
+            "price": 650,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "sangria",
+            "price": 1200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "screwdriver",
+            "price": 750,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "screwdriver absolut",
+            "price": 1520,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "screwdriver belvederee",
+            "price": 2000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "screwdriver grey goose",
+            "price": 2000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "sex on the beach",
+            "price": 950,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "spritz apperol",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "submarino",
+            "price": 1100,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tinto de verano",
+            "price": 850,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "vodka tonic",
+            "price": 950,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "vodka tonic importado",
+            "price": 1200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "vodka tonic absolut",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "vodka tonic absolut importado",
+            "price": 1700,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "vodka tonic grey goose",
+            "price": 1850,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "vodka tonic grey goose import",
+            "price": 2200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "chelada con cristal",
+            "price": 750,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "michelada con cristal",
+            "price": 850,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "chelada con corona",
+            "price": 950,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "michelada con corona",
+            "price": 1050,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "servicio caipirisima",
+            "price": 400,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "servicio margarita",
+            "price": 1300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "servicio cubata",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "servicio bloody mary",
+            "price": 650,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "hc ritual",
+            "price": 650,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "hc añejo blanco",
+            "price": 550,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "hc especial",
+            "price": 650,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "hc reserva",
+            "price": 700,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "hc cuban smuky",
+            "price": 950,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "hc 3años",
+            "price": 550,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "hc 7años",
+            "price": 750,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "hc 7años gold",
+            "price": 1000,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "hc seleccion de maestros",
+            "price": 1700,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "santiago añejo",
+            "price": 750,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "santiago extra seco",
+            "price": 800,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "santiago 8años",
+            "price": 900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "santiago 11años",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "santiago 12años",
+            "price": 1600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "vodka absolut",
+            "price": 1100,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "vodka ciroc",
+            "price": 1300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "vodka ciroc sabores",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "vodka beluga",
+            "price": 2200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "ballantines fitnes",
+            "price": 880,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "jw black label",
+            "price": 1900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "jw gold",
+            "price": 3200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "buchanans master",
+            "price": 1850,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "buchanans 18",
+            "price": 5700,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "gran old parr",
+            "price": 1500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tequila 1800",
+            "price": 1580,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tequila patron reposado",
+            "price": 1690,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tequila patron silver",
+            "price": 1570,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tequila patron citrogen",
+            "price": 700,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tequila patron cafe",
+            "price": 1650,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "olmeca blanco",
+            "price": 500,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "olmeca reposado",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "olmeca chocolate",
+            "price": 650,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "ginebra mg",
+            "price": 860,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "ginebra beefeater",
+            "price": 900,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "ginebra tanqueray",
+            "price": 1350,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "sambuca",
+            "price": 950,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "baileyes",
+            "price": 1200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "frangelico",
+            "price": 950,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "limoncillo",
+            "price": 750,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza cristal",
+            "price": 600,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "cerveza corona",
+            "price": 750,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "copa de vino blanco",
+            "price": 1500,
+            "type": "wines"
+        },
+        {
+            "name": "copa de vino tinto",
+            "price": 1500,
+            "type": "wines"
+        },
+        {
+            "name": "cafe americano",
+            "price": 400,
+            "type": "coffee"
+        },
+        {
+            "name": "cafe bombon",
+            "price": 850,
+            "type": "coffee"
+        },
+        {
+            "name": "cafe carajillo",
+            "price": 1100,
+            "type": "coffee"
+        },
+        {
+            "name": "cafe cortadito",
+            "price": 450,
+            "type": "coffee"
+        },
+        {
+            "name": "cafe expresso",
+            "price": 300,
+            "type": "coffee"
+        },
+        {
+            "name": "cafe frappuccino",
+            "price": 850,
+            "type": "coffee"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Playa",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.08929844519211,
+        "coords_y": -82.48873679830157
+    }
+}

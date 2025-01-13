@@ -1,0 +1,103 @@
+{
+    "name": "Shapuseros",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "09:00",
+        "close": "21:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [],
+    "delivery": [],
+    "level": "medium",
+    "payment": [
+        "cash"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "hamburguesa de pollo",
+            "price": 500,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa de cerdo",
+            "price": 550,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa de res",
+            "price": 600,
+            "type": "mains"
+        },
+        {
+            "name": "hamburguesa Shapusero",
+            "price": 1200,
+            "type": "mains"
+        },
+        {
+            "name": "queso",
+            "price": 150,
+            "type": "sides"
+        },
+        {
+            "name": "jamon",
+            "price": 120,
+            "type": "sides"
+        },
+        {
+            "name": "chorizo",
+            "price": 150,
+            "type": "sides"
+        },
+        {
+            "name": "bacon",
+            "price": 155,
+            "type": "sides"
+        },
+        {
+            "name": "huevo",
+            "price": 150,
+            "type": "sides"
+        },
+        {
+            "name": "cebolla",
+            "price": 50,
+            "type": "sides"
+        },
+        {
+            "name": "salsa BBQ",
+            "price": 30,
+            "type": "sides"
+        }
+    ],
+    "location": {
+        "street": "Calzada de Ayestarán entre San Pedro y Ayuntamineto",
+        "council": null,
+        "municipe": "Centro Habana",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}
