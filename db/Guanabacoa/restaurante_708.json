@@ -36,12 +36,12 @@
     "twitter": null,
     "menu": [
         {
-            "name": "Raci\u00f3n de Chicharr\u00f3n",
+            "name": "Ración de Chicharrón",
             "price": 150.0,
             "type": "starters"
         },
         {
-            "name": "Raci\u00f3n de Empella",
+            "name": "Ración de Empella",
             "price": 100.0,
             "type": "starters"
         },
@@ -51,27 +51,27 @@
             "type": "starters"
         },
         {
-            "name": "Raci\u00f3n de Tostones",
+            "name": "Ración de Tostones",
             "price": 80.0,
             "type": "sides"
         },
         {
-            "name": "Raci\u00f3n de Mariquitas",
+            "name": "Ración de Mariquitas",
             "price": 80.0,
             "type": "sides"
         },
         {
-            "name": "Pl\u00e1tano maduro frito",
+            "name": "Plátano maduro frito",
             "price": 80.0,
             "type": "sides"
         },
         {
-            "name": "Bistec de H\u00edgado",
+            "name": "Bistec de Hígado",
             "price": 400.0,
             "type": "mains"
         },
         {
-            "name": "H\u00edgado a la Italiana",
+            "name": "Hígado a la Italiana",
             "price": 450.0,
             "type": "mains"
         },

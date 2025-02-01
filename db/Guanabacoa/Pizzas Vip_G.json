@@ -58,7 +58,7 @@
             "type": "starters"
         },
         {
-            "name": "Ensalada Fr\u00eda",
+            "name": "Ensalada Fría",
             "price": 370.0,
             "type": "starters"
         },
@@ -93,7 +93,7 @@
             "type": "soups"
         },
         {
-            "name": "Tacos de Jam\u00f3n",
+            "name": "Tacos de Jamón",
             "price": 1030.0,
             "type": "starters"
         },
@@ -123,7 +123,7 @@
             "type": "pizza"
         },
         {
-            "name": "Pizza de Jam\u00f3n",
+            "name": "Pizza de Jamón",
             "price": 1100.0,
             "type": "pizza"
         },
@@ -138,7 +138,7 @@
             "type": "pizza"
         },
         {
-            "name": "Pizza de Bac\u00f3n",
+            "name": "Pizza de Bacón",
             "price": 1240.0,
             "type": "pizza"
         },
@@ -148,7 +148,7 @@
             "type": "pizza"
         },
         {
-            "name": "Pizza de Camar\u00f3n",
+            "name": "Pizza de Camarón",
             "price": 1700.0,
             "type": "pizza"
         },
@@ -158,12 +158,12 @@
             "type": "pizza"
         },
         {
-            "name": "Pizza de At\u00fan con Cebolla",
+            "name": "Pizza de Atún con Cebolla",
             "price": 1450.0,
             "type": "pizza"
         },
         {
-            "name": "Pizza de Jam\u00f3n Serrano",
+            "name": "Pizza de Jamón Serrano",
             "price": 1570.0,
             "type": "pizza"
         },
@@ -178,7 +178,7 @@
             "type": "pasta"
         },
         {
-            "name": "Espaguetis Bolo\u00f1esa",
+            "name": "Espaguetis Boloñesa",
             "price": 1350.0,
             "type": "pasta"
         },
@@ -193,7 +193,7 @@
             "type": "pasta"
         },
         {
-            "name": "Espaguetis de At\u00fan",
+            "name": "Espaguetis de Atún",
             "price": 1270.0,
             "type": "pasta"
         },
@@ -268,7 +268,7 @@
             "type": "non_alcoholic_drinks"
         },
         {
-            "name": "Tig\u00f3n",
+            "name": "Tigón",
             "price": 300.0,
             "type": "non_alcoholic_drinks"
         },

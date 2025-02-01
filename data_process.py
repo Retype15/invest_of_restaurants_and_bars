@@ -12,15 +12,15 @@ lista_municipios = ["Habana del Este", "Centro Habana", "Regla", "Plaza de la Re
 #Cargar todos los archivos de la carpeta dnd estan los jsons
 def load_datas(directory):
     datas = []
-    for root, meh, files in os.walk(directory):
+    for root, _, files in os.walk(directory):
         for filename in files:
             if filename.endswith(".json"):
-                filepath = os.path.join(root, filename) # C:users/admin/pablito.json
+                filepath = os.path.join(root, filename)
                 try:
                     with open(filepath, 'r', encoding='utf-8') as f:
                         datas.append(json.load(f))
                 except Exception as e:
-                        print(f"Error al decodificar json: {filepath}")
+                        print(f"Error en: {filepath}, {e}")
     return datas
 
     #aplanar los datos para poder ser convertidos a DataFrame
@@ -31,22 +31,22 @@ def flatten_data(data_list):
         flat_item = {}
 
         # Top-level attributes
-        flat_item['name'] = item.get('name', 'no_data')
-        flat_item['phone'] = item.get('phone', 'no_data')
-        flat_item['email'] = item.get('email', 'no_data')
-        flat_item['web'] = item.get('web', 'no_data')
-        flat_item['est_type'] = item.get('est_type', 'no_data')
-        flat_item['bus_type'] = item.get('bus_type', 'no_data')
-        flat_item['cuisine'] = item.get('cuisine', 'no_data')
-        flat_item['cap'] = item.get('cap', 0)
-        flat_item['promo'] = item.get('promo', False)
-        flat_item['rating'] = item.get('rating', 0)
-        flat_item['reviews'] = item.get('reviews', 0)
-        flat_item['fb'] = item.get('fb', 'no_data')
-        flat_item['ig'] = item.get('ig', 'no_data')
-        flat_item['twitter'] = item.get('twitter', 'no_data')
+        flat_item['name'] = item.get('name')
+        flat_item['phone'] = item.get('phone')
+        flat_item['email'] = item.get('email')
+        flat_item['web'] = item.get('web')
+        flat_item['est_type'] = item.get('est_type')
+        flat_item['bus_type'] = item.get('bus_type')
+        flat_item['cuisine'] = item.get('cuisine')
+        flat_item['cap'] = item.get('cap', 12) or 12
+        flat_item['promo'] = item.get('promo', False) or False
+        flat_item['rating'] = item.get('rating', 4.0) or 4.0
+        flat_item['reviews'] = item.get('reviews', 0) or 0
+        flat_item['fb'] = item.get('fb')
+        flat_item['ig'] = item.get('ig')
+        flat_item['twitter'] = item.get('twitter')
 
-        types_of_menus = ('breakfast', 'appetizer', 'starters', 'mains', 'pizza', 'pasta', 'seafood', 'sandwich', 'sides', 'salads', 'soups', 'desserts', 'cocktails', 'wines', 'alcoholic_drinks', 'non_alcoholic_drinks', 'infusions', 'water', 'others')
+        types_of_menus = ['breakfast', 'appetizer', 'starters', 'mains', 'pizza', 'pasta', 'seafood', 'sandwich', 'sides', 'salads', 'soups', 'desserts', 'cocktails', 'wines', 'alcoholic_drinks', 'non_alcoholic_drinks', 'infusions', 'water', 'others']
         
         for tipo in types_of_menus:
             flat_item[f"menu_{tipo}"] = 0
@@ -58,9 +58,9 @@ def flatten_data(data_list):
         
         # aplanar las hours
         hours = item.get('hours', {})
-        flat_item['hours_open'] = hours.get('open', 'no_data')
-        flat_item['hours_close'] = hours.get('close', 'no_data')
-        flat_item['hours_days'] = hours.get('days', ['no_data'])
+        flat_item['hours_open'] = hours.get('open')
+        flat_item['hours_close'] = hours.get('close')
+        flat_item['hours_days'] = hours.get('days')
 
         # aplanar reservations, delivery, payment, amenities como datso booleanos
         reservations = item.get('reservations', []) or []

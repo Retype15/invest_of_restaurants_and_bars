@@ -2,7 +2,7 @@ import json
 import plotly.express as px
 import pandas as pd
 
-def plot_havana_map(df, hover_data, color="rating",size="rating"):
+def plot_havana_map(df, hover_data, color="rating",size="rating",mapbox_style="open-street-map"):
     fig = px.scatter_mapbox(
         df,
         lat="loc_x",
@@ -17,24 +17,20 @@ def plot_havana_map(df, hover_data, color="rating",size="rating"):
         size_max=20
     )
     fig.update_layout(
-        mapbox_style="open-street-map",
+        mapbox_style=mapbox_style,
         mapbox_zoom=10,
         mapbox_center={"lat": df["loc_x"].mean(), "lon": df["loc_y"].mean()}
     )
-    fig.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
     fig.show()
 
-
-
-def load_file(ruta: str) -> dict:
+def load_json(ruta):
     try:
         with open(ruta, 'r', encoding='utf-8') as f:
             return json.load(f)
     except Exception as e:
         print(e)
-        return {}
+        raise Exception("fallo en load_file,probablemente no se encuentra el geojson...")
 
-havana_geomap = load_file("maps/lha.geojson")
 
 municipios = {
     'loc_municipe': [ 'Plaza de la Revolucion', 'Playa', 'La Habana Vieja', 'Centro Habana', 'Cerro', 'Diez de Octubre', 'Marianao', 'Boyeros', 'Arroyo Naranjo', 'Cotorro', 'San Miguel del Padron', 'Regla', 'Guanabacoa', 'La Lisa', 'Habana del Este'],
@@ -44,6 +40,8 @@ df_municipios = pd.DataFrame(municipios)
 
 
 def map_geojson_show(df):
+    havana_geomap = load_json("maps/lha.geojson")
+    #print(havana_geomap)
     promedio_r = df.groupby('loc_municipe')['rating'].mean().reset_index()
     df_merged = pd.merge(df_municipios, promedio_r, on='loc_municipe', how='left')
     df_count = df['loc_municipe'].value_counts().reset_index()
@@ -51,7 +49,7 @@ def map_geojson_show(df):
     df_merged = pd.merge(df_merged, df_count, on='loc_municipe', how='left')
     df_merged['rating'] = df_merged['rating'].fillna(0)
     df_merged['cant_locals_evaluados'] = df_merged['cant_locals_evaluados'].fillna(0)
-    df_merged.rename(columns={
+    df_merged.rename(columns={  
         'municipe_id': 'Municipio id',
         'loc_municipe': 'Municipio',
         'cant_locals_evaluados': 'Cantidad de locales evaluados',

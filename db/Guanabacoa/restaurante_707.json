@@ -35,7 +35,7 @@
     "twitter": null,
     "menu": [
         {
-            "name": "Tostones rellenos de jam\u00f3n y queso",
+            "name": "Tostones rellenos de jamón y queso",
             "price": 1090.0,
             "type": "starters"
         },
@@ -85,7 +85,7 @@
             "type": "mains"
         },
         {
-            "name": "Lomo ahumado (con salsa de pi\u00f1a)",
+            "name": "Lomo ahumado (con salsa de piña)",
             "price": 2000.0,
             "type": "mains"
         },
@@ -115,7 +115,7 @@
             "type": "seafood"
         },
         {
-            "name": "Filete de pescado Route 66 (a la plancha gratinado con queso y camar\u00f3n)",
+            "name": "Filete de pescado Route 66 (a la plancha gratinado con queso y camarón)",
             "price": 3550.0,
             "type": "seafood"
         },
@@ -150,12 +150,12 @@
             "type": "sides"
         },
         {
-            "name": "Pur\u00e9 de malanga",
+            "name": "Puré de malanga",
             "price": 335.0,
             "type": "sides"
         },
         {
-            "name": "Ensalada mixta de estaci\u00f3n",
+            "name": "Ensalada mixta de estación",
             "price": 425.0,
             "type": "salads"
         },
@@ -180,7 +180,7 @@
             "type": "pizza"
         },
         {
-            "name": "Lasa\u00f1a queso gouda",
+            "name": "Lasaña queso gouda",
             "price": 1420.0,
             "type": "pasta"
         },

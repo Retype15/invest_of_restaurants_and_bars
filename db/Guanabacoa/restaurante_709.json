@@ -41,12 +41,12 @@
     "twitter": null,
     "menu": [
         {
-            "name": "Ensalada Fr\u00eda de Jam\u00f3n",
+            "name": "Ensalada Fría de Jamón",
             "price": 450.0,
             "type": "starters"
         },
         {
-            "name": "Ensalada Fr\u00eda de At\u00fan",
+            "name": "Ensalada Fría de Atún",
             "price": 500.0,
             "type": "starters"
         },
@@ -61,12 +61,12 @@
             "type": "starters"
         },
         {
-            "name": "Tost\u00f3n relleno de Jam\u00f3n",
+            "name": "Tostón relleno de Jamón",
             "price": 450.0,
             "type": "starters"
         },
         {
-            "name": "Tost\u00f3n relleno de At\u00fan",
+            "name": "Tostón relleno de Atún",
             "price": 450.0,
             "type": "starters"
         },
@@ -76,7 +76,7 @@
             "type": "starters"
         },
         {
-            "name": "C\u00f3ctel de Camar\u00f3n",
+            "name": "Cóctel de Camarón",
             "price": 700.0,
             "type": "starters"
         },
@@ -91,7 +91,7 @@
             "type": "starters"
         },
         {
-            "name": "Entrem\u00e9s",
+            "name": "Entremés",
             "price": 800.0,
             "type": "starters"
         },
@@ -176,7 +176,7 @@
             "type": "pizza"
         },
         {
-            "name": "Pizza de Jam\u00f3n",
+            "name": "Pizza de Jamón",
             "price": 800.0,
             "type": "pizza"
         },
@@ -211,12 +211,12 @@
             "type": "pasta"
         },
         {
-            "name": "Espaguetis con Jam\u00f3n",
+            "name": "Espaguetis con Jamón",
             "price": 800.0,
             "type": "pasta"
         },
         {
-            "name": "Espaguetis Bolo\u00f1esa",
+            "name": "Espaguetis Boloñesa",
             "price": 800.0,
             "type": "pasta"
         },
@@ -226,7 +226,7 @@
             "type": "pasta"
         },
         {
-            "name": "Espaguetis con At\u00fan",
+            "name": "Espaguetis con Atún",
             "price": 950.0,
             "type": "pasta"
         },
@@ -236,7 +236,7 @@
             "type": "pasta"
         },
         {
-            "name": "Lasagna de Jam\u00f3n",
+            "name": "Lasagna de Jamón",
             "price": 800.0,
             "type": "pasta"
         },

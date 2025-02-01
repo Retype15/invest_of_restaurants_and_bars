@@ -38,12 +38,12 @@
     "twitter": null,
     "menu": [
         {
-            "name": "ENSALADA FR\u00cdA DE JAM\u00d3N",
+            "name": "ENSALADA FRÍA DE JAMÓN",
             "price": 500.0,
             "type": "starters"
         },
         {
-            "name": "ENSALADA FR\u00cdA DE AT\u00daN",
+            "name": "ENSALADA FRÍA DE ATÚN",
             "price": 700.0,
             "type": "starters"
         },
@@ -78,7 +78,7 @@
             "type": "starters"
         },
         {
-            "name": "C\u00d3CTEL DE CAMAR\u00d3N",
+            "name": "CÓCTEL DE CAMARÓN",
             "price": 1200.0,
             "type": "starters"
         },
@@ -98,7 +98,7 @@
             "type": "mains"
         },
         {
-            "name": "Medio pollo al carb\u00f3n con BBQ",
+            "name": "Medio pollo al carbón con BBQ",
             "price": 2500.0,
             "type": "mains"
         },
@@ -123,17 +123,17 @@
             "type": "mains"
         },
         {
-            "name": "Camar\u00f3n al gusto",
+            "name": "Camarón al gusto",
             "price": 2500.0,
             "type": "mains"
         },
         {
-            "name": "Chuleta de cerdo al carb\u00f3n con bbq 1 libra",
+            "name": "Chuleta de cerdo al carbón con bbq 1 libra",
             "price": 3600.0,
             "type": "mains"
         },
         {
-            "name": "Solomillo de cerdo al carb\u00f3n con bbq 1 libra",
+            "name": "Solomillo de cerdo al carbón con bbq 1 libra",
             "price": 3000.0,
             "type": "mains"
         },
@@ -163,7 +163,7 @@
             "type": "pizza"
         },
         {
-            "name": "Pizza jam\u00f3n",
+            "name": "Pizza jamón",
             "price": 1150.0,
             "type": "pizza"
         },
@@ -188,12 +188,12 @@
             "type": "pizza"
         },
         {
-            "name": "Pizza pi\u00f1a",
+            "name": "Pizza piña",
             "price": 1150.0,
             "type": "pizza"
         },
         {
-            "name": "Pizza at\u00fan",
+            "name": "Pizza atún",
             "price": 1250.0,
             "type": "pizza"
         },
@@ -218,7 +218,7 @@
             "type": "pasta"
         },
         {
-            "name": "Laza\u00f1a de Jamon",
+            "name": "Lazaña de Jamon",
             "price": 1200.0,
             "type": "pasta"
         }

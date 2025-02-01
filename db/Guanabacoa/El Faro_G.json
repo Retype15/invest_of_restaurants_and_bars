@@ -50,12 +50,12 @@
             "type": "starters"
         },
         {
-            "name": "ENSALADA FR\u00cdA DE JAM\u00d3N",
+            "name": "ENSALADA FRÍA DE JAMÓN",
             "price": 700.0,
             "type": "starters"
         },
         {
-            "name": "ENSALADA FR\u00cdA DE AT\u00daN",
+            "name": "ENSALADA FRÍA DE ATÚN",
             "price": 1200.0,
             "type": "starters"
         },
@@ -125,7 +125,7 @@
             "type": "pizza"
         },
         {
-            "name": "PIZZA JAM\u00d3N",
+            "name": "PIZZA JAMÓN",
             "price": 900.0,
             "type": "pizza"
         },
@@ -135,7 +135,7 @@
             "type": "pasta"
         },
         {
-            "name": "Spaguetti de Jam\u00f3n",
+            "name": "Spaguetti de Jamón",
             "price": 850.0,
             "type": "pasta"
         }

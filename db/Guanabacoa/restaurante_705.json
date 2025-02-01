@@ -37,12 +37,12 @@
     "twitter": null,
     "menu": [
         {
-            "name": "Sandwich de Jam\u00f3n y Queso",
+            "name": "Sandwich de Jamón y Queso",
             "price": 350.0,
             "type": "sandwich"
         },
         {
-            "name": "Sandwich de Queso Jam\u00f3n Especial",
+            "name": "Sandwich de Queso Jamón Especial",
             "price": 600.0,
             "type": "sandwich"
         },

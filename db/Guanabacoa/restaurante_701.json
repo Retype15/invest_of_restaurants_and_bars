@@ -43,12 +43,12 @@
     "twitter": null,
     "menu": [
         {
-            "name": "Toston Relleno de jam\u00f3n y queso",
+            "name": "Toston Relleno de jamón y queso",
             "price": 450.0,
             "type": "starters"
         },
         {
-            "name": "Toston Relleno de at\u00fan y queso",
+            "name": "Toston Relleno de atún y queso",
             "price": 600.0,
             "type": "starters"
         },
@@ -58,12 +58,12 @@
             "type": "starters"
         },
         {
-            "name": "Ensaladas fr\u00edas de jam\u00f3n",
+            "name": "Ensaladas frías de jamón",
             "price": 500.0,
             "type": "starters"
         },
         {
-            "name": "Ensalada fr\u00eda de at\u00fan",
+            "name": "Ensalada fría de atún",
             "price": 650.0,
             "type": "starters"
         },

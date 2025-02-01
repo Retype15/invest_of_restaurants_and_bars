@@ -107,12 +107,12 @@
             "type": "mains"
         },
         {
-            "name": "Camar\u00f3n Grille",
+            "name": "Camarón Grille",
             "price": 1800.0,
             "type": "mains"
         },
         {
-            "name": "Enchilado Camar\u00f3n",
+            "name": "Enchilado Camarón",
             "price": 1850.0,
             "type": "mains"
         },
@@ -152,7 +152,7 @@
             "type": "pasta"
         },
         {
-            "name": "Espagueti con Jam\u00f3n",
+            "name": "Espagueti con Jamón",
             "price": 900.0,
             "type": "pasta"
         },

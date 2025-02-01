@@ -1,5 +1,5 @@
 {
-    "name": "Caf\u00e9 Versalles",
+    "name": "Café Versalles",
     "phone": null,
     "email": null,
     "web": null,
@@ -38,12 +38,12 @@
     "twitter": null,
     "menu": [
         {
-            "name": "Ensalada Fr\u00eda De Jam\u00f3n",
+            "name": "Ensalada Fría De Jamón",
             "price": 500.0,
             "type": "starters"
         },
         {
-            "name": "Ensalada Fr\u00eda De At\u00fan",
+            "name": "Ensalada Fría De Atún",
             "price": 700.0,
             "type": "starters"
         },
@@ -78,7 +78,7 @@
             "type": "starters"
         },
         {
-            "name": "C\u00f3ctel De Camar\u00f3n",
+            "name": "Cóctel De Camarón",
             "price": 1200.0,
             "type": "starters"
         },
@@ -98,7 +98,7 @@
             "type": "mains"
         },
         {
-            "name": "Medio pollo al carb\u00f3n con BBQ",
+            "name": "Medio pollo al carbón con BBQ",
             "price": 2500.0,
             "type": "mains"
         },
@@ -123,17 +123,17 @@
             "type": "mains"
         },
         {
-            "name": "Camar\u00f3n al gusto",
+            "name": "Camarón al gusto",
             "price": 2500.0,
             "type": "mains"
         },
         {
-            "name": "Chuleta de cerdo al carb\u00f3n con bbq 1 libra",
+            "name": "Chuleta de cerdo al carbón con bbq 1 libra",
             "price": 3600.0,
             "type": "mains"
         },
         {
-            "name": "Solomillo de cerdo al carb\u00f3n con bbq 1 libra",
+            "name": "Solomillo de cerdo al carbón con bbq 1 libra",
             "price": 3000.0,
             "type": "mains"
         },
@@ -163,7 +163,7 @@
             "type": "pizza"
         },
         {
-            "name": "Pizza jam\u00f3n",
+            "name": "Pizza jamón",
             "price": 1150.0,
             "type": "pizza"
         },
@@ -188,12 +188,12 @@
             "type": "pizza"
         },
         {
-            "name": "Pizza pi\u00f1a",
+            "name": "Pizza piña",
             "price": 1150.0,
             "type": "pizza"
         },
         {
-            "name": "Pizza at\u00fan",
+            "name": "Pizza atún",
             "price": 1250.0,
             "type": "pizza"
         },
@@ -218,7 +218,7 @@
             "type": "pasta"
         },
         {
-            "name": "Laza\u00f1a de Jamon",
+            "name": "Lazaña de Jamon",
             "price": 1200.0,
             "type": "pasta"
         }
@@ -236,12 +236,12 @@
     "drinks": {
         "alcoholic_drinks": [
             {
-                "item": "Ron selecci\u00f3n de maestros",
+                "item": "Ron selección de maestros",
                 "price": 900.0,
                 "type": "alcoholic_drinks"
             },
             {
-                "item": "Ron a\u00f1ejo especial",
+                "item": "Ron añejo especial",
                 "price": 350.0,
                 "type": "alcoholic_drinks"
             },
@@ -256,7 +256,7 @@
                 "type": "alcoholic_drinks"
             },
             {
-                "item": "Ron 3 a\u00f1os",
+                "item": "Ron 3 años",
                 "price": 350.0,
                 "type": "alcoholic_drinks"
             },
@@ -266,7 +266,7 @@
                 "type": "alcoholic_drinks"
             },
             {
-                "item": "Ron 7 a\u00f1os",
+                "item": "Ron 7 años",
                 "price": 350.0,
                 "type": "alcoholic_drinks"
             },
@@ -371,12 +371,12 @@
                 "type": "alcoholic_drinks"
             },
             {
-                "item": "Sangr\u00eda",
+                "item": "Sangría",
                 "price": 500.0,
                 "type": "alcoholic_drinks"
             },
             {
-                "item": "Pi\u00f1a colada",
+                "item": "Piña colada",
                 "price": 550.0,
                 "type": "alcoholic_drinks"
             },
@@ -451,7 +451,7 @@
                 "type": "alcoholic_drinks"
             },
             {
-                "item": "Caf\u00e9 roc\u00edo de gallo",
+                "item": "Café rocío de gallo",
                 "price": 250.0,
                 "type": "alcoholic_drinks"
             }
@@ -483,17 +483,17 @@
                 "type": "non_alcoholic_drinks"
             },
             {
-                "item": "Caf\u00e9 expreso",
+                "item": "Café expreso",
                 "price": 100.0,
                 "type": "non_alcoholic_drinks"
             },
             {
-                "item": "Caf\u00e9 bombon",
+                "item": "Café bombon",
                 "price": 250.0,
                 "type": "non_alcoholic_drinks"
             },
             {
-                "item": "Caf\u00e9 cortado",
+                "item": "Café cortado",
                 "price": 200.0,
                 "type": "non_alcoholic_drinks"
             }
