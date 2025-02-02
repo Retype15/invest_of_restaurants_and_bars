@@ -5,7 +5,7 @@
     "web": null,
     "est_type": "restaurant",
     "bus_type": "private",
-    "cuisine": "pizza",
+    "cuisine": "others",
     "hours": {
         "open": null,
         "close": null,
