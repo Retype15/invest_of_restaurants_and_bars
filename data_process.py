@@ -1,10 +1,6 @@
 import json
 import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
-import plotly.express as px
 import os
-import difflib
 from collections import Counter
 
 lista_municipios = ["Habana del Este", "Centro Habana", "Regla", "Plaza de la Revolucion", "La Habana Vieja", "Cerro", "Diez de Octubre", "Guanabacoa", "San Miguel del Padron", "Playa", "Arroyo Naranjo", "Boyeros", "Marianao", "Cotorro", "La Lisa"]
@@ -42,9 +38,10 @@ def flatten_data(data_list):
         flat_item['promo'] = item.get('promo', False) or False
         flat_item['rating'] = item.get('rating', 4.0) or 4.0
         flat_item['reviews'] = item.get('reviews', 0) or 0
+        flat_item['level'] = item.get('level')
         flat_item['fb'] = item.get('fb')
         flat_item['ig'] = item.get('ig')
-        flat_item['twitter'] = item.get('twitter')
+        flat_item['tw'] = item.get('twitter')
 
         types_of_menus = ['breakfast', 'appetizer', 'starters', 'mains', 'pizza', 'pasta', 'seafood', 'sandwich', 'sides', 'salads', 'soups', 'desserts', 'cocktails', 'wines', 'alcoholic_drinks', 'non_alcoholic_drinks', 'infusions', 'water', 'others']
         
@@ -64,20 +61,33 @@ def flatten_data(data_list):
 
         # aplanar reservations, delivery, payment, amenities como datso booleanos
         reservations = item.get('reservations', []) or []
+        flat_item['reservation_qantity'] = 0
         for res in ["online", "phone", "in_person", "others"]:
-            flat_item[f'reservations_{res}'] = res in reservations
+            if res in reservations:
+                flat_item[f'reservation_{res}'] = res
+                flat_item['reservation_qantity']+=1
+
 
         delivery = item.get('delivery', []) or []
+        flat_item['delivery_qantity'] = 0
         for delivery_type in ["home", "takeaway", "on_site", "others"]:
-            flat_item[f'delivery_{delivery_type}'] = delivery_type in delivery
+            if delivery_type in delivery:
+                flat_item[f'delivery_{delivery_type}'] = delivery_type
+                flat_item['delivery_qantity']+=1
 
         payment = item.get('payment', []) or []
+        flat_item['payment_qantity'] = 0
         for pay in ["cash", "card", "transfer", "others"]:
-            flat_item[f'payment_{pay}'] = pay in payment
+            if pay in payment:
+                flat_item[f'payment_{pay}'] = pay
+                flat_item['payment_qantity']+=1
 
         amenities = item.get('amenities', []) or []
+        flat_item['amenities_qantity'] = 0
         for amenity in ["wifi", "accessible", "live_music", "outdoor", "pet_friendly"]:
-            flat_item[f'amenities_{amenity}'] = amenity in amenities
+            if amenity in amenities:
+                flat_item[f'amenities_{amenity}'] = amenity
+                flat_item['amenities_qantity']+=1
 
         # aplanar la location
         loc = item.get('location', {})

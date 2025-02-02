@@ -22,7 +22,7 @@
     "cap": null,
     "reservations": null,
     "delivery": null,
-    "level": "medium",
+    "level": "economic",
     "payment": [
         "cash",
         "transfer"

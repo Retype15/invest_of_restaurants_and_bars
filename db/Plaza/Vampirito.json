@@ -22,7 +22,7 @@
     "cap": 30,
     "reservations": [],
     "delivery": [],
-    "level": "medium",
+    "level": "high",
     "payment": [
         "cash",
         "transfer"

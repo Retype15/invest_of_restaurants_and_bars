@@ -24,7 +24,7 @@
     "delivery": [
         "takeaway"
     ],
-    "level": "medium",
+    "level": "high",
     "payment": [
         "card",
         "cash"
