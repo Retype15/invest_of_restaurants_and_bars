@@ -61,33 +61,21 @@ def flatten_data(data_list):
 
         # aplanar reservations, delivery, payment, amenities como datso booleanos
         reservations = item.get('reservations', []) or []
-        flat_item['reservation_qantity'] = 0
         for res in ["online", "phone", "in_person", "others"]:
-            if res in reservations:
-                flat_item[f'reservation_{res}'] = res
-                flat_item['reservation_qantity']+=1
+            flat_item[f'reservation_{res}'] = True if res in reservations  else False
 
 
         delivery = item.get('delivery', []) or []
-        flat_item['delivery_qantity'] = 0
         for delivery_type in ["home", "takeaway", "on_site", "others"]:
-            if delivery_type in delivery:
-                flat_item[f'delivery_{delivery_type}'] = delivery_type
-                flat_item['delivery_qantity']+=1
+            flat_item[f'delivery_{delivery_type}'] = True if delivery_type in delivery  else False
 
         payment = item.get('payment', []) or []
-        flat_item['payment_qantity'] = 0
         for pay in ["cash", "card", "transfer", "others"]:
-            if pay in payment:
-                flat_item[f'payment_{pay}'] = pay
-                flat_item['payment_qantity']+=1
+            flat_item[f'payment_{pay}'] = True if pay in payment  else False
 
         amenities = item.get('amenities', []) or []
-        flat_item['amenities_qantity'] = 0
         for amenity in ["wifi", "accessible", "live_music", "outdoor", "pet_friendly"]:
-            if amenity in amenities:
-                flat_item[f'amenities_{amenity}'] = amenity
-                flat_item['amenities_qantity']+=1
+            flat_item[f'amenities_{amenity}'] = True if amenity in amenities  else False
 
         # aplanar la location
         loc = item.get('location', {})
