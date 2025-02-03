@@ -11,7 +11,6 @@ Este proyecto de ciencia de datos, desarrollado por mi, y se centra en la explor
 * **Identificación de factores:**  Analizar qué características influyen en el éxito o fracaso de un establecimiento.
 * **Análisis de la competencia:**  Comparar diferentes restaurantes y bares en base a diversos criterios (valoraciones, precios, ubicación, etc.).
 * **Segmentación de clientes:**  Identificar diferentes grupos de clientes según sus preferencias y comportamientos.
-* **Predicción de tendencias:**  Anticipar cambios en las preferencias de los consumidores o la popularidad de ciertos tipos de cocina.
 
 Este análisis puede ser útil para propietarios de restaurantes y bares que buscan mejorar sus operaciones, o para cualquier persona interesada en comprender mejor este dinámico sector.
 
@@ -24,7 +23,7 @@ Este análisis puede ser útil para propietarios de restaurantes y bares que bus
 
 ## Fuentes de Datos Potenciales
 * **APIs de reseñas y valoraciones:** TripAdvisor, Google Maps.
-* **Datos de redes sociales:** Análisis y extraccion de los datos en plataformas como Twitter, Facebook o Instagram.
+* **Datos de redes sociales:** Análisis y extraccion de los datos en plataformas como Twitter(X), Facebook o Instagram.
 
 ## Metodología Propuesta
 
@@ -39,10 +38,11 @@ Este análisis puede ser útil para propietarios de restaurantes y bares que bus
 ## Tecnologías y Herramientas Utilizadas
 
 * **Lenguaje de programación:** Python
-* **Bibliotecas de Ciencia de Datos:**
+* **Bibliotecas para Ciencia de Datos:**
     * Pandas
     * NumPy 
-    * Matplotlib
+    * Plotlib
     * Jupyter Lab
+---
 
 **Autor:** Reynier Ramos Gonzalez
