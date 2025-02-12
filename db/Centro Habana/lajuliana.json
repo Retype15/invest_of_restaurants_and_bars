@@ -329,102 +329,102 @@
         },
         {
             "name": "pizza de queso",
-            "price": "1120",
+            "price": 1120.0,
             "type": "pizza"
         },
         {
             "name": "pizza de oregano",
-            "price": "1300",
+            "price": 1300.0,
             "type": "pizza"
         },
         {
             "name": "pizza de albahaca",
-            "price": "1270",
+            "price": 1270.0,
             "type": "pizza"
         },
         {
             "name": "pizza de cebolla",
-            "price": "1385",
+            "price": 1385.0,
             "type": "pizza"
         },
         {
             "name": "pizza de pimiento",
-            "price": "1430",
+            "price": 1430.0,
             "type": "pizza"
         },
         {
             "name": "pizza de aceituna",
-            "price": "1550",
+            "price": 1550.0,
             "type": "pizza"
         },
         {
             "name": "pizza de jamon",
-            "price": "1700",
+            "price": 1700.0,
             "type": "pizza"
         },
         {
             "name": "pizza doble de queso",
-            "price": "1800",
+            "price": 1800.0,
             "type": "pizza"
         },
         {
             "name": "pizza de lomo",
-            "price": "1800",
+            "price": 1800.0,
             "type": "pizza"
         },
         {
             "name": "pizza de champiñón",
-            "price": "1685",
+            "price": 1685.0,
             "type": "pizza"
         },
         {
             "name": "pizza de bacón",
-            "price": "2050",
+            "price": 2050.0,
             "type": "pizza"
         },
         {
             "name": "pizza de atún",
-            "price": "1835",
+            "price": 1835.0,
             "type": "pizza"
         },
         {
             "name": "pizza bolognesa",
-            "price": "1950",
+            "price": 1950.0,
             "type": "pizza"
         },
         {
             "name": "pizza campesina",
-            "price": "1820",
+            "price": 1820.0,
             "type": "pizza"
         },
         {
             "name": "pizza hawaiana",
-            "price": "1950",
+            "price": 1950.0,
             "type": "pizza"
         },
         {
             "name": "pizza de chorizo",
-            "price": "1885",
+            "price": 1885.0,
             "type": "pizza"
         },
         {
             "name": "pizza habanera",
-            "price": "2200",
+            "price": 2200.0,
             "type": "pizza"
         },
         {
             "name": "pizza de serrano",
-            "price": "2400",
+            "price": 2400.0,
             "type": "pizza"
         },
         {
             "name": "pizza de camarón",
-            "price": "1985",
+            "price": 1985.0,
             "type": "pizza"
         },
         {
             "name": "pizza juliana",
-            "price": "2250",
+            "price": 2250.0,
             "type": "pizza"
         },
         {

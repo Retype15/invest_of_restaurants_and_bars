@@ -1,0 +1,478 @@
+{
+    "name": "Kilómetro Zero",
+    "phone": "59710666",
+    "email": null,
+    "web": "https://kilometrozerocuba.com/en-us/",
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "08:00",
+        "close": "02:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "invalid_accessible",
+        "live_music"
+    ],
+    "fb": null,
+    "ig": "https://www.instagram.com/kilometrozeropaladar?igsh=MWVwbXdueGNmaGhlcg==",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Cesta de Pan",
+            "price": 640.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Baguette Guacamole",
+            "price": 950.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Croquetas de la Casa",
+            "price": 1140.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Quesadilla de Vaca Frita",
+            "price": 1760.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Quesadilla de Cordero",
+            "price": 1795.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tacos de la Casa",
+            "price": 1795.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tamal Cubano",
+            "price": 2080.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Ceviche",
+            "price": 2225.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Carpaccio de Pescado",
+            "price": 2300.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Carpaccio de Res",
+            "price": 3000.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Pollo Morena",
+            "price": 2865.0,
+            "type": "mains"
+        },
+        {
+            "name": "Vaca Frita",
+            "price": 2940.0,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa Vieja",
+            "price": 2970.0,
+            "type": "mains"
+        },
+        {
+            "name": "Lonjas de Cerdo",
+            "price": 3040.0,
+            "type": "mains"
+        },
+        {
+            "name": "Masas de Cerdo",
+            "price": 3075.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pesca del Dia",
+            "price": 4480.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Camarón al Gusto",
+            "price": 5250.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Langosta al Gusto",
+            "price": 5950.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Punta de Filete",
+            "price": 6200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz Blanco",
+            "price": 580.0,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz Congris",
+            "price": 580.0,
+            "type": "sides"
+        },
+        {
+            "name": "Frijoles Negros",
+            "price": 620.0,
+            "type": "sides"
+        },
+        {
+            "name": "Vianda Frita",
+            "price": 640.0,
+            "type": "sides"
+        },
+        {
+            "name": "Papas Fritas",
+            "price": 1085.0,
+            "type": "sides"
+        },
+        {
+            "name": "Ensalada Organica",
+            "price": 995.0,
+            "type": "salads"
+        },
+        {
+            "name": "Garbanzo frito",
+            "price": 2240.0,
+            "type": "others"
+        },
+        {
+            "name": "Solomillo de Ternera",
+            "price": 8300.0,
+            "type": "mains"
+        },
+        {
+            "name": "Langosta KM",
+            "price": 6650.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Caldereta de Mariscos",
+            "price": 9800.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Pescado Entero al Josper",
+            "price": 6450.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Pulpito frito",
+            "price": 8990.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Postre del día",
+            "price": 960.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Kilometro Zero",
+            "price": null,
+            "type": "others"
+        },
+        {
+            "name": "Idea 43",
+            "price": 2325.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Pacto Zero",
+            "price": 2760.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Aperol Gin",
+            "price": 2015.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Sex on KM",
+            "price": 2015.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Limoncello Spritz",
+            "price": 1860.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cerveza Cristal (bot)",
+            "price": 3000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Estrella Galicia (bot)",
+            "price": 900.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Cristal (bot)",
+            "price": 1000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Chelada (+ Cerveza)",
+            "price": 310.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Michelada (+ Cerveza)",
+            "price": 465.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mojito Capitolio",
+            "price": 1705.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mojito Black Tears",
+            "price": 1705.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Canchánchara KMZ",
+            "price": 1860.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Santiago Dark",
+            "price": 1860.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Piña Colada Tentación",
+            "price": 1950.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cuban Flavor",
+            "price": 1860.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Gin Tonic Afrodisiaco",
+            "price": 1950.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "El Tropical",
+            "price": 1785.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mojito",
+            "price": 1085.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Daiquiri",
+            "price": 1085.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cuba Libre",
+            "price": 1250.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Canchánchara",
+            "price": 1085.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Havana Special",
+            "price": 1085.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cubanito",
+            "price": 1250.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Ron Fashioned",
+            "price": 1705.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cuban Manhattan",
+            "price": 1705.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Los Caipis",
+            "price": 1250.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Moscow Mule",
+            "price": 2015.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Espresso Martini",
+            "price": 1550.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Bloody Mary XL",
+            "price": 2945.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Screwdriver",
+            "price": 1250.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Vodka Tonic",
+            "price": 1860.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Gin Tonic",
+            "price": 1860.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Martini",
+            "price": 1705.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Negroni",
+            "price": 1860.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Margarita",
+            "price": 1395.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Tequila Sunrise",
+            "price": 1550.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Long Island",
+            "price": 1860.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Orgasmo",
+            "price": 1705.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Amaretto Sour",
+            "price": 1705.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Aperol Spritz",
+            "price": 1860.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Sangria",
+            "price": 1550.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Sangria afrutada-saborizados",
+            "price": 2015.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Agua Natural Nacional (355ml)",
+            "price": 650.0,
+            "type": "water"
+        },
+        {
+            "name": "Agua Tónica Nacional (355ml)",
+            "price": 660.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Tónica Importada (275ml)",
+            "price": 960.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refrescos Importados (330ml)",
+            "price": 675.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta Bucanero (355ml)",
+            "price": 900.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugos Naturales (8 onzas)",
+            "price": 640.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada (10 onzas) / Lemonade",
+            "price": 895.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada Frescura (10 onzas)",
+            "price": 960.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Energizante Mio y Tuyo (250 ml)",
+            "price": 900.0,
+            "type": "non_alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "Monserrate No. 437 esq. Teniente Rey",
+        "council": null,
+        "municipe": "La Habana Vieja",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

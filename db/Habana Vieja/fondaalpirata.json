@@ -1,0 +1,272 @@
+{
+    "name": "Fonda Al Pirata",
+    "phone": "52539750",
+    "email": "alpiratasanignacio@gmail.com",
+    "web": "qr14334.buenacarta.com",
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "08:00",
+        "close": "00:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "on-site"
+    ],
+    "level": "high",
+    "payment": [
+        "cash",
+        "card",
+        "transfer",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "outdoor"
+    ],
+    "fb": null,
+    "ig": "https://www.instagram.com/fondaalpirata?igsh=cjBtN3BiaDExdGV3",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Desayuno Tradicional",
+            "price": 2880.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Desayuno Vegetariano",
+            "price": 2880.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Desayuno Vegano",
+            "price": 2880.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Tostadas Piratas",
+            "price": 960.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Hummus y Vegetales",
+            "price": 1920.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tapas Piratas",
+            "price": 1920.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Bolitas de queso",
+            "price": 1920.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Bolitas de queso picantes",
+            "price": 1920.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Ceviche",
+            "price": 2240.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Cóctel de Langosta",
+            "price": 2720.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Crudo de Pulpo",
+            "price": 2880.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Ensaladas Piratas de Corazón",
+            "price": 1440.0,
+            "type": "salads"
+        },
+        {
+            "name": "Botija Pirata",
+            "price": 1920.0,
+            "type": "mains"
+        },
+        {
+            "name": "Combinación Pirata",
+            "price": 3200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Galeón el Olones",
+            "price": 3360.0,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de Pescado",
+            "price": 3840.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Pescado Entero",
+            "price": 5120.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Langosta a su Gusto",
+            "price": 6080.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Hamburguesa Vegana",
+            "price": 1440.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Sandwich Verde",
+            "price": 1600.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Hamburguesa Barba Roja",
+            "price": 2240.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Sandwich de Pechuga",
+            "price": 2240.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Sandwich Mary Read",
+            "price": 2240.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Club Sandwich Pollo",
+            "price": 2560.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Club Sandwich Atún",
+            "price": 2720.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Sandwich Abordaje",
+            "price": 3040.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Coctelería",
+            "price": 1104.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cócteles Afrutados",
+            "price": 1216.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Piña Colada",
+            "price": 1440.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Sangría",
+            "price": 1440.0,
+            "type": "wines"
+        },
+        {
+            "name": "Piña Colada",
+            "price": 1280.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Jugo Natural",
+            "price": 640.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada",
+            "price": 640.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada de Frutas",
+            "price": 720.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Té",
+            "price": 384.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Café expreso",
+            "price": 480.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Café americano",
+            "price": 480.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Cortadito",
+            "price": 512.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Bombón",
+            "price": 608.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Café expreso doble",
+            "price": 640.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Café con leche",
+            "price": 672.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Frappuccino",
+            "price": 1232.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Frappuccino Mocca",
+            "price": 1232.0,
+            "type": "infusions"
+        }
+    ],
+    "location": {
+        "street": "San Ignacio #76 e/ O'Reilly y Empedrado",
+        "council": null,
+        "municipe": "La Habana Vieja",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

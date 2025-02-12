@@ -368,17 +368,17 @@
         {
             "name": "cafe expreso",
             "price": 250,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "cafe capuccino",
             "price": 400,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "cafe cortadito",
             "price": 300,
-            "type": "coffee"
+            "type": "infusions"
         }
     ],
     "location": {

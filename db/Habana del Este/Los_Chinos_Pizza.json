@@ -43,459 +43,459 @@
     "menu": [
         {
             "name": "Brusquetas",
-            "price": "600",
+            "price": 600.0,
             "type": "appetizer"
         },
         {
             "name": "Brusquetas con Queso",
-            "price": "750",
+            "price": 750.0,
             "type": "appetizer"
         },
         {
             "name": "Focaccia",
-            "price": "700",
+            "price": 700.0,
             "type": "appetizer"
         },
         {
             "name": "Focaccia con Salsa de Tomate",
-            "price": "750",
+            "price": 750.0,
             "type": "appetizer"
         },
         {
             "name": "Focaccia con Queso",
-            "price": "1000",
+            "price": 1000.0,
             "type": "appetizer"
         },
         {
             "name": "Croquetas Caseras",
-            "price": "450",
+            "price": 450.0,
             "type": "appetizer"
         },
         {
             "name": "Tostones Rellenos de Jamon y Queso",
-            "price": "650",
+            "price": 650.0,
             "type": "appetizer"
         },
         {
             "name": "Tostones Rellenos de Atun",
-            "price": "700",
+            "price": 700.0,
             "type": "appetizer"
         },
         {
             "name": "Coctel de Camaron",
-            "price": "2600",
+            "price": 2600.0,
             "type": "appetizer"
         },
         {
             "name": "Sopa de Vegetales",
-            "price": "500",
+            "price": 500.0,
             "type": "soups"
         },
         {
             "name": "Crema de Queso",
-            "price": "450",
+            "price": 450.0,
             "type": "soups"
         },
         {
             "name": "Crema Aurora",
-            "price": "480",
+            "price": 480.0,
             "type": "soups"
         },
         {
             "name": "Crema Virginia",
-            "price": "550",
+            "price": 550.0,
             "type": "soups"
         },
         {
             "name": "Lazaña Boloñesa",
-            "price": "1900",
+            "price": 1900.0,
             "type": "mains"
         },
         {
             "name": "Lazaña de Jamon",
-            "price": "1800",
+            "price": 1800.0,
             "type": "mains"
         },
         {
             "name": "Pasta Arrabiata",
-            "price": "850",
+            "price": 850.0,
             "type": "pasta"
         },
         {
             "name": "Pasta al Aglio Olio",
-            "price": "850",
+            "price": 850.0,
             "type": "pasta"
         },
         {
             "name": "Pasta Bolognesa",
-            "price": "1700",
+            "price": 1700.0,
             "type": "pasta"
         },
         {
             "name": "Pasta Carbonara",
-            "price": "1200",
+            "price": 1200.0,
             "type": "pasta"
         },
         {
             "name": "Pasta Alfredo",
-            "price": "1200",
+            "price": 1200.0,
             "type": "pasta"
         },
         {
             "name": "Pasta al Pesto",
-            "price": "1200",
+            "price": 1200.0,
             "type": "pasta"
         },
         {
             "name": "Pasta Matriciana",
-            "price": "1200",
+            "price": 1200.0,
             "type": "pasta"
         },
         {
             "name": "Pasta con Camarones",
-            "price": "1700",
+            "price": 1700.0,
             "type": "pasta"
         },
         {
             "name": "De Queso",
-            "price": "1150",
+            "price": 1150.0,
             "type": "pizza"
         },
         {
             "name": "De Jamon",
-            "price": "1600",
+            "price": 1600.0,
             "type": "pizza"
         },
         {
             "name": "Con Aceitunas:",
-            "price": "1500",
+            "price": 1500.0,
             "type": "pizza"
         },
         {
             "name": "Salame",
-            "price": "1500",
+            "price": 1500.0,
             "type": "pizza"
         },
         {
             "name": "Chorizo",
-            "price": "1600",
+            "price": 1600.0,
             "type": "pizza"
         },
         {
             "name": "Champiñon",
-            "price": "1700",
+            "price": 1700.0,
             "type": "pizza"
         },
         {
             "name": "3 Vegetales",
-            "price": "1700",
+            "price": 1700.0,
             "type": "pizza"
         },
         {
             "name": "3 Embutidos",
-            "price": "1700",
+            "price": 1700.0,
             "type": "pizza"
         },
         {
             "name": "Salame y Picante",
-            "price": "1700",
+            "price": 1700.0,
             "type": "pizza"
         },
         {
             "name": "Pepperoni",
-            "price": "1700",
+            "price": 1700.0,
             "type": "pizza"
         },
         {
             "name": "Hawaiana",
-            "price": "1700",
+            "price": 1700.0,
             "type": "pizza"
         },
         {
             "name": "Jamon y Champiñon",
-            "price": "1700",
+            "price": 1700.0,
             "type": "pizza"
         },
         {
             "name": "Atun",
-            "price": "1700",
+            "price": 1700.0,
             "type": "pizza"
         },
         {
             "name": "Camaron",
-            "price": "2200",
+            "price": 2200.0,
             "type": "pizza"
         },
         {
             "name": "Bacon",
-            "price": "1700",
+            "price": 1700.0,
             "type": "pizza"
         },
         {
             "name": "Los Chinos",
-            "price": "2200",
+            "price": 2200.0,
             "type": "pizza"
         },
         {
             "name": "Cebolla",
-            "price": "1600",
+            "price": 1600.0,
             "type": "pizza"
         },
         {
             "name": "Pimiento",
-            "price": "1600",
+            "price": 1600.0,
             "type": "pizza"
         },
         {
             "name": "Bistec de Cerdo",
-            "price": "1900",
+            "price": 1900.0,
             "type": "mains"
         },
         {
             "name": "Fajita de Cerdo",
-            "price": "1900",
+            "price": 1900.0,
             "type": "mains"
         },
         {
             "name": "Masas Fritas",
-            "price": "2000",
+            "price": 2000.0,
             "type": "mains"
         },
         {
             "name": "Ropa Vieja",
-            "price": "1900",
+            "price": 1900.0,
             "type": "mains"
         },
         {
             "name": "Lomo Deshuesado",
-            "price": "1900",
+            "price": 1900.0,
             "type": "mains"
         },
         {
             "name": "Chuleta",
-            "price": "2100",
+            "price": 2100.0,
             "type": "mains"
         },
         {
             "name": "Bistec Relleno de Jamon y Queso",
-            "price": "2100",
+            "price": 2100.0,
             "type": "mains"
         },
         {
             "name": "Eperlan",
-            "price": "2250",
+            "price": 2250.0,
             "type": "mains"
         },
         {
             "name": "Filete Grille",
-            "price": "2100",
+            "price": 2100.0,
             "type": "mains"
         },
         {
             "name": "Filete Empanado",
-            "price": "2250",
+            "price": 2250.0,
             "type": "mains"
         },
         {
             "name": "Filete Monte Toro",
-            "price": "2500",
+            "price": 2500.0,
             "type": "mains"
         },
         {
             "name": "Canciller",
-            "price": "2600",
+            "price": 2600.0,
             "type": "mains"
         },
         {
             "name": "Jhon Bill",
-            "price": "3000",
+            "price": 3000.0,
             "type": "mains"
         },
         {
             "name": "Bistec de Pollo",
-            "price": "1600",
+            "price": 1600.0,
             "type": "mains"
         },
         {
             "name": "Fajita de Pollo",
-            "price": "1600",
+            "price": 1600.0,
             "type": "mains"
         },
         {
             "name": "Pollo Asado",
-            "price": "3000",
+            "price": 3000.0,
             "type": "mains"
         },
         {
             "name": "Bistec de Pechuga Grille",
-            "price": "1700",
+            "price": 1700.0,
             "type": "mains"
         },
         {
             "name": "Fajita de Pechuga",
-            "price": "1700",
+            "price": 1700.0,
             "type": "mains"
         },
         {
             "name": "Pechuga Rellena de Jamon y Queso",
-            "price": "2100",
+            "price": 2100.0,
             "type": "mains"
         },
         {
             "name": "Pollo a la Criolla",
-            "price": "2000",
+            "price": 2000.0,
             "type": "mains"
         },
         {
             "name": "Ropa Vieja de Res",
-            "price": "3000",
+            "price": 3000.0,
             "type": "mains"
         },
         {
             "name": "Camarones Grille",
-            "price": "2600",
+            "price": 2600.0,
             "type": "seafood"
         },
         {
             "name": "Camarones Enchilado",
-            "price": "2600",
+            "price": 2600.0,
             "type": "seafood"
         },
         {
             "name": "Camarones al Ajillo",
-            "price": "2600",
+            "price": 2600.0,
             "type": "seafood"
         },
         {
             "name": "Camarones Rebosado",
-            "price": "2700",
+            "price": 2700.0,
             "type": "seafood"
         },
         {
             "name": "Langosta Grille",
-            "price": "3000",
+            "price": 3000.0,
             "type": "seafood"
         },
         {
             "name": "Langosta al Ajillo",
-            "price": "3000",
+            "price": 3000.0,
             "type": "seafood"
         },
         {
             "name": "Langosta Enchilada",
-            "price": "3600",
+            "price": 3600.0,
             "type": "seafood"
         },
         {
             "name": "Langosta Marinera",
-            "price": "4000",
+            "price": 4000.0,
             "type": "seafood"
         },
         {
             "name": "Cebolla",
-            "price": "450",
+            "price": 450.0,
             "type": "sides"
         },
         {
             "name": "Jamon",
-            "price": "560",
+            "price": 560.0,
             "type": "sides"
         },
         {
             "name": "Salame",
-            "price": "550",
+            "price": 550.0,
             "type": "sides"
         },
         {
             "name": "Atun",
-            "price": "670",
+            "price": 670.0,
             "type": "sides"
         },
         {
             "name": "Bacon",
-            "price": "560",
+            "price": 560.0,
             "type": "sides"
         },
         {
             "name": "Salsa de Tomate",
-            "price": "450",
+            "price": 450.0,
             "type": "sides"
         },
         {
             "name": "Piña",
-            "price": "450",
+            "price": 450.0,
             "type": "sides"
         },
         {
             "name": "Aceitunas",
-            "price": "450",
+            "price": 450.0,
             "type": "sides"
         },
         {
             "name": "Queso",
-            "price": "500",
+            "price": 500.0,
             "type": "sides"
         },
         {
             "name": "Chorizo",
-            "price": "550",
+            "price": 550.0,
             "type": "sides"
         },
         {
             "name": "Pimiento",
-            "price": "450",
+            "price": 450.0,
             "type": "sides"
         },
         {
             "name": "Tomate Natural",
-            "price": "450",
+            "price": 450.0,
             "type": "sides"
         },
         {
             "name": "Camaron",
-            "price": "1100",
+            "price": 1100.0,
             "type": "sides"
         },
         {
             "name": "Champiñon",
-            "price": "670",
+            "price": 670.0,
             "type": "sides"
         },
         {
             "name": "Arroz Blanco",
-            "price": "240",
+            "price": 240.0,
             "type": "sides"
         },
         {
             "name": "Arroz Moro",
-            "price": "260",
+            "price": 260.0,
             "type": "sides"
         },
         {
             "name": "Ensalada de Vegetales",
-            "price": "280",
+            "price": 280.0,
             "type": "salads"
         },
         {
             "name": "Racion de Vianda Hervida",
-            "price": "300",
+            "price": 300.0,
             "type": "sides"
         },
         {
             "name": "Papas Fritas",
-            "price": "500",
+            "price": 500.0,
             "type": "sides"
         },
         {
             "name": "Otras Viandas Fritas",
-            "price": "400",
+            "price": 400.0,
             "type": "sides"
         }
     ],
     "location": {
         "street": "5V96+PVV",
         "council": null,
-        "municipe": "La Habana del Este",
+        "municipe": "Habana del Este",
         "province": "La Habana",
         "zip": null,
         "country": "Cuba",

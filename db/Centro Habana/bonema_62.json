@@ -634,32 +634,32 @@
         {
             "name": "café expreso",
             "price": 380,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "espresso macchiato (cortado)",
             "price": 400,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "americano",
             "price": 420,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "cappuccino",
             "price": 650,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "café con leche",
             "price": 700,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "leche con chocolate",
             "price": 700,
-            "type": "coffee"
+            "type": "infusions"
         }
     ],
     "location": {

@@ -1,0 +1,268 @@
+{
+    "name": "La Mia Pizza",
+    "phone": "72718614",
+    "email": "lamiapizzacuba@gmail.com",
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "italian",
+    "hours": {
+        "open": "10:30",
+        "close": "02:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 30,
+    "reservations": [],
+    "delivery": [
+        "home"
+    ],
+    "level": "luxurious",
+    "payment": [
+        "cash",
+        "card"
+    ],
+    "promo": false,
+    "rating": 4.4,
+    "reviews": 75,
+    "amenities": [
+        "parking"
+    ],
+    "fb": "La Mia Pizza",
+    "ig": "@lamiapizza_",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Entremes de jamon y queso",
+            "price": 1400,
+            "type": "starters"
+        },
+        {
+            "name": "Entremes de jamom",
+            "price": 500,
+            "type": "starters"
+        },
+        {
+            "name": "Entremes de ahumados",
+            "price": 440,
+            "type": "starters"
+        },
+        {
+            "name": "Entremes de aceitunas",
+            "price": 300,
+            "type": "starters"
+        },
+        {
+            "name": "Dados de queso",
+            "price": 300,
+            "type": "starters"
+        },
+        {
+            "name": "Croquetas de embutidos",
+            "price": 220,
+            "type": "starters"
+        },
+        {
+            "name": "Crema de queso",
+            "price": 250,
+            "type": "starters"
+        },
+        {
+            "name": "Crema Aurora",
+            "price": 300,
+            "type": "starters"
+        },
+        {
+            "name": "Crema Virginia",
+            "price": 430,
+            "type": "starters"
+        },
+        {
+            "name": "Lasagna de jamon",
+            "price": 500,
+            "type": "mains"
+        },
+        {
+            "name": "Lasagna de jamon y chorizo",
+            "price": 610,
+            "type": "mains"
+        },
+        {
+            "name": "Espaghettis napolitanos",
+            "price": 700,
+            "type": "mains"
+        },
+        {
+            "name": "Espaghettis a la carbonara",
+            "price": 860,
+            "type": "mains"
+        },
+        {
+            "name": "Pizza Junior napolitana",
+            "price": 350,
+            "type": "pizza"
+        },
+        {
+            "name": "Espaghettis Junior napolitano",
+            "price": 300,
+            "type": "mains"
+        },
+        {
+            "name": "Combinacion del Menu Peques",
+            "price": 650,
+            "type": "mains"
+        },
+        {
+            "name": "Pizza Junior La Mia",
+            "price": 1500,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza napolitana de 32 cm",
+            "price": 700,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza La Mia de 32 cm",
+            "price": 2500,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza La Mia de queso de 32 cm",
+            "price": 1900,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Tres Quesos de 32 cm",
+            "price": 1700,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza La Mia Familiar",
+            "price": 4800,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza La Mia Familiar de queso",
+            "price": 4000,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Familiar napolitana",
+            "price": 2500,
+            "type": "pizza"
+        },
+        {
+            "name": "Ron Havana Club 3 anos",
+            "price": 175,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ron Havana Club 7 anos",
+            "price": 225,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Pina colada",
+            "price": 250,
+            "type": "cocktails"
+        },
+        {
+            "name": "Limonada frappe",
+            "price": 1500,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cervezas",
+            "price": 270,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Refrescos",
+            "price": 220,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refrescos de pomo",
+            "price": 280,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta",
+            "price": 250,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua natural",
+            "price": 160,
+            "type": "water"
+        },
+        {
+            "name": "Agua saborizada",
+            "price": 170,
+            "type": "water"
+        },
+        {
+            "name": "Energizante",
+            "price": 250,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Michelada",
+            "price": 420,
+            "type": "cocktails"
+        },
+        {
+            "name": "Chelada",
+            "price": 340,
+            "type": "cocktails"
+        },
+        {
+            "name": "Vodka",
+            "price": 340,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Whisky",
+            "price": 340,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Jugos de frutas naturales",
+            "price": 200,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Batidos de frutas naturales",
+            "price": 250,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Suero de helado",
+            "price": 350,
+            "type": "desserts"
+        },
+        {
+            "name": "Helado montado (3 bolas)",
+            "price": 350,
+            "type": "desserts"
+        }
+    ],
+    "location": {
+        "street": "Avenida 29 entre 202 y 204, La Coronela",
+        "council": null,
+        "municipe": "La Lisa",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

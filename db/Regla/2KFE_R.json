@@ -1,0 +1,181 @@
+{
+    "name": "2KFE",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "10:00",
+        "close": "20:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [],
+    "delivery": [
+        "on-site"
+    ],
+    "level": "luxurious",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 5.0,
+    "reviews": 30,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Croquetas",
+            "price": 300.0,
+            "type": "starters"
+        },
+        {
+            "name": "Viandas fritas",
+            "price": 100.0,
+            "type": "starters"
+        },
+        {
+            "name": "Brusquetas",
+            "price": 250.0,
+            "type": "starters"
+        },
+        {
+            "name": "Entremes surtido",
+            "price": 800.0,
+            "type": "starters"
+        },
+        {
+            "name": "Mini Gordon Bleu",
+            "price": 800.0,
+            "type": "starters"
+        },
+        {
+            "name": "Plato combinado",
+            "price": 1200.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tacos Carnitas",
+            "price": 850.0,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos Res",
+            "price": 900.0,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos Pollo",
+            "price": 600.0,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos Vegetariano",
+            "price": 400.0,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos Vegetales salteados en mantequilla y limón",
+            "price": 0.0,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos Jamón y Queso",
+            "price": 650.0,
+            "type": "mains"
+        },
+        {
+            "name": "Espresso",
+            "price": 100.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Americano",
+            "price": 100.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cortadito",
+            "price": 150.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Con Leche",
+            "price": 200.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Espresso Macchiato",
+            "price": 180.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Caramel Macchiato",
+            "price": 250.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cappuccino",
+            "price": 220.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Frappuccino",
+            "price": 500.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Irlandés",
+            "price": 250.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Caribeño",
+            "price": 180.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Alma mía",
+            "price": 180.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Minty Coffee",
+            "price": 250.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "2KF",
+            "price": 250.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Lujo",
+            "price": 600.0,
+            "type": "non_alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "entre Martí y Maceo, Pereira",
+        "council": null,
+        "municipe": "Regla",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

@@ -1,0 +1,427 @@
+{
+    "name": "MMCafeteria",
+    "phone": "72611382",
+    "email": null,
+    "web": "Cafeteria MM",
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "09:00",
+        "close": "10:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": null,
+    "delivery": null,
+    "level": "high",
+    "payment": [
+        "cash",
+        "card",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "live_music"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Egg",
+            "price": null,
+            "type": "breakfast"
+        },
+        {
+            "name": "Tortilla",
+            "price": null,
+            "type": "breakfast"
+        },
+        {
+            "name": "Hamburguesa clasica",
+            "price": 400.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Hamburguesa de queso",
+            "price": 600.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Hamburguesa de jamon",
+            "price": 550.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Hamburguesas jamon y queso",
+            "price": 700.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Sandwich",
+            "price": null,
+            "type": "breakfast"
+        },
+        {
+            "name": "Bread",
+            "price": null,
+            "type": "breakfast"
+        },
+        {
+            "name": "Papas fritas",
+            "price": 650.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Croquetas",
+            "price": 550.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Fritura de malanga",
+            "price": 550.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostones rellenos",
+            "price": 650.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Ensalada fria de jamon",
+            "price": 800.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Ensalada fria de atun",
+            "price": 900.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Fajitas de Pechuga salteada",
+            "price": 1200.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Fajitas de Pechuga empanada",
+            "price": 1450.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Fajitas de Cerdo salteadas",
+            "price": 1300.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Fajitas de cerdo empanada",
+            "price": 1350.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Eperlan",
+            "price": 1350.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Coctel de camarones",
+            "price": 2100.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Taco de cerdo",
+            "price": 1200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Taco de camaron",
+            "price": 1400.0,
+            "type": "mains"
+        },
+        {
+            "name": "taco de pollo",
+            "price": 1100.0,
+            "type": "mains"
+        },
+        {
+            "name": "taco de res",
+            "price": 1300.0,
+            "type": "mains"
+        },
+        {
+            "name": "Crema de queso",
+            "price": 800.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Lasagña Boloñesa",
+            "price": 1700.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguettis napolitano",
+            "price": 700.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Pizzas Napolitanas, 32 cm",
+            "price": 750.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizzas jamon",
+            "price": 1100.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizzas Bacón",
+            "price": 1650.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizzas Pimiento",
+            "price": 1050.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizzas Cebolla",
+            "price": 950.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizzas Hawaiana",
+            "price": 1350.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizzas Atún",
+            "price": 1650.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizzas Camarón",
+            "price": 1350.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizzas Ropa Vieja",
+            "price": 1500.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizzas De Chorizo",
+            "price": 1100.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizzas MM",
+            "price": 1800.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Bistec de Cerdo Grille",
+            "price": 1400.0,
+            "type": "mains"
+        },
+        {
+            "name": "Cerdo Bistec Empanizado",
+            "price": 1600.0,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de Cerdo Uruguayo",
+            "price": 1950.0,
+            "type": "mains"
+        },
+        {
+            "name": "Masa de Cerdo Salteada",
+            "price": 1350.0,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo de Cerdo",
+            "price": 1500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Fricase de Cerdo ",
+            "price": 1400.0,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de Pollo Gordon Blue",
+            "price": 1900.0,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de Pechuga Gordon Blue",
+            "price": 1900.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga de Pollo Grille",
+            "price": 1500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga de Pollo Empanada",
+            "price": 1400.0,
+            "type": "mains"
+        },
+        {
+            "name": "Vaca Frita",
+            "price": 1900.0,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa Vieja",
+            "price": 1900.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado Grille",
+            "price": 1500.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Pescado Empanizado",
+            "price": 1900.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Enchilado de Camarón",
+            "price": 1400.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Camarón al Ajillo",
+            "price": 1700.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Camaron Empanado",
+            "price": 2000.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Canciller 190Grs",
+            "price": 2000.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Langosta",
+            "price": 2100.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Cazuela de mariscos",
+            "price": 2100.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Canciller 180 Grs",
+            "price": 2000.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Arroz Blanco",
+            "price": 200.0,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz Congrí",
+            "price": 300.0,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz Frito",
+            "price": 1550.0,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz Imperial",
+            "price": 1650.0,
+            "type": "sides"
+        },
+        {
+            "name": "Paella",
+            "price": 2100.0,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz frito de cerdo,pollo y mejillon",
+            "price": 1450.0,
+            "type": "sides"
+        },
+        {
+            "name": "Helado CID",
+            "price": 850.0,
+            "type": "desserts"
+        },
+        {
+            "name": "agua",
+            "price": 130.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco Santa",
+            "price": 200.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Sprite",
+            "price": 450.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Santa isabel",
+            "price": 250.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Energizante",
+            "price": 260.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cristal V",
+            "price": 245.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cristal B",
+            "price": 200.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Bucanero",
+            "price": 240.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Jugo Lata",
+            "price": 265.0,
+            "type": "non_alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "Avenida 41",
+        "council": null,
+        "municipe": "Marianao",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.089444,
+        "coords_y": -82.421389
+    }
+}

@@ -1,0 +1,209 @@
+{
+    "name": "La Hamburguesita",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "11:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": null,
+    "delivery": [
+        "takeaway",
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "outdoor"
+    ],
+    "fb": null,
+    "ig": "https://www.instagram.com/hamburguesitala?igsh=MTRob3FmdGF5bGlvYg==",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Clásica",
+            "price": 550.0,
+            "type": "mains"
+        },
+        {
+            "name": "Hawaiana",
+            "price": 650.0,
+            "type": "mains"
+        },
+        {
+            "name": "Casa blanca",
+            "price": 700.0,
+            "type": "mains"
+        },
+        {
+            "name": "Submarino",
+            "price": 670.0,
+            "type": "mains"
+        },
+        {
+            "name": "Belleza habanera",
+            "price": 700.0,
+            "type": "mains"
+        },
+        {
+            "name": "Locura cienfueguera",
+            "price": 800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Biplanta",
+            "price": 850.0,
+            "type": "mains"
+        },
+        {
+            "name": "Cubana",
+            "price": 950.0,
+            "type": "mains"
+        },
+        {
+            "name": "Milanesa",
+            "price": 950.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo",
+            "price": 450.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Jamón",
+            "price": 400.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Queso",
+            "price": 400.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Jamón y queso",
+            "price": 500.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Atún",
+            "price": 750.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Cubano",
+            "price": 750.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Croquetas",
+            "price": 350.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Frituras de malanga",
+            "price": 350.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostones hawaianos",
+            "price": 400.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Jugos naturales",
+            "price": 150.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Batidos de frutas",
+            "price": 200.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada frape",
+            "price": 200.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malteada",
+            "price": 350.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta",
+            "price": 280.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco nacional",
+            "price": 250.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco importado",
+            "price": 280.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cervezas nacionales",
+            "price": 280.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cervezas importadas",
+            "price": 250.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Energizante",
+            "price": 280.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua natural",
+            "price": 150.0,
+            "type": "water"
+        },
+        {
+            "name": "Cafe expreso",
+            "price": 100.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Cafe bombom",
+            "price": 150.0,
+            "type": "infusions"
+        }
+    ],
+    "location": {
+        "street": "Calle Cienfuegos entre Apodaca y Gloria",
+        "council": null,
+        "municipe": "La Habana Vieja",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

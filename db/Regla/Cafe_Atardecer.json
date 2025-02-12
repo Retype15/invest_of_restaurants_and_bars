@@ -1,0 +1,128 @@
+{
+    "name": "Cafe Atardecer",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "state",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "07:00",
+        "close": "19:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": 22,
+    "reservations": [],
+    "delivery": [],
+    "level": "medium",
+    "payment": [
+        "cash"
+    ],
+    "promo": false,
+    "rating": 5.0,
+    "reviews": 30,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "croqueta",
+            "price": 75,
+            "type": "appetizer"
+        },
+        {
+            "name": "medallon",
+            "price": 90,
+            "type": "others"
+        },
+        {
+            "name": "queso",
+            "price": 90,
+            "type": "others"
+        },
+        {
+            "name": "perro",
+            "price": 120,
+            "type": "others"
+        },
+        {
+            "name": "jamon_queso",
+            "price": 150,
+            "type": "sandwich"
+        },
+        {
+            "name": "pollo_empanado",
+            "price": 450,
+            "type": "mains"
+        },
+        {
+            "name": "pollo_fajitas",
+            "price": 450,
+            "type": "mains"
+        },
+        {
+            "name": "cerdo_escalope",
+            "price": 480,
+            "type": "mains"
+        },
+        {
+            "name": "cerdo_fajitas",
+            "price": 480,
+            "type": "mains"
+        },
+        {
+            "name": "cerdo_fricesse",
+            "price": 380,
+            "type": "mains"
+        },
+        {
+            "name": "pescado_empanado",
+            "price": 330,
+            "type": "seafood"
+        },
+        {
+            "name": "spaghetti_napolitano",
+            "price": 250,
+            "type": "pasta"
+        },
+        {
+            "name": "spaghetti_de_jamon",
+            "price": 300,
+            "type": "pasta"
+        },
+        {
+            "name": "confituras",
+            "price": null,
+            "type": "desserts"
+        },
+        {
+            "name": "refresco",
+            "price": 20,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "cafe",
+            "price": 15,
+            "type": "infusions"
+        }
+    ],
+    "location": {
+        "street": "Martí entre Perdomo y Albuquerque",
+        "council": null,
+        "municipe": "Regla",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": 23.125469635245604,
+        "coords_y": -82.33014753559166
+    }
+}

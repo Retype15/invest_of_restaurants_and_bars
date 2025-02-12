@@ -34,252 +34,252 @@
     "menu": [
         {
             "name": "Picadera Yesterday",
-            "price": "3000",
+            "price": 3000.0,
             "type": "starters"
         },
         {
             "name": "Papas fritas",
-            "price": "600",
+            "price": 600.0,
             "type": "starters"
         },
         {
             "name": "Tacos de cerdo",
-            "price": "800",
+            "price": 800.0,
             "type": "starters"
         },
         {
             "name": "Tacos de pollo",
-            "price": "800",
+            "price": 800.0,
             "type": "starters"
         },
         {
             "name": "Ceviche",
-            "price": "800",
+            "price": 800.0,
             "type": "starters"
         },
         {
             "name": "Eperlan",
-            "price": "900",
+            "price": 900.0,
             "type": "starters"
         },
         {
             "name": "Coctel de camarones",
-            "price": "1000",
+            "price": 1000.0,
             "type": "starters"
         },
         {
             "name": "Entremes de jamon, queso y chorizo",
-            "price": "800",
+            "price": 800.0,
             "type": "starters"
         },
         {
             "name": "Ensalada fria",
-            "price": "650",
+            "price": 650.0,
             "type": "salads"
         },
         {
             "name": "Toston al ajo",
-            "price": "600",
+            "price": 600.0,
             "type": "starters"
         },
         {
             "name": "Frituras de malanga",
-            "price": "500",
+            "price": 500.0,
             "type": "starters"
         },
         {
             "name": "Croquetas de la casa",
-            "price": "500",
+            "price": 500.0,
             "type": "starters"
         },
         {
             "name": "Fajitas de pollo",
-            "price": "950",
+            "price": 950.0,
             "type": "starters"
         },
         {
             "name": "Fajitas de cerdo",
-            "price": "950",
+            "price": 950.0,
             "type": "starters"
         },
         {
             "name": "Brochetas mixtas",
-            "price": "2500",
+            "price": 2500.0,
             "type": "starters"
         },
         {
             "name": "Garbanzo frito",
-            "price": "2000",
+            "price": 2000.0,
             "type": "starters"
         },
         {
             "name": "Fabada",
-            "price": "2000",
+            "price": 2000.0,
             "type": "soups"
         },
         {
             "name": "Cema del dia",
-            "price": "1000",
+            "price": 1000.0,
             "type": "soups"
         },
         {
             "name": "Mariscada Yesterday",
-            "price": "7000",
+            "price": 7000.0,
             "type": "seafood"
         },
         {
             "name": "Calamar al gusto",
-            "price": "3000",
+            "price": 3000.0,
             "type": "seafood"
         },
         {
             "name": "Langosta al gusto",
-            "price": "3000",
+            "price": 3000.0,
             "type": "seafood"
         },
         {
             "name": "3 delicias",
-            "price": "3000",
+            "price": 3000.0,
             "type": "mains"
         },
         {
             "name": "Camarones al ajo",
-            "price": "2000",
+            "price": 2000.0,
             "type": "seafood"
         },
         {
             "name": "Camarones grille",
-            "price": "2000",
+            "price": 2000.0,
             "type": "seafood"
         },
         {
             "name": "Enchilado de camarones",
-            "price": "2000",
+            "price": 2000.0,
             "type": "seafood"
         },
         {
             "name": "Camaron empanado",
-            "price": "2500",
+            "price": 2500.0,
             "type": "seafood"
         },
         {
             "name": "Filete de pescado",
-            "price": "1800",
+            "price": 1800.0,
             "type": "seafood"
         },
         {
             "name": "Filete de pescado Jhombill",
-            "price": "2200",
+            "price": 2200.0,
             "type": "seafood"
         },
         {
             "name": "Rueda de pescado frito",
-            "price": "2500",
+            "price": 2500.0,
             "type": "seafood"
         },
         {
             "name": "Bistec de cerdo",
-            "price": "1800",
+            "price": 1800.0,
             "type": "mains"
         },
         {
             "name": "Cerdo encebollado",
-            "price": "2000",
+            "price": 2000.0,
             "type": "mains"
         },
         {
             "name": "Pechuga de pollo grille",
-            "price": "1800",
+            "price": 1800.0,
             "type": "mains"
         },
         {
             "name": "Mar y tierra",
-            "price": "5500",
+            "price": 5500.0,
             "type": "mains"
         },
         {
             "name": "Mar y tierra res",
-            "price": "5500",
+            "price": 5500.0,
             "type": "mains"
         },
         {
             "name": "Cordero al vino",
-            "price": "3000",
+            "price": 3000.0,
             "type": "mains"
         },
         {
             "name": "Costillas de cerdo",
-            "price": "3000",
+            "price": 3000.0,
             "type": "mains"
         },
         {
             "name": "Cerdo desmechado",
-            "price": "3000",
+            "price": 3000.0,
             "type": "mains"
         },
         {
             "name": "Masas fritas",
-            "price": "3000",
+            "price": 3000.0,
             "type": "mains"
         },
         {
             "name": "Lonjas de cerdo",
-            "price": "3000",
+            "price": 3000.0,
             "type": "mains"
         },
         {
             "name": "Lonjas ahumadas",
-            "price": "3000",
+            "price": 3000.0,
             "type": "mains"
         },
         {
             "name": "Uruguayo",
-            "price": "2500",
+            "price": 2500.0,
             "type": "mains"
         },
         {
             "name": "Canciller",
-            "price": "2500",
+            "price": 2500.0,
             "type": "mains"
         },
         {
             "name": "Corden bleu",
-            "price": "2500",
+            "price": 2500.0,
             "type": "mains"
         },
         {
             "name": "Solomillo de cerdo",
-            "price": "4000",
+            "price": 4000.0,
             "type": "mains"
         },
         {
             "name": "Arroz a la marinera",
-            "price": "3500",
+            "price": 3500.0,
             "type": "mains"
         },
         {
             "name": "Arroz campesino",
-            "price": "3000",
+            "price": 3000.0,
             "type": "mains"
         },
         {
             "name": "Arroz frito (camaron)",
-            "price": "2000",
+            "price": 2000.0,
             "type": "mains"
         },
         {
             "name": "Arroz frito (langosta)",
-            "price": "2500",
+            "price": 2500.0,
             "type": "mains"
         },
         {
             "name": "Ropa vieja",
-            "price": "2500",
+            "price": 2500.0,
             "type": "mains"
         },
         {
             "name": "Bistec de res",
-            "price": "2500",
+            "price": 2500.0,
             "type": "mains"
         }
     ],

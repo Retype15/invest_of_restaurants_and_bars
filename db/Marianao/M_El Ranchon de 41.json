@@ -1,0 +1,135 @@
+{
+    "name": "Ranchon de 41",
+    "phone": "52014975",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "00:00",
+        "close": "23:59",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": null,
+    "delivery": null,
+    "level": "economic",
+    "payment": [
+        "cash",
+        "card",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.45,
+    "reviews": 75,
+    "amenities": null,
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Croquetas de la casa",
+            "price": 400,
+            "type": "appetizer"
+        },
+        {
+            "name": "Coctel de camaron",
+            "price": 650,
+            "type": "appetizer"
+        },
+        {
+            "name": "Picadera el toro bravo",
+            "price": 1700,
+            "type": "appetizer"
+        },
+        {
+            "name": "Espaguetis",
+            "price": 700,
+            "type": "pasta"
+        },
+        {
+            "name": "pizza de queso blanco",
+            "price": 400,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de queso gouda",
+            "price": 680,
+            "type": "pizza"
+        },
+        {
+            "name": "Pollo chiflado",
+            "price": 1200,
+            "type": "mains"
+        },
+        {
+            "name": "Fajitas de pollo",
+            "price": 750,
+            "type": "mains"
+        },
+        {
+            "name": "Queso",
+            "price": 200,
+            "type": "sides"
+        },
+        {
+            "name": "Jamon",
+            "price": 150,
+            "type": "sides"
+        },
+        {
+            "name": "Chorizo",
+            "price": 150,
+            "type": "sides"
+        },
+        {
+            "name": "Cebolla",
+            "price": 150,
+            "type": "sides"
+        },
+        {
+            "name": "Piña",
+            "price": 150,
+            "type": "sides"
+        },
+        {
+            "name": "Aceituna",
+            "price": 200,
+            "type": "sides"
+        },
+        {
+            "name": "Queso gouda",
+            "price": 500,
+            "type": "sides"
+        },
+        {
+            "name": "atun",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "Suero de helado",
+            "price": 400,
+            "type": "desserts"
+        }
+    ],
+    "location": {
+        "street": "Avenida 41 y 84",
+        "council": null,
+        "municipe": "Marianao",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

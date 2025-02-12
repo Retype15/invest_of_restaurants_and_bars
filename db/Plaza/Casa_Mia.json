@@ -258,7 +258,7 @@
         },
         {
             "name": "",
-            "price": "",
+            "price": null,
             "type": "pizza"
         },
         {
@@ -283,12 +283,12 @@
         },
         {
             "name": "",
-            "price": "",
+            "price": null,
             "type": "others"
         },
         {
             "name": " ",
-            "price": "",
+            "price": null,
             "type": "sandwich"
         },
         {

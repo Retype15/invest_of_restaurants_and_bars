@@ -44,672 +44,672 @@
     "menu": [
         {
             "name": "croquetas de la casa",
-            "price": "850.00",
+            "price": 850.0,
             "type": "appetizer"
         },
         {
             "name": "ensalada de pollo",
-            "price": "950.00",
+            "price": 950.0,
             "type": "appetizer"
         },
         {
             "name": "tostones rellenos",
-            "price": "850.00",
+            "price": 850.0,
             "type": "appetizer"
         },
         {
             "name": "frituras de malanga",
-            "price": "650.00",
+            "price": 650.0,
             "type": "appetizer"
         },
         {
             "name": "garbanzos fritos",
-            "price": "1200.00",
+            "price": 1200.0,
             "type": "appetizer"
         },
         {
             "name": "eperlán de picar",
-            "price": "1200.00",
+            "price": 1200.0,
             "type": "appetizer"
         },
         {
             "name": "fajitas de pollo",
-            "price": "950.00",
+            "price": 950.0,
             "type": "appetizer"
         },
         {
             "name": "ceviche ATLANTA",
-            "price": "950.00",
+            "price": 950.0,
             "type": "appetizer"
         },
         {
             "name": "tacos ATLANTA",
-            "price": "1650.00",
+            "price": 1650.0,
             "type": "mains"
         },
         {
             "name": "arroz frito",
-            "price": "1200.00",
+            "price": 1200.0,
             "type": "mains"
         },
         {
             "name": "arroz frito especial",
-            "price": "1400.00",
+            "price": 1400.0,
             "type": "mains"
         },
         {
             "name": "paella valenciana",
-            "price": "1500.00",
+            "price": 1500.0,
             "type": "mains"
         },
         {
             "name": "paella mixta",
-            "price": "1650.00",
+            "price": 1650.0,
             "type": "mains"
         },
         {
             "name": "arroz con pollo a la chorrera",
-            "price": "1500.00",
+            "price": 1500.0,
             "type": "mains"
         },
         {
             "name": "bistec de cerdo grillé",
-            "price": "1600.00",
+            "price": 1600.0,
             "type": "mains"
         },
         {
             "name": "masas de cerdo fritas",
-            "price": "2000.00",
+            "price": 2000.0,
             "type": "mains"
         },
         {
             "name": "bistec uruguayo de cerdo",
-            "price": "2500.00",
+            "price": 2500.0,
             "type": "mains"
         },
         {
             "name": "filete de pescado grillé",
-            "price": "1850.00",
+            "price": 1850.0,
             "type": "mains"
         },
         {
             "name": "filete de pescado con queso",
-            "price": "2200.00",
+            "price": 2200.0,
             "type": "mains"
         },
         {
             "name": "filete canciller",
-            "price": "2500.00",
+            "price": 2500.0,
             "type": "mains"
         },
         {
             "name": "pollo frito/asado",
-            "price": "1500.00",
+            "price": 1500.0,
             "type": "mains"
         },
         {
             "name": "pechuga de pollo grillé",
-            "price": "1600.00",
+            "price": 1600.0,
             "type": "mains"
         },
         {
             "name": "pechuga gratinada",
-            "price": "1850.00",
+            "price": 1850.0,
             "type": "mains"
         },
         {
             "name": "pechuga princesa",
-            "price": "2000.00",
+            "price": 2000.0,
             "type": "mains"
         },
         {
             "name": "Gordon Blue",
-            "price": "2500.00",
+            "price": 2500.0,
             "type": "mains"
         },
         {
             "name": "lomo ahumado grille",
-            "price": "1850.00",
+            "price": 1850.0,
             "type": "mains"
         },
         {
             "name": "lomo ahumado gratinado c/queso",
-            "price": "2150.00",
+            "price": 2150.0,
             "type": "mains"
         },
         {
             "name": "lomo ahumado a la piña",
-            "price": "2000.00",
+            "price": 2000.0,
             "type": "mains"
         },
         {
             "name": "pechugón ATLANTA",
-            "price": "2650.00",
+            "price": 2650.0,
             "type": "mains"
         },
         {
             "name": "spaghetti Napolitano",
-            "price": "950.00",
+            "price": 950.0,
             "type": "pasta"
         },
         {
             "name": "lasagna de jamón",
-            "price": "950.00",
+            "price": 950.0,
             "type": "pasta"
         },
         {
             "name": "pizza napolitana",
-            "price": "950.00",
+            "price": 950.0,
             "type": "pizza"
         },
         {
             "name": "pizza ATLANTA",
-            "price": "1800.00",
+            "price": 1800.0,
             "type": "pizza"
         },
         {
             "name": "arroz blanco",
-            "price": "320.00",
+            "price": 320.0,
             "type": "sides"
         },
         {
             "name": "ensalada mixta",
-            "price": "320.00",
+            "price": 320.0,
             "type": "sides"
         },
         {
             "name": "arroz congrís",
-            "price": "480.00",
+            "price": 480.0,
             "type": "sides"
         },
         {
             "name": "vianda frita",
-            "price": "320.00",
+            "price": 320.0,
             "type": "sides"
         },
         {
             "name": "suero de helados",
-            "price": "850.00",
+            "price": 850.0,
             "type": "desserts"
         },
         {
             "name": "chelada",
-            "price": "200.00",
+            "price": 200.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "michelada (servicio)",
-            "price": "250.00",
+            "price": 250.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "roncollins",
-            "price": "600.00",
+            "price": 600.0,
             "type": "cocktails"
         },
         {
             "name": "calimocho",
-            "price": "600.00",
+            "price": 600.0,
             "type": "cocktails"
         },
         {
             "name": "tinto de verano",
-            "price": "700.00",
+            "price": 700.0,
             "type": "cocktails"
         },
         {
             "name": "caipiroska",
-            "price": "700.00",
+            "price": 700.0,
             "type": "cocktails"
         },
         {
             "name": "caipirinha",
-            "price": "700.00",
+            "price": 700.0,
             "type": "cocktails"
         },
         {
             "name": "caipirisima",
-            "price": "700.00",
+            "price": 700.0,
             "type": "cocktails"
         },
         {
             "name": "canchanchara",
-            "price": "600.00",
+            "price": 600.0,
             "type": "cocktails"
         },
         {
             "name": "piña colada",
-            "price": "700.00",
+            "price": 700.0,
             "type": "cocktails"
         },
         {
             "name": "cubalibre",
-            "price": "650.00",
+            "price": 650.0,
             "type": "cocktails"
         },
         {
             "name": "sangría",
-            "price": "700.00",
+            "price": 700.0,
             "type": "cocktails"
         },
         {
             "name": "mojito",
-            "price": "700.00",
+            "price": 700.0,
             "type": "cocktails"
         },
         {
             "name": "daiquirí",
-            "price": "700.00",
+            "price": 700.0,
             "type": "cocktails"
         },
         {
             "name": "cubata",
-            "price": "800.00",
+            "price": 800.0,
             "type": "cocktails"
         },
         {
             "name": "cubanito",
-            "price": "800.00",
+            "price": 800.0,
             "type": "cocktails"
         },
         {
             "name": "sex on the beach",
-            "price": "800.00",
+            "price": 800.0,
             "type": "cocktails"
         },
         {
             "name": "bloody mary",
-            "price": "800.00",
+            "price": 800.0,
             "type": "cocktails"
         },
         {
             "name": "gintonic",
-            "price": "900.00",
+            "price": 900.0,
             "type": "cocktails"
         },
         {
             "name": "vodkatonic",
-            "price": "900.00",
+            "price": 900.0,
             "type": "cocktails"
         },
         {
             "name": "margarita",
-            "price": "900.00",
+            "price": 900.0,
             "type": "cocktails"
         },
         {
             "name": "jaggerbull",
-            "price": "1250.00",
+            "price": 1250.0,
             "type": "cocktails"
         },
         {
             "name": "negroni",
-            "price": "1550.00",
+            "price": 1550.0,
             "type": "cocktails"
         },
         {
             "name": "ginebra de la casa",
-            "price": "350.00",
+            "price": 350.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "ginebra Beefeater",
-            "price": "500.00",
+            "price": 500.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "ginebra Tanqueray",
-            "price": "700.00",
+            "price": 700.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "ginebra Gordons",
-            "price": "1000.00",
+            "price": 1000.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "tequila silver de la casa",
-            "price": "700.00",
+            "price": 700.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "tequila reposado de la casa",
-            "price": "750.00",
+            "price": 750.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "tequila Olmeca silver",
-            "price": "750.00",
+            "price": 750.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "tequila Olmeca reposado",
-            "price": "800.00",
+            "price": 800.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "tequila Olmeca dark",
-            "price": "800.00",
+            "price": 800.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "tequila Patrón silver",
-            "price": "1550.00",
+            "price": 1550.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "tequila Patrón reposado",
-            "price": "1700.00",
+            "price": 1700.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "vodka de la casa",
-            "price": "350.00",
+            "price": 350.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "vodka Absolut",
-            "price": "650.00",
+            "price": 650.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "vodka Grey Goose",
-            "price": "1550.00",
+            "price": 1550.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "whisky de la casa",
-            "price": "400.00",
+            "price": 400.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "william lawson",
-            "price": "500.00",
+            "price": 500.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "VAT 69",
-            "price": "500.00",
+            "price": 500.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Ballantines",
-            "price": "650.00",
+            "price": 650.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Jhonie W. etiqueta roja",
-            "price": "700.00",
+            "price": 700.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Jhonie W. etiq. negra",
-            "price": "1250.00",
+            "price": 1250.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Buchanans deluxe",
-            "price": "1550.00",
+            "price": 1550.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Chivas Regal",
-            "price": "1200.00",
+            "price": 1200.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "ron h.c. blanco",
-            "price": "350.00",
+            "price": 350.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "ron h.c. 3 años",
-            "price": "400.00",
+            "price": 400.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "ron h.c. reserva",
-            "price": "500.00",
+            "price": 500.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "ron h.c 7 años",
-            "price": "550.00",
+            "price": 550.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "ron santiago c. blanca",
-            "price": "500.00",
+            "price": 500.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "ron santiago 8 años",
-            "price": "1000.00",
+            "price": 1000.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "ron santiago 11 años",
-            "price": "1450.00",
+            "price": 1450.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "ron santiango 12 años",
-            "price": "1550.00",
+            "price": 1550.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "cerveza Cristal (lata)",
-            "price": "350.00",
+            "price": 350.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "cerveza Cristal (botella)",
-            "price": "400.00",
+            "price": 400.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "cerveza Bucanero",
-            "price": "350.00",
+            "price": 350.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "cerveza Corona",
-            "price": "550.00",
+            "price": 550.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "cerveza Heineken",
-            "price": "500.00",
+            "price": 500.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "otras cervezas importadas",
-            "price": "300.00",
+            "price": 300.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "agua natural",
-            "price": "250.00",
+            "price": 250.0,
             "type": "non_alcoholic_drinks"
         },
         {
             "name": "refrescos importados (lata)",
-            "price": "350.00",
+            "price": 350.0,
             "type": "non_alcoholic_drinks"
         },
         {
             "name": "jugos naturales",
-            "price": "350.00",
+            "price": 350.0,
             "type": "non_alcoholic_drinks"
         },
         {
             "name": "batidos de frutas",
-            "price": "600.00",
+            "price": 600.0,
             "type": "non_alcoholic_drinks"
         },
         {
             "name": "red bull",
-            "price": "650.00",
+            "price": 650.0,
             "type": "non_alcoholic_drinks"
         },
         {
             "name": "malta Bucanero",
-            "price": "400.00",
+            "price": 400.0,
             "type": "non_alcoholic_drinks"
         },
         {
             "name": "maltas (otras marcas)",
-            "price": "350.00",
+            "price": 350.0,
             "type": "non_alcoholic_drinks"
         },
         {
             "name": "copa de vino de la casa",
-            "price": "420.00",
+            "price": 420.0,
             "type": "wines"
         },
         {
             "name": "copa de vino Frontera",
-            "price": "500.00",
+            "price": 500.0,
             "type": "wines"
         },
         {
             "name": "cate expreso",
-            "price": "250.00",
+            "price": 250.0,
             "type": "infusions"
         },
         {
             "name": "café cortado",
-            "price": "320.00",
+            "price": 320.0,
             "type": "infusions"
         },
         {
             "name": "café bombón",
-            "price": "400.00",
+            "price": 400.0,
             "type": "infusions"
         },
         {
             "name": "capuchino",
-            "price": "450.00",
+            "price": 450.0,
             "type": "infusions"
         },
         {
             "name": "frapuchino",
-            "price": "500.00",
+            "price": 500.0,
             "type": "infusions"
         },
         {
             "name": "frapuchino con helado",
-            "price": "880.00",
+            "price": 880.0,
             "type": "infusions"
         },
         {
             "name": "queso gouda",
-            "price": "250.00",
+            "price": 250.0,
             "type": "others"
         },
         {
             "name": "jamón visking",
-            "price": "250.00",
+            "price": 250.0,
             "type": "others"
         },
         {
             "name": "queso Azul",
-            "price": "650.00",
+            "price": 650.0,
             "type": "others"
         },
         {
             "name": "lomo ahumado",
-            "price": "450.00",
+            "price": 450.0,
             "type": "others"
         },
         {
             "name": "jamón pierna",
-            "price": "450.00",
+            "price": 450.0,
             "type": "others"
         },
         {
             "name": "bacon",
-            "price": "650.00",
+            "price": 650.0,
             "type": "others"
         },
         {
             "name": "cebolla",
-            "price": "200.00",
+            "price": 200.0,
             "type": "others"
         },
         {
             "name": "piña",
-            "price": "200.00",
+            "price": 200.0,
             "type": "others"
         },
         {
             "name": "pimientos",
-            "price": "200.00",
+            "price": 200.0,
             "type": "others"
         },
         {
             "name": "aceitunas",
-            "price": "450.00",
+            "price": 450.0,
             "type": "others"
         },
         {
             "name": "chorizo criollo",
-            "price": "250.00",
+            "price": 250.0,
             "type": "others"
         },
         {
             "name": "atún",
-            "price": "650.00",
+            "price": 650.0,
             "type": "others"
         },
         {
             "name": "chorizo vela",
-            "price": "650.00",
+            "price": 650.0,
             "type": "others"
         },
         {
             "name": "champiñones",
-            "price": "650.00",
+            "price": 650.0,
             "type": "others"
         },
         {
             "name": "jamón serrano",
-            "price": "920.00",
+            "price": 920.0,
             "type": "others"
         },
         {
             "name": "queso Parmesano",
-            "price": "820.00",
+            "price": 820.0,
             "type": "others"
         },
         {
             "name": "sandwich de jamón y queso",
-            "price": "850.00",
+            "price": 850.0,
             "type": "sandwich"
         },
         {
             "name": "sandwich de Media Noche",
-            "price": "1650.00",
+            "price": 1650.0,
             "type": "sandwich"
         },
         {
             "name": "sandwich Cubano",
-            "price": "1650.00",
+            "price": 1650.0,
             "type": "sandwich"
         },
         {
             "name": "sandwich de atún",
-            "price": "1300.00",
+            "price": 1300.0,
             "type": "sandwich"
         },
         {
             "name": "Cheeseburguer",
-            "price": "1200.00",
+            "price": 1200.0,
             "type": "sandwich"
         },
         {
             "name": "hamburguesa ATLANTA",
-            "price": "1500.00",
+            "price": 1500.0,
             "type": "sandwich"
         }
     ],

@@ -1,0 +1,238 @@
+{
+    "name": "Lo de Monik",
+    "phone": "52811595",
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "11:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "takeaway",
+        "on-site"
+    ],
+    "level": "economic",
+    "payment": [],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "outdoor"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Yucas Bravas / Yucca With Hot Tacos Sauce",
+            "price": 600.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Croquetas / Croquette",
+            "price": 560.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tamal en Cazuela",
+            "price": 1500.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostones Rellenos de Jamón y Queso",
+            "price": 1100.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Ropa Vieja",
+            "price": 1200.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Cerdo",
+            "price": 1300.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Frituras de Malanga",
+            "price": 600.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Pasta Napolitana",
+            "price": 1700.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta de Pollo con Salsa Alfredo",
+            "price": 2000.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta Frutti di Mare",
+            "price": 2300.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Vegetales / Vegetables Tacos",
+            "price": 1200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo / Chicken Tacos",
+            "price": 1500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Cerdo / Pork Tacos",
+            "price": 2200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa Vieja / Shredded Beef Tacos",
+            "price": 2000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Camarón / Shrimps Tacos",
+            "price": 3000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado / Fish Tacos",
+            "price": 2300.0,
+            "type": "mains"
+        },
+        {
+            "name": "Punta de Filete / Beef Tacos",
+            "price": 3800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Langosta / Lobster Tacos",
+            "price": 2200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pulpo / Octopus Tacos",
+            "price": 2500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo Grillado / Grilled Chicken",
+            "price": 1500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Camarón Grillado / Grilled Shrimps",
+            "price": 3000.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Ropa Vieja / Shredded Beef",
+            "price": 2000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa Vieja con Garbanzos / Shredded Beef With Chickpeas",
+            "price": 2400.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado Empanado / Fish and Chips",
+            "price": 2500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Masas de Cerdo / Pork Masses",
+            "price": 2800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado Grillado / Grilled Fish",
+            "price": 2300.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Pulpo Grillado / Grilled Octopus",
+            "price": 3800.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Langosta / Lobster",
+            "price": 3000.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Punta de Filete a la Deutch",
+            "price": 3800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Side Dish",
+            "price": 300.0,
+            "type": "sides"
+        },
+        {
+            "name": "Postre de la Casa / House's Dessert",
+            "price": 600.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Huevos, Tostadas, Jamón, Vegetales, Jugo, Café",
+            "price": 1800.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Sandwich de Vegetales",
+            "price": 850.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Sandwich de Jamón y Queso",
+            "price": 1000.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Sandwich de Pollo",
+            "price": 1500.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Sandwich de Atún",
+            "price": 1000.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Sandwich Cubano",
+            "price": 2000.0,
+            "type": "sandwich"
+        }
+    ],
+    "location": {
+        "street": "Compostela, esquina Chacón",
+        "council": null,
+        "municipe": "La Habana Vieja",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

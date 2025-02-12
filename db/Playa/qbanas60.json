@@ -245,27 +245,27 @@
         {
             "name": "expresso",
             "price": 200,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "cortadito",
             "price": 300,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "capuchino",
             "price": 350,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "bombon",
             "price": 500,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "frapuccino",
             "price": 1200,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "habanos esplendido",

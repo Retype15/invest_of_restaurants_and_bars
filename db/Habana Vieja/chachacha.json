@@ -1,0 +1,401 @@
+{
+    "name": "ChaChaChá",
+    "phone": "78672450",
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "12:00",
+        "close": "00:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [],
+    "delivery": [
+        "takeaway",
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "live_music"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Ceviche de la Casa",
+            "price": 3050.0,
+            "type": "starters"
+        },
+        {
+            "name": "Carpaccio de Pulpo con Vinagreta de Cítricos",
+            "price": 3850.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tiradito de Pez con Chicharrita",
+            "price": 3050.0,
+            "type": "starters"
+        },
+        {
+            "name": "Carpaccio de Res con Rúcula y Aceite de Trufa",
+            "price": 4450.0,
+            "type": "starters"
+        },
+        {
+            "name": "Carpaccio de Atún Rojo",
+            "price": 4100.0,
+            "type": "starters"
+        },
+        {
+            "name": "Pan y Mantequilla",
+            "price": 1150.0,
+            "type": "starters"
+        },
+        {
+            "name": "Croquetas Braseadas de Pollo",
+            "price": 2250.0,
+            "type": "starters"
+        },
+        {
+            "name": "Crema de Calabaza, Betabel y Parmesano",
+            "price": 1800.0,
+            "type": "soups"
+        },
+        {
+            "name": "Tacos ChaChaChá",
+            "price": 2700.0,
+            "type": "starters"
+        },
+        {
+            "name": "Empanadillas de Carne BBQ",
+            "price": 2250.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tabla de Jamón Serrano, Salami y Quesos",
+            "price": 5700.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Sashimi Ahumado",
+            "price": 4100.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tartar de Res",
+            "price": 4450.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tartar de Atún",
+            "price": 4100.0,
+            "type": "starters"
+        },
+        {
+            "name": "Jorrin",
+            "price": 3050.0,
+            "type": "salads"
+        },
+        {
+            "name": "César con Pollo y Bacon",
+            "price": 3850.0,
+            "type": "salads"
+        },
+        {
+            "name": "ChaChaChá",
+            "price": 3850.0,
+            "type": "salads"
+        },
+        {
+            "name": "Mixta de Salmón",
+            "price": 3850.0,
+            "type": "salads"
+        },
+        {
+            "name": "Griega",
+            "price": 3400.0,
+            "type": "salads"
+        },
+        {
+            "name": "Salsa Boloñesa",
+            "price": 3850.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Camarón, Curry y Pimienta Rosa",
+            "price": 4100.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Salsa Alfredo",
+            "price": 3850.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Salsa Funghi con Pollo y Trufa",
+            "price": 4450.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Salsa Carbonara Trufada",
+            "price": 4150.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Salsa Bisque al Fruti D'Mare",
+            "price": 4900.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Nero di Sepia",
+            "price": 4900.0,
+            "type": "mains"
+        },
+        {
+            "name": "Funghi - Porcini y Trufa",
+            "price": 4560.0,
+            "type": "mains"
+        },
+        {
+            "name": "Del Mar",
+            "price": 4560.0,
+            "type": "mains"
+        },
+        {
+            "name": "Carbonara Trufado",
+            "price": 4180.0,
+            "type": "mains"
+        },
+        {
+            "name": "Sémola y Trufa",
+            "price": 4180.0,
+            "type": "mains"
+        },
+        {
+            "name": "Masas de Cerdo Confitadas",
+            "price": 3800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Lechón Cubano",
+            "price": 4560.0,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa Vieja de la Abuela",
+            "price": 4180.0,
+            "type": "mains"
+        },
+        {
+            "name": "Picadillo a la Habanera",
+            "price": 4180.0,
+            "type": "mains"
+        },
+        {
+            "name": "Solomillo de Cerdo Español",
+            "price": 5320.0,
+            "type": "mains"
+        },
+        {
+            "name": "Puntas de Filete Estilo ChaChaChá",
+            "price": 7600.0,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz Thai de Pollo, Curry de Coco y Pasas",
+            "price": 4180.0,
+            "type": "mains"
+        },
+        {
+            "name": "Solomillo Argentino (280g)",
+            "price": 11150.0,
+            "type": "mains"
+        },
+        {
+            "name": "Entrecote de Ternera (350g)",
+            "price": 10640.0,
+            "type": "mains"
+        },
+        {
+            "name": "Puntas de Cerdo BBQ",
+            "price": 5320.0,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de Pescado al Horno con Finas Hierbas",
+            "price": 4180.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Langosta Caribeña",
+            "price": 6460.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Zarzuela de Mariscos",
+            "price": 10500.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Camarones al Gusto",
+            "price": 6460.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Pulpo Nórdico",
+            "price": 9500.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Calamar Patagónico",
+            "price": 6460.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Vianda Frita",
+            "price": 760.0,
+            "type": "sides"
+        },
+        {
+            "name": "Puré de Temporada",
+            "price": 1140.0,
+            "type": "sides"
+        },
+        {
+            "name": "Ensalada de Estación",
+            "price": 1520.0,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz Blanco",
+            "price": 760.0,
+            "type": "sides"
+        },
+        {
+            "name": "Frijoles Negros",
+            "price": 1140.0,
+            "type": "sides"
+        },
+        {
+            "name": "Cóctel de Langosta",
+            "price": 2660.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Patacón ChaChaChá",
+            "price": 2700.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Quesadilla Cuatro Quesos",
+            "price": 3420.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Papa Rellena de Camarón y Queso",
+            "price": 2700.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Frituritas de Malanga",
+            "price": 2250.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tamal en Cazuela",
+            "price": 1900.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Brownie",
+            "price": 3000.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Esfera de Frutas",
+            "price": 3000.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Bizcocho",
+            "price": 2900.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Arroz con Leche de la Abuela",
+            "price": 2500.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Flan Tía Lola",
+            "price": 2700.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Copa de Helado",
+            "price": 2200.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Carajillo",
+            "price": 1050.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Bombón",
+            "price": 1200.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Expresso",
+            "price": 520.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Nespresso",
+            "price": 960.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Cortado",
+            "price": 875.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Frappuccino",
+            "price": 2200.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Té / Infusiones",
+            "price": 620.0,
+            "type": "infusions"
+        }
+    ],
+    "location": {
+        "street": "Monserrate # 159 e/ Tejadillo y Chacón",
+        "council": null,
+        "municipe": "La Habana Vieja",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

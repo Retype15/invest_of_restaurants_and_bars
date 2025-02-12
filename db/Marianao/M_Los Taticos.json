@@ -1,0 +1,195 @@
+{
+    "name": "Los taticos",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "08:00",
+        "close": "00:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": null,
+    "delivery": null,
+    "level": "medium",
+    "payment": [
+        "cash",
+        "card",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.45,
+    "reviews": 75,
+    "amenities": null,
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Super Hamburguesa Tatico",
+            "price": 900,
+            "type": "breakfast"
+        },
+        {
+            "name": "Hamburguesa Tatico",
+            "price": 750,
+            "type": "breakfast"
+        },
+        {
+            "name": "Super hamburguesa queso",
+            "price": 800,
+            "type": "breakfast"
+        },
+        {
+            "name": "Hamburguesa queso",
+            "price": 650,
+            "type": "breakfast"
+        },
+        {
+            "name": "Super hamburguesa sencilla",
+            "price": 700,
+            "type": "breakfast"
+        },
+        {
+            "name": "Hamburguesa sencilla",
+            "price": 600,
+            "type": "breakfast"
+        },
+        {
+            "name": "Sandwich Tatico",
+            "price": 650,
+            "type": "breakfast"
+        },
+        {
+            "name": "Bocadito de atun",
+            "price": 600,
+            "type": "breakfast"
+        },
+        {
+            "name": "Pan con lechon",
+            "price": 650,
+            "type": "breakfast"
+        },
+        {
+            "name": "Pan con croqueta",
+            "price": 240,
+            "type": "breakfast"
+        },
+        {
+            "name": "Picadera Tatico",
+            "price": 2800,
+            "type": "appetizer"
+        },
+        {
+            "name": "Entremes surtido",
+            "price": 800,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostones rellenos",
+            "price": 800,
+            "type": "appetizer"
+        },
+        {
+            "name": "Bolitas de queso",
+            "price": 800,
+            "type": "appetizer"
+        },
+        {
+            "name": "Bolitas de carne",
+            "price": 800,
+            "type": "appetizer"
+        },
+        {
+            "name": "Croquetas caseras",
+            "price": 800,
+            "type": "appetizer"
+        },
+        {
+            "name": "Lasagña",
+            "price": 1250,
+            "type": "mains"
+        },
+        {
+            "name": "Pizza Tatico",
+            "price": 1200,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza mixta",
+            "price": 680,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza hawaiana",
+            "price": 680,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza jamon",
+            "price": 680,
+            "type": "pizza"
+        },
+        {
+            "name": "pizza de queso",
+            "price": 680,
+            "type": "pizza"
+        },
+        {
+            "name": "Taco de cerdo",
+            "price": 650,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo al carbon",
+            "price": 1200,
+            "type": "mains"
+        },
+        {
+            "name": "Taco de carne",
+            "price": 800,
+            "type": "mains"
+        },
+        {
+            "name": "Taco de atun",
+            "price": 800,
+            "type": "seafood"
+        },
+        {
+            "name": "Arroz blanco",
+            "price": null,
+            "type": "sides"
+        },
+        {
+            "name": "frijoles",
+            "price": null,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz moro",
+            "price": null,
+            "type": "sides"
+        }
+    ],
+    "location": {
+        "street": "27 y 27A",
+        "council": null,
+        "municipe": "Marianao",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

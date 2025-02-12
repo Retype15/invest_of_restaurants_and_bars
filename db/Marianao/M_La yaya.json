@@ -1,0 +1,179 @@
+{
+    "name": "La yaya",
+    "phone": "52016522",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "11:00",
+        "close": "00:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": null,
+    "delivery": null,
+    "level": "medium",
+    "payment": [
+        "cash",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.45,
+    "reviews": 75,
+    "amenities": null,
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Hamburguesa",
+            "price": 400.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Hamburguesa yuya",
+            "price": 900.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Pan con jamon",
+            "price": 350.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Pan con perro",
+            "price": 280.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Superpicadera",
+            "price": 2500.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostones rellenos",
+            "price": 600.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Frituras de malanga",
+            "price": 500.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Papas fritas",
+            "price": 500.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Croquetas",
+            "price": 600.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Spaguettis con queso gouda",
+            "price": 700.0,
+            "type": "mains"
+        },
+        {
+            "name": "Spaguettis doble queso",
+            "price": 1000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pizza napolitana",
+            "price": 1000.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza doble queso",
+            "price": 1300.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de jamon",
+            "price": 1350.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Fajitas de pollo con papa",
+            "price": 900.0,
+            "type": "mains"
+        },
+        {
+            "name": "Jamon",
+            "price": 260.0,
+            "type": "sides"
+        },
+        {
+            "name": "Queso",
+            "price": 260.0,
+            "type": "sides"
+        },
+        {
+            "name": "Salami",
+            "price": 200.0,
+            "type": "sides"
+        },
+        {
+            "name": "Helados gusto",
+            "price": 1000.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Refrescos Importados",
+            "price": 250.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cervezas importadas",
+            "price": 250.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "jugo de lata",
+            "price": 280.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "jugos caja",
+            "price": 650.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta Santa Isabel",
+            "price": 280.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Cubelazo",
+            "price": 2700.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Termo de cerveza",
+            "price": 2000.0,
+            "type": "alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "100 Y 51",
+        "council": null,
+        "municipe": "Marianao",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

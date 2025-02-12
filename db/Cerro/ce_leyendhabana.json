@@ -1,601 +1,601 @@
 {
-    "name": "Leyendhabana",
-    "phone": "78781332",
-    "email": null,
-    "web": "leyendhabana.com",
-    "est_type": "restaurant",
-    "bus_type": "private",
-    "cuisine": "others",
-    "hours": {
-        "open": "12:00",
-        "close": "23:00",
-        "days": [
-            "mon",
-            "tue",
-            "wed",
-            "thu",
-            "fri",
-            "sat",
-            "sun"
-        ]
-    },
-    "cap": null,
-    "reservations": [
-        "in-person"
-    ],
-    "delivery": [
-        "on-site"
-    ],
-    "level": "medium",
-    "payment": [
-        "cash",
-        "card",
-        "transfer"
-    ],
-    "promo": false,
-    "rating": 4.6,
-    "reviews": 75,
-    "amenities": [
-        "parking"
-    ],
-    "fb": null,
-    "ig": "https://www.instagram.com/@restaurante.leyendhabana",
-    "twitter": null,
-    "menu": [
-        {
-            "name": "Tartaletas mixtas",
-            "price": 3.8,
-            "type": "starters"
-        },
-        {
-            "name": "Pulpitos al ajillo",
-            "price": 3.9,
-            "type": "starters"
-        },
-        {
-            "name": "Pimientos de piquillo rellenos",
-            "price": 4.0,
-            "type": "starters"
-        },
-        {
-            "name": "Frituras de malanga",
-            "price": 1.8,
-            "type": "starters"
-        },
-        {
-            "name": "Rollitos de salmón rellenos de queso crema y uvas pasas",
-            "price": 5.0,
-            "type": "starters"
-        },
-        {
-            "name": "Filete mignon con salsa a elección",
-            "price": 11.9,
-            "type": "mains"
-        },
-        {
-            "name": "Suprema de pollo a la crema",
-            "price": 6.5,
-            "type": "mains"
-        },
-        {
-            "name": "Cordero asado al romero",
-            "price": 6.8,
-            "type": "mains"
-        },
-        {
-            "name": "Filete de salmón rosa grillé",
-            "price": 10.25,
-            "type": "mains"
-        },
-        {
-            "name": "Langosta grille",
-            "price": 11.5,
-            "type": "mains"
-        },
-        {
-            "name": "Camarones Leyendhabana perfumados al vino blanco",
-            "price": 7.75,
-            "type": "mains"
-        },
-        {
-            "name": "Filete de pescado con crema de limon, uvas pasas y frutos secos",
-            "price": 7.15,
-            "type": "mains"
-        },
-        {
-            "name": "Tarta de crema",
-            "price": 3.85,
-            "type": "desserts"
-        },
-        {
-            "name": "Brownie",
-            "price": 3.85,
-            "type": "desserts"
-        },
-        {
-            "name": "Ron Abuelo Añejo Reserva Especial",
-            "price": 4.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Ron Arecha 15 años",
-            "price": 5.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Ron Bacardi Gold",
-            "price": 5.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Ron Havana Club 15 años",
-            "price": 15.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Ron Havana Club 3 años",
-            "price": 1.55,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Ron Havana Club 7 años",
-            "price": 2.5,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Ron Havana Club Blanco",
-            "price": 1.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Ron Havana Club Especial",
-            "price": 1.9,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Ron Havana Club MÁXIMO",
-            "price": 200.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Ron Havana Club Reserva",
-            "price": 2.2,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Ron Havana Club Ritual",
-            "price": 2.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Ron Legendario Añejo Blanco",
-            "price": 1.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Ron Legendario Dorado",
-            "price": 1.5,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Ron Legendario Elixir",
-            "price": 1.5,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Ron Mulata 15 años",
-            "price": 8.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Ron Santa Teresa Gran Reserva",
-            "price": 4.5,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Ron Santiago 11 años",
-            "price": 6.5,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Ron Santiago 20 años",
-            "price": 15.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Ron Santiago Añejo",
-            "price": 1.55,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Ron Selección de MAESTROS",
-            "price": 5.5,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Ron Vigia Gran Añejo",
-            "price": 7.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Whisky Ballantine’s 12 años",
-            "price": 6.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Whisky Ballantine’s Finest",
-            "price": 3.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Whisky Chivas Regal 12 años",
-            "price": 5.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Whisky Chivas Regal 18 años",
-            "price": 14.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Whisky Clan Campbell",
-            "price": 2.6,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Whisky J&B",
-            "price": 3.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Whisky Jack Daniel’s",
-            "price": 6.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Whisky Jameson",
-            "price": 3.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Whisky Johnny Walker Black Label",
-            "price": 6.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Whisky Johnny Walker Blue Label",
-            "price": 25.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Whisky Johnny Walker Double Black",
-            "price": 10.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Whisky Johnny Walker Red Label",
-            "price": 3.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Whisky The Glenlivet 12 años",
-            "price": 6.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Brandy Cognac Gautier",
-            "price": 10.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Brandy Torres 10",
-            "price": 7.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Brandy Torres 5",
-            "price": 4.5,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Ginebra Gordon’s",
-            "price": 3.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Ginebra Master",
-            "price": 3.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Ginebra Tanqueray",
-            "price": 5.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Vodka Absolut",
-            "price": 4.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Vodka Absolut Ruby Red",
-            "price": 5.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Vodka Absolut Vanilia",
-            "price": 5.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Vodka Russian Shot",
-            "price": 2.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Tequila Jarana Reposado 100% Agave",
-            "price": 3.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Tequila Jarana Silver 100% Agave",
-            "price": 2.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Tequila Jose Cuervo Reposado",
-            "price": 4.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Tequila Jose Cuervo Silver",
-            "price": 3.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Vermouth Cinzano Bianco",
-            "price": 3.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Vermouth Cinzano Extra Dry",
-            "price": 3.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Vermouth Cinzano Rosso",
-            "price": 3.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Vermouth Martini Bianco",
-            "price": 3.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Licor Amaretto del Conti",
-            "price": 4.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Licor Amarula",
-            "price": 4.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Licor Anis del Mono dulce",
-            "price": 4.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Licor Bailey’s",
-            "price": 4.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Licor Crema Catalana",
-            "price": 2.5,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Licor Frangelico",
-            "price": 5.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Licor Kahlua",
-            "price": 3.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Licor Malibú",
-            "price": 2.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Licor Ricard",
-            "price": 3.0,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Licor Tía María",
-            "price": 4.5,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Vino Blanco",
-            "price": 3.5,
-            "type": "wines"
-        },
-        {
-            "name": "Vino Rosado",
-            "price": 3.5,
-            "type": "wines"
-        },
-        {
-            "name": "Vino Tinto",
-            "price": 3.5,
-            "type": "wines"
-        },
-        {
-            "name": "Coctel Sex on the Beach",
-            "price": 3.0,
-            "type": "cocktails"
-        },
-        {
-            "name": "Coctel Screwdriver",
-            "price": 3.0,
-            "type": "cocktails"
-        },
-        {
-            "name": "Coctel Mojito",
-            "price": 2.5,
-            "type": "cocktails"
-        },
-        {
-            "name": "Coctel Cubanito",
-            "price": 2.5,
-            "type": "cocktails"
-        },
-        {
-            "name": "Coctel Cubalibre",
-            "price": 2.5,
-            "type": "cocktails"
-        },
-        {
-            "name": "Agua Ciego Montero mineral gaseada",
-            "price": 1.0,
-            "type": "water"
-        },
-        {
-            "name": "Agua Ciego Montero mineral natural",
-            "price": 1.0,
-            "type": "water"
-        },
-        {
-            "name": "Agua Ciego Montero tónica",
-            "price": 1.0,
-            "type": "water"
-        },
-        {
-            "name": "Agua Fever Tree tonic",
-            "price": 5.0,
-            "type": "water"
-        },
-        {
-            "name": "Agua MG tonic",
-            "price": 3.0,
-            "type": "water"
-        },
-        {
-            "name": "Agua Panna",
-            "price": 2.5,
-            "type": "water"
-        },
-        {
-            "name": "Agua San Pellegrino",
-            "price": 2.5,
-            "type": "water"
-        },
-        {
-            "name": "Agua Schweppes tonic",
-            "price": 4.0,
-            "type": "water"
-        },
-        {
-            "name": "Cerveza Importada",
-            "price": 2.5,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Cerveza Nacional",
-            "price": 1.75,
-            "type": "alcoholic_drinks"
-        },
-        {
-            "name": "Jugo La Estancia",
-            "price": 1.5,
-            "type": "non_alcoholic_drinks"
-        },
-        {
-            "name": "Jugos Naturales",
-            "price": 1.5,
-            "type": "non_alcoholic_drinks"
-        },
-        {
-            "name": "Malta Imp.",
-            "price": 1.5,
-            "type": "non_alcoholic_drinks"
-        },
-        {
-            "name": "Malta nac.",
-            "price": 1.2,
-            "type": "non_alcoholic_drinks"
-        },
-        {
-            "name": "Refresco Coca Cola",
-            "price": 1.95,
-            "type": "non_alcoholic_drinks"
-        },
-        {
-            "name": "Refresco Fanta",
-            "price": 1.95,
-            "type": "non_alcoholic_drinks"
-        },
-        {
-            "name": "Refresco Ironbeer",
-            "price": 1.0,
-            "type": "non_alcoholic_drinks"
-        },
-        {
-            "name": "Refresco Kermato",
-            "price": 1.75,
-            "type": "non_alcoholic_drinks"
-        },
-        {
-            "name": "Refresco Limon",
-            "price": 1.0,
-            "type": "non_alcoholic_drinks"
-        },
-        {
-            "name": "Refresco Naranja",
-            "price": 1.0,
-            "type": "non_alcoholic_drinks"
-        },
-        {
-            "name": "Refresco Pepsi",
-            "price": 1.95,
-            "type": "non_alcoholic_drinks"
-        },
-        {
-            "name": "Refresco Piñita",
-            "price": 1.0,
-            "type": "non_alcoholic_drinks"
-        },
-        {
-            "name": "Refresco Sprite",
-            "price": 1.95,
-            "type": "non_alcoholic_drinks"
-        },
-        {
-            "name": "Refresco Tukola",
-            "price": 1.0,
-            "type": "non_alcoholic_drinks"
-        },
-        {
-            "name": "Refresco Tukola Light",
-            "price": 1.0,
-            "type": "non_alcoholic_drinks"
-        }
-    ],
-    "location": {
-        "street": "Calle Santa Rosa No. 217 e/ Infanta y Cruz del Padre",
-        "council": null,
-        "municipe": "Centro Habana",
-        "province": "La Habana",
-        "zip": null,
-        "country": "Cuba",
-        "coords_x": null,
-        "coords_y": null
-    }
+	"name": "Leyendhabana",
+	"phone": "78781332",
+	"email": null,
+	"web": "leyendhabana.com",
+	"est_type": "restaurant",
+	"bus_type": "private",
+	"cuisine": "others",
+	"hours": {
+		"open": "12:00",
+		"close": "23:00",
+		"days": [
+			"mon",
+			"tue",
+			"wed",
+			"thu",
+			"fri",
+			"sat",
+			"sun"
+		]
+	},
+	"cap": null,
+	"reservations": [
+		"in-person"
+	],
+	"delivery": [
+		"on-site"
+	],
+	"level": "medium",
+	"payment": [
+		"cash",
+		"card",
+		"transfer"
+	],
+	"promo": false,
+	"rating": 4.6,
+	"reviews": 75,
+	"amenities": [
+		"parking"
+	],
+	"fb": null,
+	"ig": "https://www.instagram.com/@restaurante.leyendhabana",
+	"twitter": null,
+	"menu": [
+		{
+			"name": "Tartaletas mixtas",
+			"price": 1368.0,
+			"type": "starters"
+		},
+		{
+			"name": "Pulpitos al ajillo",
+			"price": 1404.0,
+			"type": "starters"
+		},
+		{
+			"name": "Pimientos de piquillo rellenos",
+			"price": 1440.0,
+			"type": "starters"
+		},
+		{
+			"name": "Frituras de malanga",
+			"price": 648.0,
+			"type": "starters"
+		},
+		{
+			"name": "Rollitos de salmón rellenos de queso crema y uvas pasas",
+			"price": 1800.0,
+			"type": "starters"
+		},
+		{
+			"name": "Filete mignon con salsa a elección",
+			"price": 4284.0,
+			"type": "mains"
+		},
+		{
+			"name": "Suprema de pollo a la crema",
+			"price": 2340.0,
+			"type": "mains"
+		},
+		{
+			"name": "Cordero asado al romero",
+					"price": 2448.0,
+					"type": "mains"
+		},
+			{
+			"name": "Filete de salmón rosa grillé",
+					"price": 3690.0,
+					"type": "mains"
+		},
+			{
+			"name": "Langosta grille",
+			"price": 4140.0,
+			"type": "mains"
+		},
+		{
+			"name": "Camarones Leyendhabana perfumados al vino blanco",
+			"price": 2790.0,
+			"type": "mains"
+		},
+		{
+			"name": "Filete de pescado con crema de limon, uvas pasas y frutos secos",
+			"price": 2574.0,
+			"type": "mains"
+		},
+		{
+			"name": "Tarta de crema",
+			"price": 1386.0,
+			"type": "desserts"
+		},
+		{
+			"name": "Brownie",
+			"price": 1386.0,
+			"type": "desserts"
+		},
+		{
+			"name": "Ron Abuelo Añejo Reserva Especial",
+			"price": 1440.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Ron Arecha 15 años",
+			"price": 1800.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Ron Bacardi Gold",
+			"price": 1800.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Ron Havana Club 15 años",
+			"price": 5400.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Ron Havana Club 3 años",
+			"price": 558.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Ron Havana Club 7 años",
+			"price": 900.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Ron Havana Club Blanco",
+			"price": 360.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Ron Havana Club Especial",
+			"price": 684.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Ron Havana Club MÁXIMO",
+			"price": 72000.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Ron Havana Club Reserva",
+			"price": 792.0000000000001,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Ron Havana Club Ritual",
+			"price": 720.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Ron Legendario Añejo Blanco",
+			"price": 360.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Ron Legendario Dorado",
+			"price": 540.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Ron Legendario Elixir",
+			"price": 540.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Ron Mulata 15 años",
+			"price": 2880.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Ron Santa Teresa Gran Reserva",
+			"price": 1620.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Ron Santiago 11 años",
+			"price": 2340.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Ron Santiago 20 años",
+			"price": 5400.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Ron Santiago Añejo",
+			"price": 558.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Ron Selección de MAESTROS",
+			"price": 1980.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Ron Vigia Gran Añejo",
+			"price": 2520.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Whisky Ballantine’s 12 años",
+			"price": 2160.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Whisky Ballantine’s Finest",
+			"price": 1080.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Whisky Chivas Regal 12 años",
+			"price": 1800.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Whisky Chivas Regal 18 años",
+			"price": 5040.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Whisky Clan Campbell",
+			"price": 936.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Whisky J&B",
+			"price": 1080.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Whisky Jack Daniel’s",
+			"price": 2160.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Whisky Jameson",
+			"price": 1080.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Whisky Johnny Walker Black Label",
+			"price": 2160.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Whisky Johnny Walker Blue Label",
+			"price": 9000.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Whisky Johnny Walker Double Black",
+			"price": 3600.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Whisky Johnny Walker Red Label",
+			"price": 1080.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Whisky The Glenlivet 12 años",
+			"price": 2160.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Brandy Cognac Gautier",
+			"price": 3600.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Brandy Torres 10",
+			"price": 2520.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Brandy Torres 5",
+			"price": 1620.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Ginebra Gordon’s",
+			"price": 1080.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Ginebra Master",
+			"price": 1080.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Ginebra Tanqueray",
+			"price": 1800.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Vodka Absolut",
+			"price": 1440.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Vodka Absolut Ruby Red",
+			"price": 1800.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Vodka Absolut Vanilia",
+			"price": 1800.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Vodka Russian Shot",
+			"price": 720.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Tequila Jarana Reposado 100% Agave",
+			"price": 1080.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Tequila Jarana Silver 100% Agave",
+			"price": 720.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Tequila Jose Cuervo Reposado",
+			"price": 1440.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Tequila Jose Cuervo Silver",
+			"price": 1080.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Vermouth Cinzano Bianco",
+			"price": 1080.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Vermouth Cinzano Extra Dry",
+			"price": 1080.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Vermouth Cinzano Rosso",
+			"price": 1080.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Vermouth Martini Bianco",
+			"price": 1080.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Licor Amaretto del Conti",
+			"price": 1440.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Licor Amarula",
+			"price": 1440.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Licor Anis del Mono dulce",
+			"price": 1440.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Licor Bailey’s",
+			"price": 1440.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Licor Crema Catalana",
+			"price": 900.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Licor Frangelico",
+			"price": 1800.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Licor Kahlua",
+			"price": 1080.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Licor Malibú",
+			"price": 720.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Licor Ricard",
+			"price": 1080.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Licor Tía María",
+			"price": 1620.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Vino Blanco",
+			"price": 1260.0,
+			"type": "wines"
+		},
+		{
+			"name": "Vino Rosado",
+			"price": 1260.0,
+			"type": "wines"
+		},
+		{
+			"name": "Vino Tinto",
+			"price": 1260.0,
+			"type": "wines"
+		},
+		{
+			"name": "Coctel Sex on the Beach",
+			"price": 1080.0,
+			"type": "cocktails"
+		},
+		{
+			"name": "Coctel Screwdriver",
+			"price": 1080.0,
+			"type": "cocktails"
+		},
+		{
+			"name": "Coctel Mojito",
+			"price": 900.0,
+			"type": "cocktails"
+		},
+		{
+			"name": "Coctel Cubanito",
+			"price": 900.0,
+			"type": "cocktails"
+		},
+		{
+			"name": "Coctel Cubalibre",
+			"price": 900.0,
+			"type": "cocktails"
+		},
+		{
+			"name": "Agua Ciego Montero mineral gaseada",
+			"price": 360.0,
+			"type": "water"
+		},
+		{
+			"name": "Agua Ciego Montero mineral natural",
+			"price": 360.0,
+			"type": "water"
+		},
+		{
+			"name": "Agua Ciego Montero tónica",
+			"price": 360.0,
+			"type": "water"
+		},
+		{
+			"name": "Agua Fever Tree tonic",
+			"price": 1800.0,
+			"type": "water"
+		},
+		{
+			"name": "Agua MG tonic",
+			"price": 1080.0,
+			"type": "water"
+		},
+		{
+			"name": "Agua Panna",
+			"price": 900.0,
+			"type": "water"
+		},
+		{
+			"name": "Agua San Pellegrino",
+			"price": 900.0,
+			"type": "water"
+		},
+		{
+			"name": "Agua Schweppes tonic",
+			"price": 1440.0,
+			"type": "water"
+		},
+		{
+			"name": "Cerveza Importada",
+			"price": 900.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Cerveza Nacional",
+			"price": 630.0,
+			"type": "alcoholic_drinks"
+		},
+		{
+			"name": "Jugo La Estancia",
+			"price": 540.0,
+			"type": "non_alcoholic_drinks"
+		},
+		{
+			"name": "Jugos Naturales",
+			"price": 540.0,
+			"type": "non_alcoholic_drinks"
+		},
+		{
+			"name": "Malta Imp.",
+			"price": 540.0,
+			"type": "non_alcoholic_drinks"
+		},
+		{
+			"name": "Malta nac.",
+			"price": 432.0,
+			"type": "non_alcoholic_drinks"
+		},
+		{
+			"name": "Refresco Coca Cola",
+			"price": 702.0,
+			"type": "non_alcoholic_drinks"
+		},
+		{
+			"name": "Refresco Fanta",
+			"price": 702.0,
+			"type": "non_alcoholic_drinks"
+		},
+		{
+			"name": "Refresco Ironbeer",
+			"price": 360.0,
+			"type": "non_alcoholic_drinks"
+		},
+		{
+			"name": "Refresco Kermato",
+			"price": 630.0,
+			"type": "non_alcoholic_drinks"
+		},
+		{
+			"name": "Refresco Limon",
+			"price": 360.0,
+			"type": "non_alcoholic_drinks"
+		},
+		{
+			"name": "Refresco Naranja",
+			"price": 360.0,
+			"type": "non_alcoholic_drinks"
+		},
+		{
+			"name": "Refresco Pepsi",
+			"price": 702.0,
+			"type": "non_alcoholic_drinks"
+		},
+		{
+			"name": "Refresco Piñita",
+			"price": 360.0,
+			"type": "non_alcoholic_drinks"
+		},
+		{
+			"name": "Refresco Sprite",
+			"price": 702.0,
+			"type": "non_alcoholic_drinks"
+		},
+		{
+			"name": "Refresco Tukola",
+			"price": 360.0,
+			"type": "non_alcoholic_drinks"
+		},
+		{
+			"name": "Refresco Tukola Light",
+			"price": 360.0,
+			"type": "non_alcoholic_drinks"
+		}
+	]
+	"location": {
+		"street": "Calle Santa Rosa No. 217 e/ Infanta y Cruz del Padre",
+		"council": null,
+		"municipe": "Centro Habana",
+		"province": "La Habana",
+		"zip": null,
+		"country": "Cuba",
+		"coords_x": null,
+		"coords_y": null
+	}
 }

@@ -1,0 +1,613 @@
+{
+    "name": "Habana 61",
+    "phone": "78016433",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "12:00",
+        "close": "00:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "takeaway",
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Pan de la casa -165 g-",
+            "price": 350.0,
+            "type": "starters"
+        },
+        {
+            "name": "Albóndigas de vegetales, estofado de garbanzos -150 g-",
+            "price": 1350.0,
+            "type": "starters"
+        },
+        {
+            "name": "Seviche de pescado -120 g-",
+            "price": 1450.0,
+            "type": "starters"
+        },
+        {
+            "name": "Carpaccio de pulpo -80 g-",
+            "price": 2500.0,
+            "type": "starters"
+        },
+        {
+            "name": "Jamón serrano, piña glaseada -100 g-",
+            "price": 2500.0,
+            "type": "starters"
+        },
+        {
+            "name": "Frituras de malanga -400 g-",
+            "price": 725.0,
+            "type": "starters"
+        },
+        {
+            "name": "Croquetas -125 g-",
+            "price": 795.0,
+            "type": "starters"
+        },
+        {
+            "name": "Ensalada de vegetales -200 g-",
+            "price": 900.0,
+            "type": "salads"
+        },
+        {
+            "name": "Crema de malanga -350 g-",
+            "price": 1100.0,
+            "type": "soups"
+        },
+        {
+            "name": "Sopa de pollo, fideos y huevo -350 g-",
+            "price": 1100.0,
+            "type": "soups"
+        },
+        {
+            "name": "Sopa fría de tomate, dados de langosta -350 g-",
+            "price": 1200.0,
+            "type": "soups"
+        },
+        {
+            "name": "Arroz Blanco",
+            "price": 450.0,
+            "type": "sides"
+        },
+        {
+            "name": "Frijoles negros",
+            "price": 350.0,
+            "type": "sides"
+        },
+        {
+            "name": "Moros y cristianos",
+            "price": 550.0,
+            "type": "sides"
+        },
+        {
+            "name": "Yuca con mojo",
+            "price": 450.0,
+            "type": "sides"
+        },
+        {
+            "name": "Papas fritas",
+            "price": 850.0,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz Blanco (White rice) -150 g-",
+            "price": 450.0,
+            "type": "sides"
+        },
+        {
+            "name": "Frijoles negros (Black beans) -150 g-",
+            "price": 350.0,
+            "type": "sides"
+        },
+        {
+            "name": "Moros y cristianos (Moors and cristians) -150 g-",
+            "price": 550.0,
+            "type": "sides"
+        },
+        {
+            "name": "Yuca con mojo (Yuca with cuban mojo) -150 g-",
+            "price": 450.0,
+            "type": "sides"
+        },
+        {
+            "name": "Papas fritas (French fries) -200 g-",
+            "price": 850.0,
+            "type": "sides"
+        },
+        {
+            "name": "Ropa vieja",
+            "price": 2145.0,
+            "type": "mains"
+        },
+        {
+            "name": "Masas de cerdo fritas",
+            "price": 3300.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo barbacoa",
+            "price": 2145.0,
+            "type": "mains"
+        },
+        {
+            "name": "Camarones a la criolla",
+            "price": 2995.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Langosta enchilada",
+            "price": 2995.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Filete de pescado, mantequilla de alcaparra",
+            "price": 2595.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Langosta grillé, salsa de frutas tropicales",
+            "price": 2995.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Ajiaco marinero",
+            "price": 3495.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Mariscada Habana 61",
+            "price": 4950.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Solomillo de cerdo, crema de limón",
+            "price": 2695.0,
+            "type": "mains"
+        },
+        {
+            "name": "Solomillo 4 sabores",
+            "price": 4995.0,
+            "type": "mains"
+        },
+        {
+            "name": "Mar y Tierra",
+            "price": 4950.0,
+            "type": "mains"
+        },
+        {
+            "name": "Casquitos de guayaba, queso, sopita de hierba buena",
+            "price": 600.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Flan de leche al caramelo",
+            "price": 700.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Pudín de coco, salsa curry",
+            "price": 700.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Casquitos de guayaba, queso, sopita de hierba buena",
+            "price": 600.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Flan de leche al caramelo",
+            "price": 700.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Pudín de coco, salsa curry",
+            "price": 700.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Cerveza Nacional",
+            "price": 600.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Corona",
+            "price": 650.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Havana Club 3 años",
+            "price": 675.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Havana Club Añejo Especial",
+            "price": 750.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Havana Club Reserva",
+            "price": 825.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Havana Club 7 años",
+            "price": 975.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "HC Selección de Maestros",
+            "price": 1650.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "HC Pacto Navio",
+            "price": 1650.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Santiago 8",
+            "price": 950.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Santiago 11",
+            "price": 1650.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Santiago 12",
+            "price": 1650.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ritual",
+            "price": 850.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Vino blanco",
+            "price": 850.0,
+            "type": "wines"
+        },
+        {
+            "name": "Vino tinto",
+            "price": 850.0,
+            "type": "wines"
+        },
+        {
+            "name": "Torres 5",
+            "price": 750.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ballantines",
+            "price": 1050.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Clan Campbell",
+            "price": 950.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Chivas Regal 12",
+            "price": 1650.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Chivas Regal 18",
+            "price": 2900.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "188",
+            "price": 1050.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "JW Et roja",
+            "price": 1050.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "JW Et negra",
+            "price": 1650.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Tabarish",
+            "price": 650.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Olmeca Blanco",
+            "price": 850.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Tabay",
+            "price": 850.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Nacional",
+            "price": 600.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Corona",
+            "price": 650.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Beefeater",
+            "price": 850.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Tanquera",
+            "price": 1050.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Campari",
+            "price": 700.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Apero",
+            "price": 700.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Baileys",
+            "price": 1550.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Amaretto Disaronno",
+            "price": 1000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Jägermeister",
+            "price": 1350.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ricard",
+            "price": 1000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Frangelio",
+            "price": 1550.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Crema Catalana",
+            "price": 1450.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Mojito",
+            "price": 850.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mojito Hulk Mulata",
+            "price": 1250.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Daiquiri",
+            "price": 850.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caiphiriña",
+            "price": 850.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cuba Libre",
+            "price": 750.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Piña Colada",
+            "price": 850.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mary Pickford",
+            "price": 850.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Ron Collins",
+            "price": 850.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cubata",
+            "price": 850.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cubanito",
+            "price": 850.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Michelada especial Habana 61",
+            "price": 850.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Bloody Mary",
+            "price": 850.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Sangría",
+            "price": 950.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Tinto de Verano",
+            "price": 950.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Aperol Spritz",
+            "price": 1050.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Gin Tonic",
+            "price": 850.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Negroni",
+            "price": 1050.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipiroska",
+            "price": 850.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Tom Collins",
+            "price": 850.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Margarita",
+            "price": 850.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Jugo de frutas naturales",
+            "price": 425.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco nacional",
+            "price": 425.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco importado",
+            "price": 425.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Energizante",
+            "price": 350.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua nacional (500 ml)",
+            "price": 350.0,
+            "type": "water"
+        },
+        {
+            "name": "Agua natural importada",
+            "price": 400.0,
+            "type": "water"
+        },
+        {
+            "name": "Agua con gas importada",
+            "price": 400.0,
+            "type": "water"
+        },
+        {
+            "name": "Kermato",
+            "price": 350.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Martini de frutas (sin alcohol)",
+            "price": 825.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Café",
+            "price": 275.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Americano",
+            "price": 275.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Cappuccino",
+            "price": 450.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Frappuccino",
+            "price": 450.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Cortadito",
+            "price": 300.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Café con Leche",
+            "price": 450.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Té",
+            "price": 225.0,
+            "type": "infusions"
+        }
+    ],
+    "location": {
+        "street": "Calle Habana #61 entre Peña Pobre y Cuarteles",
+        "council": null,
+        "municipe": "La Habana Vieja",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

@@ -2,16 +2,16 @@ import json
 import plotly.express as px
 import pandas as pd
 
-def plot_havana_map(df, hover_data, color="rating",size="rating",mapbox_style="open-street-map"):
+def plot_havana_map(df, hover_data, labels, color="rating",size="rating",mapbox_style="open-street-map"):
     fig = px.scatter_mapbox(
         df,
         lat="loc_x",
         lon="loc_y",
         hover_name ="name",
         hover_data = hover_data,
+        labels=labels,
         color=color,
         size=size,
-        color_discrete_sequence=px.colors.qualitative.Set2, 
         zoom=10,
         height=600,
         size_max=20

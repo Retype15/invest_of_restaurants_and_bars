@@ -424,37 +424,37 @@
         {
             "name": "expresso",
             "price": 200,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "cortado",
             "price": 250,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "capuchino",
             "price": 500,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "bombon",
             "price": 500,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "frapuccino",
             "price": 600,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "con leche",
             "price": 600,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "chocolate caliente",
             "price": 600,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "yougurt natural de 1l",

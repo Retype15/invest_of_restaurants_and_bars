@@ -1024,32 +1024,32 @@
         {
             "name": "cafe americano",
             "price": 400,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "cafe bombon",
             "price": 850,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "cafe carajillo",
             "price": 1100,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "cafe cortadito",
             "price": 450,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "cafe expresso",
             "price": 300,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "cafe frappuccino",
             "price": 850,
-            "type": "coffee"
+            "type": "infusions"
         }
     ],
     "location": {

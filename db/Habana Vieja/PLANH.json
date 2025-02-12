@@ -1,0 +1,555 @@
+{
+    "name": "Planh Enoteca & Restaurante Mithai",
+    "phone": "78616212",
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "11:30",
+        "close": "00:00",
+        "days": [
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "home",
+        "on-site"
+    ],
+    "level": "high",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "wifi"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Vegetariano",
+            "price": 3030.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Tropical",
+            "price": 3252.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Serrano",
+            "price": 4165.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Frutas Frescas",
+            "price": 805.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Cesta de Pan Fresco / Mantequilla / Jugo Natural",
+            "price": 1650.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Ceviche de Pescado Plan H",
+            "price": 2000.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tapache Serrano",
+            "price": 1900.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Ceviche de Atún de Verano",
+            "price": 2382.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Ceviche de Pulpo",
+            "price": 2450.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Croquetas Plan H",
+            "price": 1000.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Brochetas de Pollo",
+            "price": 2300.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tapa de Pulpo a la Habanera",
+            "price": 2600.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Mix de Casabe Crujiente",
+            "price": 2050.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Salachic",
+            "price": 1447.0,
+            "type": "salads"
+        },
+        {
+            "name": "Vegana",
+            "price": 765.0,
+            "type": "salads"
+        },
+        {
+            "name": "Tabla de 5 Quesos",
+            "price": 3658.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tabla Parrillera",
+            "price": 3320.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tabla Mixta Plan H",
+            "price": 4138.0,
+            "type": "starters"
+        },
+        {
+            "name": "Aceitunas Negras",
+            "price": 350.0,
+            "type": "starters"
+        },
+        {
+            "name": "Aceitunas Verdes",
+            "price": 250.0,
+            "type": "starters"
+        },
+        {
+            "name": "Papas Fritas",
+            "price": 773.0,
+            "type": "starters"
+        },
+        {
+            "name": "Pasta al Pesto Provenzal",
+            "price": 1615.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta Bolognesa",
+            "price": 2400.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta con Salmón",
+            "price": 2976.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta a la Amatriciana",
+            "price": 2600.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Pollo California",
+            "price": 2465.0,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo de Res",
+            "price": 3350.0,
+            "type": "mains"
+        },
+        {
+            "name": "Atún Natural",
+            "price": 3500.0,
+            "type": "mains"
+        },
+        {
+            "name": "I Heart Chardonnay",
+            "price": 875.0,
+            "type": "wines"
+        },
+        {
+            "name": "I Heart Pinot Grigio",
+            "price": 875.0,
+            "type": "wines"
+        },
+        {
+            "name": "I Heart Riesling",
+            "price": 875.0,
+            "type": "wines"
+        },
+        {
+            "name": "Etcetera Rueda Verdejo 2022",
+            "price": 875.0,
+            "type": "wines"
+        },
+        {
+            "name": "Mapu Sauvignon Blanc",
+            "price": 875.0,
+            "type": "wines"
+        },
+        {
+            "name": "I Heart Merlot",
+            "price": 875.0,
+            "type": "wines"
+        },
+        {
+            "name": "Trapiche Vinyard Malbec 2021",
+            "price": 875.0,
+            "type": "wines"
+        },
+        {
+            "name": "Finca del Mar Tempranillo 2019",
+            "price": 875.0,
+            "type": "wines"
+        },
+        {
+            "name": "Freixenet Chianti",
+            "price": 875.0,
+            "type": "wines"
+        },
+        {
+            "name": "Mapu Carmenere",
+            "price": 875.0,
+            "type": "wines"
+        },
+        {
+            "name": "Infinitus Tempranillo/Cabernet Franc",
+            "price": 945.0,
+            "type": "wines"
+        },
+        {
+            "name": "J. Bouchon Rose 2021",
+            "price": 1050.0,
+            "type": "wines"
+        },
+        {
+            "name": "Cava Mistinguett Brut",
+            "price": 945.0,
+            "type": "wines"
+        },
+        {
+            "name": "Cava Freixenet Rose",
+            "price": 875.0,
+            "type": "wines"
+        },
+        {
+            "name": "Cava Brut Cordon Negro Freixenet",
+            "price": 4650.0,
+            "type": "wines"
+        },
+        {
+            "name": "Freye Parellada Moscat 2022",
+            "price": 5600.0,
+            "type": "wines"
+        },
+        {
+            "name": "Enate Chardonnay 2021",
+            "price": 11230.0,
+            "type": "wines"
+        },
+        {
+            "name": "Melior de Matarromera Verdejo 2021",
+            "price": 10517.0,
+            "type": "wines"
+        },
+        {
+            "name": "Emilio Moro 2019",
+            "price": 18467.0,
+            "type": "wines"
+        },
+        {
+            "name": "Melior de Matarromera Tempranillo 2020",
+            "price": 10517.0,
+            "type": "wines"
+        },
+        {
+            "name": "Pazo Pondal Olivia Rose",
+            "price": 15090.0,
+            "type": "wines"
+        },
+        {
+            "name": "Lafage Gallicia 2019",
+            "price": 5320.0,
+            "type": "wines"
+        },
+        {
+            "name": "Cerveza Cristal",
+            "price": 600.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Michelada",
+            "price": 700.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Chelada",
+            "price": 600.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cuba Libre",
+            "price": 800.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Piña Colada",
+            "price": 1000.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mojito Natural",
+            "price": 850.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mojito Tonic",
+            "price": 1020.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Daiquirí",
+            "price": 850.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mimosas",
+            "price": 900.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Ice on the Rock",
+            "price": 1325.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Aperol Spritz",
+            "price": 1450.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Sangria Tonic Blanca",
+            "price": 1100.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Sangria Tinta",
+            "price": 1100.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Sangria Tonic Tinta",
+            "price": 1592.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Ginebra Beefeater y Agua Tónica",
+            "price": 950.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Ginebra Tanqueray y Agua Tónica",
+            "price": 1275.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Ginebra Mare y Agua Tónica",
+            "price": 1275.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Ginebra Hendricks y Agua Tónica",
+            "price": 1645.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Disaronno",
+            "price": 1215.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Limoncello",
+            "price": 700.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Licor 43",
+            "price": 980.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Baileys",
+            "price": 910.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Crema Barcelo",
+            "price": 780.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Licor de Café Pazo Pondal",
+            "price": 1180.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Habana Club 3 Años",
+            "price": 392.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Habana Club Añejo Especial",
+            "price": 438.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ron Ritual",
+            "price": 490.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Habana Club Añejo Reserva",
+            "price": 590.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Habana Club 7 Años",
+            "price": 791.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Habana Club Cuban Smoky",
+            "price": 1150.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Selección de Maestro",
+            "price": 2215.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Pacto Navio",
+            "price": 1900.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Refresco Ritz Cola",
+            "price": 300.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco Ritz Naranja",
+            "price": 300.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada Frappé",
+            "price": 540.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada Frescura",
+            "price": 550.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugo Natural",
+            "price": 498.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua Natural Don Aguiar",
+            "price": 420.0,
+            "type": "water"
+        },
+        {
+            "name": "Agua Tónica ME",
+            "price": 584.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua Ginger Ale",
+            "price": 650.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Redbull",
+            "price": 450.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Expresso",
+            "price": 260.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Americano",
+            "price": 260.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Cortado",
+            "price": 350.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Café con Leche",
+            "price": 650.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Capuchino",
+            "price": 600.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Bombón",
+            "price": 670.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Frapuchino",
+            "price": 630.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Mocachino",
+            "price": 555.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Te",
+            "price": 150.0,
+            "type": "infusions"
+        }
+    ],
+    "location": {
+        "street": "Prado 308 entre Ánimas y Virtudes",
+        "council": null,
+        "municipe": "La Habana Vieja",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

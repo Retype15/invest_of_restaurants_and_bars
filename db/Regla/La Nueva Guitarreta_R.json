@@ -1,0 +1,493 @@
+{
+    "name": "La Nueva Guitarreta",
+    "phone": "56901253",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "12:00",
+        "close": "24:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "others"
+    ],
+    "delivery": [
+        "on-site"
+    ],
+    "level": "economic",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.4,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Ración de Yuca con Mojo",
+            "price": 250.0,
+            "type": "starters"
+        },
+        {
+            "name": "Ensalada de Estación",
+            "price": 150.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tacos de Pollo",
+            "price": 750.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tacos de Cerdo",
+            "price": 1000.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tacos de Res",
+            "price": 1200.0,
+            "type": "starters"
+        },
+        {
+            "name": "Fajitas de pollo",
+            "price": 800.0,
+            "type": "starters"
+        },
+        {
+            "name": "Bolitas de Queso G",
+            "price": 700.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tostones Rellenos QB",
+            "price": 600.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tostones Rellenos QG",
+            "price": 750.0,
+            "type": "starters"
+        },
+        {
+            "name": "Papas fritas con kétchup",
+            "price": 500.0,
+            "type": "starters"
+        },
+        {
+            "name": "Papas fritas con Ketchup y QG",
+            "price": 650.0,
+            "type": "starters"
+        },
+        {
+            "name": "Croquetas de la Abuela",
+            "price": 350.0,
+            "type": "starters"
+        },
+        {
+            "name": "Croquetas Bechamel",
+            "price": 650.0,
+            "type": "starters"
+        },
+        {
+            "name": "Mariopositas Chinas",
+            "price": 400.0,
+            "type": "starters"
+        },
+        {
+            "name": "Arroz frito",
+            "price": 1500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz Frito Especial",
+            "price": 1800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Camarones al Ajillo",
+            "price": null,
+            "type": "mains"
+        },
+        {
+            "name": "Camarones Enchilados",
+            "price": null,
+            "type": "mains"
+        },
+        {
+            "name": "Masas de Cerdo con Salsa Agridulce o Mojito Criollo",
+            "price": null,
+            "type": "mains"
+        },
+        {
+            "name": "Escalope de Cerdo",
+            "price": null,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de Cerdo",
+            "price": null,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa Vieja",
+            "price": 1800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga Empanada",
+            "price": 1400.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga Milanesa",
+            "price": 1500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga Grillé",
+            "price": 1600.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga Princesa",
+            "price": 1750.0,
+            "type": "mains"
+        },
+        {
+            "name": "Ración de Arroz Moro",
+            "price": 200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Ración de Arroz Blanco",
+            "price": 150.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pizza de Queso Blanco",
+            "price": 700.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de Queso Gouda",
+            "price": 950.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Hawaiana QB",
+            "price": 1000.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Hawaiana QG",
+            "price": 1250.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Lasagna",
+            "price": 1350.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis de Queso Blanco",
+            "price": 550.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguetis de Queso Gouda",
+            "price": 700.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Cerveza Importada",
+            "price": 200.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Importada",
+            "price": 250.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Nacional",
+            "price": 300.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Pantera Rosa",
+            "price": 650.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Sangría",
+            "price": 500.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Tinto Verano",
+            "price": 400.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Long Island",
+            "price": 850.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Screwdriver",
+            "price": 300.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Gin Tonic Basic",
+            "price": 450.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Gin Tonic c/ Beefeater",
+            "price": 600.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "VodkaTonic",
+            "price": 450.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cuba Libre",
+            "price": 250.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cubata",
+            "price": 350.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "POCIÓN GUITARRETA",
+            "price": 800.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ron Hav Club Añejo Especial",
+            "price": 300.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ron Hav Club Ritual",
+            "price": 350.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ron Hav Club Añejo 7 años",
+            "price": 400.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Crema Tequila de Fresa",
+            "price": 400.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Crema de Ron Rua Vieja",
+            "price": 550.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Crema de Whisky Bailey's",
+            "price": 800.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Whisky JW Etiqueta Roja",
+            "price": 650.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Whisky Ballantines",
+            "price": 600.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Whisky Jameson",
+            "price": 550.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Whisky Chivas Regal",
+            "price": 700.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Whisky JB",
+            "price": 450.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Whisky Chanceler",
+            "price": 200.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Shot Tequila Olmeca Silver",
+            "price": 400.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Shot Jagermeifter",
+            "price": 500.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Copa de Vino Tinto Semidulce",
+            "price": 350.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Copa de Vino Tinto Merlot",
+            "price": 400.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Copa de Vino Tinto Cabernet Sauvignon",
+            "price": 450.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Copa de Vino Tinto Tempranillo",
+            "price": 675.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Copa de Vino Blanco",
+            "price": 350.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Michelada",
+            "price": 250.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Chelada",
+            "price": 150.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Caipiroska",
+            "price": 450.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Caipirisima",
+            "price": 450.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Daiquiri",
+            "price": 400.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Agua Natural Importada",
+            "price": 200.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco de cola Importado",
+            "price": 220.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco de cola imp Pepsi",
+            "price": 260.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco de limón imp 7up",
+            "price": 260.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco de Naranja imp Fanta",
+            "price": 260.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco de Naranja Importado",
+            "price": 260.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco Mate",
+            "price": 280.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta Nacional Bucanero",
+            "price": 300.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Energizante Importado",
+            "price": 300.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Energizante Importado",
+            "price": 400.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Energizante Red Bull",
+            "price": 500.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada Frape",
+            "price": 290.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Suero de Helado",
+            "price": 550.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Piña Colada Virgen",
+            "price": 500.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Piña Colada",
+            "price": 600.0,
+            "type": "non_alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Regla",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

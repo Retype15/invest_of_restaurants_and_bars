@@ -149,7 +149,7 @@
         },
         {
             "name": "Pescado entero al horno",
-            "price": "Segun el peso",
+            "price": null,
             "type": "mains"
         },
         {
@@ -339,12 +339,12 @@
         },
         {
             "name": " ",
-            "price": "",
+            "price": null,
             "type": "others"
         },
         {
             "name": " ",
-            "price": " ",
+            "price": null,
             "type": "sandwich"
         },
         {
@@ -569,7 +569,7 @@
         },
         {
             "name": " ",
-            "price": "",
+            "price": null,
             "type": "infusions"
         }
     ],

@@ -1,0 +1,197 @@
+{
+    "name": "Habana Tokio",
+    "phone": "59172392",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "japanese",
+    "hours": {
+        "open": "11:00",
+        "close": "23:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "takeaway",
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.45,
+    "reviews": 75,
+    "amenities": [
+        "outdoor",
+        "parking"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Takoyaki",
+            "price": 1000.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Sushi (Makizushi) Atún",
+            "price": 1750.0,
+            "type": "mains"
+        },
+        {
+            "name": "Sushi (Makizushi) Salmón",
+            "price": 2100.0,
+            "type": "mains"
+        },
+        {
+            "name": "Sushi (Makizushi) Mixto",
+            "price": 2750.0,
+            "type": "mains"
+        },
+        {
+            "name": "Chashu",
+            "price": 1000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Sashimi Salmón",
+            "price": 2900.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Sashimi Calamar",
+            "price": 2900.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tataki Atún",
+            "price": 2300.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Yakitori",
+            "price": 2400.0,
+            "type": "mains"
+        },
+        {
+            "name": "Karaage",
+            "price": 2400.0,
+            "type": "mains"
+        },
+        {
+            "name": "Chicken Teriyaki",
+            "price": 2400.0,
+            "type": "mains"
+        },
+        {
+            "name": "Tempura Vegetales",
+            "price": 2300.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tempura Calamar o Camarón",
+            "price": 3000.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Tempura Udon",
+            "price": 2000.0,
+            "type": "soups"
+        },
+        {
+            "name": "Ramen (Shoyu o Miso) Camarón",
+            "price": 2550.0,
+            "type": "soups"
+        },
+        {
+            "name": "Ramen (Shoyu o Miso) Camarón Grande",
+            "price": 3000.0,
+            "type": "soups"
+        },
+        {
+            "name": "Katsudon",
+            "price": 2850.0,
+            "type": "mains"
+        },
+        {
+            "name": "Tonkatsu",
+            "price": 2750.0,
+            "type": "mains"
+        },
+        {
+            "name": "Yakisoba",
+            "price": 2750.0,
+            "type": "mains"
+        },
+        {
+            "name": "Yakisoba Mariscos o Calamar",
+            "price": 3100.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Yakisoba Camarón",
+            "price": 3100.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Combo Habana-Tokio",
+            "price": 3900.0,
+            "type": "mains"
+        },
+        {
+            "name": "Combo Sashimi Atún",
+            "price": 4200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Combo Sashimi Salmón",
+            "price": 4400.0,
+            "type": "mains"
+        },
+        {
+            "name": "Oyakodon",
+            "price": 2800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Okonomiyaki",
+            "price": 800.0,
+            "type": "others"
+        },
+        {
+            "name": "Kakigoori",
+            "price": 800.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Flan",
+            "price": 600.0,
+            "type": "desserts"
+        }
+    ],
+    "location": {
+        "street": "Calle Obrapía entre Bernaza y Villegas",
+        "council": "Habana Vieja",
+        "municipe": "La Habana Vieja",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

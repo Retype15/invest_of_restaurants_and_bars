@@ -1,0 +1,649 @@
+{
+    "name": "Star Cafe",
+    "phone": null,
+    "email": null,
+    "web": "https://m.facebook.com/starcafecuba/",
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "07:00",
+        "close": "02:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "takeaway",
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "outdoor",
+        "pet_friendly",
+        "parking",
+        "wifi"
+    ],
+    "fb": "https://m.facebook.com/starcafecuba/",
+    "ig": "https://www.instagram.com/starcafe_cuba?igsh=MXc1NnFlMmZubGZnag==",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Huevos al gusto",
+            "price": 950.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Jamon y queso",
+            "price": 1300.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Crêpes dulce",
+            "price": 1700.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Crêpes salada",
+            "price": 1900.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Croissant dulce",
+            "price": 1600.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Croissant salada",
+            "price": 1900.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Hot Cake Pancake",
+            "price": 1700.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Torrejas French Toast",
+            "price": 1300.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Croquetas",
+            "price": 900.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Bruschetta mixta",
+            "price": 900.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostón de plátano maduro",
+            "price": 500.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostón de plátano maduro con jamón y queso",
+            "price": 1000.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostón de plátano maduro con atún",
+            "price": 1100.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Berenjena a la Parmesana",
+            "price": 1800.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Lasagna de jamón y queso",
+            "price": 1800.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Penne con salmón",
+            "price": 2500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Penne con camarones",
+            "price": 2700.0,
+            "type": "mains"
+        },
+        {
+            "name": "Penne con atún",
+            "price": 2500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Penne vegetariano",
+            "price": 2000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Camarones al gusto",
+            "price": 3600.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Pulpo al gusto",
+            "price": 4000.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Taco de cerdo o res",
+            "price": 4200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Nachos",
+            "price": 4200.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Picadera",
+            "price": 6000.0,
+            "type": "starters"
+        },
+        {
+            "name": "Brocheta de pollo y cerdo",
+            "price": 4200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Masa de cerdo frita",
+            "price": 4000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec encebollado",
+            "price": 4000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Cordón Blue",
+            "price": 4000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa vieja",
+            "price": 4000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pechuga a la Milanesa",
+            "price": 4000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Congris",
+            "price": 800.0,
+            "type": "sides"
+        },
+        {
+            "name": "Judías",
+            "price": 1100.0,
+            "type": "sides"
+        },
+        {
+            "name": "Patatas fritas",
+            "price": 1100.0,
+            "type": "sides"
+        },
+        {
+            "name": "Verduras saladas",
+            "price": 800.0,
+            "type": "sides"
+        },
+        {
+            "name": "Ensalada mixta",
+            "price": 1050.0,
+            "type": "salads"
+        },
+        {
+            "name": "STAR CAFE",
+            "price": 2850.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "CONTINENTAL",
+            "price": 2500.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "AMERICANO",
+            "price": 2700.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "FRANCESA",
+            "price": 2750.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "MAÑANA DULCE",
+            "price": 2900.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "NORDIC BRUNCH",
+            "price": 3200.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Tostón Europeo",
+            "price": 1600.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Club Sandwich",
+            "price": 2400.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Sándwich de atún",
+            "price": 2000.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Pan Perro",
+            "price": 1600.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Hamburguesa Combo",
+            "price": 2150.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Huevo adicional",
+            "price": 700.0,
+            "type": "sides"
+        },
+        {
+            "name": "Sandwich Cubano",
+            "price": 3000.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Porción de focaccia natural",
+            "price": 600.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Porción de focaccia con jamón y queso",
+            "price": 850.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Focaccia entera natural",
+            "price": 1100.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Focaccia entera con jamón y queso",
+            "price": 1800.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Margarita",
+            "price": 1300.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Jamón",
+            "price": 1700.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Jamón Serrano",
+            "price": 3000.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Chorizo",
+            "price": 1800.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Atún",
+            "price": 2400.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Atún y cebolla",
+            "price": 2400.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Hawaiana",
+            "price": 1800.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Vegetales",
+            "price": 2400.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza focaccia",
+            "price": 1200.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Mixta",
+            "price": 2500.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Caesar salad",
+            "price": 2600.0,
+            "type": "salads"
+        },
+        {
+            "name": "Caraibi salad",
+            "price": 3000.0,
+            "type": "salads"
+        },
+        {
+            "name": "Torrejas",
+            "price": 1300.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Arroz con leche",
+            "price": 950.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Dulce de coco",
+            "price": 950.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Dulce de fruta",
+            "price": 1050.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Crepes",
+            "price": 1600.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Cascaquito de guayaba",
+            "price": 950.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Churros",
+            "price": 1200.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Pizza frita dulce",
+            "price": 1400.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Pizza frita salada",
+            "price": 1700.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Espresso",
+            "price": 450.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Americano",
+            "price": 550.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Macchiato",
+            "price": 500.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Espresso con nata",
+            "price": 700.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Café con leche",
+            "price": 700.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Cappuccino",
+            "price": 650.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Latte",
+            "price": 650.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Mocha",
+            "price": 950.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Irlandés",
+            "price": 1400.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Frappe",
+            "price": 750.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Frappe con nata",
+            "price": 1100.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Caramel",
+            "price": 950.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Bonbon",
+            "price": 1100.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Bonmello",
+            "price": 1300.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Cococcino",
+            "price": 1400.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Muy Nuit",
+            "price": 1500.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Agua natural",
+            "price": 400.0,
+            "type": "water"
+        },
+        {
+            "name": "Refresco",
+            "price": 700.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta",
+            "price": 800.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Energizzante",
+            "price": 800.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Mojito",
+            "price": 1000.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cuba libre",
+            "price": 1050.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cubata",
+            "price": 1100.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipiriña",
+            "price": 1100.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipiroska",
+            "price": 1100.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipirissima",
+            "price": 1100.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Piña Colada",
+            "price": 1200.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Sangria",
+            "price": 1200.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Tinto verano",
+            "price": 1100.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Havana 3 años",
+            "price": 800.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Havana Especial",
+            "price": 950.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Havana Reserva",
+            "price": 1050.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Havana 7 años",
+            "price": 1100.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Santiago 12 años",
+            "price": 1200.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Café expreso",
+            "price": 450.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Americano",
+            "price": 550.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Cappuccino",
+            "price": 650.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Nespresso",
+            "price": 650.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Cappuccino Nespresso",
+            "price": 750.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Frapuccino (chocolate, vainilla, fresa, caramelo)",
+            "price": 1350.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Jugos Naturales",
+            "price": 600.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada Frappè",
+            "price": 600.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada Frescura",
+            "price": 750.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada con Fruta",
+            "price": 800.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Smoothies (2 sabores a elegir)",
+            "price": 1600.0,
+            "type": "non_alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "Calle Compostela 13 e/Chacón y Cuarteles",
+        "council": null,
+        "municipe": "La Habana Vieja",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

@@ -47,439 +47,439 @@
     "menu": [
         {
             "name": "Antipasto di Montagna Maxi",
-            "price": "3500",
+            "price": 3500.0,
             "type": "appetizer"
         },
         {
             "name": "Bruschetta",
-            "price": "850",
+            "price": 850.0,
             "type": "appetizer"
         },
         {
             "name": "Bruschetta di Pate",
-            "price": "900",
+            "price": 900.0,
             "type": "appetizer"
         },
         {
             "name": "Prosciuto Crudo",
-            "price": "2500",
+            "price": 2500.0,
             "type": "appetizer"
         },
         {
             "name": "Raz. Pane",
-            "price": "450",
+            "price": 450.0,
             "type": "appetizer"
         },
         {
             "name": "Frittata",
-            "price": "700",
+            "price": 700.0,
             "type": "appetizer"
         },
         {
             "name": "Frittata con Cipolle",
-            "price": "750",
+            "price": 750.0,
             "type": "appetizer"
         },
         {
             "name": "Tostones",
-            "price": "700",
+            "price": 700.0,
             "type": "appetizer"
         },
         {
             "name": "Tostones Especiales",
-            "price": "1500",
+            "price": 1500.0,
             "type": "appetizer"
         },
         {
             "name": "Spaghetti Napoli",
-            "price": "1500",
+            "price": 1500.0,
             "type": "pasta"
         },
         {
             "name": "Spaghetti Jamon Vicky",
-            "price": "1600",
+            "price": 1600.0,
             "type": "pasta"
         },
         {
             "name": "Spaghetti Tonno",
-            "price": "1700",
+            "price": 1700.0,
             "type": "pasta"
         },
         {
             "name": "Spaghetti Jamon Serrano",
-            "price": "1800",
+            "price": 1800.0,
             "type": "pasta"
         },
         {
             "name": "Spaghetti Pomodoro e Basilico",
-            "price": "1550",
+            "price": 1550.0,
             "type": "pasta"
         },
         {
             "name": "Spaghetti Aglio-Olio-Peperoncino",
-            "price": "1350",
+            "price": 1350.0,
             "type": "pasta"
         },
         {
             "name": "Spaghetti Al Pesto",
-            "price": "1600",
+            "price": 1600.0,
             "type": "pasta"
         },
         {
             "name": "Spaghetti Puttanesca",
-            "price": "1900",
+            "price": 1900.0,
             "type": "pasta"
         },
         {
             "name": "Spaghetti Amatriciana",
-            "price": "1700",
+            "price": 1700.0,
             "type": "pasta"
         },
         {
             "name": "Spaghetti Carbonara",
-            "price": "1700",
+            "price": 1700.0,
             "type": "pasta"
         },
         {
             "name": "Spaghetti con Gamberetti",
-            "price": "2600",
+            "price": 2600.0,
             "type": "pasta"
         },
         {
             "name": "Pasta con Verdure",
-            "price": "1500",
+            "price": 1500.0,
             "type": "pasta"
         },
         {
             "name": "Pasta Risotto Bolognese",
-            "price": "1700",
+            "price": 1700.0,
             "type": "pasta"
         },
         {
             "name": "Pasta Risotto Fruti di Mare",
-            "price": "3200",
+            "price": 3200.0,
             "type": "pasta"
         },
         {
             "name": "Risotto Bolognese",
-            "price": "1650",
+            "price": 1650.0,
             "type": "pasta"
         },
         {
             "name": "Risotto con Vegetale",
-            "price": "1500",
+            "price": 1500.0,
             "type": "pasta"
         },
         {
             "name": "Pasta con Salciccia",
-            "price": "1800",
+            "price": 1800.0,
             "type": "pasta"
         },
         {
             "name": "Pasta con Salciccia e Funghi",
-            "price": "2000",
+            "price": 2000.0,
             "type": "pasta"
         },
         {
             "name": "Raz. di Rizo",
-            "price": "600",
+            "price": 600.0,
             "type": "pasta"
         },
         {
             "name": "Raz. di Pane",
-            "price": "550",
+            "price": 550.0,
             "type": "pasta"
         },
         {
             "name": "Chuleta de Cerdo(Segun Gramaje del Plato)",
-            "price": "2600 a 3100",
+            "price": null,
             "type": "mains"
         },
         {
             "name": "Pollo con Salciccia",
-            "price": "2400",
+            "price": 2400.0,
             "type": "mains"
         },
         {
             "name": "Aragosta Maxi",
-            "price": "3800",
+            "price": 3800.0,
             "type": "mains"
         },
         {
             "name": "Camaron en Salsa",
-            "price": "2200",
+            "price": 2200.0,
             "type": "mains"
         },
         {
             "name": "Fajitas de Pollo",
-            "price": "1850",
+            "price": 1850.0,
             "type": "mains"
         },
         {
             "name": "Ropa Vieja de Cerdo",
-            "price": "2100",
+            "price": 2100.0,
             "type": "mains"
         },
         {
             "name": "Gamberetti",
-            "price": "2200",
+            "price": 2200.0,
             "type": "mains"
         },
         {
             "name": "Salciccia",
-            "price": "2100",
+            "price": 2100.0,
             "type": "mains"
         },
         {
             "name": "Pollo Frito",
-            "price": "1800",
+            "price": 1800.0,
             "type": "mains"
         },
         {
             "name": "Pollo Asado",
-            "price": "1800",
+            "price": 1800.0,
             "type": "mains"
         },
         {
             "name": "Fajitas de Pollo con Vegetales",
-            "price": "2100",
+            "price": 2100.0,
             "type": "mains"
         },
         {
             "name": "Pizza Gorgonzola",
-            "price": "1700",
+            "price": 1700.0,
             "type": "pizza"
         },
         {
             "name": "Pizza Fior di Latte",
-            "price": "1900",
+            "price": 1900.0,
             "type": "pizza"
         },
         {
             "name": "Pizza Fior di Latte e Prosciutto",
-            "price": "2100",
+            "price": 2100.0,
             "type": "pizza"
         },
         {
             "name": "Pizza Frutti di Mare",
-            "price": "2600",
+            "price": 2600.0,
             "type": "pizza"
         },
         {
             "name": "Pizza Pomodoro e Basilico",
-            "price": "1400",
+            "price": 1400.0,
             "type": "pizza"
         },
         {
             "name": "Pizza Prosciutto Crudo",
-            "price": "1900",
+            "price": 1900.0,
             "type": "pizza"
         },
         {
             "name": "Pizza Margherita",
-            "price": "1400",
+            "price": 1400.0,
             "type": "pizza"
         },
         {
             "name": "Pizza Capricciosa",
-            "price": "2000",
+            "price": 2000.0,
             "type": "pizza"
         },
         {
             "name": "Pizza con Jamon Vicky",
-            "price": "1700",
+            "price": 1700.0,
             "type": "pizza"
         },
         {
             "name": "Pizza con Atun",
-            "price": "1900",
+            "price": 1900.0,
             "type": "pizza"
         },
         {
             "name": "Pizza con Camarones",
-            "price": "2100",
+            "price": 2100.0,
             "type": "pizza"
         },
         {
             "name": "Pizza con Salciccia",
-            "price": "1900",
+            "price": 1900.0,
             "type": "pizza"
         },
         {
             "name": "Pizza Hawaiana",
-            "price": "1800",
+            "price": 1800.0,
             "type": "pizza"
         },
         {
             "name": "Pizza con Vegetales",
-            "price": "1700",
+            "price": 1700.0,
             "type": "pizza"
         },
         {
             "name": "Focaccia",
-            "price": "1300",
+            "price": 1300.0,
             "type": "pizza"
         },
         {
             "name": "Focaccia con Prosciutto Crudo/...Agrego de Fior di Latte",
-            "price": "1700/2600",
+            "price": null,
             "type": "pizza"
         },
         {
             "name": "Chicharritas",
-            "price": "300",
+            "price": 300.0,
             "type": "sides"
         },
         {
             "name": "Insalata Verde",
-            "price": "500",
+            "price": 500.0,
             "type": "salads"
         },
         {
             "name": "Dolce San Francesco",
-            "price": "500",
+            "price": 500.0,
             "type": "desserts"
         },
         {
             "name": "Cerveza Cristal",
-            "price": "350",
+            "price": 350.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Cerveza Bucanero",
-            "price": "400",
+            "price": 400.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Cervezas Importadas",
-            "price": "350",
+            "price": 350.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Refrescos Importados",
-            "price": "350",
+            "price": 350.0,
             "type": "non_alcoholic_drinks"
         },
         {
             "name": "Red Bull",
-            "price": "400",
+            "price": 400.0,
             "type": "non_alcoholic_drinks"
         },
         {
             "name": "Refrescos Energizantes",
-            "price": "400",
+            "price": 400.0,
             "type": "non_alcoholic_drinks"
         },
         {
             "name": "Maltas",
-            "price": "400",
+            "price": 400.0,
             "type": "non_alcoholic_drinks"
         },
         {
             "name": "Limonada Frappe",
-            "price": "500",
+            "price": 500.0,
             "type": "non_alcoholic_drinks"
         },
         {
             "name": "Copa de Vino de la Casa",
-            "price": "1200",
+            "price": 1200.0,
             "type": "wines"
         },
         {
             "name": "Whisky",
-            "price": "900",
+            "price": 900.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Trago de Ron",
-            "price": "600",
+            "price": 600.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Sambuca",
-            "price": "800",
+            "price": 800.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Mojito",
-            "price": "850",
+            "price": 850.0,
             "type": "cocktails"
         },
         {
             "name": "Cuba Libre",
-            "price": "800",
+            "price": 800.0,
             "type": "cocktails"
         },
         {
             "name": "Cubanito",
-            "price": "800",
+            "price": 800.0,
             "type": "cocktails"
         },
         {
             "name": "Piña Colada",
-            "price": "900",
+            "price": 900.0,
             "type": "cocktails"
         },
         {
             "name": "Michelada",
-            "price": "1200",
+            "price": 1200.0,
             "type": "cocktails"
         },
         {
             "name": "Chelada",
-            "price": "800",
+            "price": 800.0,
             "type": "cocktails"
         },
         {
             "name": "Limoncello",
-            "price": "900",
+            "price": 900.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Tequila",
-            "price": "900",
+            "price": 900.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Daiquiri",
-            "price": "900",
+            "price": 900.0,
             "type": "cocktails"
         },
         {
             "name": "Grappa",
-            "price": "900",
+            "price": 900.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Caffe Miscela Illy Kimbo",
-            "price": "350",
+            "price": 350.0,
             "type": "infusions"
         },
         {
             "name": "Cafe Cortado",
-            "price": "380",
+            "price": 380.0,
             "type": "infusions"
         },
         {
             "name": "Cafe Americano",
-            "price": "500",
+            "price": 500.0,
             "type": "infusions"
         },
         {
             "name": "Dispensed beer(Cristal o Bucanero) 500ml",
-            "price": "350",
+            "price": 350.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Dispensed beer(Cristal o Bucanero) 3 litros",
-            "price": "2000",
+            "price": 2000.0,
             "type": "alcoholic_drinks"
         }
     ],
     "location": {
         "street": "Calle 478 entre 5ta A Y, 5ta D",
         "council": null,
-        "municipe": "La Habana del Este",
+        "municipe": "Habana del Este",
         "province": "La Habana",
         "zip": null,
         "country": "Cuba",

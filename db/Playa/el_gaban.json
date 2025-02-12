@@ -379,17 +379,17 @@
         {
             "name": "cafe",
             "price": 800,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "frapuccino",
             "price": 1500,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "carajillo",
             "price": 1500,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "te",

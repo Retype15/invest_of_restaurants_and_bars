@@ -44,144 +44,144 @@
     "menu": [
         {
             "name": "Tostones de Jamon y Queso",
-            "price": "1200",
+            "price": 1200.0,
             "type": "appetizer"
         },
         {
             "name": "Tostones de Chorizo y Queso",
-            "price": "1200",
+            "price": 1200.0,
             "type": "appetizer"
         },
         {
             "name": "Tostones de Cangrejo",
-            "price": "2300",
+            "price": 2300.0,
             "type": "appetizer"
         },
         {
             "name": "Tostones de Langosta",
-            "price": "4000",
+            "price": 4000.0,
             "type": "appetizer"
         },
         {
             "name": "Tostones de Camaron",
-            "price": "4000",
+            "price": 4000.0,
             "type": "appetizer"
         },
         {
             "name": "Taco de Cangrejo",
-            "price": "2500",
+            "price": 2500.0,
             "type": "appetizer"
         },
         {
             "name": "Taco de Camaron",
-            "price": "4000",
+            "price": 4000.0,
             "type": "appetizer"
         },
         {
             "name": "Taco de Langosta",
-            "price": "4000",
+            "price": 4000.0,
             "type": "appetizer"
         },
         {
             "name": "Papas Tiki",
-            "price": "1300",
+            "price": 1300.0,
             "type": "appetizer"
         },
         {
             "name": "Ceviche de Pescado",
-            "price": "2000",
+            "price": 2000.0,
             "type": "appetizer"
         },
         {
             "name": "Ceviche de Langosta",
-            "price": "3000",
+            "price": 3000.0,
             "type": "appetizer"
         },
         {
             "name": "Coctel de Camaron",
-            "price": "3500",
+            "price": 3500.0,
             "type": "appetizer"
         },
         {
             "name": "Coctel de Langosta",
-            "price": "2900",
+            "price": 2900.0,
             "type": "appetizer"
         },
         {
             "name": "Fajita de Cerdo",
-            "price": "2250",
+            "price": 2250.0,
             "type": "appetizer"
         },
         {
             "name": "Fajita de Pollo",
-            "price": "2100",
+            "price": 2100.0,
             "type": "appetizer"
         },
         {
             "name": "Camaron al Gusto",
-            "price": "4000",
+            "price": 4000.0,
             "type": "mains"
         },
         {
             "name": "Langosta al Gusto",
-            "price": "4000",
+            "price": 4000.0,
             "type": "mains"
         },
         {
             "name": "Enchilado de Cangrejo",
-            "price": "2500",
+            "price": 2500.0,
             "type": "mains"
         },
         {
             "name": "Bistec de Cerdo",
-            "price": "2500",
+            "price": 2500.0,
             "type": "mains"
         },
         {
             "name": "Ribeye",
-            "price": "12500",
+            "price": 12500.0,
             "type": "mains"
         },
         {
             "name": "Pulpo al Gusto",
-            "price": "3800",
+            "price": 3800.0,
             "type": "mains"
         },
         {
             "name": "Red Bull",
-            "price": "700",
+            "price": 700.0,
             "type": "non_alcoholic_drinks"
         },
         {
             "name": "Energizante",
-            "price": "420",
+            "price": 420.0,
             "type": "non_alcoholic_drinks"
         },
         {
             "name": "Malta",
-            "price": "500",
+            "price": 500.0,
             "type": "non_alcoholic_drinks"
         },
         {
             "name": "Cerveza",
-            "price": "500",
+            "price": 500.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Refresco",
-            "price": "450",
+            "price": 450.0,
             "type": "non_alcoholic_drinks"
         },
         {
             "name": "Malteada",
-            "price": "1000",
+            "price": 1000.0,
             "type": "non_alcoholic_drinks"
         }
     ],
     "location": {
         "street": "4H76+RQH, La Habana",
         "council": null,
-        "municipe": "La Habana del Este",
+        "municipe": "Habana del Este",
         "province": "La Habana",
         "zip": null,
         "country": "Cuba",

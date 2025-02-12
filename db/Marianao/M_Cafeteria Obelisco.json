@@ -1,0 +1,108 @@
+{
+    "name": "Cafeteria obelisco",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "state",
+    "cuisine": "others",
+    "hours": {
+        "open": "09:00",
+        "close": "18:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": null,
+    "delivery": null,
+    "level": "luxurious",
+    "payment": [
+        "cash"
+    ],
+    "promo": false,
+    "rating": 4.45,
+    "reviews": 75,
+    "amenities": null,
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Pan con queso y embutido",
+            "price": 250.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "bolitas de carne",
+            "price": 20.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Dados de queso",
+            "price": 180.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Pizza de queso",
+            "price": 200.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Frijol negro",
+            "price": 55.0,
+            "type": "sides"
+        },
+        {
+            "name": "Arroz blanco",
+            "price": 70.0,
+            "type": "sides"
+        },
+        {
+            "name": "agua saborizada",
+            "price": 50.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "agua natural",
+            "price": 180.0,
+            "type": "water"
+        },
+        {
+            "name": "Cerveza cristal",
+            "price": 180.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Vino blanco entre Rio",
+            "price": 160.0,
+            "type": "wines"
+        },
+        {
+            "name": "Vino blanco",
+            "price": 160.0,
+            "type": "wines"
+        },
+        {
+            "name": "Cerveza",
+            "price": 50.0,
+            "type": "alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "Avenida 31",
+        "council": null,
+        "municipe": "Marianao",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

@@ -1,0 +1,246 @@
+{
+    "name": "Teniente Rey 360",
+    "phone": "78602916",
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "11:00",
+        "close": "21:30",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "on-site",
+        "takeaway"
+    ],
+    "level": "economic",
+    "payment": [
+        "cash"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "invalid_accessible",
+        "live_music"
+    ],
+    "fb": null,
+    "ig": "https://www.instagram.com/teniente_rey360",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Coctel de Camarones",
+            "price": 700.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Coctel de Langosta",
+            "price": 700.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Langosta",
+            "price": 2500.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Colas de Langosta",
+            "price": 2600.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Camarones a la Orden",
+            "price": 2500.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Camarones Rebosados",
+            "price": 2800.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Pulpo",
+            "price": 2700.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Cazuelita Tte Rey",
+            "price": 2900.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Mariscada Tte Rey",
+            "price": 12900.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Filete de Pescado",
+            "price": 2400.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Filet Mignon",
+            "price": 3200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Punta de Filete",
+            "price": 2900.0,
+            "type": "mains"
+        },
+        {
+            "name": "Filete Jhonvill",
+            "price": 3500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Surtidos Tte Rey Especialidades",
+            "price": null,
+            "type": "starters"
+        },
+        {
+            "name": "Croquetas",
+            "price": 400.0,
+            "type": "starters"
+        },
+        {
+            "name": "Bolitas de Queso",
+            "price": 500.0,
+            "type": "starters"
+        },
+        {
+            "name": "Tostones Rellenos",
+            "price": 600.0,
+            "type": "starters"
+        },
+        {
+            "name": "Garbanzos Fritos",
+            "price": 700.0,
+            "type": "starters"
+        },
+        {
+            "name": "Pechuga de Pollo",
+            "price": 1950.0,
+            "type": "mains"
+        },
+        {
+            "name": "Fajitas de Pechuga de Pollo",
+            "price": 2000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Spaguettis",
+            "price": null,
+            "type": "pasta"
+        },
+        {
+            "name": "Ropa Vieja",
+            "price": 2000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Picadillo a la Cubana",
+            "price": 1500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Masas de Cerdo",
+            "price": 1700.0,
+            "type": "mains"
+        },
+        {
+            "name": "Fricase de Cerdo",
+            "price": 1750.0,
+            "type": "mains"
+        },
+        {
+            "name": "Solomillo",
+            "price": 1900.0,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz",
+            "price": 200.0,
+            "type": "sides"
+        },
+        {
+            "name": "Chatinos",
+            "price": 300.0,
+            "type": "sides"
+        },
+        {
+            "name": "Yuca",
+            "price": 200.0,
+            "type": "sides"
+        },
+        {
+            "name": "Refrescos Nacionales",
+            "price": 380.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refrescos Importados",
+            "price": 420.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta Nacional",
+            "price": 420.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua Natural Nacional",
+            "price": 250.0,
+            "type": "water"
+        },
+        {
+            "name": "Kermato",
+            "price": 500.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua Tónica",
+            "price": 450.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Nacional Lata",
+            "price": 360.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Nacional Botella",
+            "price": 460.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza Importada",
+            "price": 460.0,
+            "type": "alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "Calle Teniente Rey #360 entre Aguacate y Villegas",
+        "council": null,
+        "municipe": "La Habana Vieja",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

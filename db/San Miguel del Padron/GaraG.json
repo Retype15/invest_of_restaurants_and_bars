@@ -37,237 +37,237 @@
     "menu": [
         {
             "name": "Picadera GaraG",
-            "price": "3500",
+            "price": 3500.0,
             "type": "appetizer"
         },
         {
             "name": "Toston Alfredo",
-            "price": "750",
+            "price": 750.0,
             "type": "appetizer"
         },
         {
             "name": "Eperlan",
-            "price": "1650",
+            "price": 1650.0,
             "type": "appetizer"
         },
         {
             "name": "Fajitas de pollo",
-            "price": "1225",
+            "price": 1225.0,
             "type": "appetizer"
         },
         {
             "name": "Fajitas de cerdo",
-            "price": "1550",
+            "price": 1550.0,
             "type": "appetizer"
         },
         {
             "name": "Croquetas de Mima",
-            "price": "750",
+            "price": 750.0,
             "type": "appetizer"
         },
         {
             "name": "Ceviche",
-            "price": "900",
+            "price": 900.0,
             "type": "appetizer"
         },
         {
             "name": "Tacos de Carnita",
-            "price": "1205",
+            "price": 1205.0,
             "type": "appetizer"
         },
         {
             "name": "Tacos Marinesos",
-            "price": "1295",
+            "price": 1295.0,
             "type": "appetizer"
         },
         {
             "name": "Ensalada Fria",
-            "price": "750",
+            "price": 750.0,
             "type": "appetizer"
         },
         {
             "name": "Coctel de Camaron",
-            "price": "1250",
+            "price": 1250.0,
             "type": "appetizer"
         },
         {
             "name": "Napoles (pasta)",
-            "price": "930",
+            "price": 930.0,
             "type": "pasta"
         },
         {
             "name": "Napoles (pizza)",
-            "price": "930",
+            "price": 930.0,
             "type": "pizza"
         },
         {
             "name": "Anti Hawaiana",
-            "price": "1555",
+            "price": 1555.0,
             "type": "pizza"
         },
         {
             "name": "Lechocita",
-            "price": "1595",
+            "price": 1595.0,
             "type": "pizza"
         },
         {
             "name": "5 Quesos",
-            "price": "1650",
+            "price": 1650.0,
             "type": "pizza"
         },
         {
             "name": "Filete de pescado grille",
-            "price": "1920",
+            "price": 1920.0,
             "type": "seafood"
         },
         {
             "name": "Filete de pescado empanado",
-            "price": "1980",
+            "price": 1980.0,
             "type": "seafood"
         },
         {
             "name": "Filete de pescado GaraG",
-            "price": "2225",
+            "price": 2225.0,
             "type": "seafood"
         },
         {
             "name": "Canciller",
-            "price": "2150",
+            "price": 2150.0,
             "type": "mains"
         },
         {
             "name": "Filete Alfredo",
-            "price": "2150",
+            "price": 2150.0,
             "type": "mains"
         },
         {
             "name": "Masas de pescado al ajito",
-            "price": "1920",
+            "price": 1920.0,
             "type": "seafood"
         },
         {
             "name": "Pargo frito",
-            "price": "2150",
+            "price": 2150.0,
             "type": "seafood"
         },
         {
             "name": "Pollo frito",
-            "price": "1350",
+            "price": 1350.0,
             "type": "mains"
         },
         {
             "name": "Bistec de pollo grille",
-            "price": "1350",
+            "price": 1350.0,
             "type": "mains"
         },
         {
             "name": "Pollo empanado",
-            "price": "1450",
+            "price": 1450.0,
             "type": "mains"
         },
         {
             "name": "Cordon Blue",
-            "price": "1925",
+            "price": 1925.0,
             "type": "mains"
         },
         {
             "name": "Bistec de cerdo encebollado",
-            "price": "1950",
+            "price": 1950.0,
             "type": "mains"
         },
         {
             "name": "Cerdo grille",
-            "price": "1700",
+            "price": 1700.0,
             "type": "mains"
         },
         {
             "name": "Cerdo empanado",
-            "price": "1750",
+            "price": 1750.0,
             "type": "mains"
         },
         {
             "name": "Cerdo Uruguayo",
-            "price": "1955",
+            "price": 1955.0,
             "type": "mains"
         },
         {
             "name": "Masa de cerdo frita",
-            "price": "2200",
+            "price": 2200.0,
             "type": "mains"
         },
         {
             "name": "Cerdo asado",
-            "price": "2150",
+            "price": 2150.0,
             "type": "mains"
         },
         {
             "name": "Camaron al ajillo",
-            "price": "2300",
+            "price": 2300.0,
             "type": "seafood"
         },
         {
             "name": "Camaron grille",
-            "price": "2105",
+            "price": 2105.0,
             "type": "seafood"
         },
         {
             "name": "Camaron enchilado",
-            "price": "2230",
+            "price": 2230.0,
             "type": "seafood"
         },
         {
             "name": "Camaron emapanado",
-            "price": "2290",
+            "price": 2290.0,
             "type": "seafood"
         },
         {
             "name": "Aporreado de res",
-            "price": "1950",
+            "price": 1950.0,
             "type": "mains"
         },
         {
             "name": "Ropa vieja",
-            "price": "1930",
+            "price": 1930.0,
             "type": "mains"
         },
         {
             "name": "Arroz frito especial",
-            "price": "1350",
+            "price": 1350.0,
             "type": "mains"
         },
         {
             "name": "Arroz frito",
-            "price": "1200",
+            "price": 1200.0,
             "type": "mains"
         },
         {
             "name": "Ensalada estacion",
-            "price": "350",
+            "price": 350.0,
             "type": "salads"
         },
         {
             "name": "Vegetal salteado",
-            "price": "350",
+            "price": 350.0,
             "type": "sides"
         },
         {
             "name": "Copa de helado",
-            "price": "400",
+            "price": 400.0,
             "type": "desserts"
         },
         {
             "name": "Copa lolita",
-            "price": "650",
+            "price": 650.0,
             "type": "desserts"
         },
         {
             "name": "Cake a la moda",
-            "price": "850",
+            "price": 850.0,
             "type": "desserts"
         },
         {
             "name": "Batido de helado",
-            "price": "750",
+            "price": 750.0,
             "type": "desserts"
         }
     ],

@@ -1,0 +1,504 @@
+{
+    "name": "JAMA Asian Food",
+    "phone": "52970745",
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "japanese",
+    "hours": {
+        "open": "12:00",
+        "close": "00:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "takeaway",
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Huevo de Codorniz",
+            "price": 1200.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostas de Ceviche",
+            "price": 2100.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Gyozas",
+            "price": 1300.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Croquetas de Pescado",
+            "price": 1000.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Rollitos de Primavera",
+            "price": 1200.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Sopa Fukushima",
+            "price": 1800.0,
+            "type": "soups"
+        },
+        {
+            "name": "Sopa de Pollo Bruce Lee",
+            "price": 1700.0,
+            "type": "soups"
+        },
+        {
+            "name": "Sopa de Mariscos",
+            "price": 2000.0,
+            "type": "soups"
+        },
+        {
+            "name": "Ramen de Cerdo",
+            "price": 2300.0,
+            "type": "mains"
+        },
+        {
+            "name": "Ramen de Mariscos",
+            "price": 2500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Dinamita Roll (10 Piezas)",
+            "price": 2300.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Ceviche Roll (10 Piezas)",
+            "price": 2300.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Huevo de Codorniz (10 Piezas)",
+            "price": 2100.0,
+            "type": "seafood"
+        },
+        {
+            "name": "California Roll (10 Piezas)",
+            "price": 2300.0,
+            "type": "seafood"
+        },
+        {
+            "name": "New York Roll (10 Piezas)",
+            "price": 2300.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Kappa Mari Roll (10 Piezas)",
+            "price": 2000.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Tempura Roll Atún y Cebollino (10 Piezas)",
+            "price": 2300.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Tempura Roll Pollo Caramelizado (10 Piezas)",
+            "price": 2300.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Varadero Roll (10 Piezas)",
+            "price": 2300.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Salmón Roll (10 Piezas)",
+            "price": 2300.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Batei Kyojin (10 Piezas)",
+            "price": 2300.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Tempura Roll de Langosta (10 Piezas)",
+            "price": 2300.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Niguiri del Día (4 Piezas)",
+            "price": 1800.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Sashimi",
+            "price": 3000.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Cubanito Roll",
+            "price": 1800.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Wrap Thai Spicy",
+            "price": 3000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo con Curry Thai",
+            "price": 2600.0,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz Frito de la Casa (2 PAX)",
+            "price": 3000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Tacos de Pork Belly 4U/N",
+            "price": 2800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de Pescado Grille",
+            "price": 2800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Garbanzos del Mar",
+            "price": 2500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pasta de Pollo",
+            "price": 2500.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta de Vegetales",
+            "price": 2200.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta de Mariscos",
+            "price": 3200.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Langosta Grille",
+            "price": 3200.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Tacos de Langostas",
+            "price": 3200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Tuna Tataki",
+            "price": 3000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz Meloso de Mariscos",
+            "price": 3200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz Meloso de Ternera",
+            "price": 2800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Postre",
+            "price": 800.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Gin Special Industriales",
+            "price": 1200.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Gin Tonic Regular",
+            "price": 900.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ginebra Master, Rodaja de Limón, Curacao Azul, Agua Schweppes",
+            "price": 900.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Bloody Mary Hot Special",
+            "price": 900.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Habana Londres",
+            "price": 1200.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Bloody Mary Samurai",
+            "price": 1000.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Ron, Azúcar, Limón, Marrasquino, Ginebra Beefeater",
+            "price": 1000.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Bloody Mary Cesar Premium",
+            "price": 1000.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Negroni",
+            "price": 1000.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Red Point",
+            "price": 1200.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Screwdriver",
+            "price": 900.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Ginebra Tanqueray, Ají Cachucha, Gotas de Bitter Rojo",
+            "price": 900.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Sangría",
+            "price": 900.0,
+            "type": "wines"
+        },
+        {
+            "name": "Caipirinha",
+            "price": 900.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Sweet Jabalí",
+            "price": 1200.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipiroska",
+            "price": 900.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Ginebra Gordon, Rama de Canela, Cereza, Agua Schweppes",
+            "price": 900.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Gin Mo",
+            "price": 1200.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Martini",
+            "price": 900.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Ginebra Gordon, Azúcar, Agua Schweppes, Jugo de Limón, Yerba Buena, Gotas de Angostura",
+            "price": 900.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Black Russian",
+            "price": 900.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "White Russian",
+            "price": 900.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Ice Baby",
+            "price": 1200.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Manhattan",
+            "price": 900.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Ginebra Bombay Sapphire, Agua Schweppes, Vainilla en Ramas, Enebro",
+            "price": 900.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Margaret Thatcher",
+            "price": 1200.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Kentucky Mojito",
+            "price": 900.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Andrey's JagerMojito",
+            "price": 900.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Ginebra Beefeater 24, Cointreau, Zumo de Limón",
+            "price": 900.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Jimmy Hendrick's",
+            "price": 1500.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Piña Colada",
+            "price": 900.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Ginebra Hendrick's, Pétalos de Rosa, Pepino, Enebro, Agua Schweppes",
+            "price": 1500.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cubata",
+            "price": 900.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Copa de Vino Tinto",
+            "price": 900.0,
+            "type": "wines"
+        },
+        {
+            "name": "Copa de Vino Blanco",
+            "price": 900.0,
+            "type": "wines"
+        },
+        {
+            "name": "Cuba Libre",
+            "price": 900.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Daiquiri",
+            "price": 900.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Daiquiri de Frutas Naturales",
+            "price": 950.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cubanito",
+            "price": 900.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Ron Collins",
+            "price": 900.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Habana Special",
+            "price": 900.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Canchánchara",
+            "price": 900.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mojito de Frutas",
+            "price": 950.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Nacional",
+            "price": 500.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Importado",
+            "price": 600.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Nacional",
+            "price": 400.0,
+            "type": "water"
+        },
+        {
+            "name": "Importada",
+            "price": 600.0,
+            "type": "water"
+        },
+        {
+            "name": "Naturales",
+            "price": 600.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada",
+            "price": 800.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada Hierba Buena",
+            "price": 850.0,
+            "type": "non_alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "Calle Aguiar No 251 B entre O’Reilly y Empedrado",
+        "council": "Habana Vieja",
+        "municipe": "La Habana Vieja",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

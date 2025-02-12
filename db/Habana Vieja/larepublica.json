@@ -1,0 +1,415 @@
+{
+    "name": "La República",
+    "phone": "07860080",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "italian",
+    "hours": {
+        "open": "12:00",
+        "close": "22:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "takeaway",
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "wifi"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Al ajo, aceite de oliva y camarones",
+            "price": 2250.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Al pesto genovese",
+            "price": 2100.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Aglio, óleo y peperoncino",
+            "price": 850.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Napolitana con jamón y queso",
+            "price": 650.0,
+            "type": "pasta"
+        },
+        {
+            "name": "A la carbonara",
+            "price": 1600.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Con crema alfredo y pollo",
+            "price": 2450.0,
+            "type": "pasta"
+        },
+        {
+            "name": "A la crema de jamón y champiñones",
+            "price": 1350.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Al gran caruso",
+            "price": 1850.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Penne con albóndigas de carne gratinada",
+            "price": 2300.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Canelones de jamón",
+            "price": 1800.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Lasagna carne alfredo",
+            "price": 2700.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Focaccia al orégano",
+            "price": 350.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Selección de embutidos y queso de la casa",
+            "price": 2700.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Berenjena a la parmesana",
+            "price": 1600.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Brusqueta de pomodoro gratinada",
+            "price": 1400.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Ensalada césar de pollo a la parrilla",
+            "price": 1450.0,
+            "type": "salads"
+        },
+        {
+            "name": "Ensalada estación",
+            "price": 650.0,
+            "type": "salads"
+        },
+        {
+            "name": "Tomate, albahaca y parmigiano",
+            "price": 840.0,
+            "type": "soups"
+        },
+        {
+            "name": "Bechamel y mucho queso",
+            "price": 850.0,
+            "type": "soups"
+        },
+        {
+            "name": "A la napolitana",
+            "price": 800.0,
+            "type": "pasta"
+        },
+        {
+            "name": "A la bolognesa",
+            "price": 1800.0,
+            "type": "pasta"
+        },
+        {
+            "name": "A la arrabiata",
+            "price": 1000.0,
+            "type": "pasta"
+        },
+        {
+            "name": "A la puttanesca",
+            "price": 1350.0,
+            "type": "pasta"
+        },
+        {
+            "name": "A la amatriciana",
+            "price": 1300.0,
+            "type": "pasta"
+        },
+        {
+            "name": "A la marinera",
+            "price": 2000.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Con atún",
+            "price": 2200.0,
+            "type": "seafood"
+        },
+        {
+            "name": "A la langosta",
+            "price": 1670.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Con albóndigas de carne",
+            "price": 2400.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Pizza margarita",
+            "price": 1500.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza 4 estaciones",
+            "price": 2000.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza atún y cebolla",
+            "price": 2500.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza jamón y champiñón",
+            "price": 2400.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza hawaiana",
+            "price": 1900.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza jamón serrano",
+            "price": 2000.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza cuatro quesos",
+            "price": 2700.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza caprichosa",
+            "price": 2700.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza honolulu",
+            "price": 2270.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Calzone",
+            "price": 2200.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza italiana",
+            "price": 2350.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza pepperoni",
+            "price": 2000.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza a la aragosta",
+            "price": 2400.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza de frutos del mar",
+            "price": 2500.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Jamón cocido",
+            "price": 360.0,
+            "type": "others"
+        },
+        {
+            "name": "Jamón serrano",
+            "price": 590.0,
+            "type": "others"
+        },
+        {
+            "name": "Bacon",
+            "price": 260.0,
+            "type": "others"
+        },
+        {
+            "name": "Salami",
+            "price": 480.0,
+            "type": "others"
+        },
+        {
+            "name": "Atún",
+            "price": 240.0,
+            "type": "others"
+        },
+        {
+            "name": "Camarones",
+            "price": 440.0,
+            "type": "others"
+        },
+        {
+            "name": "Queso azul",
+            "price": 420.0,
+            "type": "others"
+        },
+        {
+            "name": "Piña",
+            "price": 100.0,
+            "type": "others"
+        },
+        {
+            "name": "Queso parmesano",
+            "price": 450.0,
+            "type": "others"
+        },
+        {
+            "name": "Queso mozzarella",
+            "price": 440.0,
+            "type": "others"
+        },
+        {
+            "name": "Queso gouda",
+            "price": 250.0,
+            "type": "others"
+        },
+        {
+            "name": "Pimiento",
+            "price": 90.0,
+            "type": "others"
+        },
+        {
+            "name": "Cebolla",
+            "price": 90.0,
+            "type": "others"
+        },
+        {
+            "name": "Tomate natural",
+            "price": 150.0,
+            "type": "others"
+        },
+        {
+            "name": "Huevo",
+            "price": 100.0,
+            "type": "others"
+        },
+        {
+            "name": "Champiñones",
+            "price": 200.0,
+            "type": "others"
+        },
+        {
+            "name": "Maíz dulce",
+            "price": 150.0,
+            "type": "others"
+        },
+        {
+            "name": "Aceituna verde o negras",
+            "price": 180.0,
+            "type": "others"
+        },
+        {
+            "name": "Involtino de cerdo con jamón y queso",
+            "price": 2700.0,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de pescado grille",
+            "price": 2500.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Langosta grille",
+            "price": 2600.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Langosta asada con camarones",
+            "price": 3800.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Filete de salmón",
+            "price": 3300.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Entrecotte grille a la mantequilla y romero",
+            "price": 7500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Brownie con helado",
+            "price": 800.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Tarta de manzana con helado",
+            "price": 800.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Tarta de chocolate con helado",
+            "price": 600.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Flan napolitano",
+            "price": 800.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Helado de la casa",
+            "price": 450.0,
+            "type": "desserts"
+        },
+        {
+            "name": "3 leches de la casa",
+            "price": 1300.0,
+            "type": "desserts"
+        }
+    ],
+    "location": {
+        "street": "Calle Cuba #90 esquina Chacón",
+        "council": null,
+        "municipe": "La Habana Vieja",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

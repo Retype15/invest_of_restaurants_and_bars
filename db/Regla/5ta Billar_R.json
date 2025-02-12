@@ -1,0 +1,410 @@
+{
+    "name": "5ta Billar",
+    "phone": "52943290",
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "13:00",
+        "close": "01:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "others"
+    ],
+    "delivery": [
+        "others"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": true,
+    "rating": 4.8,
+    "reviews": 75,
+    "amenities": [
+        "live_music"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "CACAHUATES PICANTE",
+            "price": 110.0,
+            "type": "starters"
+        },
+        {
+            "name": "TOSTONES RELLENOS J&G",
+            "price": 750.0,
+            "type": "starters"
+        },
+        {
+            "name": "TOSTONES RELLENOS ATUN",
+            "price": 980.0,
+            "type": "starters"
+        },
+        {
+            "name": "TOSTONES RELLENOS CARNE",
+            "price": 900.0,
+            "type": "starters"
+        },
+        {
+            "name": "CROQUETAS BOLA 9",
+            "price": 650.0,
+            "type": "starters"
+        },
+        {
+            "name": "BOLITA DDE QUESO",
+            "price": 850.0,
+            "type": "starters"
+        },
+        {
+            "name": "FAJITAS DE POLLO",
+            "price": 920.0,
+            "type": "starters"
+        },
+        {
+            "name": "EPERLAN",
+            "price": 950.0,
+            "type": "starters"
+        },
+        {
+            "name": "ENTREMÉS",
+            "price": 960.0,
+            "type": "starters"
+        },
+        {
+            "name": "SURTIDO 5TABILLA",
+            "price": 1650.0,
+            "type": "starters"
+        },
+        {
+            "name": "SURTIDO PREMIUM",
+            "price": 2950.0,
+            "type": "starters"
+        },
+        {
+            "name": "ROSITAS DE MAIZ",
+            "price": 600.0,
+            "type": "starters"
+        },
+        {
+            "name": "TACOS DE CERDO",
+            "price": 950.0,
+            "type": "mains"
+        },
+        {
+            "name": "POLLO A LA GORDON BLUE",
+            "price": 1800.0,
+            "type": "mains"
+        },
+        {
+            "name": "URUGUAYO DE CERDO",
+            "price": 2100.0,
+            "type": "mains"
+        },
+        {
+            "name": "BISTEC DE POLLO ENCEBOLLADO",
+            "price": 1600.0,
+            "type": "mains"
+        },
+        {
+            "name": "BISTEC DE CERDO ENCEBOLLADO",
+            "price": 1900.0,
+            "type": "mains"
+        },
+        {
+            "name": "BROCHETAS DE CERDO AL CARBÓN",
+            "price": 1800.0,
+            "type": "mains"
+        },
+        {
+            "name": "BABY CHICKEN",
+            "price": 960.0,
+            "type": "mains"
+        },
+        {
+            "name": "KINGS CHICKEN",
+            "price": 1350.0,
+            "type": "mains"
+        },
+        {
+            "name": "LOMO DE CERDO ASADO AL CARBÓN",
+            "price": 1800.0,
+            "type": "mains"
+        },
+        {
+            "name": "CHORIZADA AL CARBÓN",
+            "price": 2000.0,
+            "type": "mains"
+        },
+        {
+            "name": "LA PARRILLADA",
+            "price": 4950.0,
+            "type": "mains"
+        },
+        {
+            "name": "Focaccia",
+            "price": 700.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza napolitana",
+            "price": 1100.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza mixta",
+            "price": 1600.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza cuatro estaciones",
+            "price": 1900.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Cervezas Nacionales",
+            "price": 400.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza corona",
+            "price": 600.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cervezaz importadas",
+            "price": 320.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "margarita",
+            "price": 400.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "margarita blue",
+            "price": 400.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tequila sunrise",
+            "price": 400.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "medusa",
+            "price": 650.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "margarita",
+            "price": 720.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "margarita blue",
+            "price": 780.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "tequila sunrise",
+            "price": 780.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "medusa",
+            "price": null,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "servicio chelada",
+            "price": 450.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "servicio michelada",
+            "price": 350.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "jagger bomb",
+            "price": 1200.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "mojito corona",
+            "price": 900.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "corona sunrise",
+            "price": 880.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "sangria",
+            "price": 760.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "jarra de sangria",
+            "price": 3720.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "alexander",
+            "price": 1000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "eclipse",
+            "price": 1020.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "mai tai",
+            "price": 550.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "orgasmo",
+            "price": 1080.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "aperol sprits",
+            "price": 1650.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "italian sunset",
+            "price": 780.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "mimosa",
+            "price": 1500.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Malteada",
+            "price": 250.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "San francisco",
+            "price": 350.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco",
+            "price": 340.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta",
+            "price": 400.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Red bull",
+            "price": 750.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua natural",
+            "price": 220.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Kermato",
+            "price": 680.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Tigon",
+            "price": 400.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugo",
+            "price": 230.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada frappe",
+            "price": 300.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada frappe curacao",
+            "price": 350.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada frappe granadina",
+            "price": 380.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada frappe melocoton",
+            "price": 400.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada frappe menta",
+            "price": 380.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada frappe mora",
+            "price": 380.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada frappe naranja",
+            "price": 470.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada frescura (hierbabuena)",
+            "price": 350.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "limonada frappe piña",
+            "price": 350.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada frappe tropical blue",
+            "price": 350.0,
+            "type": "non_alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": null,
+        "council": null,
+        "municipe": "Regla",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

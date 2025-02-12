@@ -1,0 +1,452 @@
+{
+    "name": "Ley Seca",
+    "phone": "56685088",
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "11:30",
+        "close": "04:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "on-site"
+    ],
+    "level": "luxurious",
+    "payment": [],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "live_music"
+    ],
+    "fb": "https://m.facebook.com/61559397838059/",
+    "ig": "https://www.instagram.com/ley_seca_speakeasyhabana?igsh=MjZoaGF5ZGhnM3dw",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Croquetas de pescado",
+            "price": 1500.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Croquetas de pollo",
+            "price": 1500.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Croquetas de embutido",
+            "price": 1500.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Croquetas de queso",
+            "price": 1500.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Sexy papas fritas",
+            "price": 1800.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Empanadas de carne",
+            "price": 2000.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tacos de vegetales",
+            "price": 2000.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Empanadas de queso",
+            "price": 2000.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tacos de pollo",
+            "price": 2300.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tacos de cerdo",
+            "price": 2300.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tacos de pescado",
+            "price": 2300.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Croquetas de Serrano",
+            "price": 2600.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tacos de res",
+            "price": 3000.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Seleccion Charcut",
+            "price": 3000.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Chupe de mariscos",
+            "price": 3000.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tacos de langosta",
+            "price": 3500.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Garbanzos sin piedad",
+            "price": 4500.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Ceviche Muuh!",
+            "price": 2000.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Vegetales We Trust",
+            "price": 2000.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tartar Fish",
+            "price": 2500.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Sandwich Ley Seca",
+            "price": 2500.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Carpaccio de pulpo",
+            "price": 3000.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Carpaccio de res",
+            "price": 3000.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tabla D' tráfico",
+            "price": 6000.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Un poquito D' To'",
+            "price": 9000.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Pasta tres quesos",
+            "price": 3000.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta carbonara",
+            "price": 3000.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta Frutti di madre",
+            "price": 4500.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Pasta al buey",
+            "price": 5000.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Pollo grille",
+            "price": 2500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Cerdo con masas",
+            "price": 3000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa vieja",
+            "price": 3000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Balas D' camaron",
+            "price": 3500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo de cerdo",
+            "price": 4000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Langosta ganster",
+            "price": 4000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado al limón",
+            "price": 3500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Filete a la douche",
+            "price": 5000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Puntaroja",
+            "price": 5000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Filete chateaubriand",
+            "price": 7000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Filete clandestino",
+            "price": 7000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pulpo al gusto",
+            "price": 5000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo trufa y parmesano",
+            "price": 5200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Rissotto de res",
+            "price": 7000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Rissotto del mar",
+            "price": 7000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Mignon",
+            "price": 7000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Rissotto fhungi",
+            "price": 7000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz blackout",
+            "price": 7000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Surtido de la ruta",
+            "price": 11000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Tarta de limón",
+            "price": 800.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Cheesecake",
+            "price": 800.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Casquitos de guayaba",
+            "price": 1000.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Torrejas",
+            "price": 1000.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Arroz con leche",
+            "price": 1000.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Jhonny Walker Red Label",
+            "price": 13000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Jhonny Walker Black Label",
+            "price": 20000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Jhonny Walker Double Black",
+            "price": 30000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Jhonny Walker Green Label",
+            "price": 50000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Jhonny Walker Gold Label",
+            "price": 60000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Jhonny Walker Blue Label",
+            "price": 250000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Buchanan 12 años",
+            "price": 40000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Buchanan Máster",
+            "price": 70000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Buchanan 18 años",
+            "price": 70000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Chivas Regal 12 años",
+            "price": 18000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Chivas Regal 18 años",
+            "price": 70000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Jack Daniel",
+            "price": 25000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "HC Selección Maestros",
+            "price": 25000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "HC Pacto Navío",
+            "price": 30000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Santiago 8 años",
+            "price": 12000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Santiago 11 años",
+            "price": 25000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Santiago 12 años",
+            "price": 35000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "HC 15 años",
+            "price": 60000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Absolut",
+            "price": 12000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ciroc Sabor",
+            "price": 30000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ciroc Neutro",
+            "price": 25000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Grey Goose",
+            "price": 60000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Moet Imperial",
+            "price": 60000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Moet Ice",
+            "price": 70000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Moet Rose",
+            "price": 80000.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Juegos de mesa",
+            "price": 2000.0,
+            "type": "others"
+        },
+        {
+            "name": "Hooka",
+            "price": 10000.0,
+            "type": "others"
+        }
+    ],
+    "location": {
+        "street": "Calle Habana #416 entre Obispo y Obrapía",
+        "council": null,
+        "municipe": "La Habana Vieja",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

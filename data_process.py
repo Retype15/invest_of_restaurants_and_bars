@@ -6,9 +6,9 @@ from collections import Counter
 lista_municipios = ["Habana del Este", "Centro Habana", "Regla", "Plaza de la Revolucion", "La Habana Vieja", "Cerro", "Diez de Octubre", "Guanabacoa", "San Miguel del Padron", "Playa", "Arroyo Naranjo", "Boyeros", "Marianao", "Cotorro", "La Lisa"]
 
 #Cargar todos los archivos de la carpeta dnd estan los jsons
-def load_datas(directory):
+def load_datas(dir):
     datas = []
-    for root, _, files in os.walk(directory):
+    for root, _, files in os.walk(dir):
         for filename in files:
             if filename.endswith(".json"):
                 filepath = os.path.join(root, filename)
@@ -38,21 +38,68 @@ def flatten_data(data_list):
         flat_item['promo'] = item.get('promo', False) or False
         flat_item['rating'] = item.get('rating', 4.0) or 4.0
         flat_item['reviews'] = item.get('reviews', 0) or 0
-        flat_item['level'] = item.get('level')
+        flat_item['level'] = item.get('level', 'medium') or 'medium'
         flat_item['fb'] = item.get('fb')
         flat_item['ig'] = item.get('ig')
         flat_item['tw'] = item.get('twitter')
 
         types_of_menus = ['breakfast', 'appetizer', 'starters', 'mains', 'pizza', 'pasta', 'seafood', 'sandwich', 'sides', 'salads', 'soups', 'desserts', 'cocktails', 'wines', 'alcoholic_drinks', 'non_alcoholic_drinks', 'infusions', 'water', 'others']
         
-        for tipo in types_of_menus:
-            flat_item[f"menu_{tipo}"] = 0
-        menu_items = item.get('menu', [])
-        menu_types = [data.get('type') for data in menu_items if data and data.get('type')]
-        type_counts = Counter(menu_types)
-        for tipo, cantidad in type_counts.items():
-            flat_item[f"menu_{tipo}"] = cantidad
-        
+        ls_menu = {}
+        for menu in types_of_menus:
+            ls_menu[f'menu_{menu}'] = []
+
+        menu_types = item.get('menu',[])
+
+        for menu in menu_types:
+            try:
+                if menu['price']:
+                    ls_menu[f'menu_{menu['type']}'].append(float(menu['price']))
+            except Exception as e:
+                print('AAAAAAAAAAAAAAA --- ',menu, flat_item['name'], ' - ', item['location']['municipe'])
+
+        #print(ls_menu)
+
+        total_mean = []
+        total_min = []
+        total_max = []
+        total_count = []
+        total_sum = []
+        total_median = []
+        total_mode = []
+
+        for k,v in ls_menu.items():
+            #print(k,v)
+            val_mean = sum(v)/len(v) if len(v) > 0 else None
+            flat_item[f'{k}_mean'] = val_mean
+            if val_mean: total_mean.append(val_mean)
+            val_min = min(v) if len(v) > 0 else None
+            flat_item[f'{k}_min'] = val_min
+            if val_min: total_min.append(val_min) 
+            val_max = max(v) if len(v) > 0 else None
+            flat_item[f'{k}_max'] = val_max
+            if val_max: total_max.append(val_max)
+            val_count = len(v)
+            flat_item[f'{k}_count'] = val_count
+            if val_count: total_count.append(val_count)
+            val_sum = sum(v)
+            flat_item[f'{k}_sum'] = val_sum
+            if val_sum: total_sum.append(val_sum)
+            val_median = pd.Series(v).median() if len(v) > 0 else None
+            flat_item[f'{k}_median'] = val_median
+            if val_median: total_median.append(val_median)
+            val_mode = pd.Series(v).mode()[0] if len(v) > 0 else None
+            flat_item[f'{k}_mode'] = val_mode
+            if val_mode: total_mode.append(val_mode)
+
+        flat_item['menu_mean'] = sum(total_mean)/len(total_mean) if len(total_mean) > 0 else None
+        flat_item['menu_min'] = min(total_min) if len(total_min) > 0 else None
+        flat_item['menu_max'] = max(total_max) if len(total_max) > 0 else None
+        flat_item['menu_count'] = sum(total_count) if len(total_count) > 0 else None
+        flat_item['menu_sum'] = sum(total_sum) if len(total_sum) > 0 else None
+        flat_item['menu_median'] = pd.Series(total_median).median() if len(total_median) > 0 else None
+        flat_item['menu_mode'] = pd.Series(total_mode).mode()[0] if len(total_mode) > 0 else None 
+
         # aplanar las hours
         hours = item.get('hours', {})
         flat_item['hours_open'] = hours.get('open')
@@ -101,18 +148,5 @@ def flatten_data(data_list):
     print(contador)
     return flat_data
 
-def extract_menu(df):
-    menu_data = []
-    for index, row in df.iterrows():
-        if isinstance(row['menu'], list):
-            for item in row['menu']:
-                menu_data.append({
-                    "restaurant_id": index,  # ID del restaurante (o su índice)
-                    "restaurant_name": row["name"],  # Nombre del restaurante
-                    "dish_name": item.get("name", "Unknown"),  # Nombre del plato
-                    "dish_price": item.get("price", 0),  # Precio del plato
-                    "dish_type": item.get("type", "Unknown")  # Tipo de plato (ej. Starter, Main)
-                })
-    return pd.DataFrame(menu_data)
-
-    
+if __name__ == '__main__':
+    flatten_data(load_datas('db'))

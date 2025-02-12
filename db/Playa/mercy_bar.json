@@ -27,7 +27,7 @@
         "home",
         "takeaway"
     ],
-    "level": "economic",
+    "level": "high",
     "payment": [
         "cash",
         "transfer"
@@ -775,32 +775,32 @@
         {
             "name": "expresso",
             "price": 400,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "cortado",
             "price": 500,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "americano",
             "price": 400,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "capuchino",
             "price": 700,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "frapuchino",
             "price": 700,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "carajillo",
             "price": 700,
-            "type": "coffee"
+            "type": "infusions"
         }
     ],
     "location": {

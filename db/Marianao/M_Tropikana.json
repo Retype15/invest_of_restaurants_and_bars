@@ -1,0 +1,195 @@
+{
+    "name": "Tropikana",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "others",
+    "hours": {
+        "open": "11:00",
+        "close": "22:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": null,
+    "delivery": null,
+    "level": "high",
+    "payment": [
+        "cash",
+        "card",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": null,
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Super hamburguesa",
+            "price": 560,
+            "type": "breakfast"
+        },
+        {
+            "name": "Pan con jamon y queso",
+            "price": 280,
+            "type": "breakfast"
+        },
+        {
+            "name": "Tostones",
+            "price": 350,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostones rellenos",
+            "price": 450,
+            "type": "appetizer"
+        },
+        {
+            "name": "Crema de queso",
+            "price": 450,
+            "type": "appetizer"
+        },
+        {
+            "name": "Crema aurora",
+            "price": 450,
+            "type": "appetizer"
+        },
+        {
+            "name": "Crema de jamon",
+            "price": 450,
+            "type": "appetizer"
+        },
+        {
+            "name": "Consome",
+            "price": 450,
+            "type": "appetizer"
+        },
+        {
+            "name": "Eperlan",
+            "price": 500,
+            "type": "appetizer"
+        },
+        {
+            "name": "Croquetas",
+            "price": 500,
+            "type": "appetizer"
+        },
+        {
+            "name": "Picadera de la casa",
+            "price": 100,
+            "type": "appetizer"
+        },
+        {
+            "name": "Espaguettis a la carbonara",
+            "price": 750,
+            "type": "pasta"
+        },
+        {
+            "name": "Espaguettis queso gouda",
+            "price": 650,
+            "type": "pasta"
+        },
+        {
+            "name": "Pizza de queso gouda",
+            "price": 750,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza Hawaiana",
+            "price": 800,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza tropicana",
+            "price": 950,
+            "type": "pizza"
+        },
+        {
+            "name": "Bistec de cerdo",
+            "price": 1300,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de cerdo a la milanesa",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de pollo",
+            "price": 1000,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo frito",
+            "price": 1000,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo a la milanesa",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa vieja",
+            "price": 1550,
+            "type": "mains"
+        },
+        {
+            "name": "Canciller",
+            "price": 2500,
+            "type": "seafood"
+        },
+        {
+            "name": "Pescado entero",
+            "price": 2000,
+            "type": "seafood"
+        },
+        {
+            "name": "Rueda de atun",
+            "price": 1700,
+            "type": "seafood"
+        },
+        {
+            "name": "Camarones",
+            "price": 1700,
+            "type": "seafood"
+        },
+        {
+            "name": "Filete de pescado",
+            "price": 1500,
+            "type": "seafood"
+        },
+        {
+            "name": "Arroz frito",
+            "price": 700,
+            "type": "others"
+        },
+        {
+            "name": "Helado gusto 1L",
+            "price": 1000,
+            "type": "desserts"
+        }
+    ],
+    "location": {
+        "street": "Avenida 41, calle 72",
+        "council": null,
+        "municipe": "Marianao",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

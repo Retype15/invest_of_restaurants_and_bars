@@ -1,0 +1,232 @@
+{
+    "name": "Bar Tropicana",
+    "phone": "7279147",
+    "email": null,
+    "web": "Cabaret-Tropicana.com",
+    "est_type": "bar",
+    "bus_type": "state",
+    "cuisine": "others",
+    "hours": {
+        "open": "12:00",
+        "close": "22:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "card",
+        "others"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Sandwich de un agrego",
+            "price": 230.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Sandwich de dos agregos",
+            "price": 300.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Picadera de la casa",
+            "price": 650.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Entremes de embutido y queso",
+            "price": 400.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tacos mexicanos de pollo",
+            "price": 700.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tacos mexicanos de cerdo",
+            "price": 1400.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "sopa del dia",
+            "price": 125.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Croquetas",
+            "price": 250.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Crema aurora",
+            "price": 350.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Crema virginia",
+            "price": 480.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Crema de calabaza con queso",
+            "price": 400.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Eperlan de pescado",
+            "price": 600.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Fajitas de pollo",
+            "price": 500.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Pata napolitana",
+            "price": 500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pizza napolitana",
+            "price": 500.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza campesina",
+            "price": 1200.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza especial rodney (rellena con queso)",
+            "price": 800.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza especial rodney (rellena con embutido)",
+            "price": 900.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Pizza super especial rodney (rellena con queso y varios embutidos)",
+            "price": 1200.0,
+            "type": "pizza"
+        },
+        {
+            "name": "Lonjas de cerdo asada",
+            "price": 2000.0,
+            "type": "mains"
+        },
+        {
+            "name": "fricase de cerdo",
+            "price": 2300.0,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de cerdo grille",
+            "price": 1800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo asado",
+            "price": 850.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo frito",
+            "price": 900.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo deshuesado",
+            "price": 900.0,
+            "type": "mains"
+        },
+        {
+            "name": "Filete migñon",
+            "price": 3000.0,
+            "type": "mains"
+        },
+        {
+            "name": "Steack de res",
+            "price": 1400.0,
+            "type": "mains"
+        },
+        {
+            "name": "Filete de pescado a la plancha",
+            "price": 1500.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Filete de pescado gratinado con queso",
+            "price": 1750.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Filete de pescado canciller",
+            "price": 2000.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Langosta a la plancha",
+            "price": 1800.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Langosta enchilada",
+            "price": 1900.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Arroz Rodney",
+            "price": 780.0,
+            "type": "others"
+        },
+        {
+            "name": "Filete bacalao a la plancha",
+            "price": 250.0,
+            "type": "others"
+        },
+        {
+            "name": "Arroz blanco",
+            "price": 120.0,
+            "type": "others"
+        },
+        {
+            "name": "Ensalada de vegetales",
+            "price": 120.0,
+            "type": "others"
+        }
+    ],
+    "location": {
+        "street": "Avenida 41, 72A",
+        "council": null,
+        "municipe": "Marianao",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

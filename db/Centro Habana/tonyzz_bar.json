@@ -616,27 +616,27 @@
         {
             "name": "café expreso",
             "price": 290,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "café cortado",
             "price": 300,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "café con leche",
             "price": 490,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "cappuccino",
             "price": 490,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "café americano",
             "price": 350,
-            "type": "coffee"
+            "type": "infusions"
         }
     ],
     "location": {

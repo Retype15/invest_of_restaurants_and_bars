@@ -546,22 +546,22 @@
         {
             "name": "cafe",
             "price": 250,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "cafe cortado",
             "price": 300,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "capuccino",
             "price": 700,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "frappuccino",
             "price": 1000,
-            "type": "coffee"
+            "type": "infusions"
         }
     ],
     "location": {

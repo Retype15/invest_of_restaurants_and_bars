@@ -108,37 +108,37 @@
         {
             "name": "expresso",
             "price": 150,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "cortado",
             "price": 250,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "capuchino",
             "price": 400,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "café bombon",
             "price": 450,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "frapuchino",
             "price": 550,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "carajillo",
             "price": 350,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "leche fría",
             "price": 370,
-            "type": "coffee"
+            "type": "infusions"
         }
     ],
     "location": {

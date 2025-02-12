@@ -1,0 +1,90 @@
+{
+    "name": "Mini Bar (Hotel Royalton Paseo Del Prado)",
+    "phone": null,
+    "email": null,
+    "web": null,
+    "est_type": "bar",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "00:00",
+        "close": "23:59",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": null,
+    "delivery": [
+        "others"
+    ],
+    "level": "medium",
+    "payment": [
+        "card"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": null,
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Jugo de frutas / Fruit juice",
+            "price": 360.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco / Soda",
+            "price": 390.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua tónica / Tonic water",
+            "price": 450.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Agua natural / Natural water",
+            "price": 600.0,
+            "type": "water"
+        },
+        {
+            "name": "Agua gaseada / Sparkling water",
+            "price": 600.0,
+            "type": "water"
+        },
+        {
+            "name": "Cerveza nacional / National beer",
+            "price": 600.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza importada / Imported beer",
+            "price": 750.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Ron en miniatura (45ml) / Miniature rum (45ml)",
+            "price": 850.0,
+            "type": "alcoholic_drinks"
+        }
+    ],
+    "location": {
+        "street": "Prado y Malecón",
+        "council": null,
+        "municipe": "La Habana Vieja",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

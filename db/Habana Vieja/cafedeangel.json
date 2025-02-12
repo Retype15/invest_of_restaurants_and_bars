@@ -1,0 +1,252 @@
+{
+    "name": "Café Del Ángel",
+    "phone": "78015162",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "08:00",
+        "close": "22:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "outdoor"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Croquetas Serrano",
+            "price": 1480.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Rillete de Cerdo",
+            "price": 1500.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tacos de Cerdo",
+            "price": 2200.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Mixto de Brusquetas",
+            "price": 2200.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tacos de Camarones",
+            "price": 2380.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Empanadillas de Queso",
+            "price": 1400.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tabla Charcutería",
+            "price": 4000.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Solomillo de Cerdo",
+            "price": 4200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pescado a la Siciliana",
+            "price": 3580.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Ropa Vieja",
+            "price": 3580.0,
+            "type": "mains"
+        },
+        {
+            "name": "Costillas de Cerdo",
+            "price": 4950.0,
+            "type": "mains"
+        },
+        {
+            "name": "Hamburguesa de Res",
+            "price": 3200.0,
+            "type": "mains"
+        },
+        {
+            "name": "Langosta Caribeña",
+            "price": 5400.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Pollo Mediterráneo",
+            "price": 2340.0,
+            "type": "mains"
+        },
+        {
+            "name": "Mousse de Chocolate",
+            "price": 1925.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Esfera de Maracuyá",
+            "price": 1925.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Arroz con Leche",
+            "price": 1500.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Dados de Guayaba",
+            "price": 1500.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Del Ängel",
+            "price": 2500.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Croissant Madame",
+            "price": 2500.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Omelette al Queso",
+            "price": 1630.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Americano",
+            "price": 2400.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Pancakes",
+            "price": 1700.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Continental",
+            "price": 1600.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Bagel Nórdico",
+            "price": 2450.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Yogurt Parfait",
+            "price": 1360.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Bagel Catalán",
+            "price": 2450.0,
+            "type": "breakfast"
+        },
+        {
+            "name": "Ensalada del Ángel",
+            "price": 2340.0,
+            "type": "salads"
+        },
+        {
+            "name": "Baguette de Jamón & Queso",
+            "price": 1600.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Bocata Catalana",
+            "price": 2400.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Sandwich de Atún",
+            "price": 1530.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Sandwich Vegetales",
+            "price": 1530.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Sandwich Cubano",
+            "price": 2600.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Huevos & Pesto",
+            "price": 2400.0,
+            "type": "sandwich"
+        },
+        {
+            "name": "Spaghetti Pomodoro",
+            "price": 1880.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Ragu de Cordero",
+            "price": 3450.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Ravioli Carbonara",
+            "price": 3200.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Spaghetti al Pesto",
+            "price": 2200.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Rigatoni Amatriciana",
+            "price": 3200.0,
+            "type": "pasta"
+        },
+        {
+            "name": "Spaghetti Altamar",
+            "price": 3450.0,
+            "type": "pasta"
+        }
+    ],
+    "location": {
+        "street": "Chacón #201 esquina Compostela",
+        "council": null,
+        "municipe": "La Habana Vieja",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

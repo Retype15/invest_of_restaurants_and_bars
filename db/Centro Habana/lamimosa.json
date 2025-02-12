@@ -814,33 +814,28 @@
             "type": "alcoholic_drinks"
         },
         {
-            "name": "havana special",
-            "price ": 531,
-            "type": "alcoholic_drinks"
-        },
-        {
             "name": "cuba libre",
-            "price ": 531,
+            "price": 531,
             "type": "alcoholic_drinks"
         },
         {
             "name": "clan campbell",
-            "price ": 418,
+            "price": 418,
             "type": "alcoholic_drinks"
         },
         {
             "name": "wisky single malt",
-            "price ": 1106,
+            "price": 1106,
             "type": "alcoholic_drinks"
         },
         {
             "name": "jameson",
-            "price ": 895,
+            "price": 895,
             "type": "alcoholic_drinks"
         },
         {
             "name": "jack daniels ballantines",
-            "price ": 740,
+            "price": 740,
             "type": "alcoholic_drinks"
         },
         {

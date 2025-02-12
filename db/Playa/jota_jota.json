@@ -794,37 +794,37 @@
         {
             "name": "cafe expresso",
             "price": 200,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "cafe americano",
             "price": 200,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "cafe cortado",
             "price": 300,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "cafe capuchino",
             "price": 500,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "cafe frappuccino",
             "price": 550,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "cafe con leche",
             "price": 350,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "cafe bombon",
             "price": 500,
-            "type": "coffee"
+            "type": "infusions"
         }
     ],
     "location": {

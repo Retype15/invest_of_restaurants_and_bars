@@ -45,604 +45,604 @@
     "menu": [
         {
             "name": "Tostones Rellenos con Jamon y Queso",
-            "price": "$950",
+            "price": 950.0,
             "type": "starters"
         },
         {
             "name": "Tostones Rellenos con Langosta",
-            "price": "$1300",
+            "price": 1300.0,
             "type": "starters"
         },
         {
             "name": "Tostones Rellenos con Camaron",
-            "price": "$1300",
+            "price": 1300.0,
             "type": "starters"
         },
         {
             "name": "Frituras de Malanga",
-            "price": "$900",
+            "price": 900.0,
             "type": "starters"
         },
         {
             "name": "Pan con Bistec",
-            "price": "$900",
+            "price": 900.0,
             "type": "starters"
         },
         {
             "name": "Pan con Lechon",
-            "price": "$900",
+            "price": 900.0,
             "type": "starters"
         },
         {
             "name": "Entremes de Jamon, Queso",
-            "price": "$900",
+            "price": 900.0,
             "type": "starters"
         },
         {
             "name": "Croquetas Melosas",
-            "price": "$900",
+            "price": 900.0,
             "type": "starters"
         },
         {
             "name": "Ceviche de Pescado",
-            "price": "$1500",
+            "price": 1500.0,
             "type": "starters"
         },
         {
             "name": "Tabla de jamon Serrano",
-            "price": "$2700",
+            "price": 2700.0,
             "type": "starters"
         },
         {
             "name": "Picadera Lechoncito",
-            "price": "$3000",
+            "price": 3000.0,
             "type": "starters"
         },
         {
             "name": "Coctel de Camaron",
-            "price": "$2000",
+            "price": 2000.0,
             "type": "starters"
         },
         {
             "name": "Hamburguesa de Res",
-            "price": "$1200",
+            "price": 1200.0,
             "type": "starters"
         },
         {
             "name": "Lonjas de Cerdo Asado al Carbon",
-            "price": "$1900",
+            "price": 1900.0,
             "type": "mains"
         },
         {
             "name": "Costillas de Cerdo Criolla",
-            "price": "$3000",
+            "price": 3000.0,
             "type": "mains"
         },
         {
             "name": "Costillas de Cerdo BBQ",
-            "price": "$3500",
+            "price": 3500.0,
             "type": "mains"
         },
         {
             "name": "Bistec de Cerdo a la Criolla",
-            "price": "$1700",
+            "price": 1700.0,
             "type": "mains"
         },
         {
             "name": "Bistec de Cerdo Princesa",
-            "price": "$2100",
+            "price": 2100.0,
             "type": "mains"
         },
         {
             "name": "Lomo Ahumado",
-            "price": "$1700",
+            "price": 1700.0,
             "type": "mains"
         },
         {
             "name": "Filete de Pescado a la Maire Hotel",
-            "price": "$1800",
+            "price": 1800.0,
             "type": "mains"
         },
         {
             "name": "Pescado Napado con Queso",
-            "price": "$1900",
+            "price": 1900.0,
             "type": "mains"
         },
         {
             "name": "Pescado Entero",
-            "price": "$2500",
+            "price": 2500.0,
             "type": "mains"
         },
         {
             "name": "Camaron Grille",
-            "price": "$2000",
+            "price": 2000.0,
             "type": "mains"
         },
         {
             "name": "Camaron Enchilado",
-            "price": "$2200",
+            "price": 2200.0,
             "type": "mains"
         },
         {
             "name": "Langosta Enchilada o Grille",
-            "price": "$2500",
+            "price": 2500.0,
             "type": "mains"
         },
         {
             "name": "Napoles",
-            "price": "$1250",
+            "price": 1250.0,
             "type": "pasta"
         },
         {
             "name": "Con Jamon",
-            "price": "$1450",
+            "price": 1450.0,
             "type": "pasta"
         },
         {
             "name": "Con Atun",
-            "price": "$1750",
+            "price": 1750.0,
             "type": "pasta"
         },
         {
             "name": "Con Camaron",
-            "price": "$1800",
+            "price": 1800.0,
             "type": "pasta"
         },
         {
             "name": "Con Langosta",
-            "price": "$1900",
+            "price": 1900.0,
             "type": "pasta"
         },
         {
             "name": "Tacos de Jamon y Queso",
-            "price": "$1200",
+            "price": 1200.0,
             "type": "others"
         },
         {
             "name": "Taco de Cerdo Asado",
-            "price": "$1900",
+            "price": 1900.0,
             "type": "others"
         },
         {
             "name": "Taco de Fajita de Cerdo",
-            "price": "$1700",
+            "price": 1700.0,
             "type": "others"
         },
         {
             "name": "Tacos de Fajita de Pollo",
-            "price": "$1500",
+            "price": 1500.0,
             "type": "others"
         },
         {
             "name": "Taco de Camaron",
-            "price": "$1900",
+            "price": 1900.0,
             "type": "others"
         },
         {
             "name": "Taco de Langosta",
-            "price": "$2000",
+            "price": 2000.0,
             "type": "others"
         },
         {
             "name": "Platanito Maduro Frito",
-            "price": "$800",
+            "price": 800.0,
             "type": "sides"
         },
         {
             "name": "Tostones Naturales",
-            "price": "$800",
+            "price": 800.0,
             "type": "sides"
         },
         {
             "name": "Mariquitas de Platano",
-            "price": "$800",
+            "price": 800.0,
             "type": "sides"
         },
         {
             "name": "Papas Fritas",
-            "price": "$900",
+            "price": 900.0,
             "type": "sides"
         },
         {
             "name": "Ensalada de Vegetales",
-            "price": "$500",
+            "price": 500.0,
             "type": "sides"
         },
         {
             "name": "Arroz Blanco",
-            "price": "$200",
+            "price": 200.0,
             "type": "sides"
         },
         {
             "name": "Arroz Moro",
-            "price": "$300",
+            "price": 300.0,
             "type": "sides"
         },
         {
             "name": "Napoles",
-            "price": "$1250",
+            "price": 1250.0,
             "type": "pizza"
         },
         {
             "name": "con Jamon",
-            "price": "$1500",
+            "price": 1500.0,
             "type": "pizza"
         },
         {
             "name": "con Atun",
-            "price": "$1750",
+            "price": 1750.0,
             "type": "pizza"
         },
         {
             "name": "con Cebolla",
-            "price": "$1400",
+            "price": 1400.0,
             "type": "pizza"
         },
         {
             "name": "con Chorizo",
-            "price": "$1650",
+            "price": 1650.0,
             "type": "pizza"
         },
         {
             "name": "Hawaiana",
-            "price": "$1600",
+            "price": 1600.0,
             "type": "pizza"
         },
         {
             "name": "Lechoncito",
-            "price": "$1900",
+            "price": 1900.0,
             "type": "pizza"
         },
         {
             "name": "Aceituna",
-            "price": "$1500",
+            "price": 1500.0,
             "type": "pizza"
         },
         {
             "name": "Diavola",
-            "price": "$1650",
+            "price": 1650.0,
             "type": "pizza"
         },
         {
             "name": "Camaron",
-            "price": "$1950",
+            "price": 1950.0,
             "type": "pizza"
         },
         {
             "name": "Langosta",
-            "price": "$1950",
+            "price": 1950.0,
             "type": "pizza"
         },
         {
             "name": "Pollo Grille",
-            "price": "$1500",
+            "price": 1500.0,
             "type": "mains"
         },
         {
             "name": "Ropa Vieja de Res",
-            "price": "$2500",
+            "price": 2500.0,
             "type": "mains"
         },
         {
             "name": "Vaca Frita",
-            "price": "$2500",
+            "price": 2500.0,
             "type": "mains"
         },
         {
             "name": "Parrillada Lechoncito",
-            "price": "$3000",
+            "price": 3000.0,
             "type": "others"
         },
         {
             "name": "Mariscada Lechoncito",
-            "price": "$3950",
+            "price": 3950.0,
             "type": "seafood"
         },
         {
             "name": "Fajitas de Cerdo Salteada",
-            "price": "$1700",
+            "price": 1700.0,
             "type": "others"
         },
         {
             "name": "Filete de Res",
-            "price": "$3900",
+            "price": 3900.0,
             "type": "mains"
         },
         {
             "name": "Batidos de Helado",
-            "price": "$950",
+            "price": 950.0,
             "type": "desserts"
         },
         {
             "name": "Copa Lolita",
-            "price": "$800",
+            "price": 800.0,
             "type": "desserts"
         },
         {
             "name": "Copa de Helado",
-            "price": "$600",
+            "price": 600.0,
             "type": "desserts"
         },
         {
             "name": "Malteada",
-            "price": "$950",
+            "price": 950.0,
             "type": "desserts"
         },
         {
             "name": "Flan",
-            "price": "$700",
+            "price": 700.0,
             "type": "desserts"
         },
         {
             "name": "Mojito",
-            "price": "$800",
+            "price": 800.0,
             "type": "cocktails"
         },
         {
             "name": "Mojito de Fruta",
-            "price": "$1000",
+            "price": 1000.0,
             "type": "cocktails"
         },
         {
             "name": "Ginc Tonic",
-            "price": "$1500",
+            "price": 1500.0,
             "type": "cocktails"
         },
         {
             "name": "Cuba Libre",
-            "price": "$900",
+            "price": 900.0,
             "type": "cocktails"
         },
         {
             "name": "Cubata",
-            "price": "$1000",
+            "price": 1000.0,
             "type": "cocktails"
         },
         {
             "name": "Daiquiri",
-            "price": "$850",
+            "price": 850.0,
             "type": "cocktails"
         },
         {
             "name": "Daiquiri de frutas",
-            "price": "$1000",
+            "price": 1000.0,
             "type": "cocktails"
         },
         {
             "name": "Daiquiri Rebelde",
-            "price": "$950",
+            "price": 950.0,
             "type": "cocktails"
         },
         {
             "name": "Piña Colada/...con Ron",
-            "price": "$850/950",
+            "price": null,
             "type": "cocktails"
         },
         {
             "name": "Sangria/...Tinto Verano",
-            "price": "$950",
+            "price": 950.0,
             "type": "wines"
         },
         {
             "name": "Caipiroshka",
-            "price": "$1000",
+            "price": 1000.0,
             "type": "cocktails"
         },
         {
             "name": "Caipiroshka de frutas",
-            "price": "$1200",
+            "price": 1200.0,
             "type": "cocktails"
         },
         {
             "name": "Canchanchara",
-            "price": "$800",
+            "price": 800.0,
             "type": "cocktails"
         },
         {
             "name": "Canchanchara 7 años",
-            "price": "$1000",
+            "price": 1000.0,
             "type": "cocktails"
         },
         {
             "name": "Margarita",
-            "price": "$950",
+            "price": 950.0,
             "type": "cocktails"
         },
         {
             "name": "Tekila 3 Sombreros",
-            "price": "$950",
+            "price": 950.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Baileys",
-            "price": "$950",
+            "price": 950.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Margarita Blue",
-            "price": "$1000",
+            "price": 1000.0,
             "type": "cocktails"
         },
         {
             "name": "Coctel Martini",
-            "price": "$950",
+            "price": 950.0,
             "type": "cocktails"
         },
         {
             "name": "Aperol Fizz",
-            "price": "$1000",
+            "price": 1000.0,
             "type": "cocktails"
         },
         {
             "name": "Pantera Rosa",
-            "price": "$950",
+            "price": 950.0,
             "type": "cocktails"
         },
         {
             "name": "Agrego de Michelada",
-            "price": "$600",
+            "price": 600.0,
             "type": "others"
         },
         {
             "name": "Agrego de Chelada",
-            "price": "$500",
+            "price": 500.0,
             "type": "others"
         },
         {
             "name": "Havana Club Añejo Especial",
-            "price": "$480",
+            "price": 480.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Havana Club 3 años",
-            "price": "$370",
+            "price": 370.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Añejo Reserva",
-            "price": "$500",
+            "price": 500.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Havana Club 7 años",
-            "price": "$500",
+            "price": 500.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Johnnie Walker Red",
-            "price": "$800",
+            "price": 800.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Label 5",
-            "price": "$600",
+            "price": 600.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Tequila Blanco",
-            "price": "$800",
+            "price": 800.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Tequila Reposado",
-            "price": "$900",
+            "price": 900.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Copa de Vino Tinto",
-            "price": "$700",
+            "price": 700.0,
             "type": "wines"
         },
         {
             "name": "Copa de Vino Blanco",
-            "price": "$700",
+            "price": 700.0,
             "type": "wines"
         },
         {
             "name": "Old Partner",
-            "price": "$500",
+            "price": 500.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Ballantine",
-            "price": "$800",
+            "price": 800.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Agua de 500 Mlts",
-            "price": "$200",
+            "price": 200.0,
             "type": "water"
         },
         {
             "name": "Agua de 1500 Mlts",
-            "price": "$350",
+            "price": 350.0,
             "type": "water"
         },
         {
             "name": "Jugo de cajita",
-            "price": "$300",
+            "price": 300.0,
             "type": "non_alcoholic_drinks"
         },
         {
             "name": "Limonada Frappe",
-            "price": "$700",
+            "price": 700.0,
             "type": "non_alcoholic_drinks"
         },
         {
             "name": "Malta Importada",
-            "price": "$400",
+            "price": 400.0,
             "type": "non_alcoholic_drinks"
         },
         {
             "name": "Energizantes",
-            "price": "$400",
+            "price": 400.0,
             "type": "non_alcoholic_drinks"
         },
         {
             "name": "Guarapo",
-            "price": "$250",
+            "price": 250.0,
             "type": "non_alcoholic_drinks"
         },
         {
             "name": "Refresco Pepsi Cola",
-            "price": "$400",
+            "price": 400.0,
             "type": "non_alcoholic_drinks"
         },
         {
             "name": "Cerveza Colonia",
-            "price": "$400",
+            "price": 400.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Cerveza Corona",
-            "price": "$550",
+            "price": 550.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Cerveza Cristal de Lata",
-            "price": "$500",
+            "price": 500.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Cerveza Cristal de Botella",
-            "price": "$500",
+            "price": 500.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Cerveza Puerto Santo",
-            "price": "$400",
+            "price": 400.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Cerveza dispensada(Jarra 500 ml)",
-            "price": "$450",
+            "price": 450.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Vermouth Martini & Rossi",
-            "price": "$500",
+            "price": 500.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Vermouth Cinzano",
-            "price": "$500",
+            "price": 500.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Jagermeifter",
-            "price": "$500",
+            "price": 500.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Licor Aperol/Apricot/Amerato",
-            "price": "$700",
+            "price": 700.0,
             "type": "alcoholic_drinks"
         }
     ],
     "location": {
         "street": "5VC8+58G",
         "council": null,
-        "municipe": "La Habana del Este",
+        "municipe": "Habana del Este",
         "province": "La Habana",
         "zip": null,
         "country": "Cuba",

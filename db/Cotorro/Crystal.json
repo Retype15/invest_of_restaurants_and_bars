@@ -45,467 +45,467 @@
     "menu": [
         {
             "name": "Eperlan de pescado o bastón de pollo",
-            "price": "1600.00",
+            "price": 1600.0,
             "type": "appetizer"
         },
         {
             "name": "Croquetas de la casa",
-            "price": "500.00",
+            "price": 500.0,
             "type": "appetizer"
         },
         {
             "name": "Croquetas especiales de jamón importado",
-            "price": "1000.00",
+            "price": 1000.0,
             "type": "appetizer"
         },
         {
             "name": "Frituras de malanga",
-            "price": "700.00",
+            "price": 700.0,
             "type": "appetizer"
         },
         {
             "name": "Entremes surtido",
-            "price": "2000.00",
+            "price": 2000.0,
             "type": "appetizer"
         },
         {
             "name": "Tacos a elección",
-            "price": "2000.00",
+            "price": 2000.0,
             "type": "appetizer"
         },
         {
             "name": "Tostones rellenos",
-            "price": "1200.00",
+            "price": 1200.0,
             "type": "appetizer"
         },
         {
             "name": "Coctel de camarón",
-            "price": "1800.00",
+            "price": 1800.0,
             "type": "appetizer"
         },
         {
             "name": "Coctel de langosta",
-            "price": "1800.00",
+            "price": 1800.0,
             "type": "appetizer"
         },
         {
             "name": "Pica pica Café Crystal",
-            "price": "4400.00",
+            "price": 4400.0,
             "type": "appetizer"
         },
         {
             "name": "Camarones empanados",
-            "price": "2000.00",
+            "price": 2000.0,
             "type": "appetizer"
         },
         {
             "name": "Anillas de calamar empanadas",
-            "price": "2000.00",
+            "price": 2000.0,
             "type": "appetizer"
         },
         {
             "name": "Picadera estrella mar y tierra",
-            "price": "8000.00",
+            "price": 8000.0,
             "type": "appetizer"
         },
         {
             "name": "Pizza queso gouda",
-            "price": "1500.00",
+            "price": 1500.0,
             "type": "pizza"
         },
         {
             "name": "Pasta napolitana",
-            "price": "1000.00",
+            "price": 1000.0,
             "type": "pasta"
         },
         {
             "name": "Pizza Café Crystal",
-            "price": "4000.00",
+            "price": 4000.0,
             "type": "pizza"
         },
         {
             "name": "Agrego de jamón",
-            "price": "200.00",
+            "price": 200.0,
             "type": "others"
         },
         {
             "name": "Agrego de queso gouda",
-            "price": "650.00",
+            "price": 650.0,
             "type": "others"
         },
         {
             "name": "Agrego de bacon",
-            "price": "500.00",
+            "price": 500.0,
             "type": "others"
         },
         {
             "name": "Agrego de cebolla",
-            "price": "100.00",
+            "price": 100.0,
             "type": "others"
         },
         {
             "name": "Agrego de champiñón",
-            "price": "250.00",
+            "price": 250.0,
             "type": "others"
         },
         {
             "name": "Agrego carbonara",
-            "price": "1000.00",
+            "price": 1000.0,
             "type": "others"
         },
         {
             "name": "Agrego de Atún",
-            "price": "500.00",
+            "price": 500.0,
             "type": "others"
         },
         {
             "name": "Agrego camarones",
-            "price": "1500.00",
+            "price": 1500.0,
             "type": "others"
         },
         {
             "name": "Agrego Fruti di Mare",
-            "price": "1500.00",
+            "price": 1500.0,
             "type": "others"
         },
         {
             "name": "Agrego de Chorizo vela",
-            "price": "650.00",
+            "price": 650.0,
             "type": "others"
         },
         {
             "name": "Agrego de pepperonni",
-            "price": "500.00",
+            "price": 500.0,
             "type": "others"
         },
         {
             "name": "Agrego de piña",
-            "price": "200.00",
+            "price": 200.0,
             "type": "others"
         },
         {
             "name": "Agrego de parmesano",
-            "price": "250.00",
+            "price": 250.0,
             "type": "others"
         },
         {
             "name": "Agrego pure de tomate",
-            "price": "150.00",
+            "price": 150.0,
             "type": "others"
         },
         {
             "name": "Agrego de alfredo",
-            "price": "900.00",
+            "price": 900.0,
             "type": "others"
         },
         {
             "name": "Agrego de pesto",
-            "price": "200.00",
+            "price": 200.0,
             "type": "others"
         },
         {
             "name": "Agrego aceituna",
-            "price": "500.00",
+            "price": 500.0,
             "type": "others"
         },
         {
             "name": "Ensalada estación",
-            "price": "700.00",
+            "price": 700.0,
             "type": "salads"
         },
         {
             "name": "Ensalada de atún",
-            "price": "1250.00",
+            "price": 1250.0,
             "type": "salads"
         },
         {
             "name": "Ensalada Café Crystal",
-            "price": "1500.00",
+            "price": 1500.0,
             "type": "salads"
         },
         {
             "name": "Termo ensalada fría",
-            "price": "2000.00",
+            "price": 2000.0,
             "type": "salads"
         },
         {
             "name": "Fajitas con reducido de vino tinto y champiñones",
-            "price": "2500.00",
+            "price": 2500.0,
             "type": "mains"
         },
         {
             "name": "Ropa vieja de res",
-            "price": "2200.00",
+            "price": 2200.0,
             "type": "mains"
         },
         {
             "name": "Vaca frita",
-            "price": "2200.00",
+            "price": 2200.0,
             "type": "mains"
         },
         {
             "name": "Bistec encebollado",
-            "price": "2200.00",
+            "price": 2200.0,
             "type": "mains"
         },
         {
             "name": "Uruguayo de res",
-            "price": "3000.00",
+            "price": 3000.0,
             "type": "mains"
         },
         {
             "name": "Bistec cerdo grille",
-            "price": "1800.00",
+            "price": 1800.0,
             "type": "mains"
         },
         {
             "name": "Masa de cerdo frita 1 libra",
-            "price": "3300.00",
+            "price": 3300.0,
             "type": "mains"
         },
         {
             "name": "Uruguayo de cerdo",
-            "price": "2800.00",
+            "price": 2800.0,
             "type": "mains"
         },
         {
             "name": "Costilla de cerdo",
-            "price": "3000.00",
+            "price": 3000.0,
             "type": "mains"
         },
         {
             "name": "Lomo ahumado",
-            "price": "2500.00",
+            "price": 2500.0,
             "type": "mains"
         },
         {
             "name": "Pollo Gordon Blue",
-            "price": "2800.00",
+            "price": 2800.0,
             "type": "mains"
         },
         {
             "name": "Pechuga de pollo milanesa",
-            "price": "1800.00",
+            "price": 1800.0,
             "type": "mains"
         },
         {
             "name": "Chop Suey",
-            "price": "2500.00",
+            "price": 2500.0,
             "type": "mains"
         },
         {
             "name": "Filete de pescado",
-            "price": "2000.00",
+            "price": 2000.0,
             "type": "seafood"
         },
         {
             "name": "Pescado Canciller",
-            "price": "3000.00",
+            "price": 3000.0,
             "type": "seafood"
         },
         {
             "name": "Camarón grillé",
-            "price": "2800.00",
+            "price": 2800.0,
             "type": "seafood"
         },
         {
             "name": "Camarón al ajillo",
-            "price": "2800.00",
+            "price": 2800.0,
             "type": "seafood"
         },
         {
             "name": "Camarón enchilado",
-            "price": "3000.00",
+            "price": 3000.0,
             "type": "seafood"
         },
         {
             "name": "Cola de langosta",
-            "price": "2800.00",
+            "price": 2800.0,
             "type": "seafood"
         },
         {
             "name": "Langosta enchilada",
-            "price": "3000.00",
+            "price": 3000.0,
             "type": "seafood"
         },
         {
             "name": "Enchilado de Calamar",
-            "price": "3000.00",
+            "price": 3000.0,
             "type": "seafood"
         },
         {
             "name": "Enchilado de Anillas de Calamar",
-            "price": "3000.00",
+            "price": 3000.0,
             "type": "seafood"
         },
         {
             "name": null,
-            "price": "250.00",
+            "price": 250.0,
             "type": "sides"
         },
         {
             "name": "Arroz moro",
-            "price": "500.00",
+            "price": 500.0,
             "type": "sides"
         },
         {
             "name": "Arroz pilaf",
-            "price": "650.00",
+            "price": 650.0,
             "type": "sides"
         },
         {
             "name": "Arroz frito especial",
-            "price": "3000.00",
+            "price": 3000.0,
             "type": "sides"
         },
         {
             "name": "Arroz imperial",
-            "price": "3000.00",
+            "price": 3000.0,
             "type": "sides"
         },
         {
             "name": "Viandas fritas",
-            "price": "600.00",
+            "price": 600.0,
             "type": "sides"
         },
         {
             "name": "Tostones tradicionales",
-            "price": "700.00",
+            "price": 700.0,
             "type": "sides"
         },
         {
             "name": "Papas fritas",
-            "price": "700.00",
+            "price": 700.0,
             "type": "sides"
         },
         {
             "name": "Puré de papas",
-            "price": "700.00",
+            "price": 700.0,
             "type": "sides"
         },
         {
             "name": "Flan",
-            "price": "600.00",
+            "price": 600.0,
             "type": "desserts"
         },
         {
             "name": "Copa helado",
-            "price": "900.00",
+            "price": 900.0,
             "type": "desserts"
         },
         {
             "name": "Copa Lolita",
-            "price": "900.00",
+            "price": 900.0,
             "type": "desserts"
         },
         {
             "name": "Cheese cake",
-            "price": "980.00",
+            "price": 980.0,
             "type": "desserts"
         },
         {
             "name": "Cerveza importada",
-            "price": "400.00",
+            "price": 400.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Cerveza Cristal",
-            "price": "400.00",
+            "price": 400.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Cerveza Bucanero",
-            "price": "400.00",
+            "price": 400.0,
             "type": "alcoholic_drinks"
         },
         {
             "name": "Refresco de lata",
-            "price": "300.00",
+            "price": 300.0,
             "type": "non_alcoholic_drinks"
         },
         {
             "name": "Jugo de caja",
-            "price": "300.00",
+            "price": 300.0,
             "type": "non_alcoholic_drinks"
         },
         {
             "name": "Refresco línea Coca Cola",
-            "price": "400.00",
+            "price": 400.0,
             "type": "non_alcoholic_drinks"
         },
         {
             "name": "Malta importada",
-            "price": "400.00",
+            "price": 400.0,
             "type": "non_alcoholic_drinks"
         },
         {
             "name": "Malteada",
-            "price": "700.00",
+            "price": 700.0,
             "type": "non_alcoholic_drinks"
         },
         {
             "name": "Batido de helado",
-            "price": "900.00",
+            "price": 900.0,
             "type": "non_alcoholic_drinks"
         },
         {
             "name": "Agua natural 500ml",
-            "price": "300.00",
+            "price": 300.0,
             "type": "water"
         },
         {
             "name": "Energizante",
-            "price": "500.00",
+            "price": 500.0,
             "type": "non_alcoholic_drinks"
         },
         {
             "name": "Café expreso",
-            "price": "250.00",
+            "price": 250.0,
             "type": "infusions"
         },
         {
             "name": "Café cortado",
-            "price": "300.00",
+            "price": 300.0,
             "type": "infusions"
         },
         {
             "name": "Café capuccino",
-            "price": "550.00",
+            "price": 550.0,
             "type": "infusions"
         },
         {
             "name": "Café frapuccino",
-            "price": "750.00",
+            "price": 750.0,
             "type": "infusions"
         },
         {
             "name": "Coctelería clásica (Mojito, Ron Collins, Cubalibre, Caipiriña, Caipiroska, Caipirísima)",
-            "price": "700.00",
+            "price": 700.0,
             "type": "cocktails"
         },
         {
             "name": "Base de Chelada",
-            "price": "250.00",
+            "price": 250.0,
             "type": "cocktails"
         },
         {
             "name": "Base de Michelada",
-            "price": "300.00",
+            "price": 300.0,
             "type": "cocktails"
         },
         {
             "name": "Coctelería internacional (Tequila sunrise, Martini, Piña colada, Sangría Café Crystal, Margarita, Gin-tonic)",
-            "price": "1000.00",
+            "price": 1000.0,
             "type": "cocktails"
         },
         {
             "name": "Copa de Vino",
-            "price": "700.00",
+            "price": 700.0,
             "type": "wines"
         },
         {
             "name": "Botella de Vino",
-            "price": "3500.00",
+            "price": 3500.0,
             "type": "wines"
         }
     ],

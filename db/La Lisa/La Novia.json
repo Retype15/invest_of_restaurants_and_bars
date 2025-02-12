@@ -1,0 +1,389 @@
+{
+    "name": "La Novia",
+    "phone": "55861545",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": null,
+        "close": null,
+        "days": []
+    },
+    "cap": 25,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "others"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash"
+    ],
+    "promo": false,
+    "rating": 4.4,
+    "reviews": 75,
+    "amenities": [],
+    "fb": "https://www.facebook.com/Restaurante La Novia",
+    "ig": "https://www.instagram.com/@restaurante_lanovia",
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Croquetas de la casa",
+            "price": 600,
+            "type": "starters"
+        },
+        {
+            "name": "Frituras de malanga",
+            "price": 400,
+            "type": "starters"
+        },
+        {
+            "name": "Bolitas de yuca y queso",
+            "price": 350,
+            "type": "starters"
+        },
+        {
+            "name": "Fajitas de cerdo",
+            "price": 1000,
+            "type": "starters"
+        },
+        {
+            "name": "Fajitas de pollo",
+            "price": 1000,
+            "type": "starters"
+        },
+        {
+            "name": "Picadera Mixta",
+            "price": 2200,
+            "type": "starters"
+        },
+        {
+            "name": "Chips de vianda",
+            "price": 200,
+            "type": "starters"
+        },
+        {
+            "name": "Milanesa de pollo",
+            "price": 1200,
+            "type": "starters"
+        },
+        {
+            "name": "Tacos de cerdo",
+            "price": 1100,
+            "type": "starters"
+        },
+        {
+            "name": "Tacos de pollo",
+            "price": 1100,
+            "type": "starters"
+        },
+        {
+            "name": "Tacos de jamon y queso",
+            "price": 1100,
+            "type": "starters"
+        },
+        {
+            "name": "Tacos marineros",
+            "price": 1100,
+            "type": "starters"
+        },
+        {
+            "name": "Tacos de Ropa Vieja",
+            "price": 1300,
+            "type": "starters"
+        },
+        {
+            "name": "Tostones criollos",
+            "price": 300,
+            "type": "starters"
+        },
+        {
+            "name": "Tostones rellenos",
+            "price": 850,
+            "type": "starters"
+        },
+        {
+            "name": "Sandwich de jamon",
+            "price": 580,
+            "type": "starters"
+        },
+        {
+            "name": "Sandwich de jamon y queso",
+            "price": 730,
+            "type": "starters"
+        },
+        {
+            "name": "Sandwich cubano con cerdo asado",
+            "price": 1300,
+            "type": "starters"
+        },
+        {
+            "name": "Ensaladita de aceitunas, queso y pepperoni",
+            "price": 1100,
+            "type": "starters"
+        },
+        {
+            "name": "Pizza Napolitana",
+            "price": 280,
+            "type": "mains"
+        },
+        {
+            "name": "Pizza de pepperoni",
+            "price": 400,
+            "type": "mains"
+        },
+        {
+            "name": "Espaghettis napolitanos",
+            "price": 700,
+            "type": "mains"
+        },
+        {
+            "name": "Masas de cerdo fritas",
+            "price": 1700,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo frito",
+            "price": 1300,
+            "type": "mains"
+        },
+        {
+            "name": "Pollo asado",
+            "price": 1300,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de cerdo",
+            "price": 1200,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de pechuga",
+            "price": 1600,
+            "type": "mains"
+        },
+        {
+            "name": "Chuleta de cerdo",
+            "price": 1600,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa Vieja",
+            "price": 1900,
+            "type": "mains"
+        },
+        {
+            "name": "Brochetas de cerdo",
+            "price": 1800,
+            "type": "mains"
+        },
+        {
+            "name": "Completa de enchilado de cangrejo",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "Cerdo asado",
+            "price": 1500,
+            "type": "mains"
+        },
+        {
+            "name": "Vegetales",
+            "price": 180,
+            "type": "others"
+        },
+        {
+            "name": "Jamon",
+            "price": 250,
+            "type": "others"
+        },
+        {
+            "name": "Queso",
+            "price": 300,
+            "type": "others"
+        },
+        {
+            "name": "Cebolla",
+            "price": 120,
+            "type": "others"
+        },
+        {
+            "name": "Cerdo asado",
+            "price": 400,
+            "type": "others"
+        },
+        {
+            "name": "Chorizo",
+            "price": 200,
+            "type": "others"
+        },
+        {
+            "name": "Pina glaseada",
+            "price": 150,
+            "type": "others"
+        },
+        {
+            "name": "Pimientos",
+            "price": 150,
+            "type": "others"
+        },
+        {
+            "name": "Huevos",
+            "price": 150,
+            "type": "others"
+        },
+        {
+            "name": "Pepperoni",
+            "price": 120,
+            "type": "others"
+        },
+        {
+            "name": "Masa de cangrejo",
+            "price": 300,
+            "type": "others"
+        },
+        {
+            "name": "Racion de arroz moro",
+            "price": 300,
+            "type": "sides"
+        },
+        {
+            "name": "Racion de ensalada",
+            "price": 300,
+            "type": "salads"
+        },
+        {
+            "name": "Michelada mexicana",
+            "price": 250,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Michelada",
+            "price": 230,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Chelada",
+            "price": 200,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Sangria",
+            "price": 550,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cuba Libre",
+            "price": 250,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipiroska",
+            "price": 300,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipirinha",
+            "price": 300,
+            "type": "cocktails"
+        },
+        {
+            "name": "Pina Colada",
+            "price": 550,
+            "type": "cocktails"
+        },
+        {
+            "name": "Jarra de cerveza dispensada",
+            "price": 300,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Agua natural",
+            "price": 150,
+            "type": "water"
+        },
+        {
+            "name": "Limonada frappe",
+            "price": 340,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Limonada natural",
+            "price": 340,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Jugos naturales",
+            "price": 160,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Batido de frutas",
+            "price": 350,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Batido de helado",
+            "price": 700,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Malta importada",
+            "price": 290,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Refresco importado",
+            "price": 260,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Energizante",
+            "price": 260,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza importada",
+            "price": 250,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cerveza nacional",
+            "price": 290,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Cafe Expresso",
+            "price": 100,
+            "type": "infusions"
+        },
+        {
+            "name": "Cafe Frappuccino",
+            "price": 450,
+            "type": "infusions"
+        },
+        {
+            "name": "Copa de helado",
+            "price": 550,
+            "type": "desserts"
+        },
+        {
+            "name": "Flan",
+            "price": 270,
+            "type": "desserts"
+        }
+    ],
+    "location": {
+        "street": "#33013, Calle 51 entre 330 y 332, La Novia del Mediodia",
+        "council": null,
+        "municipe": "La Lisa",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}

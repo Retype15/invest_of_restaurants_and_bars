@@ -144,7 +144,7 @@
     "location": {
         "street": null,
         "council": null,
-        "municipe": null,
+        "municipe": "Cotorro",
         "province": "La Habana",
         "zip": null,
         "country": "Cuba",

@@ -263,32 +263,32 @@
         {
             "name": "limonada frappe",
             "price": 400,
-            "type": "juices"
+            "type": "non_alcoholic_drinks"
         },
         {
             "name": "limonada natural",
             "price": 400,
-            "type": "juices"
+            "type": "non_alcoholic_drinks"
         },
         {
             "name": "fruit punch",
             "price": 400,
-            "type": "juices"
+            "type": "non_alcoholic_drinks"
         },
         {
             "name": "piña colada",
             "price": 450,
-            "type": "juices"
+            "type": "non_alcoholic_drinks"
         },
         {
             "name": "batido de frutas",
             "price": 500,
-            "type": "smoothie"
+            "type": "non_alcoholic_drinks"
         },
         {
             "name": "sueño de helado",
             "price": 560,
-            "type": "ice_cream_shake"
+            "type": "non_alcoholic_drinks"
         },
         {
             "name": "cerveza nacional",
@@ -508,42 +508,42 @@
         {
             "name": "café expresso",
             "price": 195,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "café americano",
             "price": 205,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "café cortado",
             "price": 240,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "café con leche",
             "price": 350,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "café capuccino",
             "price": 365,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "café bombón",
             "price": 385,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "café frapuccino",
             "price": 600,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "café frapuccino de chocolate",
             "price": 650,
-            "type": "coffee"
+            "type": "infusions"
         },
         {
             "name": "té variado",

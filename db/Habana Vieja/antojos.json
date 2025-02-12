@@ -1,0 +1,361 @@
+{
+    "name": "Antojos",
+    "phone": "52824907",
+    "email": null,
+    "web": null,
+    "est_type": "restaurant",
+    "bus_type": "private",
+    "cuisine": "cuban",
+    "hours": {
+        "open": "11:00",
+        "close": "24:00",
+        "days": [
+            "mon",
+            "tue",
+            "wed",
+            "thu",
+            "fri",
+            "sat",
+            "sun"
+        ]
+    },
+    "cap": null,
+    "reservations": [
+        "in-person"
+    ],
+    "delivery": [
+        "takeaway",
+        "on-site"
+    ],
+    "level": "medium",
+    "payment": [
+        "cash",
+        "transfer"
+    ],
+    "promo": false,
+    "rating": 4.5,
+    "reviews": 75,
+    "amenities": [
+        "outdoor"
+    ],
+    "fb": null,
+    "ig": null,
+    "twitter": null,
+    "menu": [
+        {
+            "name": "Fritura de Temporada / Frying in Season",
+            "price": 950.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Croquetas de la Casa / Home Croquettes",
+            "price": 1700.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Tostones Campesinos / Farmer Fried Plantain",
+            "price": 750.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Caldosa Guajira / Country Consomme",
+            "price": 1400.0,
+            "type": "soups"
+        },
+        {
+            "name": "Tacos",
+            "price": 2700.0,
+            "type": "appetizer"
+        },
+        {
+            "name": "Trozos de Pollo a la Mantequilla / Butter Chicken",
+            "price": 2950.0,
+            "type": "mains"
+        },
+        {
+            "name": "Ropa Vieja con Platanitos Maduros / Shredded Beef with Fried Sweet Banana",
+            "price": 3150.0,
+            "type": "mains"
+        },
+        {
+            "name": "Ensalada Campesina / Country Salad",
+            "price": 1800.0,
+            "type": "salads"
+        },
+        {
+            "name": "Costillas de Cerdo Barbacoa / BBQ Pork Ribs",
+            "price": 4300.0,
+            "type": "mains"
+        },
+        {
+            "name": "Arroz a la Chorrera (2 PAX) / A la Chorrera Melted Rice (2 PAX)",
+            "price": 3500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Picadillo a la Habanera / A la Habanera Ground Beef",
+            "price": 2930.0,
+            "type": "mains"
+        },
+        {
+            "name": "Masas de Cerdo Frita / Fried Pork Chops",
+            "price": 3800.0,
+            "type": "mains"
+        },
+        {
+            "name": "Camarones al Gusto / Shrimp at Your Choice",
+            "price": 3900.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Pollo Grillé / Grilled Chicken on the Coal",
+            "price": 2950.0,
+            "type": "mains"
+        },
+        {
+            "name": "Pesca al Carbón / Fish of the Day on the Coal",
+            "price": 3950.0,
+            "type": "seafood"
+        },
+        {
+            "name": "Pinchos Antojos / Antojos Brochette",
+            "price": 3700.0,
+            "type": "mains"
+        },
+        {
+            "name": "Lomo al Carbón / Pork Loin on the Coal",
+            "price": 4500.0,
+            "type": "mains"
+        },
+        {
+            "name": "Bistec de Cerdo Encebollado / Pork Steak",
+            "price": 3550.0,
+            "type": "mains"
+        },
+        {
+            "name": "Vianda Frita / Fried Crop of the Day",
+            "price": 800.0,
+            "type": "sides"
+        },
+        {
+            "name": "Potaje / Bean Soup",
+            "price": 950.0,
+            "type": "soups"
+        },
+        {
+            "name": "Arroz Blanco / White Rice",
+            "price": 800.0,
+            "type": "sides"
+        },
+        {
+            "name": "Pan Artesanal / Homemade Bread",
+            "price": 1050.0,
+            "type": "sides"
+        },
+        {
+            "name": "Vegetales al Carbón / Vegetables on the Coal",
+            "price": 1250.0,
+            "type": "sides"
+        },
+        {
+            "name": "Crema de Malanga / Taro Cream",
+            "price": 1400.0,
+            "type": "soups"
+        },
+        {
+            "name": "Postres de la Casa / Desserts",
+            "price": 950.0,
+            "type": "desserts"
+        },
+        {
+            "name": "Aguas Naturales",
+            "price": 650.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Mojito Antojos",
+            "price": 1280.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Aguas Tónicas",
+            "price": 750.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Ron Collins",
+            "price": 1180.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Refrescos",
+            "price": 650.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Piña Colada",
+            "price": 1630.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Red Bull",
+            "price": 850.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cuba Libre",
+            "price": 1230.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Jugos Naturales",
+            "price": 750.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Cubata",
+            "price": 1230.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cubanito",
+            "price": 1380.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Limonada",
+            "price": 900.0,
+            "type": "non_alcoholic_drinks"
+        },
+        {
+            "name": "Canchánchara",
+            "price": 1150.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Daiquirí",
+            "price": 1250.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Havana Special",
+            "price": 1180.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Gin Tonic",
+            "price": 1450.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Bloody Mary",
+            "price": 1500.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Negroni",
+            "price": 1550.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Martini",
+            "price": 1500.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Caipiroska",
+            "price": 1250.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Screwdriver",
+            "price": 1200.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Margarita",
+            "price": 1380.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Mary Pickford",
+            "price": 1150.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Chelada",
+            "price": 900.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Michelada",
+            "price": 1100.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Michelada de la Casa",
+            "price": 1200.0,
+            "type": "cocktails"
+        },
+        {
+            "name": "Cerveza",
+            "price": 800.0,
+            "type": "alcoholic_drinks"
+        },
+        {
+            "name": "Vino Blanco (Copa)",
+            "price": 1400.0,
+            "type": "wines"
+        },
+        {
+            "name": "Vino Tinto (Copa)",
+            "price": 1450.0,
+            "type": "wines"
+        },
+        {
+            "name": "Café Americano",
+            "price": 400.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Expresso",
+            "price": 400.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Cortado",
+            "price": 430.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Café con Leche",
+            "price": 500.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Capuchino",
+            "price": 500.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Café Bombón",
+            "price": 550.0,
+            "type": "infusions"
+        },
+        {
+            "name": "Frapuchino",
+            "price": 900.0,
+            "type": "infusions"
+        }
+    ],
+    "location": {
+        "street": "Callejón Espada entre Cuarteles y Chacon",
+        "council": null,
+        "municipe": "La Habana Vieja",
+        "province": "La Habana",
+        "zip": null,
+        "country": "Cuba",
+        "coords_x": null,
+        "coords_y": null
+    }
+}
