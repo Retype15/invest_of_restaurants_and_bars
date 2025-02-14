@@ -3,6 +3,7 @@ __pycache__/
 utiles.py
 commit
 .last_commit_index
+.env/
 run_commit.bat
 Test.ipynb
 test.ipynb
