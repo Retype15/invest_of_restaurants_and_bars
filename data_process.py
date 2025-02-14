@@ -14,7 +14,9 @@ def load_datas(dir):
                 filepath = os.path.join(root, filename)
                 try:
                     with open(filepath, 'r', encoding='utf-8') as f:
-                        datas.append(json.load(f))
+                        loaded = json.load(f)
+                        loaded['_location'] = filepath
+                        datas.append(loaded)
                 except Exception as e:
                         print(f"Error en: {filepath}, {e}")
     return datas
@@ -50,13 +52,19 @@ def flatten_data(data_list):
             ls_menu[f'menu_{menu}'] = []
 
         menu_types = item.get('menu',[])
+        flat_item['menu_types'] = []
 
         for menu in menu_types:
             try:
                 if menu['price']:
                     ls_menu[f'menu_{menu['type']}'].append(float(menu['price']))
+                menu_type = menu['type']
+                if menu_type and not menu_type in flat_item['menu_types']:
+                    flat_item['menu_types'].append(menu_type)
+                    
+
             except Exception as e:
-                print('AAAAAAAAAAAAAAA --- ',menu, flat_item['name'], ' - ', item['location']['municipe'])
+                print('AAAAAAAAAAAAAAA --- ',menu, flat_item['name'], 'in: ', item['_location'])
 
         #print(ls_menu)
 

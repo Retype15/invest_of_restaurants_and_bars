@@ -706,7 +706,7 @@
         },
         {
             "name": "cortadito",
-            "price": null,
+            "price": 300,
             "type": "infusions"
         },
         {
@@ -981,7 +981,7 @@
         },
         {
             "name": "cubata",
-            "price": null,
+            "price": 1000,
             "type": "cocktails"
         },
         {

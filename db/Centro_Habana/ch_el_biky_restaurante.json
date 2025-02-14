@@ -704,7 +704,7 @@
         },
         {
             "name": "Té",
-            "price": 150.0,
+            "price": 10.0,
             "type": "infusions"
         }
     ],

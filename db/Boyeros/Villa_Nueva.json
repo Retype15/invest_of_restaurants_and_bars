@@ -127,7 +127,7 @@
         },
         {
             "name": "Tacos",
-            "price": null,
+            "price": 800,
             "type": "appetizer"
         },
         {

@@ -21,7 +21,7 @@
         "takeaway",
         "on-site"
     ],
-    "level": "normal",
+    "level": "medium",
     "payment": [
         "cash",
         "transfer"

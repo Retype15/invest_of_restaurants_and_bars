@@ -395,7 +395,7 @@
         },
         {
             "name": "red bull",
-            "price": null,
+            "price": 400,
             "type": "non_alcoholic_drinks"
         },
         {

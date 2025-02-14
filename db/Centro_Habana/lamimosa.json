@@ -730,12 +730,12 @@
         },
         {
             "name": "habana club unio",
-            "price": null,
+            "price": 1100,
             "type": "alcoholic_drinks"
         },
         {
             "name": "habana club tributo",
-            "price": null,
+            "price": 1220,
             "type": "alcoholic_drinks"
         },
         {

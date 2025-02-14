@@ -414,12 +414,12 @@
             "type": "cocktails"
         },
         {
-            "name": "Piña Colada/...con Ron",
-            "price": null,
+            "name": "Piña Colada con Ron",
+            "price": 800,
             "type": "cocktails"
         },
         {
-            "name": "Sangria/...Tinto Verano",
+            "name": "Sangria Tinto Verano",
             "price": 950.0,
             "type": "wines"
         },
